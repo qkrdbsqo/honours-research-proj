@@ -1,0 +1,2742 @@
+[
+  {
+    "slug": "25-s1-1",
+    "url": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-25-s1-1-notes/",
+    "sections": [
+      {
+        "section": "items",
+        "header": "Items",
+        "entries": [
+          {
+            "element_name": "Bloodletter's Curse",
+            "raw_text": "Cost : 2900 gold Item Recipe : Haunting Guise + Fiendish Codex + 750 gold Ability Power : 60 Health : 350 Ability Haste : 15 Vile Decay : Dealing magic damage with abilities or passives to champions reduces their Magic Resistance by 5% for 6 seconds, up to 30%.",
+            "changes": [],
+            "parsed": false
+          },
+          {
+            "element_name": "Heartsteel",
+            "raw_text": "Colossal Consumption Damage :  80 + 12% bonus health from items ⇒ 70 + 3% of maximum health Colossal Consumption Bonus Health : 12% ⇒ 10% of damage dealt by Colossal Consumption is gained as maximum health",
+            "changes": [
+              {
+                "stat": "Colossal Consumption Damage",
+                "before": "80 + 12% bonus health from items",
+                "after": "70 + 3% of maximum health",
+                "direction": "nerf",
+                "raw_line": "Colossal Consumption Damage :  80 + 12% bonus health from items ⇒ 70 + 3% of maximum health"
+              },
+              {
+                "stat": "Colossal Consumption Bonus Health",
+                "before": "12%",
+                "after": "10% of damage dealt by Colossal Consumption is gained as maximum health",
+                "direction": "nerf",
+                "raw_line": "Colossal Consumption Bonus Health : 12% ⇒ 10% of damage dealt by Colossal Consumption is gained as maximum health"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Unending Despair",
+            "raw_text": "Item Recipe : Chain Vest +  Kindlegem + Ruby Crystal ⇒ Aegis of the Legion + Giant's Belt Unique - Anguish : Every 5 seconds while in combat with champions, deal 30-50 (based on level) + 3% bonus health magic damage to nearby enemy champions and heal for 250% of the damage dealt. ⇒ Every 4 seconds while in combat with champions, deal 3% bonus health + 8-15 (based on level) magic damage to nearby enemy champions and heal for 250% of the damage dealt. Health : 400 ⇒ 350 Armor : 60 ⇒ 25 Magic Resist : 0 ⇒ 25",
+            "changes": [
+              {
+                "stat": "Item Recipe",
+                "before": "Chain Vest +  Kindlegem + Ruby Crystal",
+                "after": "Aegis of the Legion + Giant's Belt",
+                "direction": "neutral",
+                "raw_line": "Item Recipe : Chain Vest +  Kindlegem + Ruby Crystal ⇒ Aegis of the Legion + Giant's Belt"
+              },
+              {
+                "stat": "Unique - Anguish",
+                "before": "Every 5 seconds while in combat with champions, deal 30-50 (based on level) + 3%",
+                "after": "Every 4 seconds while in combat with champions, deal 3% bonus health + 8-15 (bas",
+                "direction": "nerf",
+                "raw_line": "Unique - Anguish : Every 5 seconds while in combat with champions, deal 30-50 (based on level) + 3% bonus health magic damage to nearby enemy champions and heal for 250% of the damage dealt. ⇒ Every 4"
+              },
+              {
+                "stat": "Health",
+                "before": "400",
+                "after": "350",
+                "direction": "nerf",
+                "raw_line": "Health : 400 ⇒ 350"
+              },
+              {
+                "stat": "Armor",
+                "before": "60",
+                "after": "25",
+                "direction": "nerf",
+                "raw_line": "Armor : 60 ⇒ 25"
+              },
+              {
+                "stat": "Magic Resist",
+                "before": "0",
+                "after": "25",
+                "direction": "buff",
+                "raw_line": "Magic Resist : 0 ⇒ 25"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Warmog's Armor",
+            "raw_text": "Item Recipe : Giant's Belt + Winged Moonplate + Crystalline Bracer ⇒  Giant's Belt + Giant's Belt + Crystalline Bracer Bonus Movement Speed : 4% ⇒ 0 Warmog's Heart Health Requirement : Grants Warmog's Heart if you have at least 1500 bonus health ⇒ 2000 bonus health Passive - Warmog's Heart : Regenerate 2.5% maximum health every 0.5 seconds and gain 4% bonus movement speed if damage has not been taken in the last 6 seconds ⇒ Regenerate 3% maximum health if damage has not been taken in the last 8 seconds.",
+            "changes": [
+              {
+                "stat": "Item Recipe",
+                "before": "Giant's Belt + Winged Moonplate + Crystalline Bracer",
+                "after": "Giant's Belt + Giant's Belt + Crystalline Bracer",
+                "direction": "neutral",
+                "raw_line": "Item Recipe : Giant's Belt + Winged Moonplate + Crystalline Bracer ⇒  Giant's Belt + Giant's Belt + Crystalline Bracer"
+              },
+              {
+                "stat": "Bonus Movement Speed",
+                "before": "4%",
+                "after": "0",
+                "direction": "nerf",
+                "raw_line": "Bonus Movement Speed : 4% ⇒ 0"
+              },
+              {
+                "stat": "Warmog's Heart Health Requirement",
+                "before": "Grants Warmog's Heart if you have at least 1500 bonus health",
+                "after": "2000 bonus health",
+                "direction": "buff",
+                "raw_line": "Warmog's Heart Health Requirement : Grants Warmog's Heart if you have at least 1500 bonus health ⇒ 2000 bonus health"
+              },
+              {
+                "stat": "Passive - Warmog's Heart",
+                "before": "Regenerate 2.5% maximum health every 0.5 seconds and gain 4% bonus movement spee",
+                "after": "Regenerate 3% maximum health if damage has not been taken in the last 8 seconds.",
+                "direction": "buff",
+                "raw_line": "Passive - Warmog's Heart : Regenerate 2.5% maximum health every 0.5 seconds and gain 4% bonus movement speed if damage has not been taken in the last 6 seconds ⇒ Regenerate 3% maximum health if damage"
+              }
+            ],
+            "parsed": true
+          }
+        ]
+      },
+      {
+        "section": "runes",
+        "header": "Runes",
+        "entries": [
+          {
+            "element_name": "runes",
+            "raw_text": "Ghost Poro Zombie Ward Eyeball Collection Nullifying Orb Deep Ward : Stealth Wards placed in the enemy jungle are considered Deep , and after level 11 Stealth Wards placed in the River are considered Deep as well. Deep Wards gain 1 extra health and +30-45 second duration (+30-120 seconds for Yellow Trinket Stealth Wards). Sixth Sense : Automatically ping untracked and unseen wards within 900 units. After level 11, Sixth Sense will also reveal the ward for 10 seconds. 300 second cooldown for Melee champions, 360 second cooldown for Ranged champions. Grisly Mementos : For each champion takedown, gain 4 trinket Ability Haste. In Modes where this doesn’t make sense (i.e. ARAM) gain 2 Summoner Ability Haste instead, up to a max of 50. In modes without wards, all players that select Deep Ward or Sixth Sense will automatically be swapped to Grisly Mementos instead. Axiom Acanist : Your ultimate ability’s damage, healing, and/or shielding is increased by 14% (reduced to 9% for AoE damaging abilities). Takedowns on enemy champions refund 7% of your ultimate ability’s current remaining cooldown.",
+            "changes": [],
+            "parsed": false
+          }
+        ]
+      }
+    ],
+    "patch": "15.01"
+  },
+  {
+    "slug": "25-s1-2",
+    "url": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-25-s1-2-notes/",
+    "sections": [
+      {
+        "section": "items",
+        "header": "Items",
+        "entries": [
+          {
+            "element_name": "Lord Dominik's Regards",
+            "raw_text": "Total Gold Cost : 3000 Gold ⇒ 3100 Gold Armor Penetration : 35% ⇒ 40%",
+            "changes": [
+              {
+                "stat": "Total Gold Cost",
+                "before": "3000 Gold",
+                "after": "3100 Gold",
+                "direction": "buff",
+                "raw_line": "Total Gold Cost : 3000 Gold ⇒ 3100 Gold"
+              },
+              {
+                "stat": "Armor Penetration",
+                "before": "35%",
+                "after": "40%",
+                "direction": "buff",
+                "raw_line": "Armor Penetration : 35% ⇒ 40%"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Mortal Reminder",
+            "raw_text": "Total Gold Cost : 3200 Gold ⇒ 3300 Gold Armor Penetration : 30% ⇒ 35%",
+            "changes": [
+              {
+                "stat": "Total Gold Cost",
+                "before": "3200 Gold",
+                "after": "3300 Gold",
+                "direction": "buff",
+                "raw_line": "Total Gold Cost : 3200 Gold ⇒ 3300 Gold"
+              },
+              {
+                "stat": "Armor Penetration",
+                "before": "30%",
+                "after": "35%",
+                "direction": "buff",
+                "raw_line": "Armor Penetration : 30% ⇒ 35%"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Yun Tal Wildarrows",
+            "raw_text": "Attack Damage : 50 ⇒ 55 Attack Speed : 25% ⇒ 35% Total Gold Cost : 2900 Gold ⇒ 3000 Gold",
+            "changes": [
+              {
+                "stat": "Attack Damage",
+                "before": "50",
+                "after": "55",
+                "direction": "buff",
+                "raw_line": "Attack Damage : 50 ⇒ 55"
+              },
+              {
+                "stat": "Attack Speed",
+                "before": "25%",
+                "after": "35%",
+                "direction": "buff",
+                "raw_line": "Attack Speed : 25% ⇒ 35%"
+              },
+              {
+                "stat": "Total Gold Cost",
+                "before": "2900 Gold",
+                "after": "3000 Gold",
+                "direction": "buff",
+                "raw_line": "Total Gold Cost : 2900 Gold ⇒ 3000 Gold"
+              }
+            ],
+            "parsed": true
+          }
+        ]
+      },
+      {
+        "section": "runes",
+        "header": "Runes",
+        "entries": [
+          {
+            "element_name": "Deep Ward",
+            "raw_text": "Yellow Trinket Duration : 30-120s (based on average champion level) ⇒ 45-150s (based on average champion level)",
+            "changes": [
+              {
+                "stat": "Yellow Trinket Duration",
+                "before": "30-120s (based on average champion level)",
+                "after": "45-150s (based on average champion level)",
+                "direction": "buff",
+                "raw_line": "Yellow Trinket Duration : 30-120s (based on average champion level) ⇒ 45-150s (based on average champion level)"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Grisly Mementos",
+            "raw_text": "Trinket Haste for each Memento : 4 (2 for Summoner Haste) ⇒ 6 (3 for Summoner Haste Max Mementos : 25 ⇒ 18",
+            "changes": [
+              {
+                "stat": "Trinket Haste for each Memento",
+                "before": "4 (2 for Summoner Haste)",
+                "after": "6 (3 for Summoner Haste",
+                "direction": "buff",
+                "raw_line": "Trinket Haste for each Memento : 4 (2 for Summoner Haste) ⇒ 6 (3 for Summoner Haste"
+              },
+              {
+                "stat": "Max Mementos",
+                "before": "25",
+                "after": "18",
+                "direction": "nerf",
+                "raw_line": "Max Mementos : 25 ⇒ 18"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Sixth Sense",
+            "raw_text": "Cooldown : 300s Melee / 360s Ranged ⇒ 275s Melee / 350s Ranged",
+            "changes": [
+              {
+                "stat": "Cooldown",
+                "before": "300s Melee / 360s Ranged",
+                "after": "275s Melee / 350s Ranged",
+                "direction": "nerf",
+                "raw_line": "Cooldown : 300s Melee / 360s Ranged ⇒ 275s Melee / 350s Ranged"
+              }
+            ],
+            "parsed": true
+          }
+        ]
+      }
+    ],
+    "patch": "15.02"
+  },
+  {
+    "slug": "2025-s1-3",
+    "url": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-2025-s1-3-notes/",
+    "sections": [
+      {
+        "section": "systems",
+        "header": "Systems",
+        "entries": [
+          {
+            "element_name": "Attack Speed Cap",
+            "raw_text": "Baseline Attack Speed Cap: 2.5 ⇒ 3.0",
+            "changes": [
+              {
+                "stat": "Baseline Attack Speed Cap",
+                "before": "2.5",
+                "after": "3.0",
+                "direction": "buff",
+                "raw_line": "Baseline Attack Speed Cap: 2.5 ⇒ 3.0"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Passive Bounty Suppression",
+            "raw_text": "Lead required to begin positive bounty suppression has been decreased by 60%. Lead required to fully remove bounties from the losing team decreased by 33%. Once Objective Bounties spawn, Champion Bounties are now fully suppressed for the losing team.",
+            "changes": [],
+            "parsed": false
+          },
+          {
+            "element_name": "Chemtech Soul",
+            "raw_text": "Below 50% Health Buff 11% increased damage and damage reduction ⇒ 13% increased damage and damage reduction",
+            "changes": [
+              {
+                "stat": "Change",
+                "before": "Below 50% Health Buff 11% increased damage and damage reduction",
+                "after": "13% increased damage and damage reduction",
+                "direction": "nerf",
+                "raw_line": "Below 50% Health Buff 11% increased damage and damage reduction ⇒ 13% increased damage and damage reduction"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Cloud Soul",
+            "raw_text": "Movement Speed Gain 20% ⇒ 15%",
+            "changes": [
+              {
+                "stat": "Change",
+                "before": "Movement Speed Gain 20%",
+                "after": "15%",
+                "direction": "nerf",
+                "raw_line": "Movement Speed Gain 20% ⇒ 15%"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Void Grubs",
+            "raw_text": "On initial spawn, health and attack damage update immediately instead of at 6:04. Buff Structure Damage per Stack 8/4 every 1s for 4s ⇒ 6/3 every 1s for 4s",
+            "changes": [
+              {
+                "stat": "Change",
+                "before": "Buff Structure Damage per Stack 8/4 every 1s for 4s",
+                "after": "6/3 every 1s for 4s",
+                "direction": "nerf",
+                "raw_line": "Buff Structure Damage per Stack 8/4 every 1s for 4s ⇒ 6/3 every 1s for 4s"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Atakhan",
+            "raw_text": "Extra gold earned whenever you get a takedown 40g ⇒ 25g Withdrawal now fully heals you as opposed to only fully healing your base health False Life Withdrawal Stasis Duration 5.5s ⇒ 15s",
+            "changes": [
+              {
+                "stat": "Change",
+                "before": "Extra gold earned whenever you get a takedown 40g",
+                "after": "25g",
+                "direction": "nerf",
+                "raw_line": "Extra gold earned whenever you get a takedown 40g ⇒ 25g"
+              },
+              {
+                "stat": "Change",
+                "before": "False Life Withdrawal Stasis Duration 5.5s",
+                "after": "15s",
+                "direction": "buff",
+                "raw_line": "False Life Withdrawal Stasis Duration 5.5s ⇒ 15s"
+              }
+            ],
+            "parsed": true
+          }
+        ]
+      },
+      {
+        "section": "items",
+        "header": "Items",
+        "entries": [
+          {
+            "element_name": "Bloodsong",
+            "raw_text": "Expose Weakness Increased Damage Taken : 10% Melee | 5% Ranged ⇒ 8% Melee | 5% Ranged Duration : 6s ⇒ 4s",
+            "changes": [
+              {
+                "stat": "Expose Weakness Increased Damage Taken",
+                "before": "10% Melee | 5% Ranged",
+                "after": "8% Melee | 5% Ranged",
+                "direction": "nerf",
+                "raw_line": "Expose Weakness Increased Damage Taken : 10% Melee | 5% Ranged ⇒ 8% Melee | 5% Ranged"
+              },
+              {
+                "stat": "Duration",
+                "before": "6s",
+                "after": "4s",
+                "direction": "nerf",
+                "raw_line": "Duration : 6s ⇒ 4s"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Zaz’Zak’s Realmspike",
+            "raw_text": "AP Ratio : 20% ⇒ 15%",
+            "changes": [
+              {
+                "stat": "AP Ratio",
+                "before": "20%",
+                "after": "15%",
+                "direction": "nerf",
+                "raw_line": "AP Ratio : 20% ⇒ 15%"
+              }
+            ],
+            "parsed": true
+          }
+        ]
+      },
+      {
+        "section": "runes",
+        "header": "Runes",
+        "entries": [
+          {
+            "element_name": "Electrocute",
+            "raw_text": "Damage : 50-190 (based on level) ⇒ 70-240 (based on level) (ratio unchanged)",
+            "changes": [
+              {
+                "stat": "Damage",
+                "before": "50-190 (based on level)",
+                "after": "70-240 (based on level) (ratio unchanged)",
+                "direction": "buff",
+                "raw_line": "Damage : 50-190 (based on level) ⇒ 70-240 (based on level) (ratio unchanged)"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Dark Harvest",
+            "raw_text": "Damage : 20 (+9 per soul) ⇒ 30 (+11 per soul) (ratio unchanged)",
+            "changes": [
+              {
+                "stat": "Damage",
+                "before": "20 (+9 per soul)",
+                "after": "30 (+11 per soul) (ratio unchanged)",
+                "direction": "buff",
+                "raw_line": "Damage : 20 (+9 per soul) ⇒ 30 (+11 per soul) (ratio unchanged)"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Hail of Blades",
+            "raw_text": "Melee Attack Speed : 110% ⇒ 140% Cooldown : 12 seconds ⇒ 10 seconds",
+            "changes": [
+              {
+                "stat": "Melee Attack Speed",
+                "before": "110%",
+                "after": "140%",
+                "direction": "buff",
+                "raw_line": "Melee Attack Speed : 110% ⇒ 140%"
+              },
+              {
+                "stat": "Cooldown",
+                "before": "12 seconds",
+                "after": "10 seconds",
+                "direction": "nerf",
+                "raw_line": "Cooldown : 12 seconds ⇒ 10 seconds"
+              }
+            ],
+            "parsed": true
+          }
+        ]
+      },
+      {
+        "section": "systems",
+        "header": "Systems",
+        "entries": [
+          {
+            "element_name": "Attack Speed Cap",
+            "raw_text": "Baseline Attack Speed Cap: 2.5 ⇒ 10.0",
+            "changes": [
+              {
+                "stat": "Baseline Attack Speed Cap",
+                "before": "2.5",
+                "after": "10.0",
+                "direction": "buff",
+                "raw_line": "Baseline Attack Speed Cap: 2.5 ⇒ 10.0"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Dark Seal",
+            "raw_text": "Re-enabled! Glory Per Kill : 2 ⇒ 1 Glory Lost on Death : 5 ⇒ 3",
+            "changes": [
+              {
+                "stat": "Glory Per Kill",
+                "before": "2",
+                "after": "1",
+                "direction": "nerf",
+                "raw_line": "Glory Per Kill : 2 ⇒ 1"
+              },
+              {
+                "stat": "Glory Lost on Death",
+                "before": "5",
+                "after": "3",
+                "direction": "nerf",
+                "raw_line": "Glory Lost on Death : 5 ⇒ 3"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Mejai’s Soulstealer",
+            "raw_text": "Re-enabled! Glory Per Kill : 4 ⇒ 2 Glory Per Assist : 2 ⇒ 1 Glory Lost on Death : 10 ⇒ 5",
+            "changes": [
+              {
+                "stat": "Glory Per Kill",
+                "before": "4",
+                "after": "2",
+                "direction": "nerf",
+                "raw_line": "Glory Per Kill : 4 ⇒ 2"
+              },
+              {
+                "stat": "Glory Per Assist",
+                "before": "2",
+                "after": "1",
+                "direction": "nerf",
+                "raw_line": "Glory Per Assist : 2 ⇒ 1"
+              },
+              {
+                "stat": "Glory Lost on Death",
+                "before": "10",
+                "after": "5",
+                "direction": "nerf",
+                "raw_line": "Glory Lost on Death : 10 ⇒ 5"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Cull",
+            "raw_text": "Re-enabled! Minion Kill Threshold : 100 ⇒ 50",
+            "changes": [
+              {
+                "stat": "Minion Kill Threshold",
+                "before": "100",
+                "after": "50",
+                "direction": "nerf",
+                "raw_line": "Minion Kill Threshold : 100 ⇒ 50"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Heartsteel",
+            "raw_text": "Cooldown : 40 ⇒ 30",
+            "changes": [
+              {
+                "stat": "Cooldown",
+                "before": "40",
+                "after": "30",
+                "direction": "nerf",
+                "raw_line": "Cooldown : 40 ⇒ 30"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Champion Nerfs",
+            "raw_text": "Garen : Damage Taken: 90% ⇒ 95% Kog’Maw : Damage Dealt: 95% ⇒ 90% Kennen : Damage Taken: 100% ⇒ 95% Renekton : Damage Taken: 100% ⇒ 95% Renekton : Damage Dealt: 100% ⇒ 95% Renekton : Slice & Dice: -200 Ability Haste Sivir : Damage Dealt: 90% ⇒ 85% Veigar : Damage Dealt: 100% ⇒ 90% Trundle : Damage Taken: 100% ⇒ 95% Tristana : Damage Dealt: 100% ⇒ 95% Teemo : Damage Dealt: 95% ⇒ 90% Mel : Damage Dealt: 100% ⇒ 90%",
+            "changes": [
+              {
+                "stat": "Garen",
+                "before": "Damage Taken: 90%",
+                "after": "95%",
+                "direction": "buff",
+                "raw_line": "Garen : Damage Taken: 90% ⇒ 95%"
+              },
+              {
+                "stat": "Kog’Maw",
+                "before": "Damage Dealt: 95%",
+                "after": "90%",
+                "direction": "nerf",
+                "raw_line": "Kog’Maw : Damage Dealt: 95% ⇒ 90%"
+              },
+              {
+                "stat": "Kennen",
+                "before": "Damage Taken: 100%",
+                "after": "95%",
+                "direction": "nerf",
+                "raw_line": "Kennen : Damage Taken: 100% ⇒ 95%"
+              },
+              {
+                "stat": "Renekton",
+                "before": "Damage Taken: 100%",
+                "after": "95%",
+                "direction": "nerf",
+                "raw_line": "Renekton : Damage Taken: 100% ⇒ 95%"
+              },
+              {
+                "stat": "Renekton",
+                "before": "Damage Dealt: 100%",
+                "after": "95%",
+                "direction": "nerf",
+                "raw_line": "Renekton : Damage Dealt: 100% ⇒ 95%"
+              },
+              {
+                "stat": "Sivir",
+                "before": "Damage Dealt: 90%",
+                "after": "85%",
+                "direction": "nerf",
+                "raw_line": "Sivir : Damage Dealt: 90% ⇒ 85%"
+              },
+              {
+                "stat": "Veigar",
+                "before": "Damage Dealt: 100%",
+                "after": "90%",
+                "direction": "nerf",
+                "raw_line": "Veigar : Damage Dealt: 100% ⇒ 90%"
+              },
+              {
+                "stat": "Trundle",
+                "before": "Damage Taken: 100%",
+                "after": "95%",
+                "direction": "nerf",
+                "raw_line": "Trundle : Damage Taken: 100% ⇒ 95%"
+              },
+              {
+                "stat": "Tristana",
+                "before": "Damage Dealt: 100%",
+                "after": "95%",
+                "direction": "nerf",
+                "raw_line": "Tristana : Damage Dealt: 100% ⇒ 95%"
+              },
+              {
+                "stat": "Teemo",
+                "before": "Damage Dealt: 95%",
+                "after": "90%",
+                "direction": "nerf",
+                "raw_line": "Teemo : Damage Dealt: 95% ⇒ 90%"
+              },
+              {
+                "stat": "Mel",
+                "before": "Damage Dealt: 100%",
+                "after": "90%",
+                "direction": "nerf",
+                "raw_line": "Mel : Damage Dealt: 100% ⇒ 90%"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Champion Buffs",
+            "raw_text": "Yuumi : Damage Dealt: 65% ⇒ 75% Yuumi : Damage Received: 120% ⇒ 90%",
+            "changes": [
+              {
+                "stat": "Yuumi",
+                "before": "Damage Dealt: 65%",
+                "after": "75%",
+                "direction": "buff",
+                "raw_line": "Yuumi : Damage Dealt: 65% ⇒ 75%"
+              },
+              {
+                "stat": "Yuumi",
+                "before": "Damage Received: 120%",
+                "after": "90%",
+                "direction": "nerf",
+                "raw_line": "Yuumi : Damage Received: 120% ⇒ 90%"
+              }
+            ],
+            "parsed": true
+          }
+        ]
+      }
+    ],
+    "patch": "15.03"
+  },
+  {
+    "slug": "25-04",
+    "url": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-25-04-notes/",
+    "sections": [
+      {
+        "section": "items",
+        "header": "Items",
+        "entries": [
+          {
+            "element_name": "Abyssal Mask",
+            "raw_text": "Magic Resistance : 50 ⇒ 45",
+            "changes": [
+              {
+                "stat": "Magic Resistance",
+                "before": "50",
+                "after": "45",
+                "direction": "nerf",
+                "raw_line": "Magic Resistance : 50 ⇒ 45"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Fimbulwinter",
+            "raw_text": "Everlasting Shield : 100-180 (based on level) (+4.5% current mana) ⇒ 100 (+4.5% current mana) (Note: this is roughly 30% less shielding in average cases)",
+            "changes": [
+              {
+                "stat": "Everlasting Shield",
+                "before": "100-180 (based on level) (+4.5% current mana)",
+                "after": "100 (+4.5% current mana) (Note: this is roughly 30% less shielding in average ca",
+                "direction": "neutral",
+                "raw_line": "Everlasting Shield : 100-180 (based on level) (+4.5% current mana) ⇒ 100 (+4.5% current mana) (Note: this is roughly 30% less shielding in average cases)"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Heartsteel",
+            "raw_text": "Colossal Consumption Max Health : 10% of damage ⇒ 8% of damage",
+            "changes": [
+              {
+                "stat": "Colossal Consumption Max Health",
+                "before": "10% of damage",
+                "after": "8% of damage",
+                "direction": "nerf",
+                "raw_line": "Colossal Consumption Max Health : 10% of damage ⇒ 8% of damage"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Infinity Edge",
+            "raw_text": "Price : 3600 ⇒ 3450 gold Attack Damage : 70 ⇒ 65",
+            "changes": [
+              {
+                "stat": "Price",
+                "before": "3600",
+                "after": "3450 gold",
+                "direction": "nerf",
+                "raw_line": "Price : 3600 ⇒ 3450 gold"
+              },
+              {
+                "stat": "Attack Damage",
+                "before": "70",
+                "after": "65",
+                "direction": "nerf",
+                "raw_line": "Attack Damage : 70 ⇒ 65"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Mercury Treads",
+            "raw_text": "Price : 1300 ⇒ 1250 gold",
+            "changes": [
+              {
+                "stat": "Price",
+                "before": "1300",
+                "after": "1250 gold",
+                "direction": "nerf",
+                "raw_line": "Price : 1300 ⇒ 1250 gold"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Plated Steelcaps",
+            "raw_text": "Damage Reduction from Auto Attacks : 12% ⇒ 10%",
+            "changes": [
+              {
+                "stat": "Damage Reduction from Auto Attacks",
+                "before": "12%",
+                "after": "10%",
+                "direction": "nerf",
+                "raw_line": "Damage Reduction from Auto Attacks : 12% ⇒ 10%"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Symbiotic Soles",
+            "raw_text": "Flat Movement Speed : 35 ⇒ 40 (Note: Evolved movement speed unchanged at 45)",
+            "changes": [
+              {
+                "stat": "Flat Movement Speed",
+                "before": "35",
+                "after": "40 (Note: Evolved movement speed unchanged at 45)",
+                "direction": "buff",
+                "raw_line": "Flat Movement Speed : 35 ⇒ 40 (Note: Evolved movement speed unchanged at 45)"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Unending Despair",
+            "raw_text": "Anguish : 8-15 (based on level) (+3% bonus health) ⇒ 3% of bonus health (Note: this is a 10-15% nerf to the item's damage)",
+            "changes": [
+              {
+                "stat": "Anguish",
+                "before": "8-15 (based on level) (+3% bonus health)",
+                "after": "3% of bonus health (Note: this is a 10-15% nerf to the item's damage)",
+                "direction": "nerf",
+                "raw_line": "Anguish : 8-15 (based on level) (+3% bonus health) ⇒ 3% of bonus health (Note: this is a 10-15% nerf to the item's damage)"
+              }
+            ],
+            "parsed": true
+          }
+        ]
+      },
+      {
+        "section": "systems",
+        "header": "Systems",
+        "entries": [
+          {
+            "element_name": "Atakhan",
+            "raw_text": "Early PvP generates double the points, decreasing down to the normal amount over 14 minutes The first few kills per game grant significantly more points, diminishing with each subsequent kill. Tower Dives in particular are extremely high tension moments, and therefore tower dive kills grant multiplicatively more points. Threshold Recalibration : Because these adjustments change point values significantly, we are adjusting the Voracious vs Ruinous threshold to try to better match these new expected values.",
+            "changes": [],
+            "parsed": false
+          }
+        ]
+      }
+    ],
+    "patch": "15.04"
+  },
+  {
+    "slug": "25-05",
+    "url": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-25-05-notes/",
+    "sections": [
+      {
+        "section": "items",
+        "header": "Items",
+        "entries": [
+          {
+            "element_name": "Staff of Flowing Water",
+            "raw_text": "Rapid AP buff duration : 4 seconds ⇒ 6 seconds",
+            "changes": [
+              {
+                "stat": "Rapid AP buff duration",
+                "before": "4 seconds",
+                "after": "6 seconds",
+                "direction": "buff",
+                "raw_line": "Rapid AP buff duration : 4 seconds ⇒ 6 seconds"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Yun Tal Wildarrows",
+            "raw_text": "Practice Makes Lethal Crit Chance per Stack : 0.2% per stack ⇒ 0.4% / 0.2% (Melee/Ranged)",
+            "changes": [
+              {
+                "stat": "Practice Makes Lethal Crit Chance per Stack",
+                "before": "0.2% per stack",
+                "after": "0.4% / 0.2% (Melee/Ranged)",
+                "direction": "buff",
+                "raw_line": "Practice Makes Lethal Crit Chance per Stack : 0.2% per stack ⇒ 0.4% / 0.2% (Melee/Ranged)"
+              }
+            ],
+            "parsed": true
+          }
+        ]
+      },
+      {
+        "section": "runes",
+        "header": "Runes",
+        "entries": [
+          {
+            "element_name": "Axiom Arcanist",
+            "raw_text": "Single Target Ultimate Empower : 14% ⇒ 12% AoE Ultimate Empower : 9% ⇒ 8%",
+            "changes": [
+              {
+                "stat": "Single Target Ultimate Empower",
+                "before": "14%",
+                "after": "12%",
+                "direction": "nerf",
+                "raw_line": "Single Target Ultimate Empower : 14% ⇒ 12%"
+              },
+              {
+                "stat": "AoE Ultimate Empower",
+                "before": "9%",
+                "after": "8%",
+                "direction": "nerf",
+                "raw_line": "AoE Ultimate Empower : 9% ⇒ 8%"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Unflinching Rune",
+            "raw_text": "Bonus Resists : 2-10 (based on level) ⇒ 6-12 (based on level)",
+            "changes": [
+              {
+                "stat": "Bonus Resists",
+                "before": "2-10 (based on level)",
+                "after": "6-12 (based on level)",
+                "direction": "buff",
+                "raw_line": "Bonus Resists : 2-10 (based on level) ⇒ 6-12 (based on level)"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Sixth Sense",
+            "raw_text": "Cooldown : 275s/350s (melee/ranged) ⇒ 250s",
+            "changes": [
+              {
+                "stat": "Cooldown",
+                "before": "275s/350s (melee/ranged)",
+                "after": "250s",
+                "direction": "nerf",
+                "raw_line": "Cooldown : 275s/350s (melee/ranged) ⇒ 250s"
+              }
+            ],
+            "parsed": true
+          }
+        ]
+      }
+    ],
+    "patch": "15.05"
+  },
+  {
+    "slug": "25-06",
+    "url": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-25-06-notes/",
+    "sections": [
+      {
+        "section": "items",
+        "header": "Items",
+        "entries": [
+          {
+            "element_name": "Serylda's Grudge",
+            "raw_text": "Armor Penetration : 30 ⇒ 35% Ability Haste : 20 ⇒ 15",
+            "changes": [
+              {
+                "stat": "Armor Penetration",
+                "before": "30",
+                "after": "35%",
+                "direction": "buff",
+                "raw_line": "Armor Penetration : 30 ⇒ 35%"
+              },
+              {
+                "stat": "Ability Haste",
+                "before": "20",
+                "after": "15",
+                "direction": "nerf",
+                "raw_line": "Ability Haste : 20 ⇒ 15"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Warmog's Armor",
+            "raw_text": "Gold Cost : 3300 ⇒ 3100 Warmog's Vitality : Gain bonus health equal to 10% of bonus health from items ⇒ Gain bonus health equal to 12% of bonus health from items",
+            "changes": [
+              {
+                "stat": "Gold Cost",
+                "before": "3300",
+                "after": "3100",
+                "direction": "nerf",
+                "raw_line": "Gold Cost : 3300 ⇒ 3100"
+              },
+              {
+                "stat": "Warmog's Vitality",
+                "before": "Gain bonus health equal to 10% of bonus health from items",
+                "after": "Gain bonus health equal to 12% of bonus health from items",
+                "direction": "buff",
+                "raw_line": "Warmog's Vitality : Gain bonus health equal to 10% of bonus health from items ⇒ Gain bonus health equal to 12% of bonus health from items"
+              }
+            ],
+            "parsed": true
+          }
+        ]
+      },
+      {
+        "section": "systems",
+        "header": "Systems",
+        "entries": [
+          {
+            "element_name": "Anti-Lane Swaps",
+            "raw_text": "Start Time : 1:30 ⇒ 1:35 End Time in Top Lane : 3:30 ⇒ 3:00 End Time in Mid Lane : 3:30 ⇒ 2:15 Minion Gold/XP Penalty : 50% ⇒ 25% Alert Improvements :If you're about to trigger lane swaps on your teammate, the warning message is now clearer that you're about to trigger lane swaps but haven't done so yet.",
+            "changes": [
+              {
+                "stat": "Start Time",
+                "before": "1:30",
+                "after": "1:35",
+                "direction": "neutral",
+                "raw_line": "Start Time : 1:30 ⇒ 1:35"
+              },
+              {
+                "stat": "End Time in Top Lane",
+                "before": "3:30",
+                "after": "3:00",
+                "direction": "neutral",
+                "raw_line": "End Time in Top Lane : 3:30 ⇒ 3:00"
+              },
+              {
+                "stat": "End Time in Mid Lane",
+                "before": "3:30",
+                "after": "2:15",
+                "direction": "nerf",
+                "raw_line": "End Time in Mid Lane : 3:30 ⇒ 2:15"
+              },
+              {
+                "stat": "Minion Gold/XP Penalty",
+                "before": "50%",
+                "after": "25%",
+                "direction": "nerf",
+                "raw_line": "Minion Gold/XP Penalty : 50% ⇒ 25%"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Bounties",
+            "raw_text": "Gold Lead Detection Time : 14 ⇒ 6 minutes (Note: Objective Bounty timing unchanged at 14 minutes.) Bounty Suppression by Lead Severity : 0 / 20 / 40 / 60 / 80 / 100% ⇒ 30 / 60 / 90 / 100%",
+            "changes": [
+              {
+                "stat": "Gold Lead Detection Time",
+                "before": "14",
+                "after": "6 minutes (Note: Objective Bounty timing unchanged at 14 minutes.)",
+                "direction": "nerf",
+                "raw_line": "Gold Lead Detection Time : 14 ⇒ 6 minutes (Note: Objective Bounty timing unchanged at 14 minutes.)"
+              },
+              {
+                "stat": "Bounty Suppression by Lead Severity",
+                "before": "0 / 20 / 40 / 60 / 80 / 100%",
+                "after": "30 / 60 / 90 / 100%",
+                "direction": "buff",
+                "raw_line": "Bounty Suppression by Lead Severity : 0 / 20 / 40 / 60 / 80 / 100% ⇒ 30 / 60 / 90 / 100%"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Atakhan",
+            "raw_text": "Increased Atakhan form thresholds by ~10%",
+            "changes": [],
+            "parsed": false
+          }
+        ]
+      }
+    ],
+    "patch": "15.06"
+  },
+  {
+    "slug": "25-07",
+    "url": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-25-07-notes/",
+    "sections": [
+      {
+        "section": "systems",
+        "header": "Systems",
+        "entries": [
+          {
+            "element_name": "Fountain Healing",
+            "raw_text": "Maximum HP per second : 10.4% ⇒ 8% Maximum MP per second : 12.4% ⇒ 10% Early game missing HP/MP per second : 6% ⇒ 16% Late game missing HP/MP per second : 12% ⇒ 16%",
+            "changes": [
+              {
+                "stat": "Maximum HP per second",
+                "before": "10.4%",
+                "after": "8%",
+                "direction": "nerf",
+                "raw_line": "Maximum HP per second : 10.4% ⇒ 8%"
+              },
+              {
+                "stat": "Maximum MP per second",
+                "before": "12.4%",
+                "after": "10%",
+                "direction": "nerf",
+                "raw_line": "Maximum MP per second : 12.4% ⇒ 10%"
+              },
+              {
+                "stat": "Early game missing HP/MP per second",
+                "before": "6%",
+                "after": "16%",
+                "direction": "buff",
+                "raw_line": "Early game missing HP/MP per second : 6% ⇒ 16%"
+              },
+              {
+                "stat": "Late game missing HP/MP per second",
+                "before": "12%",
+                "after": "16%",
+                "direction": "buff",
+                "raw_line": "Late game missing HP/MP per second : 12% ⇒ 16%"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Homeguard Speed",
+            "raw_text": "Early game move speed : 75% ⇒ 65% 14-40 minute move speed : 75-150% ⇒ 65-150%",
+            "changes": [
+              {
+                "stat": "Early game move speed",
+                "before": "75%",
+                "after": "65%",
+                "direction": "nerf",
+                "raw_line": "Early game move speed : 75% ⇒ 65%"
+              },
+              {
+                "stat": "14-40 minute move speed",
+                "before": "75-150%",
+                "after": "65-150%",
+                "direction": "nerf",
+                "raw_line": "14-40 minute move speed : 75-150% ⇒ 65-150%"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "LANE SWAP DETECTION",
+            "raw_text": "Lane Swap Detection in mid lane has been shrunk to no longer overlap with most of the Raptor Pit.",
+            "changes": [],
+            "parsed": false
+          }
+        ]
+      },
+      {
+        "section": "items",
+        "header": "Items",
+        "entries": [
+          {
+            "element_name": "Catalyst of Aeons",
+            "raw_text": "Build Path : Ruby Crystal + Sapphire Crystal + 600 gold ⇒ Ruby Crystal + Ruby Crystal + Sapphire Crystal + 200 gold Total Gold Cost : Unchanged Mana : 300 ⇒ 375 Eternity Mana Restored from Damage Taken : 7% ⇒ 10% (Rog of Ages will also receive the same change)",
+            "changes": [
+              {
+                "stat": "Build Path",
+                "before": "Ruby Crystal + Sapphire Crystal + 600 gold",
+                "after": "Ruby Crystal + Ruby Crystal + Sapphire Crystal + 200 gold",
+                "direction": "nerf",
+                "raw_line": "Build Path : Ruby Crystal + Sapphire Crystal + 600 gold ⇒ Ruby Crystal + Ruby Crystal + Sapphire Crystal + 200 gold"
+              },
+              {
+                "stat": "Mana",
+                "before": "300",
+                "after": "375",
+                "direction": "buff",
+                "raw_line": "Mana : 300 ⇒ 375"
+              },
+              {
+                "stat": "Eternity Mana Restored from Damage Taken",
+                "before": "7%",
+                "after": "10% (Rog of Ages will also receive the same change)",
+                "direction": "buff",
+                "raw_line": "Eternity Mana Restored from Damage Taken : 7% ⇒ 10% (Rog of Ages will also receive the same change)"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Rod of Ages",
+            "raw_text": "Eternity Mana Restored from Damage Taken : 7% ⇒ 10% (Rog of Ages will also receive the same change)",
+            "changes": [
+              {
+                "stat": "Eternity Mana Restored from Damage Taken",
+                "before": "7%",
+                "after": "10% (Rog of Ages will also receive the same change)",
+                "direction": "buff",
+                "raw_line": "Eternity Mana Restored from Damage Taken : 7% ⇒ 10% (Rog of Ages will also receive the same change)"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Umbral Glaive",
+            "raw_text": "Total Gold Cost : 2600 ⇒ 2500 Attack Damage : 50 ⇒ 55 Blackout Cooldown : 50 ⇒ 90",
+            "changes": [
+              {
+                "stat": "Total Gold Cost",
+                "before": "2600",
+                "after": "2500",
+                "direction": "nerf",
+                "raw_line": "Total Gold Cost : 2600 ⇒ 2500"
+              },
+              {
+                "stat": "Attack Damage",
+                "before": "50",
+                "after": "55",
+                "direction": "buff",
+                "raw_line": "Attack Damage : 50 ⇒ 55"
+              },
+              {
+                "stat": "Blackout Cooldown",
+                "before": "50",
+                "after": "90",
+                "direction": "buff",
+                "raw_line": "Blackout Cooldown : 50 ⇒ 90"
+              }
+            ],
+            "parsed": true
+          }
+        ]
+      }
+    ],
+    "patch": "15.07"
+  },
+  {
+    "slug": "25-08",
+    "url": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-25-08-notes/",
+    "sections": [
+      {
+        "section": "items",
+        "header": "Items",
+        "entries": [
+          {
+            "element_name": "Cryptbloom",
+            "raw_text": "Ability Haste : 15 ⇒ 20",
+            "changes": [
+              {
+                "stat": "Ability Haste",
+                "before": "15",
+                "after": "20",
+                "direction": "buff",
+                "raw_line": "Ability Haste : 15 ⇒ 20"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Dead Man's Plate",
+            "raw_text": "Slow Resist : 25% ⇒ 15%",
+            "changes": [
+              {
+                "stat": "Slow Resist",
+                "before": "25%",
+                "after": "15%",
+                "direction": "nerf",
+                "raw_line": "Slow Resist : 25% ⇒ 15%"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Opportunity",
+            "raw_text": "Lethality : 15 ⇒ 18 Preparation : After being out-of-combat with enemy champions for 8 seconds, gain 11 (melee) / 7 (ranged) lethality. ⇒ After being out-of-combat with enemy champions for 8 seconds, gain 11 (melee) / 5 (ranged) lethality.",
+            "changes": [
+              {
+                "stat": "Lethality",
+                "before": "15",
+                "after": "18",
+                "direction": "buff",
+                "raw_line": "Lethality : 15 ⇒ 18"
+              },
+              {
+                "stat": "Preparation",
+                "before": "After being out-of-combat with enemy champions for 8 seconds, gain 11 (melee) / ",
+                "after": "After being out-of-combat with enemy champions for 8 seconds, gain 11 (melee) / ",
+                "direction": "neutral",
+                "raw_line": "Preparation : After being out-of-combat with enemy champions for 8 seconds, gain 11 (melee) / 7 (ranged) lethality. ⇒ After being out-of-combat with enemy champions for 8 seconds, gain 11 (melee) / 5 "
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Overlord's Bloodmail",
+            "raw_text": "Tyranny : Bonus AD equal to 2% of bonus health ⇒ Bonus AD equal to 2.5% of bonus health Retribution : 0-10% (based on missing health) bonus AD ⇒ 0-12% (based on missing health) bonus AD",
+            "changes": [
+              {
+                "stat": "Tyranny",
+                "before": "Bonus AD equal to 2% of bonus health",
+                "after": "Bonus AD equal to 2.5% of bonus health",
+                "direction": "buff",
+                "raw_line": "Tyranny : Bonus AD equal to 2% of bonus health ⇒ Bonus AD equal to 2.5% of bonus health"
+              },
+              {
+                "stat": "Retribution",
+                "before": "0-10% (based on missing health) bonus AD",
+                "after": "0-12% (based on missing health) bonus AD",
+                "direction": "neutral",
+                "raw_line": "Retribution : 0-10% (based on missing health) bonus AD ⇒ 0-12% (based on missing health) bonus AD"
+              }
+            ],
+            "parsed": true
+          }
+        ]
+      }
+    ],
+    "patch": "15.08"
+  },
+  {
+    "slug": "25-09",
+    "url": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-25-09-notes/",
+    "sections": [
+      {
+        "section": "items",
+        "header": "Items",
+        "entries": [
+          {
+            "element_name": "Boots of Swiftness",
+            "raw_text": "Movement Speed : 60 ⇒ 55",
+            "changes": [
+              {
+                "stat": "Movement Speed",
+                "before": "60",
+                "after": "55",
+                "direction": "nerf",
+                "raw_line": "Movement Speed : 60 ⇒ 55"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Symbiotic Soles",
+            "raw_text": "NEW : Now grants 10 out of combat Movement Speed REMOVED : No longer grants Empowered Recall",
+            "changes": [],
+            "parsed": false
+          },
+          {
+            "element_name": "Rod of Ages",
+            "raw_text": "Initial Health : 400 ⇒ 350 Maximum Health : 500 ⇒ 450 Initial Ability Power : 50 ⇒ 45 Maximum Ability Power : 80 ⇒ 75",
+            "changes": [
+              {
+                "stat": "Initial Health",
+                "before": "400",
+                "after": "350",
+                "direction": "nerf",
+                "raw_line": "Initial Health : 400 ⇒ 350"
+              },
+              {
+                "stat": "Maximum Health",
+                "before": "500",
+                "after": "450",
+                "direction": "nerf",
+                "raw_line": "Maximum Health : 500 ⇒ 450"
+              },
+              {
+                "stat": "Initial Ability Power",
+                "before": "50",
+                "after": "45",
+                "direction": "nerf",
+                "raw_line": "Initial Ability Power : 50 ⇒ 45"
+              },
+              {
+                "stat": "Maximum Ability Power",
+                "before": "80",
+                "after": "75",
+                "direction": "nerf",
+                "raw_line": "Maximum Ability Power : 80 ⇒ 75"
+              }
+            ],
+            "parsed": true
+          }
+        ]
+      },
+      {
+        "section": "runes",
+        "header": "Runes",
+        "entries": [
+          {
+            "element_name": "Biscuit of Everlasting Will",
+            "raw_text": "Health Restoration : 12% of missing health over 5 seconds ⇒ 20 (+ 2% maximum health, increased by up to 100% based on user’s missing health) (Note: this maxes out at 70% missing health)",
+            "changes": [
+              {
+                "stat": "Health Restoration",
+                "before": "12% of missing health over 5 seconds",
+                "after": "20 (+ 2% maximum health, increased by up to 100% based on user’s missing health)",
+                "direction": "buff",
+                "raw_line": "Health Restoration : 12% of missing health over 5 seconds ⇒ 20 (+ 2% maximum health, increased by up to 100% based on user’s missing health) (Note: this maxes out at 70% missing health)"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Unflinching",
+            "raw_text": "Bonus Armor and MR : 6-12 (based on level) ⇒ 10 at all levels",
+            "changes": [
+              {
+                "stat": "Bonus Armor and MR",
+                "before": "6-12 (based on level)",
+                "after": "10 at all levels",
+                "direction": "buff",
+                "raw_line": "Bonus Armor and MR : 6-12 (based on level) ⇒ 10 at all levels"
+              }
+            ],
+            "parsed": true
+          }
+        ]
+      }
+    ],
+    "patch": "15.09"
+  },
+  {
+    "slug": "25-10",
+    "url": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-25-10-notes/",
+    "sections": [
+      {
+        "section": "items",
+        "header": "Items",
+        "entries": [
+          {
+            "element_name": "Bloodletter's Curse",
+            "raw_text": "Ability Power : 60 ⇒ 65 Health : 350 ⇒ 400 Magic Resist Shred per Stack : 5% ⇒ 7.5% Max Shred : 30% (unchanged)",
+            "changes": [
+              {
+                "stat": "Ability Power",
+                "before": "60",
+                "after": "65",
+                "direction": "buff",
+                "raw_line": "Ability Power : 60 ⇒ 65"
+              },
+              {
+                "stat": "Health",
+                "before": "350",
+                "after": "400",
+                "direction": "buff",
+                "raw_line": "Health : 350 ⇒ 400"
+              },
+              {
+                "stat": "Magic Resist Shred per Stack",
+                "before": "5%",
+                "after": "7.5%",
+                "direction": "buff",
+                "raw_line": "Magic Resist Shred per Stack : 5% ⇒ 7.5%"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Cryptbloom",
+            "raw_text": "Ability Power : 60 ⇒ 75 Life from Death Heal : 100 (+ 25% AP) ⇒ 100 (+ 20% AP) Recipe : Blighting Jewel + Fiendish Codex + 900 Gold ⇒ Blighting Jewel + Fiendish Codex + Fiendish Codex + 200 Gold Total Gold Cost : 2850 ⇒ 3000",
+            "changes": [
+              {
+                "stat": "Ability Power",
+                "before": "60",
+                "after": "75",
+                "direction": "buff",
+                "raw_line": "Ability Power : 60 ⇒ 75"
+              },
+              {
+                "stat": "Life from Death Heal",
+                "before": "100 (+ 25% AP)",
+                "after": "100 (+ 20% AP)",
+                "direction": "neutral",
+                "raw_line": "Life from Death Heal : 100 (+ 25% AP) ⇒ 100 (+ 20% AP)"
+              },
+              {
+                "stat": "Recipe",
+                "before": "Blighting Jewel + Fiendish Codex + 900 Gold",
+                "after": "Blighting Jewel + Fiendish Codex + Fiendish Codex + 200 Gold",
+                "direction": "nerf",
+                "raw_line": "Recipe : Blighting Jewel + Fiendish Codex + 900 Gold ⇒ Blighting Jewel + Fiendish Codex + Fiendish Codex + 200 Gold"
+              },
+              {
+                "stat": "Total Gold Cost",
+                "before": "2850",
+                "after": "3000",
+                "direction": "buff",
+                "raw_line": "Total Gold Cost : 2850 ⇒ 3000"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Hextech Rocketbelt",
+            "raw_text": "Ability Power : 60 ⇒ 70 Health : 350 ⇒ 300 Ability Haste : 15 ⇒ 20 Recipe : Alternator + Kindlegem + 700 Gold ⇒ Alternator + Fiendish Codex + Ruby Crystal + 300 Gold Total Gold Cost : 2600 ⇒ 2650 Updated cast indicator to more accurately represent bolt angles and ranges. Item may now be manually cast with a click to confirm.",
+            "changes": [
+              {
+                "stat": "Ability Power",
+                "before": "60",
+                "after": "70",
+                "direction": "buff",
+                "raw_line": "Ability Power : 60 ⇒ 70"
+              },
+              {
+                "stat": "Health",
+                "before": "350",
+                "after": "300",
+                "direction": "nerf",
+                "raw_line": "Health : 350 ⇒ 300"
+              },
+              {
+                "stat": "Ability Haste",
+                "before": "15",
+                "after": "20",
+                "direction": "buff",
+                "raw_line": "Ability Haste : 15 ⇒ 20"
+              },
+              {
+                "stat": "Recipe",
+                "before": "Alternator + Kindlegem + 700 Gold",
+                "after": "Alternator + Fiendish Codex + Ruby Crystal + 300 Gold",
+                "direction": "nerf",
+                "raw_line": "Recipe : Alternator + Kindlegem + 700 Gold ⇒ Alternator + Fiendish Codex + Ruby Crystal + 300 Gold"
+              },
+              {
+                "stat": "Total Gold Cost",
+                "before": "2600",
+                "after": "2650",
+                "direction": "buff",
+                "raw_line": "Total Gold Cost : 2600 ⇒ 2650"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Horizon Focus",
+            "raw_text": "Ability Power : 75 ⇒ 110 Hypershot Damage Amp : Removed Recipe : Fiendish Codex + Fiendish Codex + Amplifying Tome + 600 Gold ⇒ Fiendish Codex + Fiendish Codex + Blasting Wand + 350 Gold Total Gold Cost : 2700 ⇒ 2900",
+            "changes": [
+              {
+                "stat": "Ability Power",
+                "before": "75",
+                "after": "110",
+                "direction": "buff",
+                "raw_line": "Ability Power : 75 ⇒ 110"
+              },
+              {
+                "stat": "Recipe",
+                "before": "Fiendish Codex + Fiendish Codex + Amplifying Tome + 600 Gold",
+                "after": "Fiendish Codex + Fiendish Codex + Blasting Wand + 350 Gold",
+                "direction": "nerf",
+                "raw_line": "Recipe : Fiendish Codex + Fiendish Codex + Amplifying Tome + 600 Gold ⇒ Fiendish Codex + Fiendish Codex + Blasting Wand + 350 Gold"
+              },
+              {
+                "stat": "Total Gold Cost",
+                "before": "2700",
+                "after": "2900",
+                "direction": "buff",
+                "raw_line": "Total Gold Cost : 2700 ⇒ 2900"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Liandry's Torment",
+            "raw_text": "Ability Power : 70 ⇒ 60",
+            "changes": [
+              {
+                "stat": "Ability Power",
+                "before": "70",
+                "after": "60",
+                "direction": "nerf",
+                "raw_line": "Ability Power : 70 ⇒ 60"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Lich Bane",
+            "raw_text": "Ability Power : 115 ⇒ 100 Recipe : Sheen + Aether Wisp + Needlessly Large Rod + 200 Gold ⇒ Sheen + Aether Wisp + Blasting Wand + 250 Gold Total Gold Cost : 3200 ⇒ 2900",
+            "changes": [
+              {
+                "stat": "Ability Power",
+                "before": "115",
+                "after": "100",
+                "direction": "nerf",
+                "raw_line": "Ability Power : 115 ⇒ 100"
+              },
+              {
+                "stat": "Recipe",
+                "before": "Sheen + Aether Wisp + Needlessly Large Rod + 200 Gold",
+                "after": "Sheen + Aether Wisp + Blasting Wand + 250 Gold",
+                "direction": "buff",
+                "raw_line": "Recipe : Sheen + Aether Wisp + Needlessly Large Rod + 200 Gold ⇒ Sheen + Aether Wisp + Blasting Wand + 250 Gold"
+              },
+              {
+                "stat": "Total Gold Cost",
+                "before": "3200",
+                "after": "2900",
+                "direction": "nerf",
+                "raw_line": "Total Gold Cost : 3200 ⇒ 2900"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Luden's Companion",
+            "raw_text": "Total Gold Cost : 2850 ⇒ 2750 Tooltip now shows the maximum single target damage.",
+            "changes": [
+              {
+                "stat": "Total Gold Cost",
+                "before": "2850",
+                "after": "2750",
+                "direction": "nerf",
+                "raw_line": "Total Gold Cost : 2850 ⇒ 2750"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Malignance",
+            "raw_text": "Ability Power : 85 ⇒ 90",
+            "changes": [
+              {
+                "stat": "Ability Power",
+                "before": "85",
+                "after": "90",
+                "direction": "buff",
+                "raw_line": "Ability Power : 85 ⇒ 90"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Morellonomicon",
+            "raw_text": "Total Gold Cost : 2950 ⇒ 2850",
+            "changes": [
+              {
+                "stat": "Total Gold Cost",
+                "before": "2950",
+                "after": "2850",
+                "direction": "nerf",
+                "raw_line": "Total Gold Cost : 2950 ⇒ 2850"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Nashor's Tooth",
+            "raw_text": "Total Gold Cost : 3000 ⇒ 2900",
+            "changes": [
+              {
+                "stat": "Total Gold Cost",
+                "before": "3000",
+                "after": "2900",
+                "direction": "nerf",
+                "raw_line": "Total Gold Cost : 3000 ⇒ 2900"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Rabadon's Deathcap",
+            "raw_text": "Total Gold Cost : 3600 ⇒ 3500",
+            "changes": [
+              {
+                "stat": "Total Gold Cost",
+                "before": "3600",
+                "after": "3500",
+                "direction": "nerf",
+                "raw_line": "Total Gold Cost : 3600 ⇒ 3500"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Seraph's Embrace",
+            "raw_text": "Lifeline Shield : 200 (+ 20% Current Mana) ⇒ 18% Max Mana",
+            "changes": [
+              {
+                "stat": "Lifeline Shield",
+                "before": "200 (+ 20% Current Mana)",
+                "after": "18% Max Mana",
+                "direction": "nerf",
+                "raw_line": "Lifeline Shield : 200 (+ 20% Current Mana) ⇒ 18% Max Mana"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Stormsurge",
+            "raw_text": "Total Gold Cost : 2900 ⇒ 2800 Move Speed : 4% ⇒ 6% Gold on preemptive takedown : Removed Move Speed on Squall : Removed",
+            "changes": [
+              {
+                "stat": "Total Gold Cost",
+                "before": "2900",
+                "after": "2800",
+                "direction": "nerf",
+                "raw_line": "Total Gold Cost : 2900 ⇒ 2800"
+              },
+              {
+                "stat": "Move Speed",
+                "before": "4%",
+                "after": "6%",
+                "direction": "buff",
+                "raw_line": "Move Speed : 4% ⇒ 6%"
+              }
+            ],
+            "parsed": true
+          }
+        ]
+      },
+      {
+        "section": "runes",
+        "header": "Runes",
+        "entries": [
+          {
+            "element_name": "Unsealed Spellbook",
+            "raw_text": "Base recharge cooldown : 5 minutes ⇒ 4 minutes Recharge cooldown at maximum swaps : 2.5 minutes ⇒ 1.5 minutes",
+            "changes": [
+              {
+                "stat": "Base recharge cooldown",
+                "before": "5 minutes",
+                "after": "4 minutes",
+                "direction": "nerf",
+                "raw_line": "Base recharge cooldown : 5 minutes ⇒ 4 minutes"
+              },
+              {
+                "stat": "Recharge cooldown at maximum swaps",
+                "before": "2.5 minutes",
+                "after": "1.5 minutes",
+                "direction": "nerf",
+                "raw_line": "Recharge cooldown at maximum swaps : 2.5 minutes ⇒ 1.5 minutes"
+              }
+            ],
+            "parsed": true
+          }
+        ]
+      }
+    ],
+    "patch": "15.10"
+  },
+  {
+    "slug": "25-11",
+    "url": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-25-11-notes/",
+    "sections": [
+      {
+        "section": "systems",
+        "header": "Behavioral Systems",
+        "entries": [
+          {
+            "element_name": "In-Game Negative Behavior",
+            "raw_text": "Reduced the thresholds specifically for higher ranked players to be detected for negative behavior.",
+            "changes": [],
+            "parsed": false
+          }
+        ]
+      },
+      {
+        "section": "items",
+        "header": "Items",
+        "entries": [
+          {
+            "element_name": "Horizon Focus",
+            "raw_text": "Total Gold Cost : 2900 ⇒ 2800 Ability Power : 110 ⇒ 115",
+            "changes": [
+              {
+                "stat": "Total Gold Cost",
+                "before": "2900",
+                "after": "2800",
+                "direction": "nerf",
+                "raw_line": "Total Gold Cost : 2900 ⇒ 2800"
+              },
+              {
+                "stat": "Ability Power",
+                "before": "110",
+                "after": "115",
+                "direction": "buff",
+                "raw_line": "Ability Power : 110 ⇒ 115"
+              }
+            ],
+            "parsed": true
+          }
+        ]
+      }
+    ],
+    "patch": "15.11"
+  },
+  {
+    "slug": "25-12",
+    "url": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-25-12-notes/",
+    "sections": [
+      {
+        "section": "runes",
+        "header": "Runes",
+        "entries": [
+          {
+            "element_name": "Grasp of the Undying",
+            "raw_text": "Ranged Effectiveness : 60% ⇒ 40%",
+            "changes": [
+              {
+                "stat": "Ranged Effectiveness",
+                "before": "60%",
+                "after": "40%",
+                "direction": "nerf",
+                "raw_line": "Ranged Effectiveness : 60% ⇒ 40%"
+              }
+            ],
+            "parsed": true
+          }
+        ]
+      }
+    ],
+    "patch": "15.12"
+  },
+  {
+    "slug": "25-13",
+    "url": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-25-13-notes/",
+    "sections": [],
+    "patch": "15.13"
+  },
+  {
+    "slug": "25-14",
+    "url": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-25-14-notes/",
+    "sections": [
+      {
+        "section": "items",
+        "header": "Items",
+        "entries": [
+          {
+            "element_name": "Blade of the Ruined King",
+            "raw_text": "Current Health On-Hit : 8% melee, 5% ranged ⇒ 9% melee, 6% ranged",
+            "changes": [
+              {
+                "stat": "Current Health On-Hit",
+                "before": "8% melee, 5% ranged",
+                "after": "9% melee, 6% ranged",
+                "direction": "buff",
+                "raw_line": "Current Health On-Hit : 8% melee, 5% ranged ⇒ 9% melee, 6% ranged"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Haunting Guise",
+            "raw_text": "Maximum Haunting Guises in Inventory : 6 ⇒ 1",
+            "changes": [
+              {
+                "stat": "Maximum Haunting Guises in Inventory",
+                "before": "6",
+                "after": "1",
+                "direction": "nerf",
+                "raw_line": "Maximum Haunting Guises in Inventory : 6 ⇒ 1"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Kraken Slayer",
+            "raw_text": "Price : 3100 ⇒ 3000 Damage Amp based on Missing Health : 0-50% ⇒ 0-75%",
+            "changes": [
+              {
+                "stat": "Price",
+                "before": "3100",
+                "after": "3000",
+                "direction": "nerf",
+                "raw_line": "Price : 3100 ⇒ 3000"
+              },
+              {
+                "stat": "Damage Amp based on Missing Health",
+                "before": "0-50%",
+                "after": "0-75%",
+                "direction": "neutral",
+                "raw_line": "Damage Amp based on Missing Health : 0-50% ⇒ 0-75%"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Phantom Dancer",
+            "raw_text": "Attack Speed : 60% ⇒ 65% Movement Speed : 8% ⇒ 10%",
+            "changes": [
+              {
+                "stat": "Attack Speed",
+                "before": "60%",
+                "after": "65%",
+                "direction": "buff",
+                "raw_line": "Attack Speed : 60% ⇒ 65%"
+              },
+              {
+                "stat": "Movement Speed",
+                "before": "8%",
+                "after": "10%",
+                "direction": "buff",
+                "raw_line": "Movement Speed : 8% ⇒ 10%"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Rod of Ages",
+            "raw_text": "Mana : 400 ⇒ 500 Mana per Stack : 20 ⇒ 30 Maximum Mana : 600 ⇒ 800",
+            "changes": [
+              {
+                "stat": "Mana",
+                "before": "400",
+                "after": "500",
+                "direction": "buff",
+                "raw_line": "Mana : 400 ⇒ 500"
+              },
+              {
+                "stat": "Mana per Stack",
+                "before": "20",
+                "after": "30",
+                "direction": "buff",
+                "raw_line": "Mana per Stack : 20 ⇒ 30"
+              },
+              {
+                "stat": "Maximum Mana",
+                "before": "600",
+                "after": "800",
+                "direction": "buff",
+                "raw_line": "Maximum Mana : 600 ⇒ 800"
+              }
+            ],
+            "parsed": true
+          }
+        ]
+      },
+      {
+        "section": "runes",
+        "header": "Runes",
+        "entries": [
+          {
+            "element_name": "Guardian",
+            "raw_text": "Shield : 45-120 (+ 12.5% AP + 8% bonus HP) ⇒ 45-150 (+ 15% AP) (+ 5% bonus HP) Minimum Damage Threshold for Trigger : 90-250 ⇒ 50-165",
+            "changes": [
+              {
+                "stat": "Shield",
+                "before": "45-120 (+ 12.5% AP + 8% bonus HP)",
+                "after": "45-150 (+ 15% AP) (+ 5% bonus HP)",
+                "direction": "neutral",
+                "raw_line": "Shield : 45-120 (+ 12.5% AP + 8% bonus HP) ⇒ 45-150 (+ 15% AP) (+ 5% bonus HP)"
+              },
+              {
+                "stat": "Minimum Damage Threshold for Trigger",
+                "before": "90-250",
+                "after": "50-165",
+                "direction": "nerf",
+                "raw_line": "Minimum Damage Threshold for Trigger : 90-250 ⇒ 50-165"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Unsealed Spellbook (Smite)",
+            "raw_text": "Smite Damage based on Swaps : 600/900/1200 ⇒ 600/600/900",
+            "changes": [
+              {
+                "stat": "Smite Damage based on Swaps",
+                "before": "600/900/1200",
+                "after": "600/600/900",
+                "direction": "neutral",
+                "raw_line": "Smite Damage based on Swaps : 600/900/1200 ⇒ 600/600/900"
+              }
+            ],
+            "parsed": true
+          }
+        ]
+      }
+    ],
+    "patch": "15.14"
+  },
+  {
+    "slug": "25-15",
+    "url": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-25-15-notes/",
+    "sections": [
+      {
+        "section": "systems",
+        "header": "Systems",
+        "entries": [
+          {
+            "element_name": "Base Stats",
+            "raw_text": "Health Regen per 5 : 75 ⇒ 0 Base Health : 11400 ⇒ 11500 Out of Combat Regen : unchanged",
+            "changes": [
+              {
+                "stat": "Health Regen per 5",
+                "before": "75",
+                "after": "0",
+                "direction": "nerf",
+                "raw_line": "Health Regen per 5 : 75 ⇒ 0"
+              },
+              {
+                "stat": "Base Health",
+                "before": "11400",
+                "after": "11500",
+                "direction": "buff",
+                "raw_line": "Base Health : 11400 ⇒ 11500"
+              }
+            ],
+            "parsed": true
+          }
+        ]
+      },
+      {
+        "section": "systems",
+        "header": "Systems",
+        "entries": [
+          {
+            "element_name": "systems",
+            "raw_text": "Removed the Movement Speed boost near Spirit Blossom portals. Bilge Plants shield duration and potency increased by 50%.",
+            "changes": [],
+            "parsed": false
+          }
+        ]
+      },
+      {
+        "section": "items",
+        "header": "Items",
+        "entries": [
+          {
+            "element_name": "Spectral Cutlass",
+            "raw_text": "Gold Cost : 3000 ⇒ 2800 Can no longer be used to teleport enemies back to your start location.",
+            "changes": [
+              {
+                "stat": "Gold Cost",
+                "before": "3000",
+                "after": "2800",
+                "direction": "nerf",
+                "raw_line": "Gold Cost : 3000 ⇒ 2800"
+              }
+            ],
+            "parsed": true
+          }
+        ]
+      }
+    ],
+    "patch": "15.15"
+  },
+  {
+    "slug": "25-16",
+    "url": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-25-16-notes/",
+    "sections": [
+      {
+        "section": "items",
+        "header": "Items",
+        "entries": [
+          {
+            "element_name": "Experimental Hexplate",
+            "raw_text": "Overdrive Attack Speed : 30% ⇒ 50% Overdrive Movement Speed : 15% ⇒ 20%",
+            "changes": [
+              {
+                "stat": "Overdrive Attack Speed",
+                "before": "30%",
+                "after": "50%",
+                "direction": "buff",
+                "raw_line": "Overdrive Attack Speed : 30% ⇒ 50%"
+              },
+              {
+                "stat": "Overdrive Movement Speed",
+                "before": "15%",
+                "after": "20%",
+                "direction": "buff",
+                "raw_line": "Overdrive Movement Speed : 15% ⇒ 20%"
+              }
+            ],
+            "parsed": true
+          }
+        ]
+      },
+      {
+        "section": "items",
+        "header": "Items",
+        "entries": [
+          {
+            "element_name": "Pyromancer's Cloak",
+            "raw_text": "Fire Starter Damage per level lowered from 200 - 450 ⇒ 100 - 350",
+            "changes": [
+              {
+                "stat": "Change",
+                "before": "Fire Starter Damage per level lowered from 200 - 450",
+                "after": "100 - 350",
+                "direction": "nerf",
+                "raw_line": "Fire Starter Damage per level lowered from 200 - 450 ⇒ 100 - 350"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Black Hole Gauntlet",
+            "raw_text": "Slow reduced from 35% ⇒ 30% Damage per sec HP ratio reduced from 6.5% ⇒ 5%",
+            "changes": [
+              {
+                "stat": "Change",
+                "before": "Slow reduced from 35%",
+                "after": "30%",
+                "direction": "nerf",
+                "raw_line": "Slow reduced from 35% ⇒ 30%"
+              },
+              {
+                "stat": "Change",
+                "before": "Damage per sec HP ratio reduced from 6.5%",
+                "after": "5%",
+                "direction": "nerf",
+                "raw_line": "Damage per sec HP ratio reduced from 6.5% ⇒ 5%"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Sunfire Cape",
+            "raw_text": "AoE damage 4% total HP ⇒ 4% bonus HP",
+            "changes": [
+              {
+                "stat": "Change",
+                "before": "AoE damage 4% total HP",
+                "after": "4% bonus HP",
+                "direction": "neutral",
+                "raw_line": "AoE damage 4% total HP ⇒ 4% bonus HP"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Hollow Radiance",
+            "raw_text": "3% total HP ⇒ 4% bonus HP (matches sunfire)",
+            "changes": [
+              {
+                "stat": "Change",
+                "before": "3% total HP",
+                "after": "4% bonus HP (matches sunfire)",
+                "direction": "buff",
+                "raw_line": "3% total HP ⇒ 4% bonus HP (matches sunfire)"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Fighter Item buffs",
+            "raw_text": "Sterak's Gage: Shield strength 60% ⇒ 70% bonus AD Overlord's Bloodmail: bonus AD from missing HP 15% ⇒ 17.5% Eclipse: 6% max health physical damage ⇒ 8% max health physical damage Eclipse Shield: 40% AD for melees ⇒ 50% AD for melees Death's Dance: Damage reduction: 30%/10% ⇒ 35%/10% Experimental Hexplate: Attack Speed: 20% ⇒ 30% Goredrinker: +10% Omnivamp",
+            "changes": [
+              {
+                "stat": "Sterak's Gage",
+                "before": "Shield strength 60%",
+                "after": "70% bonus AD",
+                "direction": "buff",
+                "raw_line": "Sterak's Gage: Shield strength 60% ⇒ 70% bonus AD"
+              },
+              {
+                "stat": "Overlord's Bloodmail",
+                "before": "bonus AD from missing HP 15%",
+                "after": "17.5%",
+                "direction": "buff",
+                "raw_line": "Overlord's Bloodmail: bonus AD from missing HP 15% ⇒ 17.5%"
+              },
+              {
+                "stat": "Eclipse",
+                "before": "6% max health physical damage",
+                "after": "8% max health physical damage",
+                "direction": "buff",
+                "raw_line": "Eclipse: 6% max health physical damage ⇒ 8% max health physical damage"
+              },
+              {
+                "stat": "Eclipse Shield",
+                "before": "40% AD for melees",
+                "after": "50% AD for melees",
+                "direction": "buff",
+                "raw_line": "Eclipse Shield: 40% AD for melees ⇒ 50% AD for melees"
+              },
+              {
+                "stat": "Death's Dance",
+                "before": "Damage reduction: 30%/10%",
+                "after": "35%/10%",
+                "direction": "buff",
+                "raw_line": "Death's Dance: Damage reduction: 30%/10% ⇒ 35%/10%"
+              },
+              {
+                "stat": "Experimental Hexplate",
+                "before": "Attack Speed: 20%",
+                "after": "30%",
+                "direction": "buff",
+                "raw_line": "Experimental Hexplate: Attack Speed: 20% ⇒ 30%"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Reaper's Toll",
+            "raw_text": "Bonus Attackspeed reduced from 25% ⇒ 15% Movement Speed reduced: 10% ⇒ 5%",
+            "changes": [
+              {
+                "stat": "Change",
+                "before": "Bonus Attackspeed reduced from 25%",
+                "after": "15%",
+                "direction": "nerf",
+                "raw_line": "Bonus Attackspeed reduced from 25% ⇒ 15%"
+              },
+              {
+                "stat": "Movement Speed reduced",
+                "before": "10%",
+                "after": "5%",
+                "direction": "nerf",
+                "raw_line": "Movement Speed reduced: 10% ⇒ 5%"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Move Speed reduction",
+            "raw_text": "Runecarver: Movement Speed reduced 8% ⇒ 4% Mirage Blade: Movement Speed reduced 12% ⇒ 6% Galeforce: Movement Speed reduced 12% ⇒ 6% Decapitator: Movement Speed reduced 12% ⇒ 6% Darksteel Talon: Movement Speed reduced 10% ⇒ 5%",
+            "changes": [
+              {
+                "stat": "Runecarver",
+                "before": "Movement Speed reduced 8%",
+                "after": "4%",
+                "direction": "nerf",
+                "raw_line": "Runecarver: Movement Speed reduced 8% ⇒ 4%"
+              },
+              {
+                "stat": "Mirage Blade",
+                "before": "Movement Speed reduced 12%",
+                "after": "6%",
+                "direction": "nerf",
+                "raw_line": "Mirage Blade: Movement Speed reduced 12% ⇒ 6%"
+              },
+              {
+                "stat": "Galeforce",
+                "before": "Movement Speed reduced 12%",
+                "after": "6%",
+                "direction": "nerf",
+                "raw_line": "Galeforce: Movement Speed reduced 12% ⇒ 6%"
+              },
+              {
+                "stat": "Decapitator",
+                "before": "Movement Speed reduced 12%",
+                "after": "6%",
+                "direction": "nerf",
+                "raw_line": "Decapitator: Movement Speed reduced 12% ⇒ 6%"
+              },
+              {
+                "stat": "Darksteel Talon",
+                "before": "Movement Speed reduced 10%",
+                "after": "5%",
+                "direction": "nerf",
+                "raw_line": "Darksteel Talon: Movement Speed reduced 10% ⇒ 5%"
+              }
+            ],
+            "parsed": true
+          }
+        ]
+      }
+    ],
+    "patch": "15.16"
+  },
+  {
+    "slug": "25-17",
+    "url": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-25-17-notes/",
+    "sections": [
+      {
+        "section": "items",
+        "header": "Items",
+        "entries": [
+          {
+            "element_name": "Axiom Arc",
+            "raw_text": "Total Gold Cost : 3000 ⇒ 2750",
+            "changes": [
+              {
+                "stat": "Total Gold Cost",
+                "before": "3000",
+                "after": "2750",
+                "direction": "nerf",
+                "raw_line": "Total Gold Cost : 3000 ⇒ 2750"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Horizon Focus",
+            "raw_text": "Ability Power : 115 ⇒ 125 Total Gold Cost : 2800 ⇒ 2750 Recipe : Fiendish Codex + Fiendish Codex + Blasting Wand + 250 Gold ⇒ Fiendish Codex + Fiendish Codex + Blasting Wand + 200 Gold",
+            "changes": [
+              {
+                "stat": "Ability Power",
+                "before": "115",
+                "after": "125",
+                "direction": "buff",
+                "raw_line": "Ability Power : 115 ⇒ 125"
+              },
+              {
+                "stat": "Total Gold Cost",
+                "before": "2800",
+                "after": "2750",
+                "direction": "nerf",
+                "raw_line": "Total Gold Cost : 2800 ⇒ 2750"
+              },
+              {
+                "stat": "Recipe",
+                "before": "Fiendish Codex + Fiendish Codex + Blasting Wand + 250 Gold",
+                "after": "Fiendish Codex + Fiendish Codex + Blasting Wand + 200 Gold",
+                "direction": "nerf",
+                "raw_line": "Recipe : Fiendish Codex + Fiendish Codex + Blasting Wand + 250 Gold ⇒ Fiendish Codex + Fiendish Codex + Blasting Wand + 200 Gold"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Profane Hydra",
+            "raw_text": "Attack Damage : 60 ⇒ 55 Total Gold Cost : 3200 ⇒ 2850 Recipe : Tiamat + The Brutalizer + 663 Gold ⇒ Tiamat + The Brutalizer + 313 Gold",
+            "changes": [
+              {
+                "stat": "Attack Damage",
+                "before": "60",
+                "after": "55",
+                "direction": "nerf",
+                "raw_line": "Attack Damage : 60 ⇒ 55"
+              },
+              {
+                "stat": "Total Gold Cost",
+                "before": "3200",
+                "after": "2850",
+                "direction": "nerf",
+                "raw_line": "Total Gold Cost : 3200 ⇒ 2850"
+              },
+              {
+                "stat": "Recipe",
+                "before": "Tiamat + The Brutalizer + 663 Gold",
+                "after": "Tiamat + The Brutalizer + 313 Gold",
+                "direction": "nerf",
+                "raw_line": "Recipe : Tiamat + The Brutalizer + 663 Gold ⇒ Tiamat + The Brutalizer + 313 Gold"
+              }
+            ],
+            "parsed": true
+          }
+        ]
+      }
+    ],
+    "patch": "15.17"
+  },
+  {
+    "slug": "25-18",
+    "url": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-25-18-notes/",
+    "sections": [
+      {
+        "section": "items",
+        "header": "Items",
+        "entries": [
+          {
+            "element_name": "Bami's Cinder",
+            "raw_text": "Percent Amp on Monsters : 50% ⇒ 100%",
+            "changes": [
+              {
+                "stat": "Percent Amp on Monsters",
+                "before": "50%",
+                "after": "100%",
+                "direction": "buff",
+                "raw_line": "Percent Amp on Monsters : 50% ⇒ 100%"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Sunfire Cape",
+            "raw_text": "Percent Amp on Minions and Monsters : 50% ⇒ 60%",
+            "changes": [
+              {
+                "stat": "Percent Amp on Minions and Monsters",
+                "before": "50%",
+                "after": "60%",
+                "direction": "buff",
+                "raw_line": "Percent Amp on Minions and Monsters : 50% ⇒ 60%"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Mercurial Scimitar",
+            "raw_text": "Attack Damage : 40 ⇒ 50 Magic Resistance : 40 ⇒ 35 Active Movespeed Duration : 1.5 ⇒ 2 seconds",
+            "changes": [
+              {
+                "stat": "Attack Damage",
+                "before": "40",
+                "after": "50",
+                "direction": "buff",
+                "raw_line": "Attack Damage : 40 ⇒ 50"
+              },
+              {
+                "stat": "Magic Resistance",
+                "before": "40",
+                "after": "35",
+                "direction": "nerf",
+                "raw_line": "Magic Resistance : 40 ⇒ 35"
+              },
+              {
+                "stat": "Active Movespeed Duration",
+                "before": "1.5",
+                "after": "2 seconds",
+                "direction": "buff",
+                "raw_line": "Active Movespeed Duration : 1.5 ⇒ 2 seconds"
+              }
+            ],
+            "parsed": true
+          }
+        ]
+      }
+    ],
+    "patch": "15.18"
+  },
+  {
+    "slug": "25-19",
+    "url": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-25-19-notes/",
+    "sections": [
+      {
+        "section": "items",
+        "header": "Items",
+        "entries": [
+          {
+            "element_name": "Redemption",
+            "raw_text": "Heal : 200-400 (based on target level) ⇒ 150-350 (based on target level)",
+            "changes": [
+              {
+                "stat": "Heal",
+                "before": "200-400 (based on target level)",
+                "after": "150-350 (based on target level)",
+                "direction": "nerf",
+                "raw_line": "Heal : 200-400 (based on target level) ⇒ 150-350 (based on target level)"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Celestial Opposition",
+            "raw_text": "Will no longer apply the AoE slow if the user is dead",
+            "changes": [],
+            "parsed": false
+          }
+        ]
+      },
+      {
+        "section": "runes",
+        "header": "Runes",
+        "entries": [
+          {
+            "element_name": "Unsealed Spellbook",
+            "raw_text": "Base Recharge Cooldown : 4 minutes ⇒ 4.5 minutes Minimum Recharge Cooldown : 1.5 minutes ⇒ 2 minutes",
+            "changes": [
+              {
+                "stat": "Base Recharge Cooldown",
+                "before": "4 minutes",
+                "after": "4.5 minutes",
+                "direction": "buff",
+                "raw_line": "Base Recharge Cooldown : 4 minutes ⇒ 4.5 minutes"
+              },
+              {
+                "stat": "Minimum Recharge Cooldown",
+                "before": "1.5 minutes",
+                "after": "2 minutes",
+                "direction": "buff",
+                "raw_line": "Minimum Recharge Cooldown : 1.5 minutes ⇒ 2 minutes"
+              }
+            ],
+            "parsed": true
+          }
+        ]
+      }
+    ],
+    "patch": "15.19"
+  },
+  {
+    "slug": "25-20",
+    "url": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-25-20-notes/",
+    "sections": [
+      {
+        "section": "systems",
+        "header": "Systems",
+        "entries": [
+          {
+            "element_name": "Lane Swap Detection",
+            "raw_text": "Top Lane Detection : Until 3:00 ⇒ Until 4:00",
+            "changes": [
+              {
+                "stat": "Top Lane Detection",
+                "before": "Until 3:00",
+                "after": "Until 4:00",
+                "direction": "buff",
+                "raw_line": "Top Lane Detection : Until 3:00 ⇒ Until 4:00"
+              }
+            ],
+            "parsed": true
+          }
+        ]
+      }
+    ],
+    "patch": "15.20"
+  },
+  {
+    "slug": "25-21",
+    "url": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-25-21-notes/",
+    "sections": [
+      {
+        "section": "items",
+        "header": "Items",
+        "entries": [
+          {
+            "element_name": "Catalyst of Aeons",
+            "raw_text": "Health : 350 ⇒ 300",
+            "changes": [
+              {
+                "stat": "Health",
+                "before": "350",
+                "after": "300",
+                "direction": "nerf",
+                "raw_line": "Health : 350 ⇒ 300"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Doran's Blade",
+            "raw_text": "3% Lifesteal removed. new Heal for 2.5% of damage dealt (reduced to 33% of this value for area of effect spells and pet spells)",
+            "changes": [],
+            "parsed": false
+          },
+          {
+            "element_name": "Doran's Ring",
+            "raw_text": "Mana Regeneration : 1.25 per second ⇒ 1 per second, increased to 2 per second for 5 seconds after damaging an enemy champion Health Regeneration : 0.55 per second ⇒ 45% of mana regenerated value",
+            "changes": [
+              {
+                "stat": "Mana Regeneration",
+                "before": "1.25 per second",
+                "after": "1 per second, increased to 2 per second for 5 seconds after damaging an enemy ch",
+                "direction": "nerf",
+                "raw_line": "Mana Regeneration : 1.25 per second ⇒ 1 per second, increased to 2 per second for 5 seconds after damaging an enemy champion"
+              },
+              {
+                "stat": "Health Regeneration",
+                "before": "0.55 per second",
+                "after": "45% of mana regenerated value",
+                "direction": "buff",
+                "raw_line": "Health Regeneration : 0.55 per second ⇒ 45% of mana regenerated value"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Doran's Shield",
+            "raw_text": "Max Healing after taking damage : 45 (melee) / 30 (ranged) ⇒ 40 (melee) / 30 (ranged)",
+            "changes": [
+              {
+                "stat": "Max Healing after taking damage",
+                "before": "45 (melee) / 30 (ranged)",
+                "after": "40 (melee) / 30 (ranged)",
+                "direction": "nerf",
+                "raw_line": "Max Healing after taking damage : 45 (melee) / 30 (ranged) ⇒ 40 (melee) / 30 (ranged)"
+              }
+            ],
+            "parsed": true
+          }
+        ]
+      },
+      {
+        "section": "runes",
+        "header": "Runes",
+        "entries": [
+          {
+            "element_name": "Second Wind",
+            "raw_text": "Healing after taking damage : 3 + 4% of missing health ⇒ 4% of missing health",
+            "changes": [
+              {
+                "stat": "Healing after taking damage",
+                "before": "3 + 4% of missing health",
+                "after": "4% of missing health",
+                "direction": "buff",
+                "raw_line": "Healing after taking damage : 3 + 4% of missing health ⇒ 4% of missing health"
+              }
+            ],
+            "parsed": true
+          }
+        ]
+      }
+    ],
+    "patch": "15.21"
+  },
+  {
+    "slug": "25-22",
+    "url": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-25-22-notes/",
+    "sections": [
+      {
+        "section": "runes",
+        "header": "Runes",
+        "entries": [
+          {
+            "element_name": "Biscuit Delivery",
+            "raw_text": "Minimum Health Regeneration : 20 (+ 2% Maximum Health) ⇒ 20 (+ 1.5% Maximum Health)",
+            "changes": [
+              {
+                "stat": "Minimum Health Regeneration",
+                "before": "20 (+ 2% Maximum Health)",
+                "after": "20 (+ 1.5% Maximum Health)",
+                "direction": "neutral",
+                "raw_line": "Minimum Health Regeneration : 20 (+ 2% Maximum Health) ⇒ 20 (+ 1.5% Maximum Health)"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Cash Back",
+            "raw_text": "Rebate on Legendary Item Purchases : 6% ⇒ 8%",
+            "changes": [
+              {
+                "stat": "Rebate on Legendary Item Purchases",
+                "before": "6%",
+                "after": "8%",
+                "direction": "buff",
+                "raw_line": "Rebate on Legendary Item Purchases : 6% ⇒ 8%"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Guardian",
+            "raw_text": "Shield : 45-150 (+ 15% AP) (+ 5% bonus HP) ⇒ 45-180 (+ 25% AP) (+ 5% bonus HP)",
+            "changes": [
+              {
+                "stat": "Shield",
+                "before": "45-150 (+ 15% AP) (+ 5% bonus HP)",
+                "after": "45-180 (+ 25% AP) (+ 5% bonus HP)",
+                "direction": "neutral",
+                "raw_line": "Shield : 45-150 (+ 15% AP) (+ 5% bonus HP) ⇒ 45-180 (+ 25% AP) (+ 5% bonus HP)"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Hail of Blades",
+            "raw_text": "Bonus Attack Speed (Melee Champions) : 140% ⇒ 160% (Note: Ranged champion attack speed unchanged at 80%.)",
+            "changes": [
+              {
+                "stat": "Bonus Attack Speed (Melee Champions)",
+                "before": "140%",
+                "after": "160% (Note: Ranged champion attack speed unchanged at 80%.)",
+                "direction": "buff",
+                "raw_line": "Bonus Attack Speed (Melee Champions) : 140% ⇒ 160% (Note: Ranged champion attack speed unchanged at 80%.)"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Legend: Bloodline",
+            "raw_text": "Life Steal per Stack : 0.35% (5.25% maximum) ⇒ 0.4% (6% maximum)",
+            "changes": [
+              {
+                "stat": "Life Steal per Stack",
+                "before": "0.35% (5.25% maximum)",
+                "after": "0.4% (6% maximum)",
+                "direction": "buff",
+                "raw_line": "Life Steal per Stack : 0.35% (5.25% maximum) ⇒ 0.4% (6% maximum)"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Movement Speed Shard",
+            "raw_text": "Movement Speed : 2% ⇒ 2,5%",
+            "changes": [
+              {
+                "stat": "Movement Speed",
+                "before": "2%",
+                "after": "2,5%",
+                "direction": "neutral",
+                "raw_line": "Movement Speed : 2% ⇒ 2,5%"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Nimbus Cloak",
+            "raw_text": "Bonus Movement Speed : 14 / 32 / 40% ⇒ 15 / 35 / 45%",
+            "changes": [
+              {
+                "stat": "Bonus Movement Speed",
+                "before": "14 / 32 / 40%",
+                "after": "15 / 35 / 45%",
+                "direction": "buff",
+                "raw_line": "Bonus Movement Speed : 14 / 32 / 40% ⇒ 15 / 35 / 45%"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Phase Rush",
+            "raw_text": "Slow Resistance : 75% ⇒ 50%",
+            "changes": [
+              {
+                "stat": "Slow Resistance",
+                "before": "75%",
+                "after": "50%",
+                "direction": "nerf",
+                "raw_line": "Slow Resistance : 75% ⇒ 50%"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Tenacity Shard",
+            "raw_text": "Tenacity and Slow Resistance : 10% ⇒ 15%",
+            "changes": [
+              {
+                "stat": "Tenacity and Slow Resistance",
+                "before": "10%",
+                "after": "15%",
+                "direction": "buff",
+                "raw_line": "Tenacity and Slow Resistance : 10% ⇒ 15%"
+              }
+            ],
+            "parsed": true
+          },
+          {
+            "element_name": "Triple Tonic",
+            "raw_text": "Elixir of Avarice Bonus Gold : 40 ⇒ 60 Elixir of Force Adaptive Force : 20 ⇒ 30",
+            "changes": [
+              {
+                "stat": "Elixir of Avarice Bonus Gold",
+                "before": "40",
+                "after": "60",
+                "direction": "buff",
+                "raw_line": "Elixir of Avarice Bonus Gold : 40 ⇒ 60"
+              },
+              {
+                "stat": "Elixir of Force Adaptive Force",
+                "before": "20",
+                "after": "30",
+                "direction": "buff",
+                "raw_line": "Elixir of Force Adaptive Force : 20 ⇒ 30"
+              }
+            ],
+            "parsed": true
+          }
+        ]
+      }
+    ],
+    "patch": "15.22"
+  },
+  {
+    "slug": "25-23",
+    "url": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-25-23-notes/",
+    "sections": [
+      {
+        "section": "items",
+        "header": "Items",
+        "entries": [
+          {
+            "element_name": "Sunfire Aegis",
+            "raw_text": "Monster Damage Mod : 1.6x ⇒ 2x",
+            "changes": [
+              {
+                "stat": "Monster Damage Mod",
+                "before": "1.6x",
+                "after": "2x",
+                "direction": "buff",
+                "raw_line": "Monster Damage Mod : 1.6x ⇒ 2x"
+              }
+            ],
+            "parsed": true
+          }
+        ]
+      }
+    ],
+    "patch": "15.23"
+  },
+  {
+    "slug": "25-24",
+    "url": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-25-24-notes/",
+    "sections": [
+      {
+        "section": "runes",
+        "header": "Runes",
+        "entries": [
+          {
+            "element_name": "Bloodline",
+            "raw_text": "Life Steal per Stack : 0.4% ⇒ 0.45% Maximum Life Steal : 6% ⇒ 6.75%",
+            "changes": [
+              {
+                "stat": "Life Steal per Stack",
+                "before": "0.4%",
+                "after": "0.45%",
+                "direction": "buff",
+                "raw_line": "Life Steal per Stack : 0.4% ⇒ 0.45%"
+              },
+              {
+                "stat": "Maximum Life Steal",
+                "before": "6%",
+                "after": "6.75%",
+                "direction": "buff",
+                "raw_line": "Maximum Life Steal : 6% ⇒ 6.75%"
+              }
+            ],
+            "parsed": true
+          }
+        ]
+      }
+    ],
+    "patch": "15.24"
+  }
+]

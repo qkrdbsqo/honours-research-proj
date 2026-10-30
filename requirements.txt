@@ -1,0 +1,21 @@
+# Core
+pandas>=2.1
+numpy>=1.26,<2          # torch 2.3.1 needs numpy 1.x; numpy 2.x breaks it
+scipy>=1.12
+scikit-learn>=1.4
+
+# Models
+xgboost>=2.0
+transformers>=4.40,<5       # HuggingFace — BERT tokeniser + model (4.x: works with torch 2.3)
+torch>=2.2,<2.4             # CPU-only; capped to avoid bloat
+
+# Data collection
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=5.1
+
+# Visualisation & notebooks
+matplotlib>=3.8
+seaborn>=0.13
+jupyter>=1.0
+tqdm>=4.66

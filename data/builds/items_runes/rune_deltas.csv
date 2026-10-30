@@ -1,0 +1,33 @@
+season,patch,prev_patch,rune_id,rune_name,tree_key,change_type,before,after
+2024,14.02,14.01,8242,Unflinching,Resolve,desc_changed,,
+2024,14.10,14.09,8143,Sudden Impact,Domination,desc_changed,,
+2024,14.10,14.09,8369,First Strike,Inspiration,desc_changed,,
+2024,14.10,14.09,8321,Cash Back,Inspiration,renamed,Future's Market,Cash Back
+2024,14.10,14.09,8321,Cash Back,Inspiration,moved,Inspiration/slot2,Inspiration/slot1
+2024,14.10,14.09,8321,Cash Back,Inspiration,desc_changed,,
+2024,14.10,14.09,8313,Triple Tonic,Inspiration,moved,Inspiration/slot1,Inspiration/slot2
+2024,14.10,14.09,8352,Time Warp Tonic,Inspiration,moved,Inspiration/slot3,Inspiration/slot2
+2024,14.10,14.09,8352,Time Warp Tonic,Inspiration,desc_changed,,
+2024,14.10,14.09,8316,Jack Of All Trades,Inspiration,renamed,Minion Dematerializer,Jack Of All Trades
+2024,14.10,14.09,8316,Jack Of All Trades,Inspiration,moved,Inspiration/slot2,Inspiration/slot3
+2024,14.10,14.09,8316,Jack Of All Trades,Inspiration,desc_changed,,
+2024,14.10,14.09,8005,Press the Attack,Precision,desc_changed,,
+2024,14.10,14.09,9101,Absorb Life,Precision,renamed,Overheal,Absorb Life
+2024,14.10,14.09,9101,Absorb Life,Precision,desc_changed,,
+2024,14.10,14.09,9105,Legend: Haste,Precision,renamed,Legend: Tenacity,Legend: Haste
+2024,14.10,14.09,9105,Legend: Haste,Precision,desc_changed,,
+2024,14.10,14.09,8017,Cut Down,Precision,desc_changed,,
+2024,14.10,14.09,8463,Font of Life,Resolve,desc_changed,,
+2024,14.10,14.09,8124,Predator,Domination,removed,,
+2024,14.10,14.09,8134,Ingenious Hunter,Domination,removed,,
+2024,14.10,14.09,8008,Lethal Tempo,Precision,removed,,
+2024,14.12,14.11,8369,First Strike,Inspiration,desc_changed,,
+2024,14.16,14.15,8143,Sudden Impact,Domination,desc_changed,,
+2024,14.19,14.18,8345,Biscuit Delivery,Inspiration,desc_changed,,
+2024,14.19,14.18,8008,Lethal Tempo,Precision,added,,
+2024,14.19,14.18,8009,Presence of Mind,Precision,desc_changed,,
+2024,14.20,14.19,8136,Zombie Ward,Domination,desc_changed,,
+2024,14.20,14.19,8429,Conditioning,Resolve,desc_changed,,
+2024,14.20,14.19,8473,Bone Plating,Resolve,desc_changed,,
+2024,14.20,14.19,8230,Phase Rush,Sorcery,desc_changed,,
+2025,15.02,15.01,8140,Grisly Mementos,Domination,desc_changed,,

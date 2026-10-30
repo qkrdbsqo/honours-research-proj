@@ -1,0 +1,2291 @@
+season,patch,kind,element_name,element_key,sign,magnitude,source
+2024,14.01,item,All Upgraded Item Forms,all upgraded item forms,0,1.0,patch_notes
+2024,14.01,item,Amplifying Tome,amplifying tome,-1,1.0,patch_notes
+2024,14.01,item,Amplifying Tome,amplifying tome,0,1.0,patch_notes
+2024,14.01,item,Archangel’s Staff,archangel's staff,-1,1.0,patch_notes
+2024,14.01,item,Archangel’s Staff,archangel's staff,1,1.0,patch_notes
+2024,14.01,item,Archangel’s Staff,archangel's staff,1,1.0,patch_notes
+2024,14.01,item,Archangel’s Staff,archangel's staff,1,1.0,patch_notes
+2024,14.01,item,Ardent Censer,ardent censer,1,1.0,patch_notes
+2024,14.01,item,Ardent Censer,ardent censer,1,1.0,patch_notes
+2024,14.01,item,Ardent Censer,ardent censer,1,1.0,patch_notes
+2024,14.01,item,Ardent Censer,ardent censer,1,1.0,patch_notes
+2024,14.01,item,Ardent Censer,ardent censer,1,1.0,patch_notes
+2024,14.01,item,Ardent Censer,ardent censer,1,1.0,patch_notes
+2024,14.01,item,Axiom Arc,axiom arc,-1,1.0,patch_notes
+2024,14.01,item,Axiom Arc,axiom arc,0,1.0,patch_notes
+2024,14.01,item,Banshee’s Veil,banshee's veil,1,1.0,patch_notes
+2024,14.01,item,Banshee’s Veil,banshee's veil,1,1.0,patch_notes
+2024,14.01,item,Banshee’s Veil,banshee's veil,1,1.0,patch_notes
+2024,14.01,item,Banshee’s Veil,banshee's veil,-1,1.0,patch_notes
+2024,14.01,item,Black Cleaver,black cleaver,-1,1.0,patch_notes
+2024,14.01,item,Black Cleaver,black cleaver,-1,1.0,patch_notes
+2024,14.01,item,Black Cleaver,black cleaver,1,1.0,patch_notes
+2024,14.01,item,Black Cleaver,black cleaver,-1,1.0,patch_notes
+2024,14.01,item,Black Cleaver,black cleaver,-1,1.0,patch_notes
+2024,14.01,item,Blade of the Ruined King,blade of the ruined king,0,1.0,patch_notes
+2024,14.01,item,Blasting Wand,blasting wand,1,1.0,patch_notes
+2024,14.01,item,Bloodsong,bloodsong,0,1.0,patch_notes
+2024,14.01,item,Bounty of Worlds,bounty of worlds,0,1.0,patch_notes
+2024,14.01,item,Catalyst of Aeons,catalyst of aeons,1,1.0,patch_notes
+2024,14.01,item,Catalyst of Aeons,catalyst of aeons,0,1.0,patch_notes
+2024,14.01,item,Celestial Opposition,celestial opposition,0,1.0,patch_notes
+2024,14.01,item,Cosmic Drive,cosmic drive,0,1.0,patch_notes
+2024,14.01,item,Cryptbloom,cryptbloom,0,1.0,patch_notes
+2024,14.01,item,Dawncore,dawncore,0,1.0,patch_notes
+2024,14.01,item,Dead Man’s Plate,dead man's plate,0,1.0,patch_notes
+2024,14.01,item,Doran’s Blade,doran's blade,-1,1.0,patch_notes
+2024,14.01,item,Doran’s Ring,doran's ring,1,1.0,patch_notes
+2024,14.01,item,Dream Maker,dream maker,0,1.0,patch_notes
+2024,14.01,item,Echoes of Helia,echoes of helia,-1,1.0,patch_notes
+2024,14.01,item,Echoes of Helia,echoes of helia,0,1.0,patch_notes
+2024,14.01,item,Echoes of Helia,echoes of helia,1,1.0,patch_notes
+2024,14.01,item,Echoes of Helia,echoes of helia,1,1.0,patch_notes
+2024,14.01,item,Echoes of Helia,echoes of helia,1,1.0,patch_notes
+2024,14.01,item,Eclipse,eclipse,0,1.0,patch_notes
+2024,14.01,item,Essence Reaver,essence reaver,1,1.0,patch_notes
+2024,14.01,item,Experimental Hexplate,experimental hexplate,0,1.0,patch_notes
+2024,14.01,item,Force of Nature,force of nature,-1,1.0,patch_notes
+2024,14.01,item,Frozen Heart,frozen heart,-1,1.0,patch_notes
+2024,14.01,item,Frozen Heart,frozen heart,-1,1.0,patch_notes
+2024,14.01,item,Glowing Mote,glowing mote,0,1.0,patch_notes
+2024,14.01,item,Guardian Angel,guardian angel,1,1.0,patch_notes
+2024,14.01,item,Guardian Angel,guardian angel,0,1.0,patch_notes
+2024,14.01,item,Guardian Angel,guardian angel,1,1.0,patch_notes
+2024,14.01,item,Guardian Angel,guardian angel,1,1.0,patch_notes
+2024,14.01,item,Guardian Angel,guardian angel,0,1.0,patch_notes
+2024,14.01,item,Guinsoo’s Rageblade,guinsoo's rageblade,-1,1.0,patch_notes
+2024,14.01,item,Guinsoo’s Rageblade,guinsoo's rageblade,1,1.0,patch_notes
+2024,14.01,item,Guinsoo’s Rageblade,guinsoo's rageblade,0,1.0,patch_notes
+2024,14.01,item,Haunting Guise,haunting guise,0,1.0,patch_notes
+2024,14.01,item,Hearthbound Axe,hearthbound axe,0,1.0,patch_notes
+2024,14.01,item,Heartsteel,heartsteel,0,1.0,patch_notes
+2024,14.01,item,Hextech Alternator,hextech alternator,0,1.0,patch_notes
+2024,14.01,item,Hextech Rocketbelt,hextech rocketbelt,0,1.0,patch_notes
+2024,14.01,item,Hollow Radiance,hollow radiance,0,1.0,patch_notes
+2024,14.01,item,Horizon Focus,horizon focus,0,1.0,patch_notes
+2024,14.01,item,Hubris,hubris,0,1.0,patch_notes
+2024,14.01,item,Hullbreaker,hullbreaker,0,1.0,patch_notes
+2024,14.01,item,Iceborn Gauntlet,iceborn gauntlet,-1,1.0,patch_notes
+2024,14.01,item,Iceborn Gauntlet,iceborn gauntlet,-1,1.0,patch_notes
+2024,14.01,item,Iceborn Gauntlet,iceborn gauntlet,-1,1.0,patch_notes
+2024,14.01,item,Iceborn Gauntlet,iceborn gauntlet,-1,1.0,patch_notes
+2024,14.01,item,Iceborn Gauntlet,iceborn gauntlet,0,1.0,patch_notes
+2024,14.01,item,Immortal Shieldbow,immortal shieldbow,1,1.0,patch_notes
+2024,14.01,item,Immortal Shieldbow,immortal shieldbow,0,1.0,patch_notes
+2024,14.01,item,Infinity Edge,infinity edge,-1,1.0,patch_notes
+2024,14.01,item,Infinity Edge,infinity edge,0,1.0,patch_notes
+2024,14.01,item,Infinity Edge,infinity edge,-1,1.0,patch_notes
+2024,14.01,item,Jak’Sho the Protean,jak'sho the protean,1,1.0,patch_notes
+2024,14.01,item,Jak’Sho the Protean,jak'sho the protean,-1,1.0,patch_notes
+2024,14.01,item,Jak’Sho the Protean,jak'sho the protean,1,1.0,patch_notes
+2024,14.01,item,Jak’Sho the Protean,jak'sho the protean,1,1.0,patch_notes
+2024,14.01,item,Jak’Sho the Protean,jak'sho the protean,-1,1.0,patch_notes
+2024,14.01,item,Kaenic Rookern,kaenic rookern,0,1.0,patch_notes
+2024,14.01,item,Knight’s Vow,knight's vow,1,1.0,patch_notes
+2024,14.01,item,Knight’s Vow,knight's vow,-1,1.0,patch_notes
+2024,14.01,item,Knight’s Vow,knight's vow,1,1.0,patch_notes
+2024,14.01,item,Knight’s Vow,knight's vow,-1,1.0,patch_notes
+2024,14.01,item,Kraken Slayer,kraken slayer,1,1.0,patch_notes
+2024,14.01,item,Liandry’s Torment,liandry's torment,-1,1.0,patch_notes
+2024,14.01,item,Lich Bane,lich bane,1,1.0,patch_notes
+2024,14.01,item,Lich Bane,lich bane,-1,1.0,patch_notes
+2024,14.01,item,Lich Bane,lich bane,1,1.0,patch_notes
+2024,14.01,item,Lich Bane,lich bane,1,1.0,patch_notes
+2024,14.01,item,Locket of the Iron Solari,locket of the iron solari,-1,1.0,patch_notes
+2024,14.01,item,Locket of the Iron Solari,locket of the iron solari,-1,1.0,patch_notes
+2024,14.01,item,Lord Dominik’s Regards,lord dominik's regards,1,1.0,patch_notes
+2024,14.01,item,Lord Dominik’s Regards,lord dominik's regards,-1,1.0,patch_notes
+2024,14.01,item,Luden’s Companion,luden's companion,0,1.0,patch_notes
+2024,14.01,item,Malignance,malignance,0,1.0,patch_notes
+2024,14.01,item,Morellonomicon,morellonomicon,-1,1.0,patch_notes
+2024,14.01,item,Morellonomicon,morellonomicon,-1,1.0,patch_notes
+2024,14.01,item,Morellonomicon,morellonomicon,-1,1.0,patch_notes
+2024,14.01,item,Morellonomicon,morellonomicon,-1,1.0,patch_notes
+2024,14.01,item,Nashor’s Tooth,nashor's tooth,-1,1.0,patch_notes
+2024,14.01,item,Nashor’s Tooth,nashor's tooth,-1,1.0,patch_notes
+2024,14.01,item,Nashor’s Tooth,nashor's tooth,-1,1.0,patch_notes
+2024,14.01,item,Navori Quickblades,navori quickblades,-1,1.0,patch_notes
+2024,14.01,item,Navori Quickblades,navori quickblades,0,1.0,patch_notes
+2024,14.01,item,Navori Quickblades,navori quickblades,-1,1.0,patch_notes
+2024,14.01,item,Navori Quickblades,navori quickblades,-1,1.0,patch_notes
+2024,14.01,item,Needlessly Large Rod,needlessly large rod,1,1.0,patch_notes
+2024,14.01,item,Opportunity,opportunity,0,1.0,patch_notes
+2024,14.01,item,Phage,phage,0,1.0,patch_notes
+2024,14.01,item,Phantom Dancer,phantom dancer,1,1.0,patch_notes
+2024,14.01,item,Phantom Dancer,phantom dancer,-1,1.0,patch_notes
+2024,14.01,item,Phantom Dancer,phantom dancer,1,1.0,patch_notes
+2024,14.01,item,Phantom Dancer,phantom dancer,0,1.0,patch_notes
+2024,14.01,item,Profane Hydra,profane hydra,0,1.0,patch_notes
+2024,14.01,item,Rabadon’s Deathcap,rabadon's deathcap,1,1.0,patch_notes
+2024,14.01,item,Rabadon’s Deathcap,rabadon's deathcap,-1,1.0,patch_notes
+2024,14.01,item,Randuin’s Omen,randuin's omen,-1,1.0,patch_notes
+2024,14.01,item,Randuin’s Omen,randuin's omen,1,1.0,patch_notes
+2024,14.01,item,Rapid Firecannon,rapid firecannon,1,1.0,patch_notes
+2024,14.01,item,Ravenous Hydra,ravenous hydra,0,1.0,patch_notes
+2024,14.01,item,Rectrix,rectrix,0,1.0,patch_notes
+2024,14.01,item,Riftmaker,riftmaker,0,1.0,patch_notes
+2024,14.01,item,Rod of Ages,rod of ages,-1,1.0,patch_notes
+2024,14.01,item,Rod of Ages,rod of ages,1,1.0,patch_notes
+2024,14.01,item,Rod of Ages,rod of ages,-1,1.0,patch_notes
+2024,14.01,item,Rod of Ages,rod of ages,-1,1.0,patch_notes
+2024,14.01,item,Rod of Ages,rod of ages,-1,1.0,patch_notes
+2024,14.01,item,Runic Compass,runic compass,0,1.0,patch_notes
+2024,14.01,item,Seeker’s Armguard,seeker's armguard,0,1.0,patch_notes
+2024,14.01,item,Seraph’s Embrace,seraph's embrace,1,1.0,patch_notes
+2024,14.01,item,Seraph’s Embrace,seraph's embrace,1,1.0,patch_notes
+2024,14.01,item,Seraph’s Embrace,seraph's embrace,1,1.0,patch_notes
+2024,14.01,item,Seraph’s Embrace,seraph's embrace,-1,1.0,patch_notes
+2024,14.01,item,Serpent’s Fang,serpent's fang,-1,1.0,patch_notes
+2024,14.01,item,Serpent’s Fang,serpent's fang,-1,1.0,patch_notes
+2024,14.01,item,Serrated Dirk,serrated dirk,-1,1.0,patch_notes
+2024,14.01,item,Serrated Dirk,serrated dirk,-1,1.0,patch_notes
+2024,14.01,item,Serrated Dirk,serrated dirk,-1,1.0,patch_notes
+2024,14.01,item,Serylda’s Grudge,serylda's grudge,0,1.0,patch_notes
+2024,14.01,item,Shadowflame,shadowflame,0,1.0,patch_notes
+2024,14.01,item,Solstice Sleigh,solstice sleigh,0,1.0,patch_notes
+2024,14.01,item,Spear of Shojin,spear of shojin,0,1.0,patch_notes
+2024,14.01,item,Staff of Flowing Water,staff of flowing water,1,1.0,patch_notes
+2024,14.01,item,Staff of Flowing Water,staff of flowing water,1,1.0,patch_notes
+2024,14.01,item,Staff of Flowing Water,staff of flowing water,1,1.0,patch_notes
+2024,14.01,item,Staff of Flowing Water,staff of flowing water,1,1.0,patch_notes
+2024,14.01,item,Staff of Flowing Water,staff of flowing water,0,1.0,patch_notes
+2024,14.01,item,Statikk Shiv,statikk shiv,0,1.0,patch_notes
+2024,14.01,item,Steel Sigil,steel sigil,0,1.0,patch_notes
+2024,14.01,item,Sterak’s Gage,sterak's gage,0,1.0,patch_notes
+2024,14.01,item,Sterak’s Gage,sterak's gage,-1,1.0,patch_notes
+2024,14.01,item,Sterak’s Gage,sterak's gage,0,1.0,patch_notes
+2024,14.01,item,Stormrazor,stormrazor,1,1.0,patch_notes
+2024,14.01,item,Stormrazor,stormrazor,1,1.0,patch_notes
+2024,14.01,item,Stormrazor,stormrazor,1,1.0,patch_notes
+2024,14.01,item,Stormsurge,stormsurge,0,1.0,patch_notes
+2024,14.01,item,Stridebreaker,stridebreaker,0,1.0,patch_notes
+2024,14.01,item,Sundered Sky,sundered sky,0,1.0,patch_notes
+2024,14.01,item,Sunfire Aegis,sunfire aegis,-1,1.0,patch_notes
+2024,14.01,item,Sunfire Aegis,sunfire aegis,-1,1.0,patch_notes
+2024,14.01,item,Terminus,terminus,0,1.0,patch_notes
+2024,14.01,item,The Brutalizer,the brutalizer,0,1.0,patch_notes
+2024,14.01,item,The Collector,the collector,1,1.0,patch_notes
+2024,14.01,item,The Collector,the collector,1,1.0,patch_notes
+2024,14.01,item,The Collector,the collector,-1,1.0,patch_notes
+2024,14.01,item,Tiamat,tiamat,0,1.0,patch_notes
+2024,14.01,item,Titanic Hydra,titanic hydra,0,1.0,patch_notes
+2024,14.01,item,Trailblazer (formerly known as Go Fast with Friends),trailblazer (formerly known as go fast with friends),0,1.0,patch_notes
+2024,14.01,item,Trinity Force,trinity force,-1,1.0,patch_notes
+2024,14.01,item,Trinity Force,trinity force,1,1.0,patch_notes
+2024,14.01,item,Tunneler,tunneler,0,1.0,patch_notes
+2024,14.01,item,Umbral Glaive,umbral glaive,1,1.0,patch_notes
+2024,14.01,item,Umbral Glaive,umbral glaive,0,1.0,patch_notes
+2024,14.01,item,Umbral Glaive,umbral glaive,1,1.0,patch_notes
+2024,14.01,item,Umbral Glaive,umbral glaive,0,1.0,patch_notes
+2024,14.01,item,Unending Despair,unending despair,0,1.0,patch_notes
+2024,14.01,item,Verdant Barrier,verdant barrier,1,1.0,patch_notes
+2024,14.01,item,Verdant Barrier,verdant barrier,1,1.0,patch_notes
+2024,14.01,item,Verdant Barrier,verdant barrier,1,1.0,patch_notes
+2024,14.01,item,Void Staff,void staff,1,1.0,patch_notes
+2024,14.01,item,Void Staff,void staff,1,1.0,patch_notes
+2024,14.01,item,Void Staff,void staff,1,1.0,patch_notes
+2024,14.01,item,Voltaic Cyclosword,voltaic cyclosword,0,1.0,patch_notes
+2024,14.01,item,Warmog’s Armor,warmog's armor,1,1.0,patch_notes
+2024,14.01,item,Warmog’s Armor,warmog's armor,1,1.0,patch_notes
+2024,14.01,item,Warmog’s Armor,warmog's armor,-1,1.0,patch_notes
+2024,14.01,item,Warmog’s Armor,warmog's armor,-1,1.0,patch_notes
+2024,14.01,item,Warmog’s Armor,warmog's armor,1,1.0,patch_notes
+2024,14.01,item,Winter’s Approach / Fimbulwinter,winter's approach / fimbulwinter,-1,1.0,patch_notes
+2024,14.01,item,Wit’s End,wit's end,-1,1.0,patch_notes
+2024,14.01,item,Wit’s End,wit's end,-1,1.0,patch_notes
+2024,14.01,item,Wit’s End,wit's end,1,1.0,patch_notes
+2024,14.01,item,Wit’s End,wit's end,1,1.0,patch_notes
+2024,14.01,item,Wit’s End,wit's end,-1,1.0,patch_notes
+2024,14.01,item,Wit’s End,wit's end,1,1.0,patch_notes
+2024,14.01,item,Wit’s End,wit's end,0,1.0,patch_notes
+2024,14.01,item,World Atlas,world atlas,0,1.0,patch_notes
+2024,14.01,item,Youmuu’s Ghostblade,youmuu's ghostblade,-1,1.0,patch_notes
+2024,14.01,item,Youmuu’s Ghostblade,youmuu's ghostblade,1,1.0,patch_notes
+2024,14.01,item,Youmuu’s Ghostblade,youmuu's ghostblade,-1,1.0,patch_notes
+2024,14.01,item,Youmuu’s Ghostblade,youmuu's ghostblade,-1,1.0,patch_notes
+2024,14.01,item,Zaz’Zak’s Realmspike,zaz'zak's realmspike,0,1.0,patch_notes
+2024,14.01,item,Zeke’s Convergence,zeke's convergence,0,1.0,patch_notes
+2024,14.01,item,Zhonya’s Hourglass,zhonya's hourglass,1,1.0,patch_notes
+2024,14.01,item,Zhonya’s Hourglass,zhonya's hourglass,1,1.0,patch_notes
+2024,14.01,item,Zhonya’s Hourglass,zhonya's hourglass,1,1.0,patch_notes
+2024,14.01,item,Zhonya’s Hourglass,zhonya's hourglass,-1,1.0,patch_notes
+2024,14.01,item,items,items,0,1.0,patch_notes
+2024,14.01,rune,Triple Tonic,triple tonic,0,1.0,patch_notes
+2024,14.02,item,Bloodsong,bloodsong,-1,1.0,patch_notes
+2024,14.02,item,Death's Dance,death's dance,-1,0.1111111111111111,ddragon
+2024,14.02,item,Dreamshatter,dreamshatter,1,0.03225806451612903,ddragon
+2024,14.02,item,Dreamshatter,dreamshatter,1,0.07692307692307693,ddragon
+2024,14.02,item,Dreamshatter,dreamshatter,1,0.33333333333333337,ddragon
+2024,14.02,item,Essence Reaver,essence reaver,1,0.3333333333333333,ddragon
+2024,14.02,item,Essence Reaver,essence reaver,1,0.03333333333333333,ddragon
+2024,14.02,item,Experimental Hexplate,experimental hexplate,1,1.0,both
+2024,14.02,item,Experimental Hexplate,experimental hexplate,1,1.0,both
+2024,14.02,item,Experimental Hexplate,experimental hexplate,-1,1.0,both
+2024,14.02,item,Frozen Heart,frozen heart,1,1.0,both
+2024,14.02,item,Guardian Angel,guardian angel,-1,0.14285714285714285,ddragon
+2024,14.02,item,Heartsteel,heartsteel,1,0.125,ddragon
+2024,14.02,item,Heartsteel,heartsteel,1,0.125,ddragon
+2024,14.02,item,Horizon Focus,horizon focus,-1,1.0,patch_notes
+2024,14.02,item,Horizon Focus,horizon focus,1,1.0,patch_notes
+2024,14.02,item,Icathia's Curse,icathia's curse,-1,0.03333333333333333,ddragon
+2024,14.02,item,Leviathan,leviathan,1,0.09523809523809523,ddragon
+2024,14.02,item,Phantom Dancer,phantom dancer,-1,1.0,both
+2024,14.02,item,Profane Hydra,profane hydra,1,0.11587485515643106,ddragon
+2024,14.02,item,Profane Hydra,profane hydra,1,0.029411764705882353,ddragon
+2024,14.02,item,Ravenous Hydra,ravenous hydra,1,0.19999999999999898,ddragon
+2024,14.02,item,Riftmaker,riftmaker,1,1.0,both
+2024,14.02,item,Shield of the Rakkor,shield of the rakkor,1,0.034482758620689655,ddragon
+2024,14.02,item,Steel Sigil,steel sigil,-1,1.0,both
+2024,14.02,item,Stormsurge,stormsurge,-1,1.0,both
+2024,14.02,item,Stormsurge,stormsurge,0,1.0,both
+2024,14.02,item,Stridebreaker,stridebreaker,1,1.0,both
+2024,14.02,item,Stridebreaker,stridebreaker,-1,1.0,both
+2024,14.02,item,Support Items,support items,0,1.0,patch_notes
+2024,14.02,item,The Collector,the collector,-1,0.19047619047619047,ddragon
+2024,14.02,item,The Collector,the collector,-1,0.03333333333333333,ddragon
+2024,14.02,item,Titanic Hydra,titanic hydra,-1,0.09090909090909091,ddragon
+2024,14.02,item,Titanic Hydra,titanic hydra,-1,0.09090909090909091,ddragon
+2024,14.02,item,Titanic Hydra,titanic hydra,-1,0.09090909090909091,ddragon
+2024,14.02,item,Trailblazer,trailblazer,-1,0.125,ddragon
+2024,14.02,item,Trailblazer,trailblazer,-1,0.041666666666666664,ddragon
+2024,14.02,item,Trailblazer,trailblazer,-1,0.2,ddragon
+2024,14.03,item,Archangel's Staff,archangel's staff,1,0.2,ddragon
+2024,14.03,item,Archangel's Staff,archangel's staff,1,0.03333333333333333,ddragon
+2024,14.03,item,Deicide,deicide,1,0.027777777777777776,ddragon
+2024,14.03,item,Divine Sunderer,divine sunderer,1,0.027777777777777776,ddragon
+2024,14.03,item,Dreamshatter,dreamshatter,-1,0.1,ddragon
+2024,14.03,item,Dreamshatter,dreamshatter,1,0.2631578947368421,ddragon
+2024,14.03,item,Dreamshatter,dreamshatter,-1,0.14285714285714285,ddragon
+2024,14.03,item,Dreamshatter (Ornn Upgrade),dreamshatter (ornn upgrade),-1,1.0,patch_notes
+2024,14.03,item,Dreamshatter (Ornn Upgrade),dreamshatter (ornn upgrade),1,1.0,patch_notes
+2024,14.03,item,Dreamshatter (Ornn Upgrade),dreamshatter (ornn upgrade),-1,1.0,patch_notes
+2024,14.03,item,Enmity of the Masses,enmity of the masses,1,0.03571428571428571,ddragon
+2024,14.03,item,Essence Reaver,essence reaver,1,1.0,both
+2024,14.03,item,Force of Arms,force of arms,1,0.03333333333333333,ddragon
+2024,14.03,item,Force of Arms,force of arms,1,0.043478260869565216,ddragon
+2024,14.03,item,Guinsoo’s Rageblade,guinsoo's rageblade,-1,1.0,both
+2024,14.03,item,Guinsoo’s Rageblade,guinsoo's rageblade,1,1.0,both
+2024,14.03,item,Guinsoo’s Rageblade,guinsoo's rageblade,1,1.0,both
+2024,14.03,item,Heavensfall,heavensfall,1,0.2,ddragon
+2024,14.03,item,Heavensfall,heavensfall,-1,0.07692307692307693,ddragon
+2024,14.03,item,Hullbreaker,hullbreaker,0,1.0,patch_notes
+2024,14.03,item,Iceborn Gauntlet,iceborn gauntlet,-1,0.25,ddragon
+2024,14.03,item,Infinite Convergence,infinite convergence,1,0.1,ddragon
+2024,14.03,item,Infinite Convergence,infinite convergence,1,0.18181818181818182,ddragon
+2024,14.03,item,Kaenic Rookern,kaenic rookern,-1,1.0,patch_notes
+2024,14.03,item,Kaenic Rookern,kaenic rookern,1,1.0,patch_notes
+2024,14.03,item,Lich Bane,lich bane,-1,0.6666666666666666,ddragon
+2024,14.03,item,Luden's Companion,luden's companion,1,0.14285714285714285,ddragon
+2024,14.03,item,Luden's Companion,luden's companion,1,0.03333333333333333,ddragon
+2024,14.03,item,Luden's Companion,luden's companion,1,0.05555555555555555,ddragon
+2024,14.03,item,Malignance,malignance,1,0.14285714285714285,ddragon
+2024,14.03,item,Malignance,malignance,1,0.03571428571428571,ddragon
+2024,14.03,item,Rod of Ages,rod of ages,1,1.0,both
+2024,14.03,item,Rod of Ages,rod of ages,1,1.0,both
+2024,14.03,item,Seething Sorrow,seething sorrow,1,0.1,ddragon
+2024,14.03,item,Seething Sorrow,seething sorrow,1,0.125,ddragon
+2024,14.03,item,Seraph's Embrace,seraph's embrace,1,0.03333333333333333,ddragon
+2024,14.03,item,Seraph's Embrace,seraph's embrace,1,0.03333333333333333,ddragon
+2024,14.03,item,Seraph's Embrace,seraph's embrace,1,0.03333333333333333,ddragon
+2024,14.03,item,Seraph's Embrace,seraph's embrace,1,0.03333333333333333,ddragon
+2024,14.03,item,Sheen,sheen,1,0.13333333333333333,ddragon
+2024,14.03,item,Sheen,sheen,1,0.1,ddragon
+2024,14.03,item,Sheen,sheen,1,0.13333333333333333,ddragon
+2024,14.03,item,Sheen,sheen,1,0.1,ddragon
+2024,14.03,item,Statikk Shiv,statikk shiv,1,0.75,ddragon
+2024,14.03,item,Statikk Shiv,statikk shiv,1,0.1,ddragon
+2024,14.03,item,Stormsurge,stormsurge,1,0.05555555555555555,ddragon
+2024,14.03,item,Stridebreaker,stridebreaker,1,1.0,both
+2024,14.03,item,Stridebreaker,stridebreaker,-1,1.0,both
+2024,14.03,item,Stridebreaker,stridebreaker,1,1.0,both
+2024,14.03,item,Stridebreaker,stridebreaker,-1,1.0,both
+2024,14.03,item,Stridebreaker,stridebreaker,-1,1.0,both
+2024,14.03,item,Sundered Sky,sundered sky,1,0.5,ddragon
+2024,14.03,item,Sundered Sky,sundered sky,-1,0.18181818181818182,ddragon
+2024,14.03,item,The Collector,the collector,-1,1.0,both
+2024,14.03,item,Titanic Hydra,titanic hydra,1,0.1,ddragon
+2024,14.03,item,Trinity Force,trinity force,-1,3.0303030303030303,ddragon
+2024,14.03,item,Turbo Chemtank,turbo chemtank,0,1.0,ddragon
+2024,14.03,item,Youmuu’s Ghostblade,youmuu's ghostblade,0,1.0,patch_notes
+2024,14.03,item,Youmuu’s Ghostblade,youmuu's ghostblade,0,1.0,patch_notes
+2024,14.04,item,ARCHANGEL'S STAFF / SERAPH'S EMBRACE,archangel's staff / seraph's embrace,1,1.0,patch_notes
+2024,14.04,item,BLACK CLEAVER,black cleaver,-1,1.0,both
+2024,14.04,item,BLACK CLEAVER,black cleaver,1,1.0,both
+2024,14.04,item,BLACK CLEAVER,black cleaver,-1,1.0,both
+2024,14.04,item,BLACK CLEAVER,black cleaver,1,1.0,both
+2024,14.04,item,BLACK CLEAVER,black cleaver,0,1.0,both
+2024,14.04,item,BLACK CLEAVER,black cleaver,0,1.0,both
+2024,14.04,item,BLOODSONG,bloodsong,-1,1.0,patch_notes
+2024,14.04,item,BOUNTY OF WORLDS,bounty of worlds,1,1.0,both
+2024,14.04,item,BOUNTY OF WORLDS,bounty of worlds,1,1.0,both
+2024,14.04,item,HULLBREAKER,hullbreaker,0,1.0,patch_notes
+2024,14.04,item,LUDEN'S COMPANION,luden's companion,1,1.0,patch_notes
+2024,14.04,item,MALIGNANCE,malignance,1,1.0,patch_notes
+2024,14.04,item,RAVENOUS HYDRA,ravenous hydra,0,1.0,patch_notes
+2024,14.04,item,RUNIC COMPASS,runic compass,1,1.0,patch_notes
+2024,14.04,item,SOLSTICE SLEIGH,solstice sleigh,-1,1.0,patch_notes
+2024,14.04,item,SOLSTICE SLEIGH,solstice sleigh,-1,1.0,patch_notes
+2024,14.04,item,STRIDEBREAKER,stridebreaker,0,1.0,patch_notes
+2024,14.04,item,TERMINUS,terminus,0,1.0,both
+2024,14.04,item,TERMINUS,terminus,-1,1.0,both
+2024,14.04,item,TERMINUS,terminus,1,1.0,both
+2024,14.04,item,TERMINUS,terminus,1,1.0,both
+2024,14.04,item,TERMINUS,terminus,1,1.0,both
+2024,14.04,item,WORLD ATLAS,world atlas,1,1.0,patch_notes
+2024,14.04,item,WORLD ATLAS,world atlas,-1,1.0,patch_notes
+2024,14.04,item,ZAZ'ZAK'S REALMSPIKE,zaz'zak's realmspike,-1,1.0,patch_notes
+2024,14.04,item,ZAZ'ZAK'S REALMSPIKE,zaz'zak's realmspike,-1,1.0,patch_notes
+2024,14.04,rune,GRASP OF THE UNDYING,grasp of the undying,0,1.0,patch_notes
+2024,14.04,rune,LEGEND: ALACRITY,legend: alacrity,0,1.0,patch_notes
+2024,14.04,rune,LETHAL TEMPO,lethal tempo,-1,1.0,patch_notes
+2024,14.04,rune,OVERHEAL,overheal,0,1.0,patch_notes
+2024,14.05,item,Celestial Opposition,celestial opposition,-1,1.0,patch_notes
+2024,14.05,item,Celestial Opposition,celestial opposition,1,1.0,patch_notes
+2024,14.05,item,Celestial Opposition,celestial opposition,1,1.0,patch_notes
+2024,14.05,item,Dream Maker,dream maker,-1,1.0,patch_notes
+2024,14.05,item,Dream Maker,dream maker,-1,1.0,patch_notes
+2024,14.05,item,Frozen Heart,frozen heart,1,1.0,both
+2024,14.05,item,Frozen Heart,frozen heart,-1,1.0,both
+2024,14.05,item,Heartsteel,heartsteel,-1,1.0,patch_notes
+2024,14.05,item,Hextech Rocketbelt,hextech rocketbelt,1,1.0,both
+2024,14.05,item,Hextech Rocketbelt,hextech rocketbelt,1,1.0,both
+2024,14.05,item,Leviathan (Ornn Upgrade),leviathan (ornn upgrade),-1,1.0,patch_notes
+2024,14.05,item,Lich Bane,lich bane,0,1.0,patch_notes
+2024,14.05,item,Solstice Sleigh,solstice sleigh,1,1.0,patch_notes
+2024,14.05,item,Solstice Sleigh,solstice sleigh,1,1.0,patch_notes
+2024,14.05,item,Solstice Sleigh,solstice sleigh,-1,1.0,patch_notes
+2024,14.05,item,Spear of Shojin,spear of shojin,0,1.0,patch_notes
+2024,14.05,item,Stormsurge,stormsurge,1,1.0,both
+2024,14.05,item,Sunfire Aegis,sunfire aegis,1,1.0,both
+2024,14.05,item,Sunfire Aegis,sunfire aegis,1,1.0,both
+2024,14.05,item,Upgraded Aeropack,upgraded aeropack,-1,0.04,ddragon
+2024,14.05,item,Upgraded Aeropack,upgraded aeropack,1,0.11764705882352941,ddragon
+2024,14.06,item,Bami's Cinder,bami's cinder,1,1.0,patch_notes
+2024,14.06,item,Banshee's Veil,banshee's veil,-1,2.0,ddragon
+2024,14.06,item,Cappa Juice,cappa juice,1,0.2857142857142857,ddragon
+2024,14.06,item,Cappa Juice,cappa juice,1,0.2857142857142857,ddragon
+2024,14.06,item,Caulfield's Warhammer,caulfield's warhammer,-1,1.0,both
+2024,14.06,item,Edge of Night,edge of night,1,0.07142857142857142,ddragon
+2024,14.06,item,Fiendish Codex,fiendish codex,-1,1.0,both
+2024,14.06,item,Frozen Heart,frozen heart,1,0.08333333333333333,ddragon
+2024,14.06,item,Glacial Buckler,glacial buckler,-1,1.0,both
+2024,14.06,item,Glacial Buckler,glacial buckler,1,1.0,both
+2024,14.06,item,Haunting Guise,haunting guise,-1,1.0,both
+2024,14.06,item,Hearthbound Axe,hearthbound axe,-1,1.0,both
+2024,14.06,item,Hearthbound Axe,hearthbound axe,-1,1.0,both
+2024,14.06,item,Hextech Alternator,hextech alternator,-1,1.0,both
+2024,14.06,item,Hullbreaker,hullbreaker,1,0.4,ddragon
+2024,14.06,item,Infinity Edge,infinity edge,1,1.0,patch_notes
+2024,14.06,item,Kircheis Shard,kircheis shard,-1,1.0,patch_notes
+2024,14.06,item,Lord Dominik's Regards,lord dominik's regards,1,1.0,patch_notes
+2024,14.06,item,Mortal Reminder,mortal reminder,1,1.0,patch_notes
+2024,14.06,item,Navori Quickblades,navori quickblades,0,1.0,both
+2024,14.06,item,Navori Quickblades,navori quickblades,1,1.0,both
+2024,14.06,item,Runic Compass,runic compass,-1,1.0,patch_notes
+2024,14.06,item,Runic Compass,runic compass,-1,1.0,patch_notes
+2024,14.06,item,Runic Compass,runic compass,-1,1.0,patch_notes
+2024,14.06,item,Runic Compass,runic compass,-1,1.0,patch_notes
+2024,14.06,item,Serrated Dirk,serrated dirk,-1,1.0,both
+2024,14.06,item,Solstice Sleigh,solstice sleigh,-1,1.0,patch_notes
+2024,14.06,item,Spectre's Cowl,spectre's cowl,-1,1.0,both
+2024,14.06,item,Spectre's Cowl,spectre's cowl,-1,1.0,both
+2024,14.06,item,Steel Sigil,steel sigil,0,1.0,both
+2024,14.06,item,Sterak's Gage,sterak's gage,1,0.08,ddragon
+2024,14.06,item,Sundered Sky,sundered sky,1,0.05555555555555555,ddragon
+2024,14.06,item,The Brutalizer,the brutalizer,-1,1.0,patch_notes
+2024,14.06,item,Titanic Hydra,titanic hydra,1,0.08333333333333333,ddragon
+2024,14.06,item,Trinity Force,trinity force,-1,0.37593984962406013,ddragon
+2024,14.06,item,Tunneler,tunneler,1,1.0,both
+2024,14.06,item,Verdant Barrier,verdant barrier,-1,1.0,both
+2024,14.06,item,World Atlas,world atlas,-1,1.0,patch_notes
+2024,14.06,item,World Atlas,world atlas,-1,1.0,patch_notes
+2024,14.06,item,World Atlas,world atlas,-1,1.0,patch_notes
+2024,14.06,item,World Atlas,world atlas,-1,1.0,patch_notes
+2024,14.06,item,Zeke's Convergence,zeke's convergence,1,0.1,ddragon
+2024,14.07,item,Bloodsong,bloodsong,-1,1.0,patch_notes
+2024,14.07,item,Imperial Mandate,imperial mandate,-1,1.0,patch_notes
+2024,14.07,item,Statikk Shiv,statikk shiv,1,1.0,both
+2024,14.07,item,World Atlas,world atlas,0,1.0,patch_notes
+2024,14.07,item,Zaz’Zak’s Realmspike,zaz'zak's realmspike,-1,1.0,patch_notes
+2024,14.07,item,Zaz’Zak’s Realmspike,zaz'zak's realmspike,1,1.0,patch_notes
+2024,14.09,item,Abyssal Mask,abyssal mask,1,0.16666666666666666,ddragon
+2024,14.09,item,Abyssal Mask,abyssal mask,1,0.16666666666666666,ddragon
+2024,14.09,item,Abyssal Mask,abyssal mask,-1,0.14285714285714285,ddragon
+2024,14.09,item,Abyssal Mask,abyssal mask,-1,0.16666666666666666,ddragon
+2024,14.09,item,Anathema's Chains,anathema's chains,1,0.16666666666666666,ddragon
+2024,14.09,item,Anathema's Chains,anathema's chains,1,0.16666666666666666,ddragon
+2024,14.09,item,Anathema's Chains,anathema's chains,-1,0.07692307692307693,ddragon
+2024,14.09,item,Archangel's Staff,archangel's staff,1,0.16666666666666666,ddragon
+2024,14.09,item,Archangel's Staff,archangel's staff,1,0.16666666666666666,ddragon
+2024,14.09,item,Ardent Censer,ardent censer,1,0.16666666666666666,ddragon
+2024,14.09,item,Ardent Censer,ardent censer,1,0.16666666666666666,ddragon
+2024,14.09,item,Ardent Censer,ardent censer,-1,0.4,ddragon
+2024,14.09,item,Ataraxia,ataraxia,0,1.0,ddragon
+2024,14.09,item,Atma's Reckoning,atma's reckoning,1,0.16666666666666666,ddragon
+2024,14.09,item,Atma's Reckoning,atma's reckoning,1,0.16666666666666666,ddragon
+2024,14.09,item,Atma's Reckoning,atma's reckoning,-1,0.25,ddragon
+2024,14.09,item,Atma's Reckoning,atma's reckoning,-1,0.125,ddragon
+2024,14.09,item,Axiom Arc,axiom arc,1,0.16666666666666666,ddragon
+2024,14.09,item,Axiom Arc,axiom arc,1,0.16666666666666666,ddragon
+2024,14.09,item,Axiom Arc,axiom arc,-1,0.18181818181818182,ddragon
+2024,14.09,item,Banshee's Veil,banshee's veil,1,0.16666666666666666,ddragon
+2024,14.09,item,Banshee's Veil,banshee's veil,1,0.16666666666666666,ddragon
+2024,14.09,item,Banshee's Veil,banshee's veil,-1,0.1111111111111111,ddragon
+2024,14.09,item,Banshee's Veil,banshee's veil,-1,0.09090909090909091,ddragon
+2024,14.09,item,Berserker's Greaves,berserker's greaves,1,0.5,ddragon
+2024,14.09,item,Berserker's Greaves,berserker's greaves,1,0.5,ddragon
+2024,14.09,item,Black Cleaver,black cleaver,1,0.16666666666666666,ddragon
+2024,14.09,item,Black Cleaver,black cleaver,1,0.16666666666666666,ddragon
+2024,14.09,item,Black Cleaver,black cleaver,-1,0.125,ddragon
+2024,14.09,item,Black Cleaver,black cleaver,-1,0.2727272727272727,ddragon
+2024,14.09,item,Blade of The Ruined King,blade of the ruined king,1,0.16666666666666666,ddragon
+2024,14.09,item,Blade of The Ruined King,blade of the ruined king,1,0.16666666666666666,ddragon
+2024,14.09,item,Blade of The Ruined King,blade of the ruined king,-1,0.14285714285714285,ddragon
+2024,14.09,item,Blade of The Ruined King,blade of the ruined king,-1,0.1999999999999996,ddragon
+2024,14.09,item,Blasting Wand,blasting wand,0,1.0,ddragon
+2024,14.09,item,Bloodletter's Curse,bloodletter's curse,1,0.16666666666666666,ddragon
+2024,14.09,item,Bloodletter's Curse,bloodletter's curse,1,0.16666666666666666,ddragon
+2024,14.09,item,Bloodletter's Curse,bloodletter's curse,-1,0.14285714285714285,ddragon
+2024,14.09,item,Bloodthirster,bloodthirster,1,0.16666666666666666,ddragon
+2024,14.09,item,Bloodthirster,bloodthirster,1,0.16666666666666666,ddragon
+2024,14.09,item,Bloodthirster,bloodthirster,-1,0.2,ddragon
+2024,14.09,item,Bloodthirster,bloodthirster,-1,0.16666666666666666,ddragon
+2024,14.09,item,Boots of Swiftness,boots of swiftness,1,0.5,ddragon
+2024,14.09,item,Boots of Swiftness,boots of swiftness,1,0.5,ddragon
+2024,14.09,item,Cappa Juice,cappa juice,0,1.0,ddragon
+2024,14.09,item,Ceaseless Hunger,ceaseless hunger,1,0.16666666666666666,ddragon
+2024,14.09,item,Chain Vest,chain vest,0,1.0,ddragon
+2024,14.09,item,Chempunk Chainsword,chempunk chainsword,1,0.16666666666666666,ddragon
+2024,14.09,item,Chempunk Chainsword,chempunk chainsword,1,0.16666666666666666,ddragon
+2024,14.09,item,Chempunk Chainsword,chempunk chainsword,-1,0.18181818181818182,ddragon
+2024,14.09,item,Chemtech Putrifier,chemtech putrifier,1,0.16666666666666666,ddragon
+2024,14.09,item,Chemtech Putrifier,chemtech putrifier,1,0.16666666666666666,ddragon
+2024,14.09,item,Cloak of Starry Night,cloak of starry night,0,1.0,ddragon
+2024,14.09,item,Cosmic Drive,cosmic drive,1,0.16666666666666666,ddragon
+2024,14.09,item,Cosmic Drive,cosmic drive,1,0.16666666666666666,ddragon
+2024,14.09,item,Cosmic Drive,cosmic drive,-1,0.1875,ddragon
+2024,14.09,item,Crown of the Shattered Queen,crown of the shattered queen,0,1.0,ddragon
+2024,14.09,item,Cruelty,cruelty,0,1.0,ddragon
+2024,14.09,item,Cry of the Shrieking City,cry of the shrieking city,1,0.16666666666666666,ddragon
+2024,14.09,item,Cryptbloom,cryptbloom,0,1.0,ddragon
+2024,14.09,item,Darksteel Talons,darksteel talons,0,1.0,ddragon
+2024,14.09,item,Dawncore,dawncore,0,1.0,ddragon
+2024,14.09,item,Dead Man's Plate,dead man's plate,1,0.16666666666666666,ddragon
+2024,14.09,item,Dead Man's Plate,dead man's plate,1,0.16666666666666666,ddragon
+2024,14.09,item,Dead Man's Plate,dead man's plate,-1,0.2,ddragon
+2024,14.09,item,Dead Man's Plate,dead man's plate,-1,0.14285714285714285,ddragon
+2024,14.09,item,Death’s Dance,death's dance,-1,1.0,both
+2024,14.09,item,Death’s Dance,death's dance,1,1.0,both
+2024,14.09,item,Death’s Dance,death's dance,1,1.0,both
+2024,14.09,item,Decapitator,decapitator,0,1.0,ddragon
+2024,14.09,item,Demon King's Crown,demon king's crown,0,1.0,ddragon
+2024,14.09,item,Demonic Embrace,demonic embrace,0,1.0,ddragon
+2024,14.09,item,Detonation Orb,detonation orb,0,1.0,ddragon
+2024,14.09,item,Divine Sunderer,divine sunderer,0,1.0,ddragon
+2024,14.09,item,Dragonheart,dragonheart,0,1.0,ddragon
+2024,14.09,item,Dreamshatter,dreamshatter,1,0.16666666666666666,ddragon
+2024,14.09,item,Duskblade of Draktharr,duskblade of draktharr,0,1.0,ddragon
+2024,14.09,item,Echoes of Helia,echoes of helia,1,0.16666666666666666,ddragon
+2024,14.09,item,Echoes of Helia,echoes of helia,1,0.16666666666666666,ddragon
+2024,14.09,item,Echoes of Helia,echoes of helia,-1,0.25,ddragon
+2024,14.09,item,Eclipse,eclipse,-1,1.0,both
+2024,14.09,item,Edge of Finality,edge of finality,1,0.16666666666666666,ddragon
+2024,14.09,item,Edge of Night,edge of night,1,0.16666666666666666,ddragon
+2024,14.09,item,Edge of Night,edge of night,1,0.16666666666666666,ddragon
+2024,14.09,item,Edge of Night,edge of night,-1,0.1,ddragon
+2024,14.09,item,Eleisa's Miracle,eleisa's miracle,0,1.0,ddragon
+2024,14.09,item,Empyrean Promise,empyrean promise,0,1.0,ddragon
+2024,14.09,item,Essence Reaver,essence reaver,1,0.16666666666666666,ddragon
+2024,14.09,item,Essence Reaver,essence reaver,1,0.16666666666666666,ddragon
+2024,14.09,item,Essence Reaver,essence reaver,-1,0.16666666666666666,ddragon
+2024,14.09,item,Everfrost,everfrost,0,1.0,ddragon
+2024,14.09,item,Experimental Hexplate,experimental hexplate,0,1.0,ddragon
+2024,14.09,item,Fimbulwinter,fimbulwinter,1,0.16666666666666666,ddragon
+2024,14.09,item,Fimbulwinter,fimbulwinter,1,0.16666666666666666,ddragon
+2024,14.09,item,Fimbulwinter,fimbulwinter,-1,0.2,ddragon
+2024,14.09,item,Flesheater,flesheater,0,1.0,ddragon
+2024,14.09,item,Flicker,flicker,1,0.16666666666666666,ddragon
+2024,14.09,item,Force Of Entropy,force of entropy,0,1.0,ddragon
+2024,14.09,item,Force of Arms,force of arms,1,0.16666666666666666,ddragon
+2024,14.09,item,Force of Nature,force of nature,1,0.16666666666666666,ddragon
+2024,14.09,item,Force of Nature,force of nature,1,0.16666666666666666,ddragon
+2024,14.09,item,Force of Nature,force of nature,-1,0.1111111111111111,ddragon
+2024,14.09,item,Force of Nature,force of nature,-1,0.09090909090909091,ddragon
+2024,14.09,item,Frozen Fist,frozen fist,1,0.16666666666666666,ddragon
+2024,14.09,item,Frozen Heart,frozen heart,1,0.16666666666666666,ddragon
+2024,14.09,item,Frozen Heart,frozen heart,1,0.16666666666666666,ddragon
+2024,14.09,item,Frozen Heart,frozen heart,-1,0.1,ddragon
+2024,14.09,item,Fulmination,fulmination,0,1.0,ddragon
+2024,14.09,item,Galeforce,galeforce,0,1.0,ddragon
+2024,14.09,item,Gambler's Blade,gambler's blade,0,1.0,ddragon
+2024,14.09,item,Gargoyle Stoneplate,gargoyle stoneplate,0,1.0,ddragon
+2024,14.09,item,Ghostcrawlers,ghostcrawlers,1,0.5,ddragon
+2024,14.09,item,Ghostcrawlers,ghostcrawlers,1,0.5,ddragon
+2024,14.09,item,Giant's Belt,giant's belt,0,1.0,ddragon
+2024,14.09,item,Glowing Mote,glowing mote,0,1.0,ddragon
+2024,14.09,item,Goredrinker,goredrinker,1,0.16666666666666666,ddragon
+2024,14.09,item,Goredrinker,goredrinker,1,0.16666666666666666,ddragon
+2024,14.09,item,Goredrinker,goredrinker,-1,0.18181818181818182,ddragon
+2024,14.09,item,Guardian Angel,guardian angel,1,0.16666666666666666,ddragon
+2024,14.09,item,Guardian Angel,guardian angel,1,0.16666666666666666,ddragon
+2024,14.09,item,Guardian Angel,guardian angel,-1,0.1111111111111111,ddragon
+2024,14.09,item,Guardian Angel,guardian angel,-1,0.18181818181818182,ddragon
+2024,14.09,item,Guardian's Amulet,guardian's amulet,1,0.5,ddragon
+2024,14.09,item,Guardian's Amulet,guardian's amulet,1,0.5,ddragon
+2024,14.09,item,Guardian's Blade,guardian's blade,1,0.5,ddragon
+2024,14.09,item,Guardian's Blade,guardian's blade,1,0.5,ddragon
+2024,14.09,item,Guardian's Dirk,guardian's dirk,1,0.5,ddragon
+2024,14.09,item,Guardian's Dirk,guardian's dirk,1,0.5,ddragon
+2024,14.09,item,Guardian's Hammer,guardian's hammer,1,0.5,ddragon
+2024,14.09,item,Guardian's Hammer,guardian's hammer,1,0.5,ddragon
+2024,14.09,item,Guardian's Horn,guardian's horn,1,0.5,ddragon
+2024,14.09,item,Guardian's Horn,guardian's horn,1,0.5,ddragon
+2024,14.09,item,Guardian's Orb,guardian's orb,1,0.5,ddragon
+2024,14.09,item,Guardian's Orb,guardian's orb,1,0.5,ddragon
+2024,14.09,item,Guardian's Orb,guardian's orb,1,0.18181818181818182,ddragon
+2024,14.09,item,Guardian's Shroud,guardian's shroud,1,0.5,ddragon
+2024,14.09,item,Guardian's Shroud,guardian's shroud,1,0.5,ddragon
+2024,14.09,item,Guardian's Shroud,guardian's shroud,1,0.16666666666666666,ddragon
+2024,14.09,item,Guardian's Shroud,guardian's shroud,1,0.16666666666666666,ddragon
+2024,14.09,item,Guinsoo's Rageblade,guinsoo's rageblade,1,0.16666666666666666,ddragon
+2024,14.09,item,Guinsoo's Rageblade,guinsoo's rageblade,1,0.16666666666666666,ddragon
+2024,14.09,item,Guinsoo's Rageblade,guinsoo's rageblade,-1,0.2,ddragon
+2024,14.09,item,Guinsoo's Rageblade,guinsoo's rageblade,-1,0.16666666666666632,ddragon
+2024,14.09,item,Hamstringer,hamstringer,0,1.0,ddragon
+2024,14.09,item,Heartsteel,heartsteel,1,0.16666666666666666,ddragon
+2024,14.09,item,Heartsteel,heartsteel,1,0.16666666666666666,ddragon
+2024,14.09,item,Heartsteel,heartsteel,-1,0.2222222222222222,ddragon
+2024,14.09,item,Hellfire Hatchet,hellfire hatchet,1,0.16666666666666666,ddragon
+2024,14.09,item,Hellfire Hatchet,hellfire hatchet,1,0.16666666666666666,ddragon
+2024,14.09,item,Hellfire Hatchet,hellfire hatchet,-1,0.125,ddragon
+2024,14.09,item,Hemomancer's Helm,hemomancer's helm,0,1.0,ddragon
+2024,14.09,item,Hexdrinker,hexdrinker,-1,1.0,both
+2024,14.09,item,Hexdrinker,hexdrinker,-1,1.0,both
+2024,14.09,item,Hextech Gunblade,hextech gunblade,1,0.16666666666666666,ddragon
+2024,14.09,item,Hextech Gunblade,hextech gunblade,1,0.16666666666666666,ddragon
+2024,14.09,item,Hextech Gunblade,hextech gunblade,-1,0.1,ddragon
+2024,14.09,item,Hextech Gunblade,hextech gunblade,-1,0.1,ddragon
+2024,14.09,item,Hextech Rocketbelt,hextech rocketbelt,1,0.16666666666666666,ddragon
+2024,14.09,item,Hextech Rocketbelt,hextech rocketbelt,1,0.16666666666666666,ddragon
+2024,14.09,item,Hextech Rocketbelt,hextech rocketbelt,1,0.05555555555555555,ddragon
+2024,14.09,item,Hollow Radiance,hollow radiance,0,1.0,ddragon
+2024,14.09,item,Horizon Focus,horizon focus,1,0.16666666666666666,ddragon
+2024,14.09,item,Horizon Focus,horizon focus,1,0.16666666666666666,ddragon
+2024,14.09,item,Horizon Focus,horizon focus,0,1.0,ddragon
+2024,14.09,item,Hubris,hubris,0,1.0,ddragon
+2024,14.09,item,Hubris<br>,hubris<br>,0,1.0,ddragon
+2024,14.09,item,Hullbreaker,hullbreaker,1,0.16666666666666666,ddragon
+2024,14.09,item,Hullbreaker,hullbreaker,1,0.16666666666666666,ddragon
+2024,14.09,item,Hullbreaker,hullbreaker,-1,0.1,ddragon
+2024,14.09,item,Hullbreaker,hullbreaker,-1,0.15384615384615385,ddragon
+2024,14.09,item,Icathia's Curse,icathia's curse,1,0.16666666666666666,ddragon
+2024,14.09,item,Iceborn Gauntlet,iceborn gauntlet,1,0.16666666666666666,ddragon
+2024,14.09,item,Iceborn Gauntlet,iceborn gauntlet,1,0.16666666666666666,ddragon
+2024,14.09,item,Iceborn Gauntlet,iceborn gauntlet,-1,0.1,ddragon
+2024,14.09,item,Immortal Shieldbow,immortal shieldbow,1,0.16666666666666666,ddragon
+2024,14.09,item,Immortal Shieldbow,immortal shieldbow,1,0.16666666666666666,ddragon
+2024,14.09,item,Immortal Shieldbow,immortal shieldbow,-1,0.2,ddragon
+2024,14.09,item,Immortal Shieldbow,immortal shieldbow,-1,0.16666666666666582,ddragon
+2024,14.09,item,Imperial Mandate,imperial mandate,1,0.16666666666666666,ddragon
+2024,14.09,item,Imperial Mandate,imperial mandate,1,0.16666666666666666,ddragon
+2024,14.09,item,Imperial Mandate,imperial mandate,-1,0.25,ddragon
+2024,14.09,item,Infinite Convergence,infinite convergence,1,0.16666666666666666,ddragon
+2024,14.09,item,Infinity Edge,infinity edge,1,0.16666666666666666,ddragon
+2024,14.09,item,Infinity Edge,infinity edge,1,0.16666666666666666,ddragon
+2024,14.09,item,Infinity Edge,infinity edge,-1,0.15384615384615385,ddragon
+2024,14.09,item,Infinity Force,infinity force,1,0.16666666666666666,ddragon
+2024,14.09,item,Innervating Locket,innervating locket,0,1.0,ddragon
+2024,14.09,item,Ionian Boots of Lucidity,ionian boots of lucidity,1,0.5,ddragon
+2024,14.09,item,Ionian Boots of Lucidity,ionian boots of lucidity,1,0.5,ddragon
+2024,14.09,item,"Jak'Sho, The Protean","jak'sho, the protean",1,0.16666666666666666,ddragon
+2024,14.09,item,"Jak'Sho, The Protean","jak'sho, the protean",1,0.16666666666666666,ddragon
+2024,14.09,item,"Jak'Sho, The Protean","jak'sho, the protean",1,0.16666666666666666,ddragon
+2024,14.09,item,"Jak'Sho, The Protean","jak'sho, the protean",1,0.16666666666666666,ddragon
+2024,14.09,item,Juice of Haste,juice of haste,1,0.2857142857142857,ddragon
+2024,14.09,item,Juice of Haste,juice of haste,1,0.2857142857142857,ddragon
+2024,14.09,item,Juice of Power,juice of power,1,0.2857142857142857,ddragon
+2024,14.09,item,Juice of Power,juice of power,1,0.2857142857142857,ddragon
+2024,14.09,item,Juice of Vitality,juice of vitality,1,0.2857142857142857,ddragon
+2024,14.09,item,Juice of Vitality,juice of vitality,1,0.2857142857142857,ddragon
+2024,14.09,item,Kaenic Rookern,kaenic rookern,0,1.0,ddragon
+2024,14.09,item,Knight's Vow,knight's vow,1,0.16666666666666666,ddragon
+2024,14.09,item,Knight's Vow,knight's vow,1,0.16666666666666666,ddragon
+2024,14.09,item,Knight's Vow,knight's vow,-1,0.1111111111111111,ddragon
+2024,14.09,item,Knight's Vow,knight's vow,-1,0.2,ddragon
+2024,14.09,item,Kraken Slayer,kraken slayer,1,0.16666666666666666,ddragon
+2024,14.09,item,Kraken Slayer,kraken slayer,1,0.16666666666666666,ddragon
+2024,14.09,item,Kraken Slayer,kraken slayer,-1,0.3333333333333333,ddragon
+2024,14.09,item,Kraken Slayer,kraken slayer,1,0.16666666666666632,ddragon
+2024,14.09,item,Legendary Assassin Item,legendary assassin item,0,1.0,ddragon
+2024,14.09,item,Legendary Fighter Item,legendary fighter item,0,1.0,ddragon
+2024,14.09,item,Legendary Mage Item,legendary mage item,0,1.0,ddragon
+2024,14.09,item,Legendary Marksman Item,legendary marksman item,0,1.0,ddragon
+2024,14.09,item,Legendary Support Item,legendary support item,0,1.0,ddragon
+2024,14.09,item,Legendary Tank Item,legendary tank item,0,1.0,ddragon
+2024,14.09,item,Leviathan,leviathan,1,0.16666666666666666,ddragon
+2024,14.09,item,Liandry's Anguish,liandry's anguish,1,0.16666666666666666,ddragon
+2024,14.09,item,Liandry's Anguish,liandry's anguish,1,0.16666666666666666,ddragon
+2024,14.09,item,Liandry's Anguish,liandry's anguish,0,1.0,ddragon
+2024,14.09,item,Liandry's Lament,liandry's lament,1,0.16666666666666666,ddragon
+2024,14.09,item,Lich Bane,lich bane,1,0.16666666666666666,ddragon
+2024,14.09,item,Lich Bane,lich bane,1,0.16666666666666666,ddragon
+2024,14.09,item,Lich Bane,lich bane,-1,0.2,ddragon
+2024,14.09,item,Locket of the Iron Solari,locket of the iron solari,1,0.16666666666666666,ddragon
+2024,14.09,item,Locket of the Iron Solari,locket of the iron solari,1,0.16666666666666666,ddragon
+2024,14.09,item,Locket of the Iron Solari,locket of the iron solari,1,0.16666666666666666,ddragon
+2024,14.09,item,Locket of the Iron Solari,locket of the iron solari,1,0.16666666666666666,ddragon
+2024,14.09,item,Lord Dominik's Regards,lord dominik's regards,1,0.16666666666666666,ddragon
+2024,14.09,item,Lord Dominik's Regards,lord dominik's regards,1,0.16666666666666666,ddragon
+2024,14.09,item,Lord Dominik's Regards,lord dominik's regards,-1,0.25,ddragon
+2024,14.09,item,Lucky Dice,lucky dice,0,1.0,ddragon
+2024,14.09,item,Luden's Companion,luden's companion,1,0.16666666666666666,ddragon
+2024,14.09,item,Luden's Companion,luden's companion,1,0.16666666666666666,ddragon
+2024,14.09,item,Malignance,malignance,0,1.0,ddragon
+2024,14.09,item,Manamune,manamune,1,0.16666666666666666,ddragon
+2024,14.09,item,Manamune,manamune,1,0.16666666666666666,ddragon
+2024,14.09,item,Maw of Malmortius,maw of malmortius,1,1.0,both
+2024,14.09,item,Maw of Malmortius,maw of malmortius,1,1.0,both
+2024,14.09,item,Maw of Malmortius,maw of malmortius,-1,1.0,both
+2024,14.09,item,Maw of Malmortius,maw of malmortius,1,1.0,both
+2024,14.09,item,Maw of Malmortius,maw of malmortius,1,1.0,both
+2024,14.09,item,Maw of Malmortius,maw of malmortius,-1,1.0,both
+2024,14.09,item,Mercurial Scimitar,mercurial scimitar,1,0.16666666666666666,ddragon
+2024,14.09,item,Mercurial Scimitar,mercurial scimitar,1,0.16666666666666666,ddragon
+2024,14.09,item,Mercurial Scimitar,mercurial scimitar,1,0.125,ddragon
+2024,14.09,item,Mercury's Treads,mercury's treads,1,0.5,ddragon
+2024,14.09,item,Mercury's Treads,mercury's treads,1,0.5,ddragon
+2024,14.09,item,Mikael's Blessing,mikael's blessing,1,0.16666666666666666,ddragon
+2024,14.09,item,Mikael's Blessing,mikael's blessing,1,0.16666666666666666,ddragon
+2024,14.09,item,Mirage Blade,mirage blade,0,1.0,ddragon
+2024,14.09,item,Moonflair Spellblade,moonflair spellblade,0,1.0,ddragon
+2024,14.09,item,Moonstone Renewer,moonstone renewer,1,0.16666666666666666,ddragon
+2024,14.09,item,Moonstone Renewer,moonstone renewer,1,0.16666666666666666,ddragon
+2024,14.09,item,Moonstone Renewer,moonstone renewer,-1,0.3333333333333333,ddragon
+2024,14.09,item,Morellonomicon,morellonomicon,1,0.16666666666666666,ddragon
+2024,14.09,item,Morellonomicon,morellonomicon,1,0.16666666666666666,ddragon
+2024,14.09,item,Morellonomicon,morellonomicon,-1,0.2,ddragon
+2024,14.09,item,Mortal Reminder,mortal reminder,1,0.16666666666666666,ddragon
+2024,14.09,item,Mortal Reminder,mortal reminder,1,0.16666666666666666,ddragon
+2024,14.09,item,Mortal Reminder,mortal reminder,-1,0.1111111111111111,ddragon
+2024,14.09,item,Muramana,muramana,1,0.16666666666666666,ddragon
+2024,14.09,item,Muramana,muramana,1,0.16666666666666666,ddragon
+2024,14.09,item,Nashor's Tooth,nashor's tooth,1,0.16666666666666666,ddragon
+2024,14.09,item,Nashor's Tooth,nashor's tooth,1,0.16666666666666666,ddragon
+2024,14.09,item,Nashor's Tooth,nashor's tooth,-1,0.2222222222222222,ddragon
+2024,14.09,item,Navori Quickblades,navori quickblades,1,0.16666666666666666,ddragon
+2024,14.09,item,Navori Quickblades,navori quickblades,1,0.16666666666666666,ddragon
+2024,14.09,item,Navori Quickblades,navori quickblades,-1,0.18181818181818182,ddragon
+2024,14.09,item,Negatron Cloak,negatron cloak,0,1.0,ddragon
+2024,14.09,item,Night Harvester,night harvester,0,1.0,ddragon
+2024,14.09,item,Opportunity,opportunity,0,1.0,ddragon
+2024,14.09,item,Overlord's Bloodmail,overlord's bloodmail,0,1.0,ddragon
+2024,14.09,item,Perplexity,perplexity,1,0.16666666666666666,ddragon
+2024,14.09,item,Perplexity,perplexity,1,0.16666666666666666,ddragon
+2024,14.09,item,Perplexity,perplexity,-1,0.14285714285714285,ddragon
+2024,14.09,item,Perplexity,perplexity,-1,0.375,ddragon
+2024,14.09,item,Phantom Dancer,phantom dancer,1,0.16666666666666666,ddragon
+2024,14.09,item,Phantom Dancer,phantom dancer,1,0.16666666666666666,ddragon
+2024,14.09,item,Phantom Dancer,phantom dancer,-1,0.25,ddragon
+2024,14.09,item,Plated Steelcaps,plated steelcaps,1,0.5,ddragon
+2024,14.09,item,Plated Steelcaps,plated steelcaps,1,0.5,ddragon
+2024,14.09,item,Prismatic Item,prismatic item,0,1.0,ddragon
+2024,14.09,item,Profane Hydra,profane hydra,0,1.0,ddragon
+2024,14.09,item,Prowler's Claw,prowler's claw,0,1.0,ddragon
+2024,14.09,item,Rabadon's Deathcap,rabadon's deathcap,1,0.16666666666666666,ddragon
+2024,14.09,item,Rabadon's Deathcap,rabadon's deathcap,1,0.16666666666666666,ddragon
+2024,14.09,item,Rabadon's Deathcap,rabadon's deathcap,-1,0.125,ddragon
+2024,14.09,item,Radiant Virtue,radiant virtue,0,1.0,ddragon
+2024,14.09,item,Randuin's Omen,randuin's omen,1,0.16666666666666666,ddragon
+2024,14.09,item,Randuin's Omen,randuin's omen,1,0.16666666666666666,ddragon
+2024,14.09,item,Randuin's Omen,randuin's omen,-1,0.25,ddragon
+2024,14.09,item,Rapid Firecannon,rapid firecannon,1,0.16666666666666666,ddragon
+2024,14.09,item,Rapid Firecannon,rapid firecannon,1,0.16666666666666666,ddragon
+2024,14.09,item,Rapid Firecannon,rapid firecannon,1,0.49999999999999944,ddragon
+2024,14.09,item,Ravenous Hydra,ravenous hydra,1,0.16666666666666666,ddragon
+2024,14.09,item,Ravenous Hydra,ravenous hydra,1,0.16666666666666666,ddragon
+2024,14.09,item,Ravenous Hydra,ravenous hydra,-1,0.21428571428571427,ddragon
+2024,14.09,item,Reality Fracture,reality fracture,0,1.0,ddragon
+2024,14.09,item,Recurve Bow,recurve bow,0,1.0,ddragon
+2024,14.09,item,Redemption,redemption,1,0.16666666666666666,ddragon
+2024,14.09,item,Redemption,redemption,1,0.16666666666666666,ddragon
+2024,14.09,item,Redemption,redemption,-1,0.25,ddragon
+2024,14.09,item,Reliquary of the Golden Dawn,reliquary of the golden dawn,1,0.16666666666666666,ddragon
+2024,14.09,item,Riftmaker,riftmaker,1,0.16666666666666666,ddragon
+2024,14.09,item,Riftmaker,riftmaker,1,0.16666666666666666,ddragon
+2024,14.09,item,Riftmaker,riftmaker,-1,0.2222222222222222,ddragon
+2024,14.09,item,Riftmaker,riftmaker,-1,0.14285714285714285,ddragon
+2024,14.09,item,Rite Of Ruin,rite of ruin,1,0.16666666666666666,ddragon
+2024,14.09,item,Rite Of Ruin,rite of ruin,1,0.16666666666666666,ddragon
+2024,14.09,item,Rite Of Ruin,rite of ruin,-1,0.16666666666666666,ddragon
+2024,14.09,item,Rod of Ages,rod of ages,1,0.16666666666666666,ddragon
+2024,14.09,item,Rod of Ages,rod of ages,1,0.16666666666666666,ddragon
+2024,14.09,item,Rod of Ages,rod of ages,-1,0.125,ddragon
+2024,14.09,item,Rod of Ages,rod of ages,-1,0.125,ddragon
+2024,14.09,item,Rod of Ages,rod of ages,-1,0.14285714285714285,ddragon
+2024,14.09,item,Runaan's Hurricane,runaan's hurricane,1,0.16666666666666666,ddragon
+2024,14.09,item,Runaan's Hurricane,runaan's hurricane,1,0.16666666666666666,ddragon
+2024,14.09,item,Runaan's Hurricane,runaan's hurricane,-1,0.18181818181818182,ddragon
+2024,14.09,item,Runecarver,runecarver,0,1.0,ddragon
+2024,14.09,item,Rylai's Crystal Scepter,rylai's crystal scepter,1,0.16666666666666666,ddragon
+2024,14.09,item,Rylai's Crystal Scepter,rylai's crystal scepter,1,0.16666666666666666,ddragon
+2024,14.09,item,Rylai's Crystal Scepter,rylai's crystal scepter,-1,0.125,ddragon
+2024,14.09,item,Rylai's Crystal Scepter,rylai's crystal scepter,-1,0.14285714285714285,ddragon
+2024,14.09,item,Sanguine Gift,sanguine gift,0,1.0,ddragon
+2024,14.09,item,Seething Sorrow,seething sorrow,1,0.16666666666666666,ddragon
+2024,14.09,item,Seraph's Embrace,seraph's embrace,1,0.13793103448275862,ddragon
+2024,14.09,item,Seraph's Embrace,seraph's embrace,1,0.13793103448275862,ddragon
+2024,14.09,item,Seraph's Embrace,seraph's embrace,0,1.0,ddragon
+2024,14.09,item,Serpent's Fang,serpent's fang,1,0.16666666666666666,ddragon
+2024,14.09,item,Serpent's Fang,serpent's fang,1,0.16666666666666666,ddragon
+2024,14.09,item,Serpent's Fang,serpent's fang,-1,0.15384615384615385,ddragon
+2024,14.09,item,Serylda's Grudge,serylda's grudge,1,0.16666666666666666,ddragon
+2024,14.09,item,Serylda's Grudge,serylda's grudge,1,0.16666666666666666,ddragon
+2024,14.09,item,Serylda's Grudge,serylda's grudge,-1,0.1111111111111111,ddragon
+2024,14.09,item,Shadowflame,shadowflame,1,0.16666666666666666,ddragon
+2024,14.09,item,Shadowflame,shadowflame,1,0.16666666666666666,ddragon
+2024,14.09,item,Shadowflame,shadowflame,0,1.0,ddragon
+2024,14.09,item,Shield of Molten Stone,shield of molten stone,0,1.0,ddragon
+2024,14.09,item,Shurelya's Battlesong,shurelya's battlesong,1,0.16666666666666666,ddragon
+2024,14.09,item,Shurelya's Battlesong,shurelya's battlesong,1,0.16666666666666666,ddragon
+2024,14.09,item,Shurelya's Battlesong,shurelya's battlesong,0,1.0,ddragon
+2024,14.09,item,Shurelya's Battlesong,shurelya's battlesong,1,0.2222222222222222,ddragon
+2024,14.09,item,Shurelya's Requiem,shurelya's requiem,1,0.16666666666666666,ddragon
+2024,14.09,item,Sorcerer's Shoes,sorcerer's shoes,1,0.5,ddragon
+2024,14.09,item,Sorcerer's Shoes,sorcerer's shoes,1,0.5,ddragon
+2024,14.09,item,Spear of Shojin,spear of shojin,1,0.16666666666666666,ddragon
+2024,14.09,item,Spear of Shojin,spear of shojin,1,0.16666666666666666,ddragon
+2024,14.09,item,Spear of Shojin,spear of shojin,1,0.5,ddragon
+2024,14.09,item,Spear of Shojin,spear of shojin,-1,0.3333333333333333,ddragon
+2024,14.09,item,Spectral Cutlass,spectral cutlass,1,0.16666666666666666,ddragon
+2024,14.09,item,Spectral Cutlass,spectral cutlass,1,0.16666666666666666,ddragon
+2024,14.09,item,Spectral Cutlass,spectral cutlass,-1,0.21428571428571427,ddragon
+2024,14.09,item,Spirit Visage,spirit visage,1,0.16666666666666666,ddragon
+2024,14.09,item,Spirit Visage,spirit visage,1,0.16666666666666666,ddragon
+2024,14.09,item,Spirit Visage,spirit visage,-1,0.25,ddragon
+2024,14.09,item,Staff of Flowing Water,staff of flowing water,1,0.16666666666666666,ddragon
+2024,14.09,item,Staff of Flowing Water,staff of flowing water,1,0.16666666666666666,ddragon
+2024,14.09,item,Staff of Flowing Water,staff of flowing water,-1,0.14285714285714285,ddragon
+2024,14.09,item,Staff of Flowing Water,staff of flowing water,-1,0.33333333333333265,ddragon
+2024,14.09,item,Starcaster,starcaster,1,0.16666666666666666,ddragon
+2024,14.09,item,Stat Bonus,stat bonus,0,1.0,ddragon
+2024,14.09,item,Statikk Shiv,statikk shiv,1,0.16666666666666666,ddragon
+2024,14.09,item,Statikk Shiv,statikk shiv,1,0.16666666666666666,ddragon
+2024,14.09,item,Statikk Shiv,statikk shiv,-1,0.3,ddragon
+2024,14.09,item,Statikk Shiv,statikk shiv,-1,0.16666666666666632,ddragon
+2024,14.09,item,Sterak’s Gage,sterak's gage,1,1.0,both
+2024,14.09,item,Sterak’s Gage,sterak's gage,1,1.0,both
+2024,14.09,item,Stormrazor,stormrazor,1,0.16666666666666666,ddragon
+2024,14.09,item,Stormrazor,stormrazor,1,0.16666666666666666,ddragon
+2024,14.09,item,Stormrazor,stormrazor,-1,0.25,ddragon
+2024,14.09,item,Stormsurge,stormsurge,0,1.0,ddragon
+2024,14.09,item,Stridebreaker,stridebreaker,1,0.16666666666666666,ddragon
+2024,14.09,item,Stridebreaker,stridebreaker,1,0.16666666666666666,ddragon
+2024,14.09,item,Stridebreaker,stridebreaker,-1,0.16666666666666666,ddragon
+2024,14.09,item,Stridebreaker,stridebreaker,-1,0.25,ddragon
+2024,14.09,item,Sundered Sky,sundered sky,1,1.0,both
+2024,14.09,item,Sundered Sky,sundered sky,-1,1.0,both
+2024,14.09,item,Sunfire Aegis,sunfire aegis,1,0.16666666666666666,ddragon
+2024,14.09,item,Sunfire Aegis,sunfire aegis,1,0.16666666666666666,ddragon
+2024,14.09,item,Sunfire Aegis,sunfire aegis,-1,0.2,ddragon
+2024,14.09,item,Sunfire Aegis,sunfire aegis,-1,0.1,ddragon
+2024,14.09,item,Sword of Blossoming Dawn,sword of blossoming dawn,1,0.16666666666666666,ddragon
+2024,14.09,item,Sword of Blossoming Dawn,sword of blossoming dawn,1,0.16666666666666666,ddragon
+2024,14.09,item,Sword of Blossoming Dawn,sword of blossoming dawn,-1,0.25,ddragon
+2024,14.09,item,Sword of the Divine,sword of the divine,0,1.0,ddragon
+2024,14.09,item,Syzygy,syzygy,1,0.16666666666666666,ddragon
+2024,14.09,item,Syzygy,syzygy,1,0.2857142857142857,ddragon
+2024,14.09,item,Talisman Of Ascension,talisman of ascension,0,1.0,ddragon
+2024,14.09,item,Terminus,terminus,0,1.0,ddragon
+2024,14.09,item,The Collector,the collector,1,0.16666666666666666,ddragon
+2024,14.09,item,The Collector,the collector,1,0.16666666666666666,ddragon
+2024,14.09,item,The Collector,the collector,-1,0.18181818181818182,ddragon
+2024,14.09,item,The Unspoken Parasite,the unspoken parasite,1,0.16666666666666666,ddragon
+2024,14.09,item,Thornmail,thornmail,1,0.16666666666666666,ddragon
+2024,14.09,item,Thornmail,thornmail,1,0.16666666666666666,ddragon
+2024,14.09,item,Thornmail,thornmail,-1,0.14285714285714285,ddragon
+2024,14.09,item,Thornmail,thornmail,-1,0.14285714285714285,ddragon
+2024,14.09,item,Titanic Hydra,titanic hydra,1,0.16666666666666666,ddragon
+2024,14.09,item,Titanic Hydra,titanic hydra,1,0.16666666666666666,ddragon
+2024,14.09,item,Titanic Hydra,titanic hydra,-1,0.2,ddragon
+2024,14.09,item,Trailblazer,trailblazer,0,1.0,ddragon
+2024,14.09,item,Trinity Force,trinity force,1,0.16666666666666666,ddragon
+2024,14.09,item,Trinity Force,trinity force,1,0.16666666666666666,ddragon
+2024,14.09,item,Trinity Force,trinity force,-1,0.0990990990990991,ddragon
+2024,14.09,item,Trinity Force,trinity force,-1,0.09090909090909091,ddragon
+2024,14.09,item,Trinity Force,trinity force,-1,0.24242424242424243,ddragon
+2024,14.09,item,Turbo Chemtank,turbo chemtank,0,1.0,ddragon
+2024,14.09,item,Unending Despair,unending despair,0,1.0,ddragon
+2024,14.09,item,Upgraded Aeropack,upgraded aeropack,1,0.16666666666666666,ddragon
+2024,14.09,item,Void Staff,void staff,1,0.16666666666666666,ddragon
+2024,14.09,item,Void Staff,void staff,1,0.16666666666666666,ddragon
+2024,14.09,item,Void Staff,void staff,-1,0.13333333333333333,ddragon
+2024,14.09,item,Voltaic Cyclosword,voltaic cyclosword,0,1.0,ddragon
+2024,14.09,item,Winter's Approach,winter's approach,1,0.16666666666666666,ddragon
+2024,14.09,item,Winter's Approach,winter's approach,1,0.16666666666666666,ddragon
+2024,14.09,item,Wit's End,wit's end,1,0.16666666666666666,ddragon
+2024,14.09,item,Wit's End,wit's end,1,0.16666666666666666,ddragon
+2024,14.09,item,Wit's End,wit's end,0,1.0,ddragon
+2024,14.09,item,Wit's End,wit's end,1,0.24999999999999972,ddragon
+2024,14.09,item,Wordless Promise,wordless promise,1,0.16666666666666666,ddragon
+2024,14.09,item,Wordless Promise,wordless promise,1,0.16666666666666666,ddragon
+2024,14.09,item,Wordless Promise,wordless promise,-1,0.16666666666666666,ddragon
+2024,14.09,item,Youmuu's Ghostblade,youmuu's ghostblade,1,0.16666666666666666,ddragon
+2024,14.09,item,Youmuu's Ghostblade,youmuu's ghostblade,1,0.16666666666666666,ddragon
+2024,14.09,item,Youmuu's Wake,youmuu's wake,1,0.16666666666666666,ddragon
+2024,14.09,item,Zeke's Convergence,zeke's convergence,1,0.16666666666666666,ddragon
+2024,14.09,item,Zeke's Convergence,zeke's convergence,1,0.16666666666666666,ddragon
+2024,14.09,item,Zeke's Convergence,zeke's convergence,-1,0.25,ddragon
+2024,14.09,item,Zephyr,zephyr,1,0.16666666666666666,ddragon
+2024,14.09,item,Zephyr,zephyr,1,0.16666666666666666,ddragon
+2024,14.09,item,Zhonya's Hourglass,zhonya's hourglass,1,0.16666666666666666,ddragon
+2024,14.09,item,Zhonya's Hourglass,zhonya's hourglass,1,0.16666666666666666,ddragon
+2024,14.09,item,Zhonya's Hourglass,zhonya's hourglass,1,0.1111111111111111,ddragon
+2024,14.10,item,Abyssal Mask,abyssal mask,-1,1.0,both
+2024,14.10,item,Abyssal Mask,abyssal mask,-1,1.0,both
+2024,14.10,item,Abyssal Mask,abyssal mask,1,1.0,both
+2024,14.10,item,Abyssal Mask,abyssal mask,1,1.0,both
+2024,14.10,item,Abyssal Mask,abyssal mask,1,1.0,both
+2024,14.10,item,Anathema's Chains,anathema's chains,0,1.0,patch_notes
+2024,14.10,item,Bami's Cinder,bami's cinder,0,1.0,both
+2024,14.10,item,Bami's Cinder,bami's cinder,-1,1.0,both
+2024,14.10,item,Bami's Cinder,bami's cinder,-1,1.0,both
+2024,14.10,item,Banshee's Veil,banshee's veil,1,1.0,both
+2024,14.10,item,Black Cleaver,black cleaver,1,1.0,patch_notes
+2024,14.10,item,Black Cleaver,black cleaver,1,1.0,patch_notes
+2024,14.10,item,Blackfire Torch,blackfire torch,0,1.0,ddragon
+2024,14.10,item,Blackfire Torch,blackfire torch,0,1.0,ddragon
+2024,14.10,item,Blade of the Ruined King,blade of the ruined king,1,1.0,both
+2024,14.10,item,Blade of the Ruined King,blade of the ruined king,1,1.0,both
+2024,14.10,item,Blade of the Ruined King,blade of the ruined king,1,1.0,both
+2024,14.10,item,Blade of the Ruined King,blade of the ruined king,-1,1.0,both
+2024,14.10,item,Blade of the Ruined King,blade of the ruined king,-1,1.0,both
+2024,14.10,item,Blade of the Ruined King,blade of the ruined king,1,1.0,both
+2024,14.10,item,Bloodthirster,bloodthirster,-1,1.0,both
+2024,14.10,item,Bloodthirster,bloodthirster,1,1.0,both
+2024,14.10,item,Bloodthirster,bloodthirster,0,1.0,both
+2024,14.10,item,Commencing Stopwatch,commencing stopwatch,0,1.0,ddragon
+2024,14.10,item,Corrupting Potion,corrupting potion,0,1.0,patch_notes
+2024,14.10,item,Cruelty,cruelty,-1,0.2,ddragon
+2024,14.10,item,Dagger,dagger,-1,1.0,both
+2024,14.10,item,Dawncore,dawncore,0,1.0,both
+2024,14.10,item,Dawncore,dawncore,1,1.0,both
+2024,14.10,item,Dawncore,dawncore,-1,1.0,both
+2024,14.10,item,Dawncore,dawncore,-1,1.0,both
+2024,14.10,item,Dawncore,dawncore,0,1.0,both
+2024,14.10,item,Dawncore,dawncore,0,1.0,both
+2024,14.10,item,Daybreak,daybreak,1,0.16666666666666666,ddragon
+2024,14.10,item,Detonation Orb,detonation orb,-1,0.1,ddragon
+2024,14.10,item,Echoes of Helia,echoes of helia,-1,1.0,patch_notes
+2024,14.10,item,Echoes of Helia,echoes of helia,1,1.0,patch_notes
+2024,14.10,item,Echoes of Helia,echoes of helia,1,1.0,patch_notes
+2024,14.10,item,Edge of Finality,edge of finality,1,0.24999999999999947,ddragon
+2024,14.10,item,Edge of Finality,edge of finality,-1,0.030303030303030304,ddragon
+2024,14.10,item,Edge of Finality,edge of finality,1,0.24999999999999947,ddragon
+2024,14.10,item,Essence Reaver,essence reaver,-1,1.0,both
+2024,14.10,item,Essence Reaver,essence reaver,1,1.0,both
+2024,14.10,item,Essence Reaver,essence reaver,1,1.0,both
+2024,14.10,item,Essence Reaver,essence reaver,1,1.0,both
+2024,14.10,item,Essence Reaver,essence reaver,1,1.0,both
+2024,14.10,item,Experimental Hexplate,experimental hexplate,1,0.21428571428571427,ddragon
+2024,14.10,item,Eye of the Storm,eye of the storm,-1,0.03225806451612903,ddragon
+2024,14.10,item,Eye of the Storm,eye of the storm,1,0.24999999999999947,ddragon
+2024,14.10,item,Fated Ashes,fated ashes,0,1.0,ddragon
+2024,14.10,item,Fimbulwinter,fimbulwinter,1,1.0,both
+2024,14.10,item,Fimbulwinter,fimbulwinter,1,1.0,both
+2024,14.10,item,Flicker,flicker,1,0.24999999999999947,ddragon
+2024,14.10,item,Flicker,flicker,0,1.0,ddragon
+2024,14.10,item,Flicker,flicker,0,1.0,ddragon
+2024,14.10,item,Flicker,flicker,1,0.21212121212121213,ddragon
+2024,14.10,item,Flicker,flicker,1,0.24999999999999947,ddragon
+2024,14.10,item,Flicker,flicker,0,1.0,ddragon
+2024,14.10,item,Flicker,flicker,0,1.0,ddragon
+2024,14.10,item,Guardian's Blade,guardian's blade,-1,0.16666666666666666,ddragon
+2024,14.10,item,Guardian's Horn,guardian's horn,-1,0.14285714285714285,ddragon
+2024,14.10,item,Guardian's Orb,guardian's orb,-1,0.15384615384615385,ddragon
+2024,14.10,item,Guardian's Shroud,guardian's shroud,-1,0.14285714285714285,ddragon
+2024,14.10,item,Hamstringer,hamstringer,1,0.24999999999999947,ddragon
+2024,14.10,item,Hearthbound Axe,hearthbound axe,1,1.0,both
+2024,14.10,item,Hearthbound Axe,hearthbound axe,1,1.0,both
+2024,14.10,item,Hearthbound Axe,hearthbound axe,1,1.0,both
+2024,14.10,item,Hearthbound Axe,hearthbound axe,-1,1.0,both
+2024,14.10,item,Hollow Radiance,hollow radiance,-1,1.0,both
+2024,14.10,item,Horizon Focus,horizon focus,-1,0.2,ddragon
+2024,14.10,item,Immortal Shieldbow,immortal shieldbow,1,1.0,both
+2024,14.10,item,Immortal Shieldbow,immortal shieldbow,1,1.0,both
+2024,14.10,item,Immortal Shieldbow,immortal shieldbow,1,1.0,both
+2024,14.10,item,Immortal Shieldbow,immortal shieldbow,0,1.0,both
+2024,14.10,item,Infinity Edge,infinity edge,1,1.0,both
+2024,14.10,item,Infinity Edge,infinity edge,1,1.0,both
+2024,14.10,item,Infinity Edge,infinity edge,1,1.0,both
+2024,14.10,item,Innervating Locket,innervating locket,-1,0.125,ddragon
+2024,14.10,item,Kircheis Shard,kircheis shard,0,1.0,patch_notes
+2024,14.10,item,Knight's Vow,knight's vow,0,1.0,both
+2024,14.10,item,Knight's Vow,knight's vow,-1,1.0,both
+2024,14.10,item,Knight's Vow,knight's vow,1,1.0,both
+2024,14.10,item,Kraken Slayer,kraken slayer,-1,1.0,both
+2024,14.10,item,Kraken Slayer,kraken slayer,1,1.0,both
+2024,14.10,item,Kraken Slayer,kraken slayer,0,1.0,both
+2024,14.10,item,Kraken Slayer,kraken slayer,1,1.0,both
+2024,14.10,item,Kraken Slayer,kraken slayer,1,1.0,both
+2024,14.10,item,Kraken Slayer,kraken slayer,0,1.0,both
+2024,14.10,item,Liandry's Torment,liandry's torment,-1,1.0,both
+2024,14.10,item,Lord Dominik's Regards,lord dominik's regards,1,1.0,both
+2024,14.10,item,Lord Dominik's Regards,lord dominik's regards,1,1.0,both
+2024,14.10,item,Lord Dominik's Regards,lord dominik's regards,1,1.0,both
+2024,14.10,item,Luden's Companion,luden's companion,1,1.0,patch_notes
+2024,14.10,item,Luden's Companion,luden's companion,1,1.0,patch_notes
+2024,14.10,item,Mercurial Scimitar,mercurial scimitar,0,1.0,both
+2024,14.10,item,Mercurial Scimitar,mercurial scimitar,1,1.0,both
+2024,14.10,item,Mercurial Scimitar,mercurial scimitar,0,1.0,both
+2024,14.10,item,Mobility Boots,mobility boots,-1,0.6086956521739131,ddragon
+2024,14.10,item,Moonflair Spellblade,moonflair spellblade,0,1.0,ddragon
+2024,14.10,item,Mortal Reminder,mortal reminder,1,1.0,both
+2024,14.10,item,Navori Flickerblade,navori flickerblade,1,0.24999999999999947,ddragon
+2024,14.10,item,Navori Flickerblade,navori flickerblade,0,1.0,ddragon
+2024,14.10,item,Navori Flickerblade,navori flickerblade,0,1.0,ddragon
+2024,14.10,item,Navori Flickerblade,navori flickerblade,0,1.0,ddragon
+2024,14.10,item,Navori Flickerblade,navori flickerblade,-1,2.0,ddragon
+2024,14.10,item,Navori Flickerblade,navori flickerblade,1,0.21212121212121213,ddragon
+2024,14.10,item,Navori Flickerblade,navori flickerblade,1,0.24999999999999947,ddragon
+2024,14.10,item,Navori Flickerblade,navori flickerblade,0,1.0,ddragon
+2024,14.10,item,Navori Flickerblade,navori flickerblade,0,1.0,ddragon
+2024,14.10,item,Navori Flickerblade,navori flickerblade,0,1.0,ddragon
+2024,14.10,item,Needlessly Large Rod,needlessly large rod,-1,0.2,ddragon
+2024,14.10,item,Noonquiver,noonquiver,1,1.0,both
+2024,14.10,item,Ornn Upgrade,ornn upgrade,1,1.0,patch_notes
+2024,14.10,item,Overlord's Bloodmail,overlord's bloodmail,0,1.0,ddragon
+2024,14.10,item,Perfectly Timed Stopwatch,perfectly timed stopwatch,0,1.0,ddragon
+2024,14.10,item,Phantom Dancer,phantom dancer,1,1.0,both
+2024,14.10,item,Phantom Dancer,phantom dancer,-1,1.0,both
+2024,14.10,item,Phantom Dancer,phantom dancer,1,1.0,both
+2024,14.10,item,Phantom Dancer,phantom dancer,1,1.0,both
+2024,14.10,item,Phantom Dancer,phantom dancer,0,1.0,both
+2024,14.10,item,Phantom Dancer,phantom dancer,1,1.0,both
+2024,14.10,item,Plated Steelcaps,plated steelcaps,1,0.2,ddragon
+2024,14.10,item,Plated Steelcaps,plated steelcaps,1,0.09090909090909091,ddragon
+2024,14.10,item,Plated Steelcaps,plated steelcaps,1,0.25,ddragon
+2024,14.10,item,Randuin's Omen,randuin's omen,-1,1.0,both
+2024,14.10,item,Randuin's Omen,randuin's omen,1,1.0,both
+2024,14.10,item,Randuin's Omen,randuin's omen,1,1.0,both
+2024,14.10,item,Randuin's Omen,randuin's omen,1,1.0,both
+2024,14.10,item,Rapid Firecannon,rapid firecannon,-1,1.0,both
+2024,14.10,item,Rapid Firecannon,rapid firecannon,-1,1.0,both
+2024,14.10,item,Rapid Firecannon,rapid firecannon,1,1.0,both
+2024,14.10,item,Rapid Firecannon,rapid firecannon,0,1.0,both
+2024,14.10,item,Rapid Firecannon,rapid firecannon,1,1.0,both
+2024,14.10,item,Recurve Bow,recurve bow,0,1.0,patch_notes
+2024,14.10,item,Runaan's Hurricane,runaan's hurricane,-1,1.0,both
+2024,14.10,item,Runaan's Hurricane,runaan's hurricane,-1,1.0,both
+2024,14.10,item,Runaan's Hurricane,runaan's hurricane,0,1.0,both
+2024,14.10,item,Runaan's Hurricane,runaan's hurricane,1,1.0,both
+2024,14.10,item,Runaan's Hurricane,runaan's hurricane,1,1.0,both
+2024,14.10,item,Sanguine Gift,sanguine gift,-1,0.1111111111111111,ddragon
+2024,14.10,item,Scout's Slingshot,scout's slingshot,0,1.0,ddragon
+2024,14.10,item,Shurelya's Battlesong,shurelya's battlesong,-1,1.0,both
+2024,14.10,item,Shurelya's Battlesong,shurelya's battlesong,-1,1.0,both
+2024,14.10,item,Shurelya's Requiem,shurelya's requiem,-1,0.375,ddragon
+2024,14.10,item,Shurelya's Requiem,shurelya's requiem,-1,0.07142857142857142,ddragon
+2024,14.10,item,Shurelya's Requiem,shurelya's requiem,-1,0.3,ddragon
+2024,14.10,item,Statikk Shiv,statikk shiv,1,1.0,both
+2024,14.10,item,Statikk Shiv,statikk shiv,0,1.0,both
+2024,14.10,item,Statikk Shiv,statikk shiv,1,1.0,both
+2024,14.10,item,Stormrazor,stormrazor,0,1.0,both
+2024,14.10,item,Sundered Sky,sundered sky,-1,0.125,ddragon
+2024,14.10,item,Sunfire Aegis,sunfire aegis,-1,1.0,both
+2024,14.10,item,Symbiotic Soles,symbiotic soles,0,1.0,ddragon
+2024,14.10,item,Synchronized Souls,synchronized souls,0,1.0,ddragon
+2024,14.10,item,Terminus,terminus,1,1.0,both
+2024,14.10,item,Terminus,terminus,-1,1.0,both
+2024,14.10,item,Terminus,terminus,1,1.0,both
+2024,14.10,item,The Collector,the collector,-1,1.0,both
+2024,14.10,item,The Collector,the collector,1,1.0,both
+2024,14.10,item,The Collector,the collector,1,1.0,both
+2024,14.10,item,The Collector,the collector,-1,1.0,both
+2024,14.10,item,The Collector,the collector,1,1.0,both
+2024,14.10,item,Trinity Force,trinity force,1,0.819672131147541,ddragon
+2024,14.10,item,Unending Despair,unending despair,-1,1.0,patch_notes
+2024,14.10,item,Verdant Barrier,verdant barrier,-1,1.0,both
+2024,14.10,item,Verdant Barrier,verdant barrier,-1,1.0,both
+2024,14.10,item,Voltaic Cyclosword,voltaic cyclosword,0,1.0,patch_notes
+2024,14.10,item,Warmog's Armor,warmog's armor,1,1.0,both
+2024,14.10,item,Warmog's Armor,warmog's armor,-1,1.0,both
+2024,14.10,item,Winter's Approach,winter's approach,0,1.0,both
+2024,14.10,item,Winter's Approach,winter's approach,1,1.0,both
+2024,14.10,item,Winter's Approach,winter's approach,1,1.0,both
+2024,14.10,item,Wyrmfallen Sacrifice,wyrmfallen sacrifice,-1,0.03333333333333333,ddragon
+2024,14.10,item,Wyrmfallen Sacrifice,wyrmfallen sacrifice,0,1.0,ddragon
+2024,14.10,item,Wyrmfallen Sacrifice,wyrmfallen sacrifice,1,0.22222222222222224,ddragon
+2024,14.10,item,Wyrmfallen Sacrifice,wyrmfallen sacrifice,0,1.0,ddragon
+2024,14.10,item,Yun Tal Wildarrows,yun tal wildarrows,0,1.0,ddragon
+2024,14.10,item,Yun Tal Wildarrows,yun tal wildarrows,0,1.0,ddragon
+2024,14.10,item,Zeal,zeal,1,1.0,both
+2024,14.10,item,Zeke's Convergence,zeke's convergence,0,1.0,both
+2024,14.10,item,Zeke's Convergence,zeke's convergence,1,1.0,both
+2024,14.10,item,Zeke's Convergence,zeke's convergence,-1,1.0,both
+2024,14.10,item,Zeke's Convergence,zeke's convergence,-1,1.0,both
+2024,14.10,item,Zeke's Convergence,zeke's convergence,0,1.0,both
+2024,14.10,item,Zephyr,zephyr,0,1.0,both
+2024,14.10,item,new Blackfire Torch,new blackfire torch,0,1.0,patch_notes
+2024,14.10,item,new Fated Ashes,new fated ashes,0,1.0,patch_notes
+2024,14.10,item,new Navori Flickerblade (Navori Quickblades),new navori flickerblade (navori quickblades),1,1.0,patch_notes
+2024,14.10,item,new Navori Flickerblade (Navori Quickblades),new navori flickerblade (navori quickblades),-1,1.0,patch_notes
+2024,14.10,item,new Navori Flickerblade (Navori Quickblades),new navori flickerblade (navori quickblades),1,1.0,patch_notes
+2024,14.10,item,new Navori Flickerblade (Navori Quickblades),new navori flickerblade (navori quickblades),1,1.0,patch_notes
+2024,14.10,item,new Navori Flickerblade (Navori Quickblades),new navori flickerblade (navori quickblades),0,1.0,patch_notes
+2024,14.10,item,new Navori Flickerblade (Navori Quickblades),new navori flickerblade (navori quickblades),0,1.0,patch_notes
+2024,14.10,item,new Overlord's Bloodmail,new overlord's bloodmail,0,1.0,patch_notes
+2024,14.10,item,new Scout's Slingshot,new scout's slingshot,0,1.0,patch_notes
+2024,14.10,item,new Yun Tal Wildarrows,new yun tal wildarrows,0,1.0,patch_notes
+2024,14.11,item,Atma's Reckoning,atma's reckoning,1,0.33333333333333337,ddragon
+2024,14.11,item,Blackfire Torch,blackfire torch,-1,1.0,patch_notes
+2024,14.11,item,Celestial Opposition,celestial opposition,0,1.0,patch_notes
+2024,14.11,item,Darksteel Talons,darksteel talons,-1,0.15384615384615385,ddragon
+2024,14.11,item,Darksteel Talons,darksteel talons,-1,0.1666666666666665,ddragon
+2024,14.11,item,Demonic Embrace,demonic embrace,1,0.14285714285714285,ddragon
+2024,14.11,item,Eclipse,eclipse,-1,0.16666666666666666,ddragon
+2024,14.11,item,Eleisa's Miracle,eleisa's miracle,-1,0.07142857142857142,ddragon
+2024,14.11,item,Eleisa's Miracle,eleisa's miracle,-1,0.07142857142857142,ddragon
+2024,14.11,item,Essence Reaver,essence reaver,-1,1.0,both
+2024,14.11,item,Fated Ashes,fated ashes,-1,1.0,both
+2024,14.11,item,Fated Ashes,fated ashes,-1,1.0,both
+2024,14.11,item,Force Of Entropy,force of entropy,-1,0.16666666666666632,ddragon
+2024,14.11,item,Galeforce,galeforce,1,0.24999999999999947,ddragon
+2024,14.11,item,Galeforce,galeforce,1,0.08333333333333333,ddragon
+2024,14.11,item,Guardian's Hammer,guardian's hammer,-1,0.375,ddragon
+2024,14.11,item,Guardian's Hammer,guardian's hammer,-1,0.2857142857142857,ddragon
+2024,14.11,item,Immortal Shieldbow,immortal shieldbow,0,1.0,both
+2024,14.11,item,Infinity Edge,infinity edge,-1,1.0,patch_notes
+2024,14.11,item,Knight's Vow,knight's vow,-1,1.0,both
+2024,14.11,item,Knight's Vow,knight's vow,-1,1.0,both
+2024,14.11,item,Liandry's Lament,liandry's lament,-1,0.16666666666666666,ddragon
+2024,14.11,item,Liandry's Torment,liandry's torment,-1,0.16666666666666666,ddragon
+2024,14.11,item,Liandry's Torment,liandry's torment,-1,0.16666666666666666,ddragon
+2024,14.11,item,Mirage Blade,mirage blade,1,0.19999999999999898,ddragon
+2024,14.11,item,Rite Of Ruin,rite of ruin,1,0.24999999999999947,ddragon
+2024,14.11,item,Serrated Dirk,serrated dirk,-1,1.0,patch_notes
+2024,14.11,item,Statikk Shiv,statikk shiv,-1,1.0,both
+2024,14.11,item,Statikk Shiv,statikk shiv,-1,1.0,both
+2024,14.11,item,Statikk Shiv,statikk shiv,1,1.0,both
+2024,14.11,item,Statikk Shiv,statikk shiv,1,1.0,both
+2024,14.11,item,Statikk Shiv,statikk shiv,1,1.0,both
+2024,14.11,item,Voltaic Cyclosword,voltaic cyclosword,1,0.1111111111111111,ddragon
+2024,14.11,item,Zeal,zeal,-1,1.0,both
+2024,14.11,rune,Absorb Life,absorb life,0,1.0,patch_notes
+2024,14.11,rune,Cut Down,cut down,0,1.0,patch_notes
+2024,14.12,item,Dawncore,dawncore,1,0.5,ddragon
+2024,14.12,item,Duskblade of Draktharr,duskblade of draktharr,-1,0.08333333333333333,ddragon
+2024,14.12,item,Gambler's Blade,gambler's blade,1,0.1666666666666665,ddragon
+2024,14.12,item,Gargoyle Stoneplate,gargoyle stoneplate,-1,0.16666666666666666,ddragon
+2024,14.12,item,Gargoyle Stoneplate,gargoyle stoneplate,-1,0.16666666666666666,ddragon
+2024,14.12,item,Lord Dominik's Regards,lord dominik's regards,-1,1.0,both
+2024,14.12,item,Moonflair Spellblade,moonflair spellblade,1,0.14285714285714285,ddragon
+2024,14.12,item,Moonflair Spellblade,moonflair spellblade,1,0.21428571428571427,ddragon
+2024,14.12,item,Noonquiver,noonquiver,-1,1.0,both
+2024,14.12,item,Noonquiver,noonquiver,-1,1.0,both
+2024,14.12,item,Prowler's Claw,prowler's claw,-1,0.07142857142857142,ddragon
+2024,14.12,item,Rapid Firecannon,rapid firecannon,-1,0.16666666666666666,ddragon
+2024,14.12,item,Runaan's Hurricane,runaan's hurricane,-1,0.16666666666666666,ddragon
+2024,14.12,item,Scout's Slingshot,scout's slingshot,-1,1.0,both
+2024,14.12,item,Serylda’s Grudge,serylda's grudge,1,1.0,patch_notes
+2024,14.12,item,Statikk Shiv,statikk shiv,-1,1.0,both
+2024,14.12,item,Void Staff,void staff,1,1.0,both
+2024,14.12,rune,First Strike,first strike,-1,1.0,patch_notes
+2024,14.12,rune,First Strike,first strike,-1,1.0,patch_notes
+2024,14.13,item,Ataraxia,ataraxia,0,1.0,ddragon
+2024,14.13,item,Ataraxia,ataraxia,0,1.0,ddragon
+2024,14.13,item,Caesura,caesura,0,1.0,ddragon
+2024,14.13,item,Caesura,caesura,0,1.0,ddragon
+2024,14.13,item,Ceaseless Hunger,ceaseless hunger,0,1.0,ddragon
+2024,14.13,item,Ceaseless Hunger,ceaseless hunger,0,1.0,ddragon
+2024,14.13,item,Certainty,certainty,0,1.0,ddragon
+2024,14.13,item,Cry of the Shrieking City,cry of the shrieking city,0,1.0,ddragon
+2024,14.13,item,Cry of the Shrieking City,cry of the shrieking city,0,1.0,ddragon
+2024,14.13,item,Daybreak,daybreak,0,1.0,ddragon
+2024,14.13,item,Deicide,deicide,0,1.0,ddragon
+2024,14.13,item,Deicide,deicide,0,1.0,ddragon
+2024,14.13,item,Draktharr's Shadowcarver,draktharr's shadowcarver,0,1.0,ddragon
+2024,14.13,item,Draktharr's Shadowcarver,draktharr's shadowcarver,0,1.0,ddragon
+2024,14.13,item,Dreamshatter,dreamshatter,0,1.0,ddragon
+2024,14.13,item,Dreamshatter,dreamshatter,0,1.0,ddragon
+2024,14.13,item,Edge of Finality,edge of finality,0,1.0,ddragon
+2024,14.13,item,Edge of Finality,edge of finality,0,1.0,ddragon
+2024,14.13,item,Enmity of the Masses,enmity of the masses,0,1.0,ddragon
+2024,14.13,item,Equinox,equinox,0,1.0,ddragon
+2024,14.13,item,Equinox,equinox,0,1.0,ddragon
+2024,14.13,item,Eternal Winter,eternal winter,0,1.0,ddragon
+2024,14.13,item,Eternal Winter,eternal winter,0,1.0,ddragon
+2024,14.13,item,Eye of the Storm,eye of the storm,0,1.0,ddragon
+2024,14.13,item,Flicker,flicker,0,1.0,ddragon
+2024,14.13,item,Flicker,flicker,0,1.0,ddragon
+2024,14.13,item,Force of Arms,force of arms,0,1.0,ddragon
+2024,14.13,item,Force of Arms,force of arms,0,1.0,ddragon
+2024,14.13,item,Frozen Fist,frozen fist,0,1.0,ddragon
+2024,14.13,item,Frozen Fist,frozen fist,0,1.0,ddragon
+2024,14.13,item,Hamstringer,hamstringer,-1,0.1,ddragon
+2024,14.13,item,Heavensfall,heavensfall,0,1.0,ddragon
+2024,14.13,item,Hope Adrift,hope adrift,0,1.0,ddragon
+2024,14.13,item,Icathia's Curse,icathia's curse,0,1.0,ddragon
+2024,14.13,item,Icathia's Curse,icathia's curse,0,1.0,ddragon
+2024,14.13,item,Infinite Convergence,infinite convergence,0,1.0,ddragon
+2024,14.13,item,Infinite Convergence,infinite convergence,0,1.0,ddragon
+2024,14.13,item,Infinity Force,infinity force,0,1.0,ddragon
+2024,14.13,item,Infinity Force,infinity force,0,1.0,ddragon
+2024,14.13,item,Leviathan,leviathan,0,1.0,ddragon
+2024,14.13,item,Leviathan,leviathan,0,1.0,ddragon
+2024,14.13,item,Liandry's Lament,liandry's lament,0,1.0,ddragon
+2024,14.13,item,Liandry's Lament,liandry's lament,0,1.0,ddragon
+2024,14.13,item,Obsidian Cleaver,obsidian cleaver,0,1.0,ddragon
+2024,14.13,item,Opportunity,opportunity,0,1.0,patch_notes
+2024,14.13,item,Opportunity,opportunity,1,1.0,patch_notes
+2024,14.13,item,Overlord's Bloodmail,overlord's bloodmail,1,0.2222222222222222,ddragon
+2024,14.13,item,Primordial Dawn,primordial dawn,0,1.0,ddragon
+2024,14.13,item,Primordial Dawn,primordial dawn,0,1.0,ddragon
+2024,14.13,item,Rabadon's Deathcrown,rabadon's deathcrown,0,1.0,ddragon
+2024,14.13,item,Reliquary of the Golden Dawn,reliquary of the golden dawn,0,1.0,ddragon
+2024,14.13,item,Reliquary of the Golden Dawn,reliquary of the golden dawn,0,1.0,ddragon
+2024,14.13,item,Sandshrike's Claw,sandshrike's claw,0,1.0,ddragon
+2024,14.13,item,Seething Sorrow,seething sorrow,0,1.0,ddragon
+2024,14.13,item,Seething Sorrow,seething sorrow,0,1.0,ddragon
+2024,14.13,item,Shojin's Resolve,shojin's resolve,0,1.0,ddragon
+2024,14.13,item,Shurelya's Requiem,shurelya's requiem,0,1.0,ddragon
+2024,14.13,item,Shurelya's Requiem,shurelya's requiem,0,1.0,ddragon
+2024,14.13,item,Starcaster,starcaster,0,1.0,ddragon
+2024,14.13,item,Starcaster,starcaster,0,1.0,ddragon
+2024,14.13,item,Swordnado,swordnado,0,1.0,ddragon
+2024,14.13,item,Syzygy,syzygy,0,1.0,ddragon
+2024,14.13,item,Syzygy,syzygy,0,1.0,ddragon
+2024,14.13,item,T.U.R.B.O.,t.u.r.b.o.,0,1.0,ddragon
+2024,14.13,item,The Baron's Gift,the baron's gift,0,1.0,ddragon
+2024,14.13,item,The Unspoken Parasite,the unspoken parasite,0,1.0,ddragon
+2024,14.13,item,The Unspoken Parasite,the unspoken parasite,0,1.0,ddragon
+2024,14.13,item,Typhoon,typhoon,0,1.0,ddragon
+2024,14.13,item,Typhoon,typhoon,0,1.0,ddragon
+2024,14.13,item,Upgraded Aeropack,upgraded aeropack,0,1.0,ddragon
+2024,14.13,item,Upgraded Aeropack,upgraded aeropack,0,1.0,ddragon
+2024,14.13,item,Vespertide,vespertide,0,1.0,ddragon
+2024,14.13,item,Vespertide,vespertide,0,1.0,ddragon
+2024,14.13,item,Wyrmfallen Sacrifice,wyrmfallen sacrifice,0,1.0,ddragon
+2024,14.13,item,Youmuu's Wake,youmuu's wake,0,1.0,ddragon
+2024,14.13,item,Youmuu's Wake,youmuu's wake,0,1.0,ddragon
+2024,14.13,rune,Dark Harvest,dark harvest,0,1.0,patch_notes
+2024,14.13,rune,Dark Harvest,dark harvest,-1,1.0,patch_notes
+2024,14.13,rune,Electrocute,electrocute,1,1.0,patch_notes
+2024,14.13,rune,Electrocute,electrocute,-1,1.0,patch_notes
+2024,14.14,item,Ani-Mines,ani-mines,0,1.0,ddragon
+2024,14.14,item,Anima Echo,anima echo,0,1.0,ddragon
+2024,14.14,item,Animapocalypse,animapocalypse,0,1.0,ddragon
+2024,14.14,item,Anti-Shark Sea Mine,anti-shark sea mine,0,1.0,ddragon
+2024,14.14,item,Battle Bunny Crossbow,battle bunny crossbow,0,1.0,ddragon
+2024,14.14,item,Battle Cat Barrage,battle cat barrage,0,1.0,ddragon
+2024,14.14,item,Bearfoot Chem-Dispenser,bearfoot chem-dispenser,0,1.0,ddragon
+2024,14.14,item,Blade-o-rang,blade-o-rang,0,1.0,ddragon
+2024,14.14,item,Bunny Hop,bunny hop,0,1.0,ddragon
+2024,14.14,item,Bunny Mega-Blast,bunny mega-blast,0,1.0,ddragon
+2024,14.14,item,Bunny Prime Ballista,bunny prime ballista,0,1.0,ddragon
+2024,14.14,item,Carrot Crash,carrot crash,0,1.0,ddragon
+2024,14.14,item,Cyclonic Slicers,cyclonic slicers,0,1.0,ddragon
+2024,14.14,item,Deep Freeze,deep freeze,0,1.0,ddragon
+2024,14.14,item,Double Bun-Bun Barrage,double bun-bun barrage,0,1.0,ddragon
+2024,14.14,item,Duskblade of Draktharr,duskblade of draktharr,-1,0.09090909090909091,ddragon
+2024,14.14,item,Echoing Batblades,echoing batblades,0,1.0,ddragon
+2024,14.14,item,Enveloping Light,enveloping light,0,1.0,ddragon
+2024,14.14,item,Evolved Embershot,evolved embershot,0,1.0,ddragon
+2024,14.14,item,Explosive Embrace,explosive embrace,0,1.0,ddragon
+2024,14.14,item,FC Limited Express,fc limited express,0,1.0,ddragon
+2024,14.14,item,Final City Transit,final city transit,0,1.0,ddragon
+2024,14.14,item,Gargoyle Stoneplate,gargoyle stoneplate,-1,0.13333333333333333,ddragon
+2024,14.14,item,Gargoyle Stoneplate,gargoyle stoneplate,-1,0.13333333333333333,ddragon
+2024,14.14,item,Gatling Bunny-Guns,gatling bunny-guns,0,1.0,ddragon
+2024,14.14,item,Grizzly Smash,grizzly smash,0,1.0,ddragon
+2024,14.14,item,Guiding Hex,guiding hex,0,1.0,ddragon
+2024,14.14,item,Hopped-Up Hex,hopped-up hex,0,1.0,ddragon
+2024,14.14,item,Iceblast Armor,iceblast armor,0,1.0,ddragon
+2024,14.14,item,Item Nerfs,item nerfs,-1,1.0,patch_notes
+2024,14.14,item,Item Nerfs,item nerfs,-1,1.0,patch_notes
+2024,14.14,item,Item Nerfs,item nerfs,-1,1.0,patch_notes
+2024,14.14,item,Item Nerfs,item nerfs,-1,1.0,patch_notes
+2024,14.14,item,Item Nerfs,item nerfs,-1,1.0,patch_notes
+2024,14.14,item,Item Nerfs,item nerfs,-1,1.0,patch_notes
+2024,14.14,item,Jinx's Tri-Namite,jinx's tri-namite,0,1.0,ddragon
+2024,14.14,item,Light of the Lion,light of the lion,0,1.0,ddragon
+2024,14.14,item,Lioness's Lament,lioness's lament,0,1.0,ddragon
+2024,14.14,item,Locked Weapon Slot,locked weapon slot,0,1.0,ddragon
+2024,14.14,item,Lover's Ricochet,lover's ricochet,0,1.0,ddragon
+2024,14.14,item,Meow Meow,meow meow,0,1.0,ddragon
+2024,14.14,item,Neverending Mobstomper,neverending mobstomper,0,1.0,ddragon
+2024,14.14,item,OwO Blaster,owo blaster,0,1.0,ddragon
+2024,14.14,item,Paw Print Poisoner,paw print poisoner,0,1.0,ddragon
+2024,14.14,item,Pillory Swipe,pillory swipe,0,1.0,ddragon
+2024,14.14,item,Prowler's Claw,prowler's claw,-1,0.07692307692307693,ddragon
+2024,14.14,item,Prumbis's Electrocarver,prumbis's electrocarver,0,1.0,ddragon
+2024,14.14,item,Quad-o-rang,quad-o-rang,0,1.0,ddragon
+2024,14.14,item,Radiant Field,radiant field,0,1.0,ddragon
+2024,14.14,item,Rapid Rabbit Raindown,rapid rabbit raindown,0,1.0,ddragon
+2024,14.14,item,Savage Slice,savage slice,0,1.0,ddragon
+2024,14.14,item,Searing Shortbow,searing shortbow,0,1.0,ddragon
+2024,14.14,item,Shield Slam,shield slam,0,1.0,ddragon
+2024,14.14,item,Sound Wave,sound wave,0,1.0,ddragon
+2024,14.14,item,Statikk Sword,statikk sword,0,1.0,ddragon
+2024,14.14,item,Steel Tempest,steel tempest,0,1.0,ddragon
+2024,14.14,item,T.I.B.B.E.R.S,t.i.b.b.e.r.s,0,1.0,ddragon
+2024,14.14,item,T.I.B.B.E.R.S (B.E.E.G Edition),t.i.b.b.e.r.s (b.e.e.g edition),0,1.0,ddragon
+2024,14.14,item,Tempest's Gauntlet,tempest's gauntlet,0,1.0,ddragon
+2024,14.14,item,Tentacle Slam,tentacle slam,0,1.0,ddragon
+2024,14.14,item,The Annihilator,the annihilator,0,1.0,ddragon
+2024,14.14,item,Unceasing Cyclone,unceasing cyclone,0,1.0,ddragon
+2024,14.14,item,UwU Blaster,uwu blaster,0,1.0,ddragon
+2024,14.14,item,Vayne's Chromablades,vayne's chromablades,0,1.0,ddragon
+2024,14.14,item,Vortex Glove,vortex glove,0,1.0,ddragon
+2024,14.14,item,Wandering Storms,wandering storms,0,1.0,ddragon
+2024,14.14,item,Warmog's Armor,warmog's armor,1,1.0,patch_notes
+2024,14.14,item,Winged Dagger,winged dagger,0,1.0,ddragon
+2024,14.14,item,YuumiBot,yuumibot,0,1.0,ddragon
+2024,14.14,item,YuumiBot_Final_FINAL,yuumibot_final_final,0,1.0,ddragon
+2024,14.14,rune,Absorb Life,absorb life,-1,1.0,patch_notes
+2024,14.15,item,Abyssal Mask,abyssal mask,1,1.0,both
+2024,14.15,item,Abyssal Mask,abyssal mask,1,1.0,both
+2024,14.15,item,Abyssal Mask,abyssal mask,1,1.0,both
+2024,14.15,item,Aegis of the Legion,aegis of the legion,-1,0.1111111111111111,ddragon
+2024,14.15,item,Aegis of the Legion,aegis of the legion,-1,0.1111111111111111,ddragon
+2024,14.15,item,Aegis of the Legion,aegis of the legion,-1,0.1111111111111111,ddragon
+2024,14.15,item,Berserker’s Greaves,berserker's greaves,-1,1.0,both
+2024,14.15,item,Black Hole Gauntlet,black hole gauntlet,0,1.0,ddragon
+2024,14.15,item,Boots of Swiftness,boots of swiftness,1,1.0,both
+2024,14.15,item,Cosmic Drive,cosmic drive,1,1.0,both
+2024,14.15,item,Cosmic Drive,cosmic drive,1,1.0,both
+2024,14.15,item,Death’s Dance,death's dance,1,1.0,both
+2024,14.15,item,Diamond-Tipped Spear,diamond-tipped spear,0,1.0,ddragon
+2024,14.15,item,Evenshroud,evenshroud,-1,0.0625,ddragon
+2024,14.15,item,Gargoyle Stoneplate,gargoyle stoneplate,-1,0.08,ddragon
+2024,14.15,item,Gargoyle Stoneplate,gargoyle stoneplate,-1,0.015625,ddragon
+2024,14.15,item,Hexbolt Companion,hexbolt companion,0,1.0,ddragon
+2024,14.15,item,Hexdrinker,hexdrinker,-1,0.3333333333333333,ddragon
+2024,14.15,item,Hextech Rocketbelt,hextech rocketbelt,1,1.0,both
+2024,14.15,item,Ionian Boots of Lucidity,ionian boots of lucidity,1,1.0,both
+2024,14.15,item,Ionian Boots of Lucidity,ionian boots of lucidity,-1,1.0,both
+2024,14.15,item,Kinkou Jitte,kinkou jitte,0,1.0,ddragon
+2024,14.15,item,Kraken Slayer,kraken slayer,-1,1.0,both
+2024,14.15,item,Kraken Slayer,kraken slayer,-1,1.0,both
+2024,14.15,item,Lightning Rod,lightning rod,0,1.0,ddragon
+2024,14.15,item,Locket of the Iron Solari,locket of the iron solari,-1,0.07692307692307693,ddragon
+2024,14.15,item,Lord Dominik’s Regards,lord dominik's regards,-1,1.0,patch_notes
+2024,14.15,item,Luden's Companion,luden's companion,1,0.0625,ddragon
+2024,14.15,item,Mercury’s Treads,mercury's treads,1,1.0,both
+2024,14.15,item,Mercury’s Treads,mercury's treads,-1,1.0,both
+2024,14.15,item,Mortal Reminder,mortal reminder,-1,1.0,both
+2024,14.15,item,Negatron Cloak,negatron cloak,-1,0.1111111111111111,ddragon
+2024,14.15,item,Negatron Cloak,negatron cloak,-1,0.1111111111111111,ddragon
+2024,14.15,item,Negatron Cloak,negatron cloak,-1,0.1111111111111111,ddragon
+2024,14.15,item,Null Magic Mantle,null magic mantle,-1,1.0,patch_notes
+2024,14.15,item,Null Magic Mantle,null magic mantle,-1,1.0,patch_notes
+2024,14.15,item,Null-Magic Mantle,null-magic mantle,1,0.1111111111111111,ddragon
+2024,14.15,item,Null-Magic Mantle,null-magic mantle,1,0.1111111111111111,ddragon
+2024,14.15,item,Null-Magic Mantle,null-magic mantle,-1,0.2,ddragon
+2024,14.15,item,Plated Steelcaps,plated steelcaps,1,1.0,both
+2024,14.15,item,Plated Steelcaps,plated steelcaps,1,1.0,both
+2024,14.15,item,Puppeteer,puppeteer,0,1.0,ddragon
+2024,14.15,item,Pyromancer's Cloak,pyromancer's cloak,0,1.0,ddragon
+2024,14.15,item,Quicksilver Sash,quicksilver sash,-1,0.058823529411764705,ddragon
+2024,14.15,item,Reaper's Toll,reaper's toll,0,1.0,ddragon
+2024,14.15,item,Regicide,regicide,0,1.0,ddragon
+2024,14.15,item,Reverberation,reverberation,0,1.0,ddragon
+2024,14.15,item,Sorcerer’s Shoes,sorcerer's shoes,-1,1.0,patch_notes
+2024,14.15,item,Spectre's Cowl,spectre's cowl,-1,0.5,ddragon
+2024,14.15,item,Statikk Shiv,statikk shiv,-1,1.0,both
+2024,14.15,item,Statikk Shiv,statikk shiv,1,1.0,both
+2024,14.15,item,Stormsurge,stormsurge,1,1.0,patch_notes
+2024,14.15,item,Stormsurge,stormsurge,1,1.0,patch_notes
+2024,14.15,item,Symbiotic Soles / Synchronized Souls,symbiotic soles / synchronized souls,0,1.0,patch_notes
+2024,14.15,item,Trinity Force,trinity force,1,0.16666666666666666,ddragon
+2024,14.15,item,Twilight's Edge,twilight's edge,0,1.0,ddragon
+2024,14.15,item,Twin Mask,twin mask,0,1.0,ddragon
+2024,14.15,item,Verdant Barrier,verdant barrier,-1,0.14285714285714285,ddragon
+2024,14.15,item,Void Staff,void staff,1,1.0,both
+2024,14.15,item,Wit’s End,wit's end,1,1.0,both
+2024,14.15,item,Zeke's Convergence,zeke's convergence,-1,0.07692307692307693,ddragon
+2024,14.15,rune,Dark Harvest,dark harvest,-1,1.0,patch_notes
+2024,14.15,rune,Dark Harvest,dark harvest,-1,1.0,patch_notes
+2024,14.15,rune,Fleet Footwork,fleet footwork,-1,1.0,patch_notes
+2024,14.16,item,Black Cleaver,black cleaver,0,1.0,patch_notes
+2024,14.16,item,Black Hole Gauntlet,black hole gauntlet,1,0.125,ddragon
+2024,14.16,item,Blade of the Ruined King,blade of the ruined king,-1,1.0,both
+2024,14.16,item,Blade of the Ruined King,blade of the ruined king,-1,1.0,both
+2024,14.16,item,Blade of the Ruined King,blade of the ruined king,1,1.0,both
+2024,14.16,item,Doran's Blade,doran's blade,-1,1.0,both
+2024,14.16,item,Doran's Blade,doran's blade,-1,1.0,both
+2024,14.16,item,The Golden Spatula,the golden spatula,-1,0.2857142857142854,ddragon
+2024,14.16,item,The Golden Spatula,the golden spatula,-1,0.16666666666666666,ddragon
+2024,14.16,item,The Golden Spatula,the golden spatula,-1,0.1,ddragon
+2024,14.16,item,The Golden Spatula,the golden spatula,-1,0.1428571428571427,ddragon
+2024,14.17,item,Celestial Opposition,celestial opposition,-1,1.0,patch_notes
+2024,14.17,item,Warmog's Armor,warmog's armor,-1,0.3333333333333333,ddragon
+2024,14.17,item,Warmog's Armor,warmog's armor,-1,0.06451612903225806,ddragon
+2024,14.17,item,Warmog’s Heart,warmog's heart,1,1.0,patch_notes
+2024,14.17,item,Warmog’s Heart,warmog's heart,-1,1.0,patch_notes
+2024,14.17,rune,Absorb Life,absorb life,0,1.0,patch_notes
+2024,14.17,rune,Absorb Life,absorb life,-1,1.0,patch_notes
+2024,14.17,rune,Absorb Life,absorb life,-1,1.0,patch_notes
+2024,14.17,rune,Cut Down,cut down,1,1.0,patch_notes
+2024,14.17,rune,Fleet Footwork,fleet footwork,-1,1.0,patch_notes
+2024,14.17,rune,Fleet Footwork,fleet footwork,0,1.0,patch_notes
+2024,14.18,item,Bloodthirster,bloodthirster,1,1.0,both
+2024,14.18,item,Bloodthirster,bloodthirster,-1,1.0,both
+2024,14.18,item,Demonic Embrace,demonic embrace,1,0.16666666666666666,ddragon
+2024,14.18,item,Empyrean Promise,empyrean promise,1,0.16666666666666666,ddragon
+2024,14.18,item,Immortal Shieldbow,immortal shieldbow,1,1.0,patch_notes
+2024,14.18,item,Luden’s Companion,luden's companion,-1,1.0,both
+2024,14.18,item,Luden’s Companion,luden's companion,1,1.0,both
+2024,14.18,item,Luden’s Companion,luden's companion,-1,1.0,both
+2024,14.18,item,Shadowflame,shadowflame,-1,1.0,both
+2024,14.18,item,Shadowflame,shadowflame,1,1.0,both
+2024,14.18,item,Shadowflame,shadowflame,1,1.0,both
+2024,14.18,item,Shadowflame,shadowflame,-1,1.0,both
+2024,14.18,item,Stormsurge,stormsurge,1,1.0,both
+2024,14.18,item,Stormsurge,stormsurge,-1,1.0,both
+2024,14.18,item,Stormsurge,stormsurge,-1,1.0,both
+2024,14.18,item,Stormsurge,stormsurge,0,1.0,both
+2024,14.18,rune,Fleet Footwork,fleet footwork,1,1.0,patch_notes
+2024,14.18,rune,Fleet Footwork,fleet footwork,-1,1.0,patch_notes
+2024,14.18,rune,Fleet Footwork,fleet footwork,1,1.0,patch_notes
+2024,14.19,item,Abyssal Mask,abyssal mask,1,1.0,both
+2024,14.19,item,Abyssal Mask,abyssal mask,1,1.0,both
+2024,14.19,item,Abyssal Mask,abyssal mask,-1,1.0,both
+2024,14.19,item,Aether Wisp,aether wisp,1,1.0,both
+2024,14.19,item,Aether Wisp,aether wisp,-1,1.0,both
+2024,14.19,item,Archangel’s Staff,archangel's staff,-1,1.0,both
+2024,14.19,item,Ardent Censer,ardent censer,-1,1.0,both
+2024,14.19,item,Ardent Censer,ardent censer,-1,1.0,both
+2024,14.19,item,Ardent Censer,ardent censer,1,1.0,both
+2024,14.19,item,Ardent Censer,ardent censer,-1,1.0,both
+2024,14.19,item,Axiom Arc,axiom arc,-1,1.0,both
+2024,14.19,item,Axiom Arc,axiom arc,1,1.0,both
+2024,14.19,item,Bami’s Cinder,bami's cinder,-1,1.0,both
+2024,14.19,item,Bami’s Cinder,bami's cinder,1,1.0,both
+2024,14.19,item,Bami’s Cinder,bami's cinder,1,1.0,both
+2024,14.19,item,Bandleglass Mirror,bandleglass mirror,-1,1.0,both
+2024,14.19,item,Bandleglass Mirror,bandleglass mirror,1,1.0,both
+2024,14.19,item,Banshee’s Veil,banshee's veil,-1,1.0,both
+2024,14.19,item,Banshee’s Veil,banshee's veil,-1,1.0,both
+2024,14.19,item,Banshee’s Veil,banshee's veil,-1,1.0,both
+2024,14.19,item,Banshee’s Veil,banshee's veil,1,1.0,both
+2024,14.19,item,Berserker’s Greaves,berserker's greaves,-1,1.0,both
+2024,14.19,item,Berserker’s Greaves,berserker's greaves,-1,1.0,both
+2024,14.19,item,Black Cleaver,black cleaver,-1,1.0,both
+2024,14.19,item,Black Cleaver,black cleaver,-1,1.0,both
+2024,14.19,item,Blackfire Torch,blackfire torch,-1,1.0,both
+2024,14.19,item,Blackfire Torch,blackfire torch,-1,1.0,both
+2024,14.19,item,Blackfire Torch,blackfire torch,1,1.0,both
+2024,14.19,item,Blade of the Ruined King,blade of the ruined king,-1,1.0,both
+2024,14.19,item,Blade of the Ruined King,blade of the ruined king,-1,1.0,both
+2024,14.19,item,Bramble Vest,bramble vest,1,1.0,patch_notes
+2024,14.19,item,Catalyst of Aeons,catalyst of aeons,-1,0.09090909090909091,ddragon
+2024,14.19,item,Caulfield’s Warhammer,caulfield's warhammer,-1,1.0,both
+2024,14.19,item,Chalice of Blessing,chalice of blessing,1,0.05263157894736842,ddragon
+2024,14.19,item,Chempunk Chainsword,chempunk chainsword,1,1.0,both
+2024,14.19,item,Chempunk Chainsword,chempunk chainsword,0,1.0,both
+2024,14.19,item,Chempunk Chainsword,chempunk chainsword,1,1.0,both
+2024,14.19,item,Chempunk Chainsword,chempunk chainsword,-1,1.0,both
+2024,14.19,item,Chemtech Putrifier,chemtech putrifier,1,0.09523809523809523,ddragon
+2024,14.19,item,Cosmic Drive,cosmic drive,-1,1.0,both
+2024,14.19,item,Cosmic Drive,cosmic drive,-1,1.0,both
+2024,14.19,item,Cosmic Drive,cosmic drive,-1,1.0,both
+2024,14.19,item,Cryptbloom,cryptbloom,-1,1.0,both
+2024,14.19,item,Cryptbloom,cryptbloom,1,1.0,both
+2024,14.19,item,Dagger,dagger,-1,1.0,both
+2024,14.19,item,Dawncore,dawncore,-1,1.0,both
+2024,14.19,item,Dawncore,dawncore,-1,1.0,both
+2024,14.19,item,Dead Man’s Plate,dead man's plate,1,1.0,both
+2024,14.19,item,Dead Man’s Plate,dead man's plate,1,1.0,both
+2024,14.19,item,Dead Man’s Plate,dead man's plate,-1,1.0,both
+2024,14.19,item,Dead Man’s Plate,dead man's plate,-1,1.0,both
+2024,14.19,item,Deathfire Grasp,deathfire grasp,1,0.03333333333333333,ddragon
+2024,14.19,item,Death’s Dance,death's dance,1,1.0,both
+2024,14.19,item,Divine Sunderer,divine sunderer,1,0.014285714285714285,ddragon
+2024,14.19,item,Duskblade of Draktharr,duskblade of draktharr,1,0.016666666666666666,ddragon
+2024,14.19,item,Echoes of Helia,echoes of helia,-1,1.0,both
+2024,14.19,item,Echoes of Helia,echoes of helia,-1,1.0,both
+2024,14.19,item,Echoes of Helia,echoes of helia,-1,1.0,both
+2024,14.19,item,Eclipse,eclipse,1,1.0,both
+2024,14.19,item,Eclipse,eclipse,-1,1.0,both
+2024,14.19,item,Edge of Night,edge of night,1,1.0,both
+2024,14.19,item,Essence Reaver,essence reaver,-1,1.0,both
+2024,14.19,item,Essence Reaver,essence reaver,-1,1.0,both
+2024,14.19,item,Essence Reaver,essence reaver,1,1.0,both
+2024,14.19,item,Experimental Hexplate,experimental hexplate,-1,1.0,both
+2024,14.19,item,Experimental Hexplate,experimental hexplate,-1,1.0,both
+2024,14.19,item,Experimental Hexplate,experimental hexplate,-1,1.0,both
+2024,14.19,item,Experimental Hexplate,experimental hexplate,1,1.0,both
+2024,14.19,item,Faerie Charm,faerie charm,-1,1.0,both
+2024,14.19,item,Fiendish Codex,fiendish codex,-1,1.0,both
+2024,14.19,item,Forbidden Idol,forbidden idol,-1,1.0,both
+2024,14.19,item,Force of Nature,force of nature,-1,1.0,both
+2024,14.19,item,Force of Nature,force of nature,-1,1.0,both
+2024,14.19,item,Frozen Heart,frozen heart,1,1.0,both
+2024,14.19,item,Galeforce,galeforce,-1,0.029411764705882353,ddragon
+2024,14.19,item,Glacial Buckler,glacial buckler,1,1.0,both
+2024,14.19,item,Glacial Buckler,glacial buckler,1,1.0,both
+2024,14.19,item,Guinsoo’s Rageblade,guinsoo's rageblade,-1,1.0,both
+2024,14.19,item,Guinsoo’s Rageblade,guinsoo's rageblade,-1,1.0,both
+2024,14.19,item,Gustwalker Hatchling,gustwalker hatchling,0,1.0,ddragon
+2024,14.19,item,Hearthbound Axe,hearthbound axe,-1,1.0,both
+2024,14.19,item,Heartsteel,heartsteel,-1,1.0,both
+2024,14.19,item,Heartsteel,heartsteel,-1,1.0,both
+2024,14.19,item,Hexdrinker,hexdrinker,-1,1.0,both
+2024,14.19,item,Hextech Gunblade,hextech gunblade,1,0.015151515151515152,ddragon
+2024,14.19,item,Hextech Rocketbelt,hextech rocketbelt,-1,1.0,both
+2024,14.19,item,Hextech Rocketbelt,hextech rocketbelt,-1,1.0,both
+2024,14.19,item,Hollow Radiance,hollow radiance,-1,1.0,both
+2024,14.19,item,Hollow Radiance,hollow radiance,1,1.0,both
+2024,14.19,item,Hollow Radiance,hollow radiance,1,1.0,both
+2024,14.19,item,Hollow Radiance,hollow radiance,1,1.0,both
+2024,14.19,item,Horizon Focus,horizon focus,-1,1.0,both
+2024,14.19,item,Horizon Focus,horizon focus,-1,1.0,both
+2024,14.19,item,Horizon Focus,horizon focus,1,1.0,both
+2024,14.19,item,Hubris,hubris,-1,1.0,both
+2024,14.19,item,Hubris<br>,hubris<br>,1,0.016666666666666666,ddragon
+2024,14.19,item,Hullbreaker,hullbreaker,1,1.0,both
+2024,14.19,item,Hullbreaker,hullbreaker,-1,1.0,both
+2024,14.19,item,Hullbreaker,hullbreaker,1,1.0,both
+2024,14.19,item,Hullbreaker,hullbreaker,-1,1.0,both
+2024,14.19,item,Hullbreaker,hullbreaker,-1,1.0,both
+2024,14.19,item,Hullbreaker,hullbreaker,1,1.0,both
+2024,14.19,item,Hullbreaker,hullbreaker,-1,1.0,both
+2024,14.19,item,Hullbreaker,hullbreaker,1,1.0,both
+2024,14.19,item,Hullbreaker,hullbreaker,1,1.0,both
+2024,14.19,item,Hullbreaker,hullbreaker,1,1.0,both
+2024,14.19,item,Iceborn Gauntlet,iceborn gauntlet,1,1.0,both
+2024,14.19,item,Iceborn Gauntlet,iceborn gauntlet,1,1.0,both
+2024,14.19,item,Iceborn Gauntlet,iceborn gauntlet,1,1.0,both
+2024,14.19,item,Immortal Shieldbow,immortal shieldbow,-1,0.13793103448275862,ddragon
+2024,14.19,item,Imperial Mandate,imperial mandate,-1,1.0,both
+2024,14.19,item,Imperial Mandate,imperial mandate,-1,1.0,both
+2024,14.19,item,Infinity Edge,infinity edge,1,1.0,both
+2024,14.19,item,Infinity Edge,infinity edge,-1,1.0,both
+2024,14.19,item,Innervating Locket,innervating locket,1,0.016666666666666666,ddragon
+2024,14.19,item,Ionian Boots of Lucidity,ionian boots of lucidity,-1,1.0,both
+2024,14.19,item,Ionian Boots of Lucidity,ionian boots of lucidity,-1,1.0,both
+2024,14.19,item,"Jak’Sho, The Protean","jak'sho, the protean",-1,1.0,both
+2024,14.19,item,"Jak’Sho, The Protean","jak'sho, the protean",1,1.0,both
+2024,14.19,item,"Jak’Sho, The Protean","jak'sho, the protean",-1,1.0,both
+2024,14.19,item,"Jak’Sho, The Protean","jak'sho, the protean",-1,1.0,both
+2024,14.19,item,Kaenic Rookern,kaenic rookern,-1,1.0,both
+2024,14.19,item,Kaenic Rookern,kaenic rookern,-1,1.0,both
+2024,14.19,item,Knight’s Vow,knight's vow,1,1.0,both
+2024,14.19,item,Kraken Slayer,kraken slayer,-1,1.0,both
+2024,14.19,item,Kraken Slayer,kraken slayer,-1,1.0,both
+2024,14.19,item,Kraken Slayer,kraken slayer,1,1.0,both
+2024,14.19,item,Liandry’s Torment,liandry's torment,-1,1.0,both
+2024,14.19,item,Lich Bane,lich bane,-1,1.0,both
+2024,14.19,item,Lich Bane,lich bane,1,1.0,both
+2024,14.19,item,Lich Bane,lich bane,1,1.0,both
+2024,14.19,item,Lich Bane,lich bane,-1,1.0,both
+2024,14.19,item,Lich Bane,lich bane,-1,1.0,both
+2024,14.19,item,Lich Bane,lich bane,-1,1.0,both
+2024,14.19,item,Locket of the Iron Solari,locket of the iron solari,-1,1.0,both
+2024,14.19,item,Locket of the Iron Solari,locket of the iron solari,-1,1.0,both
+2024,14.19,item,Lord Dominik’s Regards,lord dominik's regards,-1,1.0,both
+2024,14.19,item,Lost Chapter,lost chapter,-1,0.25,ddragon
+2024,14.19,item,Luden’s Companion,luden's companion,-1,1.0,patch_notes
+2024,14.19,item,Malignance,malignance,1,1.0,both
+2024,14.19,item,Malignance,malignance,1,1.0,both
+2024,14.19,item,Malignance,malignance,-1,1.0,both
+2024,14.19,item,Manamune,manamune,-1,1.0,both
+2024,14.19,item,Maw of Malmortius,maw of malmortius,-1,1.0,both
+2024,14.19,item,Maw of Malmortius,maw of malmortius,0,1.0,both
+2024,14.19,item,Mercurial Scimitar,mercurial scimitar,-1,1.0,both
+2024,14.19,item,Mercurial Scimitar,mercurial scimitar,-1,1.0,both
+2024,14.19,item,Mercury’s Treads,mercury's treads,1,1.0,both
+2024,14.19,item,Mikael's Blessing,mikael's blessing,-1,0.2857142857142857,ddragon
+2024,14.19,item,Moonstone Renewer,moonstone renewer,-1,1.0,both
+2024,14.19,item,Moonstone Renewer,moonstone renewer,-1,1.0,both
+2024,14.19,item,Moonstone Renewer,moonstone renewer,-1,1.0,both
+2024,14.19,item,Morellonomicon,morellonomicon,0,1.0,both
+2024,14.19,item,Morellonomicon,morellonomicon,1,1.0,both
+2024,14.19,item,Morellonomicon,morellonomicon,-1,1.0,both
+2024,14.19,item,Morellonomicon,morellonomicon,1,1.0,both
+2024,14.19,item,Mortal Reminder,mortal reminder,1,1.0,both
+2024,14.19,item,Mortal Reminder,mortal reminder,-1,1.0,both
+2024,14.19,item,Mosstomper Seedling,mosstomper seedling,0,1.0,ddragon
+2024,14.19,item,Muramana,muramana,-1,1.0,both
+2024,14.19,item,Muramana,muramana,-1,1.0,both
+2024,14.19,item,Muramana,muramana,1,1.0,both
+2024,14.19,item,Nashor’s Tooth,nashor's tooth,-1,1.0,both
+2024,14.19,item,Nashor’s Tooth,nashor's tooth,0,1.0,both
+2024,14.19,item,Navori Flickerblade,navori flickerblade,1,1.0,both
+2024,14.19,item,Navori Flickerblade,navori flickerblade,-1,1.0,both
+2024,14.19,item,Needlessly Large Rod,needlessly large rod,-1,1.0,both
+2024,14.19,item,Needlessly Large Rod,needlessly large rod,-1,1.0,both
+2024,14.19,item,Negatron Cloak,negatron cloak,-1,1.0,both
+2024,14.19,item,Negatron Cloak,negatron cloak,-1,1.0,both
+2024,14.19,item,Night Harvester,night harvester,1,0.017761989342806393,ddragon
+2024,14.19,item,Noonquiver,noonquiver,1,1.0,both
+2024,14.19,item,Noonquiver,noonquiver,-1,1.0,both
+2024,14.19,item,Noonquiver,noonquiver,-1,1.0,both
+2024,14.19,item,Oblivion Orb,oblivion orb,-1,1.0,both
+2024,14.19,item,Opportunity,opportunity,-1,1.0,both
+2024,14.19,item,Opportunity,opportunity,-1,1.0,both
+2024,14.19,item,Opportunity,opportunity,-1,1.0,both
+2024,14.19,item,Opportunity,opportunity,1,1.0,both
+2024,14.19,item,Overlord’s Bloodmail,overlord's bloodmail,-1,1.0,both
+2024,14.19,item,Overlord’s Bloodmail,overlord's bloodmail,1,1.0,both
+2024,14.19,item,Phantom Dancer,phantom dancer,1,1.0,both
+2024,14.19,item,Phantom Dancer,phantom dancer,-1,1.0,both
+2024,14.19,item,Plated Steelcaps,plated steelcaps,1,1.0,patch_notes
+2024,14.19,item,Profane Hydra,profane hydra,-1,1.0,both
+2024,14.19,item,Profane Hydra,profane hydra,-1,1.0,both
+2024,14.19,item,Profane Hydra,profane hydra,-1,1.0,both
+2024,14.19,item,Profane Hydra,profane hydra,-1,1.0,both
+2024,14.19,item,Profane Hydra,profane hydra,-1,1.0,both
+2024,14.19,item,Prowler's Claw,prowler's claw,1,0.017241379310344827,ddragon
+2024,14.19,item,Rabadon’s Deathcap,rabadon's deathcap,-1,1.0,both
+2024,14.19,item,Rabadon’s Deathcap,rabadon's deathcap,-1,1.0,both
+2024,14.19,item,Rageknife,rageknife,1,0.08333333333333333,ddragon
+2024,14.19,item,Rapid Firecannon,rapid firecannon,1,1.0,both
+2024,14.19,item,Rapid Firecannon,rapid firecannon,-1,1.0,both
+2024,14.19,item,Rapid Firecannon,rapid firecannon,-1,1.0,both
+2024,14.19,item,Ravenous Hydra,ravenous hydra,-1,1.0,both
+2024,14.19,item,Ravenous Hydra,ravenous hydra,-1,1.0,both
+2024,14.19,item,Ravenous Hydra,ravenous hydra,-1,1.0,both
+2024,14.19,item,Ravenous Hydra,ravenous hydra,-1,1.0,both
+2024,14.19,item,Rectrix,rectrix,-1,1.0,both
+2024,14.19,item,Rectrix,rectrix,-1,1.0,both
+2024,14.19,item,Recurve Bow,recurve bow,-1,0.125,ddragon
+2024,14.19,item,Recurve Bow,recurve bow,-1,0.125,ddragon
+2024,14.19,item,Recurve Bow,recurve bow,-1,0.125,ddragon
+2024,14.19,item,Redemption,redemption,-1,1.0,both
+2024,14.19,item,Riftmaker,riftmaker,-1,1.0,both
+2024,14.19,item,Riftmaker,riftmaker,-1,1.0,both
+2024,14.19,item,Rod of Ages,rod of ages,-1,1.0,patch_notes
+2024,14.19,item,Rod of Ages,rod of ages,-1,1.0,patch_notes
+2024,14.19,item,Runaan’s Hurricane,runaan's hurricane,1,1.0,both
+2024,14.19,item,Runaan’s Hurricane,runaan's hurricane,-1,1.0,both
+2024,14.19,item,Runeglaive,runeglaive,-1,0.0909090909090909,ddragon
+2024,14.19,item,Rylai’s Crystal Scepter,rylai's crystal scepter,-1,1.0,both
+2024,14.19,item,Sapphire Crystal,sapphire crystal,-1,1.0,both
+2024,14.19,item,Sapphire Crystal,sapphire crystal,1,1.0,both
+2024,14.19,item,Scorchclaw Pup,scorchclaw pup,0,1.0,ddragon
+2024,14.19,item,Scout’s Slingshot,scout's slingshot,-1,1.0,both
+2024,14.19,item,Seeker’s Armguard,seeker's armguard,-1,1.0,both
+2024,14.19,item,Seraph’s Embrace,seraph's embrace,-1,1.0,both
+2024,14.19,item,Seraph’s Embrace,seraph's embrace,-1,1.0,both
+2024,14.19,item,Serylda’s Grudge,serylda's grudge,-1,1.0,both
+2024,14.19,item,Serylda’s Grudge,serylda's grudge,1,1.0,both
+2024,14.19,item,Serylda’s Grudge,serylda's grudge,1,1.0,both
+2024,14.19,item,Shadowflame,shadowflame,-1,1.0,both
+2024,14.19,item,Shadowflame,shadowflame,-1,1.0,both
+2024,14.19,item,Shattered Armguard,shattered armguard,1,0.6875,ddragon
+2024,14.19,item,Shattered Armguard,shattered armguard,-1,0.1111111111111111,ddragon
+2024,14.19,item,Shield of the Rakkor,shield of the rakkor,1,0.044642857142857144,ddragon
+2024,14.19,item,Shurelya’s Battlesong,shurelya's battlesong,-1,1.0,both
+2024,14.19,item,Spear of Shojin,spear of shojin,1,1.0,both
+2024,14.19,item,Spear of Shojin,spear of shojin,-1,1.0,both
+2024,14.19,item,Spear of Shojin,spear of shojin,-1,1.0,both
+2024,14.19,item,Spear of Shojin,spear of shojin,1,1.0,both
+2024,14.19,item,Spear of Shojin,spear of shojin,1,1.0,both
+2024,14.19,item,Spectre’s Cowl,spectre's cowl,1,1.0,both
+2024,14.19,item,Spirit Visage,spirit visage,-1,1.0,both
+2024,14.19,item,Spirit Visage,spirit visage,-1,1.0,both
+2024,14.19,item,Spirit Visage,spirit visage,-1,1.0,both
+2024,14.19,item,Staff of Flowing Water,staff of flowing water,-1,1.0,both
+2024,14.19,item,Staff of Flowing Water,staff of flowing water,-1,1.0,both
+2024,14.19,item,Staff of Flowing Water,staff of flowing water,1,1.0,both
+2024,14.19,item,Staff of Flowing Water,staff of flowing water,1,1.0,both
+2024,14.19,item,Staff of Flowing Water,staff of flowing water,-1,1.0,both
+2024,14.19,item,Statikk Shiv,statikk shiv,-1,1.0,both
+2024,14.19,item,Statikk Shiv,statikk shiv,-1,1.0,both
+2024,14.19,item,Statikk Shiv,statikk shiv,-1,1.0,both
+2024,14.19,item,Sterak’s Gage,sterak's gage,-1,1.0,patch_notes
+2024,14.19,item,Sterak’s Gage,sterak's gage,-1,1.0,patch_notes
+2024,14.19,item,Stormrazor,stormrazor,1,0.03125,ddragon
+2024,14.19,item,Stormsurge,stormsurge,-1,1.0,both
+2024,14.19,item,Stormsurge,stormsurge,-1,1.0,both
+2024,14.19,item,Stormsurge,stormsurge,-1,1.0,both
+2024,14.19,item,Stormsurge,stormsurge,1,1.0,both
+2024,14.19,item,Stridebreaker,stridebreaker,-1,1.0,both
+2024,14.19,item,Stridebreaker,stridebreaker,-1,1.0,both
+2024,14.19,item,Sundered Sky,sundered sky,-1,1.0,both
+2024,14.19,item,Sundered Sky,sundered sky,-1,1.0,both
+2024,14.19,item,Sundered Sky,sundered sky,-1,1.0,both
+2024,14.19,item,Sundered Sky,sundered sky,-1,1.0,both
+2024,14.19,item,Sundered Sky,sundered sky,-1,1.0,both
+2024,14.19,item,Sunfire Aegis,sunfire aegis,1,1.0,patch_notes
+2024,14.19,item,Sunfire Aegis,sunfire aegis,1,1.0,patch_notes
+2024,14.19,item,Sunfire Aegis,sunfire aegis,1,1.0,patch_notes
+2024,14.19,item,Sword of the Divine,sword of the divine,1,0.041666666666666664,ddragon
+2024,14.19,item,Terminus,terminus,-1,1.0,both
+2024,14.19,item,The Collector,the collector,1,1.0,both
+2024,14.19,item,The Collector,the collector,-1,1.0,both
+2024,14.19,item,The Golden Spatula,the golden spatula,-1,0.00690894016857814,ddragon
+2024,14.19,item,Thornmail,thornmail,-1,1.0,both
+2024,14.19,item,Thornmail,thornmail,-1,1.0,both
+2024,14.19,item,Thornmail,thornmail,-1,1.0,both
+2024,14.19,item,Thornmail,thornmail,1,1.0,both
+2024,14.19,item,Thornmail,thornmail,1,1.0,both
+2024,14.19,item,Titanic Hydra,titanic hydra,-1,1.0,both
+2024,14.19,item,Titanic Hydra,titanic hydra,-1,1.0,both
+2024,14.19,item,Titanic Hydra,titanic hydra,1,1.0,both
+2024,14.19,item,Titanic Hydra,titanic hydra,-1,1.0,both
+2024,14.19,item,Trailblazer,trailblazer,-1,1.0,both
+2024,14.19,item,Trailblazer,trailblazer,1,1.0,both
+2024,14.19,item,Trailblazer,trailblazer,-1,1.0,both
+2024,14.19,item,Trinity Force,trinity force,-1,1.0,both
+2024,14.19,item,Trinity Force,trinity force,-1,1.0,both
+2024,14.19,item,Trinity Force,trinity force,-1,1.0,both
+2024,14.19,item,Trinity Force,trinity force,1,1.0,both
+2024,14.19,item,Umbral Glaive,umbral glaive,-1,1.0,both
+2024,14.19,item,Unending Despair,unending despair,-1,1.0,both
+2024,14.19,item,Unending Despair,unending despair,1,1.0,both
+2024,14.19,item,Verdant Barrier,verdant barrier,-1,1.0,both
+2024,14.19,item,Voltaic Cyclosword,voltaic cyclosword,1,1.0,both
+2024,14.19,item,Voltaic Cyclosword,voltaic cyclosword,-1,1.0,both
+2024,14.19,item,Warden’s Mail,warden's mail,1,1.0,patch_notes
+2024,14.19,item,Warmog’s Armor,warmog's armor,-1,1.0,both
+2024,14.19,item,Warmog’s Armor,warmog's armor,-1,1.0,both
+2024,14.19,item,Winged Moonplate,winged moonplate,1,1.0,both
+2024,14.19,item,Winged Moonplate,winged moonplate,-1,1.0,both
+2024,14.19,item,Wit’s End,wit's end,-1,1.0,both
+2024,14.19,item,Wit’s End,wit's end,-1,1.0,both
+2024,14.19,item,Wit’s End,wit's end,1,1.0,both
+2024,14.19,item,Youmuu’s Ghostblade,youmuu's ghostblade,1,1.0,both
+2024,14.19,item,Youmuu’s Ghostblade,youmuu's ghostblade,-1,1.0,both
+2024,14.19,item,Youmuu’s Ghostblade,youmuu's ghostblade,-1,1.0,both
+2024,14.19,item,Yun Tal Wildarrows,yun tal wildarrows,0,1.0,both
+2024,14.19,item,Yun Tal Wildarrows,yun tal wildarrows,1,1.0,both
+2024,14.19,item,Zeal,zeal,1,1.0,both
+2024,14.19,item,Zeal,zeal,-1,1.0,both
+2024,14.19,item,Zeke’s Convergence,zeke's convergence,-1,1.0,patch_notes
+2024,14.19,item,Zhonya’s Hourglass,zhonya's hourglass,-1,1.0,both
+2024,14.19,item,items,items,0,1.0,patch_notes
+2024,14.19,rune,Biscuit Delivery,biscuit delivery,0,1.0,patch_notes
+2024,14.19,rune,Lethal Tempo,lethal tempo,0,1.0,patch_notes
+2024,14.19,rune,Nimbus Cloak,nimbus cloak,1,1.0,patch_notes
+2024,14.19,rune,Presence of Mind,presence of mind,1,1.0,patch_notes
+2024,14.19,rune,Shield Bash,shield bash,-1,1.0,patch_notes
+2024,14.19,rune,Shield Bash,shield bash,1,1.0,patch_notes
+2024,14.19,rune,Shield Bash,shield bash,1,1.0,patch_notes
+2024,14.20,item,Essence Reaver,essence reaver,0,1.0,both
+2024,14.20,item,Essence Reaver,essence reaver,-1,1.0,both
+2024,14.20,item,Essence Reaver,essence reaver,-1,1.0,both
+2024,14.20,item,Essence Reaver,essence reaver,-1,1.0,both
+2024,14.20,item,Fated Ashes,fated ashes,-1,1.0,patch_notes
+2024,14.20,item,Liandry's Torment,liandry's torment,-1,1.0,patch_notes
+2024,14.20,item,Luden's Companion,luden's companion,1,1.0,patch_notes
+2024,14.20,item,Luden's Companion,luden's companion,-1,1.0,patch_notes
+2024,14.20,item,Luden's Companion,luden's companion,-1,1.0,patch_notes
+2024,14.20,item,Statikk Shiv,statikk shiv,-1,1.0,both
+2024,14.20,item,Stormsurge,stormsurge,-1,1.0,both
+2024,14.20,item,Stormsurge,stormsurge,-1,1.0,both
+2024,14.20,item,The Collector,the collector,0,1.0,both
+2024,14.20,item,The Collector,the collector,-1,1.0,both
+2024,14.20,item,The Collector,the collector,-1,1.0,both
+2024,14.20,item,Thornmail,thornmail,-1,1.0,both
+2024,14.20,item,Thornmail,thornmail,1,1.0,both
+2024,14.20,item,Yun Tal Wildarrows,yun tal wildarrows,0,1.0,both
+2024,14.20,item,Yun Tal Wildarrows,yun tal wildarrows,-1,1.0,both
+2024,14.20,item,Yun Tal Wildarrows,yun tal wildarrows,-1,1.0,both
+2024,14.20,item,Yun Tal Wildarrows,yun tal wildarrows,-1,1.0,both
+2024,14.20,rune,Grasp of the Undying,grasp of the undying,-1,1.0,patch_notes
+2024,14.20,rune,Grasp of the Undying,grasp of the undying,-1,1.0,patch_notes
+2024,14.20,rune,Nimbus Cloak,nimbus cloak,1,1.0,patch_notes
+2024,14.20,rune,Phase Rush,phase rush,1,1.0,patch_notes
+2024,14.21,item,Blade of the Ruined King,blade of the ruined king,-1,1.0,patch_notes
+2024,14.21,item,Sorcerer’s Shoes,sorcerer's shoes,-1,1.0,patch_notes
+2024,14.21,rune,Lethal Tempo,lethal tempo,1,1.0,patch_notes
+2024,14.22,item,Abyssal Mask,abyssal mask,-1,0.1,ddragon
+2024,14.22,item,Aegis of the Legion,aegis of the legion,1,0.2,ddragon
+2024,14.22,item,Aegis of the Legion,aegis of the legion,1,0.2,ddragon
+2024,14.22,item,Anathema's Chains,anathema's chains,1,0.08333333333333333,ddragon
+2024,14.22,item,Archangel's Staff,archangel's staff,0,1.0,ddragon
+2024,14.22,item,Archangel's Staff,archangel's staff,1,0.16666666666666666,ddragon
+2024,14.22,item,Ardent Censer,ardent censer,1,0.8333333333333334,ddragon
+2024,14.22,item,Ardent Censer,ardent censer,1,0.4999999999999975,ddragon
+2024,14.22,item,Banshee's Veil,banshee's veil,1,0.3125,ddragon
+2024,14.22,item,Banshee's Veil,banshee's veil,-1,0.2,ddragon
+2024,14.22,item,Berserker's Greaves,berserker's greaves,1,0.8333333333333334,ddragon
+2024,14.22,item,Berserker's Greaves,berserker's greaves,-1,0.4444444444444445,ddragon
+2024,14.22,item,Black Cleaver,black cleaver,1,0.14285714285714285,ddragon
+2024,14.22,item,Blade of The Ruined King,blade of the ruined king,1,0.3333333333333333,ddragon
+2024,14.22,item,Blade of The Ruined King,blade of the ruined king,1,0.24999999999999947,ddragon
+2024,14.22,item,Blasting Wand,blasting wand,1,0.4117647058823529,ddragon
+2024,14.22,item,Blasting Wand,blasting wand,1,0.4117647058823529,ddragon
+2024,14.22,item,Blasting Wand,blasting wand,-1,0.1,ddragon
+2024,14.22,item,Chain Vest,chain vest,1,0.3333333333333333,ddragon
+2024,14.22,item,Chempunk Chainsword,chempunk chainsword,1,0.125,ddragon
+2024,14.22,item,Chemtech Putrifier,chemtech putrifier,1,0.8,ddragon
+2024,14.22,item,Chemtech Putrifier,chemtech putrifier,1,0.24,ddragon
+2024,14.22,item,Chemtech Putrifier,chemtech putrifier,-1,0.125,ddragon
+2024,14.22,item,Cosmic Drive,cosmic drive,1,0.07692307692307693,ddragon
+2024,14.22,item,Cosmic Drive,cosmic drive,-1,0.19999999999999998,ddragon
+2024,14.22,item,Crown of the Shattered Queen,crown of the shattered queen,1,0.16666666666666666,ddragon
+2024,14.22,item,Crown of the Shattered Queen,crown of the shattered queen,1,0.16666666666666666,ddragon
+2024,14.22,item,Crown of the Shattered Queen,crown of the shattered queen,1,0.0625,ddragon
+2024,14.22,item,Death's Dance,death's dance,1,0.3333333333333333,ddragon
+2024,14.22,item,Demonic Embrace,demonic embrace,1,0.16666666666666666,ddragon
+2024,14.22,item,Demonic Embrace,demonic embrace,1,0.16666666666666666,ddragon
+2024,14.22,item,Demonic Embrace,demonic embrace,1,0.6666666666666666,ddragon
+2024,14.22,item,Divine Sunderer,divine sunderer,1,0.16666666666666666,ddragon
+2024,14.22,item,Divine Sunderer,divine sunderer,1,0.16666666666666666,ddragon
+2024,14.22,item,Divine Sunderer,divine sunderer,1,0.5,ddragon
+2024,14.22,item,Divine Sunderer,divine sunderer,1,0.3333333333333333,ddragon
+2024,14.22,item,Duskblade of Draktharr,duskblade of draktharr,1,0.16666666666666666,ddragon
+2024,14.22,item,Duskblade of Draktharr,duskblade of draktharr,1,0.16666666666666666,ddragon
+2024,14.22,item,Echoes of Helia,echoes of helia,-1,0.3333333333333333,ddragon
+2024,14.22,item,Echoes of Helia,echoes of helia,1,0.16666666666666666,ddragon
+2024,14.22,item,Edge of Night,edge of night,-1,0.3333333333333333,ddragon
+2024,14.22,item,Edge of Night,edge of night,1,0.1111111111111111,ddragon
+2024,14.22,item,Essence Reaver,essence reaver,1,0.2,ddragon
+2024,14.22,item,Evenshroud,evenshroud,1,0.16666666666666666,ddragon
+2024,14.22,item,Evenshroud,evenshroud,1,0.16666666666666666,ddragon
+2024,14.22,item,Evenshroud,evenshroud,-1,0.5,ddragon
+2024,14.22,item,Everfrost,everfrost,1,0.16666666666666666,ddragon
+2024,14.22,item,Everfrost,everfrost,1,0.16666666666666666,ddragon
+2024,14.22,item,Everfrost,everfrost,-1,0.5,ddragon
+2024,14.22,item,Everfrost,everfrost,-1,0.125,ddragon
+2024,14.22,item,Everfrost,everfrost,-1,0.5,ddragon
+2024,14.22,item,Force of Nature,force of nature,1,0.1,ddragon
+2024,14.22,item,Galeforce,galeforce,1,0.16666666666666666,ddragon
+2024,14.22,item,Galeforce,galeforce,1,0.16666666666666666,ddragon
+2024,14.22,item,Galeforce,galeforce,-1,0.16666666666666666,ddragon
+2024,14.22,item,Galeforce,galeforce,-1,0.625,ddragon
+2024,14.22,item,Gargoyle Stoneplate,gargoyle stoneplate,1,0.16666666666666666,ddragon
+2024,14.22,item,Gargoyle Stoneplate,gargoyle stoneplate,1,0.16666666666666666,ddragon
+2024,14.22,item,Gargoyle Stoneplate,gargoyle stoneplate,1,0.7142857142857143,ddragon
+2024,14.22,item,Gargoyle Stoneplate,gargoyle stoneplate,1,0.7142857142857143,ddragon
+2024,14.22,item,Goredrinker,goredrinker,1,0.2222222222222222,ddragon
+2024,14.22,item,Guardian Angel,guardian angel,1,0.125,ddragon
+2024,14.22,item,Guardian Angel,guardian angel,1,0.2222222222222222,ddragon
+2024,14.22,item,Guinsoo's Rageblade,guinsoo's rageblade,1,0.2,ddragon
+2024,14.22,item,Guinsoo's Rageblade,guinsoo's rageblade,1,0.5,ddragon
+2024,14.22,item,Hextech Rocketbelt,hextech rocketbelt,-1,0.125,ddragon
+2024,14.22,item,Hextech Rocketbelt,hextech rocketbelt,-1,0.3684210526315789,ddragon
+2024,14.22,item,Hubris,hubris,1,0.2,ddragon
+2024,14.22,item,Hullbreaker,hullbreaker,1,0.1111111111111111,ddragon
+2024,14.22,item,Hullbreaker,hullbreaker,0,1.0,ddragon
+2024,14.22,item,Hullbreaker,hullbreaker,-1,0.2727272727272727,ddragon
+2024,14.22,item,Iceborn Gauntlet,iceborn gauntlet,1,0.1111111111111111,ddragon
+2024,14.22,item,Immortal Shieldbow,immortal shieldbow,1,0.375,ddragon
+2024,14.22,item,Imperial Mandate,imperial mandate,1,0.08333333333333333,ddragon
+2024,14.22,item,Infinity Edge,infinity edge,1,0.2727272727272727,ddragon
+2024,14.22,item,"Jak'Sho, The Protean","jak'sho, the protean",1,0.2857142857142857,ddragon
+2024,14.22,item,"Jak'Sho, The Protean","jak'sho, the protean",1,0.16666666666666666,ddragon
+2024,14.22,item,"Jak'Sho, The Protean","jak'sho, the protean",1,0.2857142857142857,ddragon
+2024,14.22,item,Kaenic Rookern,kaenic rookern,1,0.14285714285714285,ddragon
+2024,14.22,item,Kindlegem,kindlegem,-1,1.0,ddragon
+2024,14.22,item,Kindlegem,kindlegem,-1,1.0,ddragon
+2024,14.22,item,Kindlegem,kindlegem,-1,0.3333333333333333,ddragon
+2024,14.22,item,Knight's Vow,knight's vow,1,0.25,ddragon
+2024,14.22,item,Knight's Vow,knight's vow,-1,0.25,ddragon
+2024,14.22,item,Kraken Slayer,kraken slayer,1,0.5,ddragon
+2024,14.22,item,Kraken Slayer,kraken slayer,1,0.14285714285714288,ddragon
+2024,14.22,item,Lich Bane,lich bane,1,0.4375,ddragon
+2024,14.22,item,Lich Bane,lich bane,-1,0.6,ddragon
+2024,14.22,item,Locket of the Iron Solari,locket of the iron solari,-1,0.14285714285714285,ddragon
+2024,14.22,item,Locket of the Iron Solari,locket of the iron solari,-1,0.375,ddragon
+2024,14.22,item,Locket of the Iron Solari,locket of the iron solari,-1,0.14285714285714285,ddragon
+2024,14.22,item,Malignance,malignance,1,0.21428571428571427,ddragon
+2024,14.22,item,Manamune,manamune,-1,0.2222222222222222,ddragon
+2024,14.22,item,Maw of Malmortius,maw of malmortius,1,0.2,ddragon
+2024,14.22,item,Mercurial Scimitar,mercurial scimitar,-1,0.1111111111111111,ddragon
+2024,14.22,item,Mercury's Treads,mercury's treads,1,0.5,ddragon
+2024,14.22,item,Mercury's Treads,mercury's treads,-1,0.42857142857142855,ddragon
+2024,14.22,item,Moonstone Renewer,moonstone renewer,-1,0.16666666666666666,ddragon
+2024,14.22,item,Morellonomicon,morellonomicon,1,0.4,ddragon
+2024,14.22,item,Morellonomicon,morellonomicon,-1,0.0625,ddragon
+2024,14.22,item,Nashor's Tooth,nashor's tooth,1,0.14285714285714285,ddragon
+2024,14.22,item,Nashor's Tooth,nashor's tooth,1,0.11111111111111088,ddragon
+2024,14.22,item,Needlessly Large Rod,needlessly large rod,1,0.5833333333333334,ddragon
+2024,14.22,item,Needlessly Large Rod,needlessly large rod,1,0.5833333333333334,ddragon
+2024,14.22,item,Night Harvester,night harvester,1,0.16666666666666666,ddragon
+2024,14.22,item,Night Harvester,night harvester,1,0.16666666666666666,ddragon
+2024,14.22,item,Night Harvester,night harvester,-1,0.25,ddragon
+2024,14.22,item,Night Harvester,night harvester,-1,0.25,ddragon
+2024,14.22,item,Opportunity,opportunity,-1,1.0,both
+2024,14.22,item,Opportunity,opportunity,1,1.0,both
+2024,14.22,item,Opportunity,opportunity,-1,1.0,both
+2024,14.22,item,Opportunity,opportunity,1,1.0,both
+2024,14.22,item,Plated Steelcaps,plated steelcaps,1,0.5,ddragon
+2024,14.22,item,Profane Hydra,profane hydra,1,0.2,ddragon
+2024,14.22,item,Radiant Virtue,radiant virtue,1,0.16666666666666666,ddragon
+2024,14.22,item,Radiant Virtue,radiant virtue,1,0.16666666666666666,ddragon
+2024,14.22,item,Randuin's Omen,randuin's omen,1,0.16666666666666666,ddragon
+2024,14.22,item,Rapid Firecannon,rapid firecannon,1,0.16666666666666632,ddragon
+2024,14.22,item,Ravenous Hydra,ravenous hydra,1,0.18181818181818182,ddragon
+2024,14.22,item,Ravenous Hydra,ravenous hydra,-1,0.2,ddragon
+2024,14.22,item,Recurve Bow,recurve bow,-1,0.1111111111111111,ddragon
+2024,14.22,item,Recurve Bow,recurve bow,-1,0.1111111111111111,ddragon
+2024,14.22,item,Recurve Bow,recurve bow,-1,0.5,ddragon
+2024,14.22,item,Redemption,redemption,1,0.3333333333333333,ddragon
+2024,14.22,item,Riftmaker,riftmaker,1,0.16666666666666666,ddragon
+2024,14.22,item,Rod of Ages,rod of ages,1,0.14285714285714285,ddragon
+2024,14.22,item,Rod of Ages,rod of ages,1,0.14285714285714285,ddragon
+2024,14.22,item,Rod of Ages,rod of ages,-1,0.16666666666666666,ddragon
+2024,14.22,item,Runaan's Hurricane,runaan's hurricane,-1,0.11111111111111088,ddragon
+2024,14.22,item,Rylai's Crystal Scepter,rylai's crystal scepter,1,0.14285714285714285,ddragon
+2024,14.22,item,Rylai's Crystal Scepter,rylai's crystal scepter,1,0.08333333333333333,ddragon
+2024,14.22,item,Seraph's Embrace,seraph's embrace,-1,0.125,ddragon
+2024,14.22,item,Serylda's Grudge,serylda's grudge,1,0.125,ddragon
+2024,14.22,item,Shadowflame,shadowflame,1,0.1,ddragon
+2024,14.22,item,Sheen,sheen,-1,2.8461538461538463,ddragon
+2024,14.22,item,Sheen,sheen,-1,1.7777777777777777,ddragon
+2024,14.22,item,Shurelya's Battlesong,shurelya's battlesong,1,0.18181818181818182,ddragon
+2024,14.22,item,Shurelya's Battlesong,shurelya's battlesong,1,0.4999999999999975,ddragon
+2024,14.22,item,Silvermere Dawn,silvermere dawn,1,0.16666666666666666,ddragon
+2024,14.22,item,Silvermere Dawn,silvermere dawn,1,0.16666666666666666,ddragon
+2024,14.22,item,Silvermere Dawn,silvermere dawn,-1,0.25,ddragon
+2024,14.22,item,Sorcerer's Shoes,sorcerer's shoes,-1,0.18181818181818182,ddragon
+2024,14.22,item,Spear of Shojin,spear of shojin,1,0.5,ddragon
+2024,14.22,item,Spear of Shojin,spear of shojin,1,0.125,ddragon
+2024,14.22,item,Spirit Visage,spirit visage,1,0.3333333333333333,ddragon
+2024,14.22,item,Spirit Visage,spirit visage,1,0.25,ddragon
+2024,14.22,item,Staff of Flowing Water,staff of flowing water,1,0.16666666666666666,ddragon
+2024,14.22,item,Staff of Flowing Water,staff of flowing water,0,1.0,ddragon
+2024,14.22,item,Statikk Shiv,statikk shiv,-1,1.0,both
+2024,14.22,item,Statikk Shiv,statikk shiv,-1,1.0,both
+2024,14.22,item,Statikk Shiv,statikk shiv,-1,1.0,both
+2024,14.22,item,Sterak's Gage,sterak's gage,1,0.3333333333333333,ddragon
+2024,14.22,item,Stormrazor,stormrazor,1,0.4444444444444444,ddragon
+2024,14.22,item,Stormrazor,stormrazor,0,1.0,ddragon
+2024,14.22,item,Stormsurge,stormsurge,1,0.125,ddragon
+2024,14.22,item,Stridebreaker,stridebreaker,1,0.2,ddragon
+2024,14.22,item,Stridebreaker,stridebreaker,-1,0.2,ddragon
+2024,14.22,item,Stridebreaker,stridebreaker,1,0.6666666666666667,ddragon
+2024,14.22,item,Sunfire Aegis,sunfire aegis,1,0.25,ddragon
+2024,14.22,item,Terminus,terminus,1,0.3999999999999996,ddragon
+2024,14.22,item,The Collector,the collector,1,0.1111111111111111,ddragon
+2024,14.22,item,The Golden Spatula,the golden spatula,-1,2.63901018922853,ddragon
+2024,14.22,item,The Golden Spatula,the golden spatula,-1,2.63901018922853,ddragon
+2024,14.22,item,The Golden Spatula,the golden spatula,-1,0.25,ddragon
+2024,14.22,item,The Golden Spatula,the golden spatula,-1,0.2857142857142857,ddragon
+2024,14.22,item,The Golden Spatula,the golden spatula,-1,0.2857142857142857,ddragon
+2024,14.22,item,The Golden Spatula,the golden spatula,-1,0.25,ddragon
+2024,14.22,item,The Golden Spatula,the golden spatula,-1,0.33333333333333265,ddragon
+2024,14.22,item,Thornmail,thornmail,1,0.4166666666666667,ddragon
+2024,14.22,item,Thornmail,thornmail,-1,0.3333333333333333,ddragon
+2024,14.22,item,Titanic Hydra,titanic hydra,1,0.5,ddragon
+2024,14.22,item,Trailblazer,trailblazer,1,0.16666666666666666,ddragon
+2024,14.22,item,Trailblazer,trailblazer,1,0.16666666666666666,ddragon
+2024,14.22,item,Trailblazer,trailblazer,1,0.125,ddragon
+2024,14.22,item,Trailblazer,trailblazer,1,0.2,ddragon
+2024,14.22,item,Trailblazer,trailblazer,1,0.4999999999999975,ddragon
+2024,14.22,item,Trinity Force,trinity force,1,0.11,ddragon
+2024,14.22,item,Trinity Force,trinity force,1,0.1999999999999996,ddragon
+2024,14.22,item,Unending Despair,unending despair,1,0.3333333333333333,ddragon
+2024,14.22,item,Vampiric Scepter,vampiric scepter,-1,1.0,ddragon
+2024,14.22,item,Vampiric Scepter,vampiric scepter,-1,1.0,ddragon
+2024,14.22,item,Vampiric Scepter,vampiric scepter,-1,0.25,ddragon
+2024,14.22,item,Vampiric Scepter,vampiric scepter,-1,0.3,ddragon
+2024,14.22,item,Void Staff,void staff,1,0.46153846153846156,ddragon
+2024,14.22,item,Wit's End,wit's end,1,0.125,ddragon
+2024,14.22,item,Youmuu's Ghostblade,youmuu's ghostblade,1,1.0,both
+2024,14.22,item,Youmuu's Ghostblade,youmuu's ghostblade,-1,1.0,both
+2024,14.22,item,Youmuu's Ghostblade,youmuu's ghostblade,1,1.0,both
+2024,14.22,item,Yun Tal Wildarrows,yun tal wildarrows,1,1.0,both
+2024,14.22,item,Yun Tal Wildarrows,yun tal wildarrows,0,1.0,both
+2024,14.22,item,Yun Tal Wildarrows,yun tal wildarrows,-1,1.0,both
+2024,14.22,item,Yun Tal Wildarrows,yun tal wildarrows,0,1.0,both
+2024,14.22,item,Zeke's Convergence,zeke's convergence,1,0.2,ddragon
+2024,14.22,item,Zhonya's Hourglass,zhonya's hourglass,1,0.3125,ddragon
+2024,14.23,item,The Collector,the collector,1,1.0,both
+2024,14.23,item,Youmuu's Ghostblade,youmuu's ghostblade,0,1.0,patch_notes
+2024,14.23,item,Youmuu's Ghostblade,youmuu's ghostblade,0,1.0,patch_notes
+2024,14.23,item,Yun Tal Wildarrows,yun tal wildarrows,-1,1.0,both
+2024,14.23,item,Yun Tal Wildarrows,yun tal wildarrows,-1,1.0,both
+2024,14.23,item,Yun Tal Wildarrows,yun tal wildarrows,1,1.0,both
+2024,14.24,item,Cappa Juice,cappa juice,1,0.8,ddragon
+2024,14.24,item,Cappa Juice,cappa juice,1,0.8,ddragon
+2025,15.01,item,Bloodletter's Curse,bloodletter's curse,0,1.0,patch_notes
+2025,15.01,item,Heartsteel,heartsteel,-1,1.0,patch_notes
+2025,15.01,item,Heartsteel,heartsteel,-1,1.0,patch_notes
+2025,15.01,item,Unending Despair,unending despair,0,1.0,patch_notes
+2025,15.01,item,Unending Despair,unending despair,-1,1.0,patch_notes
+2025,15.01,item,Unending Despair,unending despair,-1,1.0,patch_notes
+2025,15.01,item,Unending Despair,unending despair,-1,1.0,patch_notes
+2025,15.01,item,Unending Despair,unending despair,1,1.0,patch_notes
+2025,15.01,item,Warmog's Armor,warmog's armor,0,1.0,patch_notes
+2025,15.01,item,Warmog's Armor,warmog's armor,-1,1.0,patch_notes
+2025,15.01,item,Warmog's Armor,warmog's armor,1,1.0,patch_notes
+2025,15.01,item,Warmog's Armor,warmog's armor,1,1.0,patch_notes
+2025,15.02,item,Cappa Juice,cappa juice,-1,4.0,ddragon
+2025,15.02,item,Cappa Juice,cappa juice,-1,4.0,ddragon
+2025,15.02,item,Lord Dominik's Regards,lord dominik's regards,1,1.0,both
+2025,15.02,item,Lord Dominik's Regards,lord dominik's regards,1,1.0,both
+2025,15.02,item,Mortal Reminder,mortal reminder,1,1.0,both
+2025,15.02,item,Mortal Reminder,mortal reminder,1,1.0,both
+2025,15.02,item,Swiftmarch,swiftmarch,-1,0.06666666666666667,ddragon
+2025,15.02,item,Yun Tal Wildarrows,yun tal wildarrows,1,1.0,both
+2025,15.02,item,Yun Tal Wildarrows,yun tal wildarrows,1,1.0,both
+2025,15.02,item,Yun Tal Wildarrows,yun tal wildarrows,1,1.0,both
+2025,15.02,rune,Deep Ward,deep ward,1,1.0,patch_notes
+2025,15.02,rune,Grisly Mementos,grisly mementos,1,1.0,patch_notes
+2025,15.02,rune,Grisly Mementos,grisly mementos,-1,1.0,patch_notes
+2025,15.02,rune,Sixth Sense,sixth sense,-1,1.0,patch_notes
+2025,15.03,item,Bloodsong,bloodsong,-1,1.0,patch_notes
+2025,15.03,item,Bloodsong,bloodsong,-1,1.0,patch_notes
+2025,15.03,item,Overcharged,overcharged,0,1.0,ddragon
+2025,15.03,item,Zaz’Zak’s Realmspike,zaz'zak's realmspike,-1,1.0,patch_notes
+2025,15.03,rune,Dark Harvest,dark harvest,1,1.0,patch_notes
+2025,15.03,rune,Electrocute,electrocute,1,1.0,patch_notes
+2025,15.03,rune,Hail of Blades,hail of blades,1,1.0,patch_notes
+2025,15.03,rune,Hail of Blades,hail of blades,-1,1.0,patch_notes
+2025,15.04,item,Abyssal Mask,abyssal mask,-1,1.0,both
+2025,15.04,item,Chainlaced Crushers,chainlaced crushers,1,0.024390243902439025,ddragon
+2025,15.04,item,Fimbulwinter,fimbulwinter,0,1.0,both
+2025,15.04,item,Heartsteel,heartsteel,-1,1.0,patch_notes
+2025,15.04,item,Infinity Edge,infinity edge,-1,1.0,both
+2025,15.04,item,Infinity Edge,infinity edge,-1,1.0,both
+2025,15.04,item,Mercury Treads,mercury treads,-1,1.0,patch_notes
+2025,15.04,item,Mercury's Treads,mercury's treads,1,0.08333333333333333,ddragon
+2025,15.04,item,Mercury's Treads,mercury's treads,1,0.038461538461538464,ddragon
+2025,15.04,item,Muramana,muramana,0,1.0,ddragon
+2025,15.04,item,Plated Steelcaps,plated steelcaps,-1,1.0,patch_notes
+2025,15.04,item,Seraph's Embrace,seraph's embrace,0,1.0,ddragon
+2025,15.04,item,Symbiotic Soles,symbiotic soles,1,1.0,both
+2025,15.04,item,Unending Despair,unending despair,-1,1.0,patch_notes
+2025,15.05,item,Abyssal Mask,abyssal mask,1,0.16666666666666666,ddragon
+2025,15.05,item,Abyssal Mask,abyssal mask,1,0.1111111111111111,ddragon
+2025,15.05,item,Anvil Voucher,anvil voucher,0,1.0,ddragon
+2025,15.05,item,Archangel's Staff,archangel's staff,-1,0.21428571428571427,ddragon
+2025,15.05,item,Ardent Censer,ardent censer,-1,0.45454545454545453,ddragon
+2025,15.05,item,Banshee's Veil,banshee's veil,-1,0.23809523809523808,ddragon
+2025,15.05,item,Berserker's Greaves,berserker's greaves,1,0.3999999999999996,ddragon
+2025,15.05,item,Black Cleaver,black cleaver,-1,0.125,ddragon
+2025,15.05,item,Blade of The Ruined King,blade of the ruined king,-1,0.25,ddragon
+2025,15.05,item,Blade of The Ruined King,blade of the ruined king,-1,0.1999999999999996,ddragon
+2025,15.05,item,Bloodletter's Curse,bloodletter's curse,0,1.0,ddragon
+2025,15.05,item,Bloodletter's Curse,bloodletter's curse,0,1.0,ddragon
+2025,15.05,item,Bloodletter's Curse,bloodletter's curse,0,1.0,ddragon
+2025,15.05,item,Bravery Voucher,bravery voucher,0,1.0,ddragon
+2025,15.05,item,Cosmic Drive,cosmic drive,-1,0.07142857142857142,ddragon
+2025,15.05,item,Dawncore,dawncore,-1,0.25,ddragon
+2025,15.05,item,Death's Dance,death's dance,-1,0.1,ddragon
+2025,15.05,item,Echoes of Helia,echoes of helia,1,0.5,ddragon
+2025,15.05,item,Echoes of Helia,echoes of helia,-1,0.14285714285714285,ddragon
+2025,15.05,item,Edge of Night,edge of night,1,0.5,ddragon
+2025,15.05,item,Edge of Night,edge of night,-1,0.1,ddragon
+2025,15.05,item,Eleisa's Miracle,eleisa's miracle,-1,0.23076923076923078,ddragon
+2025,15.05,item,Eleisa's Miracle,eleisa's miracle,-1,0.23076923076923078,ddragon
+2025,15.05,item,Enhanced Lucky Dice,enhanced lucky dice,0,1.0,ddragon
+2025,15.05,item,Essence Reaver,essence reaver,-1,0.16666666666666666,ddragon
+2025,15.05,item,Fimbulwinter,fimbulwinter,-1,0.2,ddragon
+2025,15.05,item,Fimbulwinter,fimbulwinter,1,0.16279069767441862,ddragon
+2025,15.05,item,Flesheater,flesheater,0,1.0,ddragon
+2025,15.05,item,Force of Nature,force of nature,-1,0.09090909090909091,ddragon
+2025,15.05,item,Frozen Heart,frozen heart,1,0.125,ddragon
+2025,15.05,item,Ghostcrawlers,ghostcrawlers,1,0.2727272727272727,ddragon
+2025,15.05,item,Gold Stat Anvil Voucher,gold stat anvil voucher,0,1.0,ddragon
+2025,15.05,item,Goredrinker,goredrinker,1,0.6,ddragon
+2025,15.05,item,Goredrinker,goredrinker,1,0.6,ddragon
+2025,15.05,item,Guinsoo's Rageblade,guinsoo's rageblade,-1,0.16666666666666666,ddragon
+2025,15.05,item,Guinsoo's Rageblade,guinsoo's rageblade,-1,0.3333333333333333,ddragon
+2025,15.05,item,Hextech Rocketbelt,hextech rocketbelt,1,0.14285714285714285,ddragon
+2025,15.05,item,Hextech Rocketbelt,hextech rocketbelt,1,0.5833333333333334,ddragon
+2025,15.05,item,Hubris,hubris,-1,0.16666666666666666,ddragon
+2025,15.05,item,Iceborn Gauntlet,iceborn gauntlet,-1,0.1,ddragon
+2025,15.05,item,Imperial Mandate,imperial mandate,-1,0.07692307692307693,ddragon
+2025,15.05,item,Infinity Edge,infinity edge,-1,0.21428571428571427,ddragon
+2025,15.05,item,"Jak'Sho, The Protean","jak'sho, the protean",-1,0.2222222222222222,ddragon
+2025,15.05,item,"Jak'Sho, The Protean","jak'sho, the protean",-1,0.2222222222222222,ddragon
+2025,15.05,item,Kaenic Rookern,kaenic rookern,-1,0.125,ddragon
+2025,15.05,item,Kinkou Jitte,kinkou jitte,0,1.0,ddragon
+2025,15.05,item,Knight's Vow,knight's vow,1,0.3333333333333333,ddragon
+2025,15.05,item,Kraken Slayer,kraken slayer,-1,0.3333333333333333,ddragon
+2025,15.05,item,Kraken Slayer,kraken slayer,-1,0.125,ddragon
+2025,15.05,item,Lich Bane,lich bane,-1,0.30434782608695654,ddragon
+2025,15.05,item,Lich Bane,lich bane,1,1.5,ddragon
+2025,15.05,item,Locket of the Iron Solari,locket of the iron solari,-1,0.16666666666666666,ddragon
+2025,15.05,item,Locket of the Iron Solari,locket of the iron solari,1,0.6,ddragon
+2025,15.05,item,Locket of the Iron Solari,locket of the iron solari,1,0.16666666666666666,ddragon
+2025,15.05,item,Malignance,malignance,-1,0.17647058823529413,ddragon
+2025,15.05,item,Manamune,manamune,1,0.2,ddragon
+2025,15.05,item,Manamune,manamune,1,0.14285714285714285,ddragon
+2025,15.05,item,Maw of Malmortius,maw of malmortius,-1,0.16666666666666666,ddragon
+2025,15.05,item,Mercurial Scimitar,mercurial scimitar,1,0.125,ddragon
+2025,15.05,item,Mercury's Treads,mercury's treads,-1,0.3333333333333333,ddragon
+2025,15.05,item,Mercury's Treads,mercury's treads,1,0.5,ddragon
+2025,15.05,item,Morellonomicon,morellonomicon,-1,0.2857142857142857,ddragon
+2025,15.05,item,Morellonomicon,morellonomicon,1,0.2,ddragon
+2025,15.05,item,Muramana,muramana,1,0.16279069767441862,ddragon
+2025,15.05,item,Muramana,muramana,-1,0.1111111111111111,ddragon
+2025,15.05,item,Nashor's Tooth,nashor's tooth,-1,0.125,ddragon
+2025,15.05,item,Nashor's Tooth,nashor's tooth,-1,0.0999999999999998,ddragon
+2025,15.05,item,Opportunity,opportunity,-1,0.09090909090909091,ddragon
+2025,15.05,item,Overlord's Bloodmail,overlord's bloodmail,-1,1.5,ddragon
+2025,15.05,item,Overlord's Bloodmail,overlord's bloodmail,-1,1.5,ddragon
+2025,15.05,item,Overlord's Bloodmail,overlord's bloodmail,-1,0.2,ddragon
+2025,15.05,item,Overlord's Bloodmail,overlord's bloodmail,-1,0.2727272727272727,ddragon
+2025,15.05,item,Plated Steelcaps,plated steelcaps,-1,0.3333333333333333,ddragon
+2025,15.05,item,Prismatic Stat Voucher,prismatic stat voucher,0,1.0,ddragon
+2025,15.05,item,Profane Hydra,profane hydra,-1,0.16666666666666666,ddragon
+2025,15.05,item,Prowler's Claw,prowler's claw,1,0.6666666666666666,ddragon
+2025,15.05,item,Prowler's Claw,prowler's claw,1,0.6666666666666666,ddragon
+2025,15.05,item,Puppeteer,puppeteer,0,1.0,ddragon
+2025,15.05,item,Puppeteer,puppeteer,0,1.0,ddragon
+2025,15.05,item,Randuin's Omen,randuin's omen,-1,0.14285714285714285,ddragon
+2025,15.05,item,Rapid Firecannon,rapid firecannon,-1,0.14285714285714257,ddragon
+2025,15.05,item,Ravenous Hydra,ravenous hydra,-1,0.15384615384615385,ddragon
+2025,15.05,item,Ravenous Hydra,ravenous hydra,1,0.25,ddragon
+2025,15.05,item,Redemption,redemption,-1,0.25,ddragon
+2025,15.05,item,Riftmaker,riftmaker,-1,0.14285714285714285,ddragon
+2025,15.05,item,Rod of Ages,rod of ages,-1,0.125,ddragon
+2025,15.05,item,Rod of Ages,rod of ages,-1,0.25,ddragon
+2025,15.05,item,Rod of Ages,rod of ages,1,0.2,ddragon
+2025,15.05,item,Runaan's Hurricane,runaan's hurricane,1,0.12499999999999974,ddragon
+2025,15.05,item,Rylai's Crystal Scepter,rylai's crystal scepter,-1,0.125,ddragon
+2025,15.05,item,Rylai's Crystal Scepter,rylai's crystal scepter,-1,0.07692307692307693,ddragon
+2025,15.05,item,Seraph's Embrace,seraph's embrace,1,0.2,ddragon
+2025,15.05,item,Seraph's Embrace,seraph's embrace,-1,0.14285714285714285,ddragon
+2025,15.05,item,Serylda's Grudge,serylda's grudge,-1,0.1111111111111111,ddragon
+2025,15.05,item,Shadowflame,shadowflame,-1,0.09090909090909091,ddragon
+2025,15.05,item,Shurelya's Battlesong,shurelya's battlesong,-1,0.15384615384615385,ddragon
+2025,15.05,item,Sorcerer's Shoes,sorcerer's shoes,1,0.2222222222222222,ddragon
+2025,15.05,item,Spear of Shojin,spear of shojin,-1,0.5555555555555556,ddragon
+2025,15.05,item,Spear of Shojin,spear of shojin,-1,0.1111111111111111,ddragon
+2025,15.05,item,Spirit Visage,spirit visage,-1,0.25,ddragon
+2025,15.05,item,Spirit Visage,spirit visage,-1,0.2,ddragon
+2025,15.05,item,Staff of Flowing Water,staff of flowing water,1,1.0,both
+2025,15.05,item,Statikk Shiv,statikk shiv,-1,0.1,ddragon
+2025,15.05,item,Sterak's Gage,sterak's gage,-1,0.25,ddragon
+2025,15.05,item,Stormrazor,stormrazor,-1,0.3076923076923077,ddragon
+2025,15.05,item,Stormrazor,stormrazor,0,1.0,ddragon
+2025,15.05,item,Stormsurge,stormsurge,-1,0.1111111111111111,ddragon
+2025,15.05,item,Stridebreaker,stridebreaker,-1,0.16666666666666666,ddragon
+2025,15.05,item,Stridebreaker,stridebreaker,-1,0.4,ddragon
+2025,15.05,item,Sunfire Aegis,sunfire aegis,-1,0.2,ddragon
+2025,15.05,item,Sunfire Aegis,sunfire aegis,-1,0.125,ddragon
+2025,15.05,item,Terminus,terminus,-1,0.2857142857142854,ddragon
+2025,15.05,item,The Collector,the collector,-1,0.1,ddragon
+2025,15.05,item,Thornmail,thornmail,-1,0.29411764705882354,ddragon
+2025,15.05,item,Thornmail,thornmail,1,0.5,ddragon
+2025,15.05,item,Titanic Hydra,titanic hydra,-1,0.3333333333333333,ddragon
+2025,15.05,item,Trinity Force,trinity force,-1,0.16666666666666632,ddragon
+2025,15.05,item,Turbo Chemtank,turbo chemtank,-1,0.45454545454545453,ddragon
+2025,15.05,item,Unending Despair,unending despair,-1,0.5833333333333334,ddragon
+2025,15.05,item,Unending Despair,unending despair,0,1.0,ddragon
+2025,15.05,item,Void Staff,void staff,-1,0.3157894736842105,ddragon
+2025,15.05,item,Warmog's Armor,warmog's armor,0,1.0,ddragon
+2025,15.05,item,Winter's Approach,winter's approach,-1,0.2,ddragon
+2025,15.05,item,Winter's Approach,winter's approach,1,0.2,ddragon
+2025,15.05,item,Wit's End,wit's end,-1,0.1111111111111111,ddragon
+2025,15.05,item,Youmuu's Ghostblade,youmuu's ghostblade,-1,0.08333333333333333,ddragon
+2025,15.05,item,Yun Tal Wildarrows,yun tal wildarrows,1,1.0,both
+2025,15.05,item,Zhonya's Hourglass,zhonya's hourglass,-1,0.23809523809523808,ddragon
+2025,15.05,rune,Axiom Arcanist,axiom arcanist,-1,1.0,patch_notes
+2025,15.05,rune,Axiom Arcanist,axiom arcanist,-1,1.0,patch_notes
+2025,15.05,rune,Sixth Sense,sixth sense,-1,1.0,patch_notes
+2025,15.05,rune,Unflinching Rune,unflinching rune,1,1.0,patch_notes
+2025,15.06,item,Ardent Censer,ardent censer,1,0.3333333333333333,ddragon
+2025,15.06,item,Detonation Orb,detonation orb,1,0.5,ddragon
+2025,15.06,item,Echoes of Helia,echoes of helia,1,0.3333333333333333,ddragon
+2025,15.06,item,Moonstone Renewer,moonstone renewer,1,0.4,ddragon
+2025,15.06,item,Rabadon's Deathcap,rabadon's deathcap,-1,0.07142857142857142,ddragon
+2025,15.06,item,Serylda's Grudge,serylda's grudge,1,1.0,patch_notes
+2025,15.06,item,Serylda's Grudge,serylda's grudge,-1,1.0,patch_notes
+2025,15.06,item,Shadowflame,shadowflame,-1,0.1,ddragon
+2025,15.06,item,Staff of Flowing Water,staff of flowing water,1,0.2222222222222222,ddragon
+2025,15.06,item,Sword of Blossoming Dawn,sword of blossoming dawn,1,0.5,ddragon
+2025,15.06,item,Sword of the Divine,sword of the divine,1,0.24999999999999972,ddragon
+2025,15.06,item,Warmog's Armor,warmog's armor,-1,1.0,both
+2025,15.06,item,Warmog's Armor,warmog's armor,1,1.0,both
+2025,15.07,item,Cappa Juice,cappa juice,1,0.4,ddragon
+2025,15.07,item,Cappa Juice,cappa juice,1,0.4,ddragon
+2025,15.07,item,Catalyst of Aeons,catalyst of aeons,-1,1.0,both
+2025,15.07,item,Catalyst of Aeons,catalyst of aeons,1,1.0,both
+2025,15.07,item,Catalyst of Aeons,catalyst of aeons,1,1.0,both
+2025,15.07,item,Party Favor,party favor,0,1.0,ddragon
+2025,15.07,item,Rod of Ages,rod of ages,1,1.0,patch_notes
+2025,15.07,item,Small Party Favor,small party favor,0,1.0,ddragon
+2025,15.07,item,Umbral Glaive,umbral glaive,-1,1.0,both
+2025,15.07,item,Umbral Glaive,umbral glaive,1,1.0,both
+2025,15.07,item,Umbral Glaive,umbral glaive,1,1.0,both
+2025,15.08,item,Cryptbloom,cryptbloom,1,1.0,patch_notes
+2025,15.08,item,Dead Man's Plate,dead man's plate,-1,1.0,patch_notes
+2025,15.08,item,Opportunity,opportunity,1,1.0,patch_notes
+2025,15.08,item,Opportunity,opportunity,0,1.0,patch_notes
+2025,15.08,item,Overlord's Bloodmail,overlord's bloodmail,1,1.0,patch_notes
+2025,15.08,item,Overlord's Bloodmail,overlord's bloodmail,0,1.0,patch_notes
+2025,15.08,item,Turbo Chemtank,turbo chemtank,0,1.0,ddragon
+2025,15.09,item,Armored Advance,armored advance,1,0.3333333333333333,ddragon
+2025,15.09,item,Armored Advance,armored advance,1,0.1282051282051282,ddragon
+2025,15.09,item,Boots of Swiftness,boots of swiftness,-1,1.0,both
+2025,15.09,item,Chainlaced Crushers,chainlaced crushers,1,0.3333333333333333,ddragon
+2025,15.09,item,Chainlaced Crushers,chainlaced crushers,1,0.125,ddragon
+2025,15.09,item,Crimson Lucidity,crimson lucidity,1,0.3333333333333333,ddragon
+2025,15.09,item,Crimson Lucidity,crimson lucidity,1,0.15151515151515152,ddragon
+2025,15.09,item,Forever Forward,forever forward,1,0.3333333333333333,ddragon
+2025,15.09,item,Forever Forward,forever forward,1,0.15151515151515152,ddragon
+2025,15.09,item,Gunmetal Greaves,gunmetal greaves,1,0.3333333333333333,ddragon
+2025,15.09,item,Gunmetal Greaves,gunmetal greaves,1,0.13513513513513514,ddragon
+2025,15.09,item,Rod of Ages,rod of ages,-1,1.0,both
+2025,15.09,item,Rod of Ages,rod of ages,-1,1.0,both
+2025,15.09,item,Rod of Ages,rod of ages,-1,1.0,both
+2025,15.09,item,Rod of Ages,rod of ages,-1,1.0,both
+2025,15.09,item,Spellslinger's Shoes,spellslinger's shoes,1,0.3333333333333333,ddragon
+2025,15.09,item,Spellslinger's Shoes,spellslinger's shoes,1,0.13513513513513514,ddragon
+2025,15.09,item,Swiftmarch,swiftmarch,1,0.3333333333333333,ddragon
+2025,15.09,item,Swiftmarch,swiftmarch,1,0.14285714285714285,ddragon
+2025,15.09,item,Swiftmarch,swiftmarch,-1,0.07142857142857142,ddragon
+2025,15.09,item,Symbiotic Soles,symbiotic soles,0,1.0,patch_notes
+2025,15.09,rune,Biscuit of Everlasting Will,biscuit of everlasting will,1,1.0,patch_notes
+2025,15.09,rune,Unflinching,unflinching,1,1.0,patch_notes
+2025,15.10,item,Bloodletter's Curse,bloodletter's curse,1,1.0,both
+2025,15.10,item,Bloodletter's Curse,bloodletter's curse,1,1.0,both
+2025,15.10,item,Bloodletter's Curse,bloodletter's curse,1,1.0,both
+2025,15.10,item,Cryptbloom,cryptbloom,1,1.0,both
+2025,15.10,item,Cryptbloom,cryptbloom,0,1.0,both
+2025,15.10,item,Cryptbloom,cryptbloom,-1,1.0,both
+2025,15.10,item,Cryptbloom,cryptbloom,1,1.0,both
+2025,15.10,item,Hextech Rocketbelt,hextech rocketbelt,1,1.0,both
+2025,15.10,item,Hextech Rocketbelt,hextech rocketbelt,-1,1.0,both
+2025,15.10,item,Hextech Rocketbelt,hextech rocketbelt,1,1.0,both
+2025,15.10,item,Hextech Rocketbelt,hextech rocketbelt,-1,1.0,both
+2025,15.10,item,Hextech Rocketbelt,hextech rocketbelt,1,1.0,both
+2025,15.10,item,Horizon Focus,horizon focus,1,1.0,both
+2025,15.10,item,Horizon Focus,horizon focus,-1,1.0,both
+2025,15.10,item,Horizon Focus,horizon focus,1,1.0,both
+2025,15.10,item,Liandry's Torment,liandry's torment,-1,1.0,both
+2025,15.10,item,Lich Bane,lich bane,-1,1.0,both
+2025,15.10,item,Lich Bane,lich bane,1,1.0,both
+2025,15.10,item,Lich Bane,lich bane,-1,1.0,both
+2025,15.10,item,Luden's Companion,luden's companion,-1,1.0,both
+2025,15.10,item,Malignance,malignance,1,1.0,both
+2025,15.10,item,Morellonomicon,morellonomicon,-1,1.0,both
+2025,15.10,item,Nashor's Tooth,nashor's tooth,-1,1.0,both
+2025,15.10,item,Rabadon's Deathcap,rabadon's deathcap,-1,1.0,both
+2025,15.10,item,Scouting Ahead,scouting ahead,0,1.0,ddragon
+2025,15.10,item,Seraph's Embrace,seraph's embrace,-1,1.0,patch_notes
+2025,15.10,item,Stormsurge,stormsurge,-1,1.0,both
+2025,15.10,item,Stormsurge,stormsurge,1,1.0,both
+2025,15.10,rune,Unsealed Spellbook,unsealed spellbook,-1,1.0,patch_notes
+2025,15.10,rune,Unsealed Spellbook,unsealed spellbook,-1,1.0,patch_notes
+2025,15.11,item,Horizon Focus,horizon focus,-1,1.0,both
+2025,15.11,item,Horizon Focus,horizon focus,1,1.0,both
+2025,15.12,item,Bandle Juice of Haste,bandle juice of haste,0,1.0,ddragon
+2025,15.12,item,Bandle Juice of Power,bandle juice of power,0,1.0,ddragon
+2025,15.12,item,Bandle Juice of Vitality,bandle juice of vitality,0,1.0,ddragon
+2025,15.12,rune,Grasp of the Undying,grasp of the undying,-1,1.0,patch_notes
+2025,15.13,item,Lifeline,lifeline,1,0.13636363636363635,ddragon
+2025,15.13,item,Lifeline,lifeline,1,0.36,ddragon
+2025,15.13,item,Lifeline,lifeline,1,0.25,ddragon
+2025,15.13,item,Lifeline,lifeline,0,1.0,ddragon
+2025,15.13,item,Spectral Cutlass,spectral cutlass,1,0.23076923076923078,ddragon
+2025,15.13,item,Spectral Cutlass,spectral cutlass,-1,0.2857142857142857,ddragon
+2025,15.13,item,Spectral Cutlass,spectral cutlass,0,1.0,ddragon
+2025,15.14,item,Blade of the Ruined King,blade of the ruined king,1,1.0,patch_notes
+2025,15.14,item,Haunting Guise,haunting guise,-1,1.0,patch_notes
+2025,15.14,item,Kraken Slayer,kraken slayer,-1,1.0,both
+2025,15.14,item,Kraken Slayer,kraken slayer,0,1.0,both
+2025,15.14,item,Phantom Dancer,phantom dancer,1,1.0,both
+2025,15.14,item,Phantom Dancer,phantom dancer,1,1.0,both
+2025,15.14,item,Rod of Ages,rod of ages,1,1.0,both
+2025,15.14,item,Rod of Ages,rod of ages,1,1.0,both
+2025,15.14,item,Rod of Ages,rod of ages,1,1.0,both
+2025,15.14,rune,Guardian,guardian,0,1.0,patch_notes
+2025,15.14,rune,Guardian,guardian,-1,1.0,patch_notes
+2025,15.14,rune,Unsealed Spellbook (Smite),unsealed spellbook (smite),0,1.0,patch_notes
+2025,15.15,item,Spectral Cutlass,spectral cutlass,-1,1.0,both
+2025,15.16,item,Black Hole Gauntlet,black hole gauntlet,-1,1.0,patch_notes
+2025,15.16,item,Black Hole Gauntlet,black hole gauntlet,-1,1.0,patch_notes
+2025,15.16,item,Darksteel Talons,darksteel talons,-1,0.5,ddragon
+2025,15.16,item,Decapitator,decapitator,-1,0.5,ddragon
+2025,15.16,item,Experimental Hexplate,experimental hexplate,1,1.0,both
+2025,15.16,item,Experimental Hexplate,experimental hexplate,1,1.0,both
+2025,15.16,item,Fighter Item buffs,fighter item buffs,1,1.0,patch_notes
+2025,15.16,item,Fighter Item buffs,fighter item buffs,1,1.0,patch_notes
+2025,15.16,item,Fighter Item buffs,fighter item buffs,1,1.0,patch_notes
+2025,15.16,item,Fighter Item buffs,fighter item buffs,1,1.0,patch_notes
+2025,15.16,item,Fighter Item buffs,fighter item buffs,1,1.0,patch_notes
+2025,15.16,item,Fighter Item buffs,fighter item buffs,1,1.0,patch_notes
+2025,15.16,item,Galeforce,galeforce,-1,0.5,ddragon
+2025,15.16,item,Hollow Radiance,hollow radiance,1,1.0,patch_notes
+2025,15.16,item,Mirage Blade,mirage blade,-1,0.5,ddragon
+2025,15.16,item,Move Speed reduction,move speed reduction,-1,1.0,patch_notes
+2025,15.16,item,Move Speed reduction,move speed reduction,-1,1.0,patch_notes
+2025,15.16,item,Move Speed reduction,move speed reduction,-1,1.0,patch_notes
+2025,15.16,item,Move Speed reduction,move speed reduction,-1,1.0,patch_notes
+2025,15.16,item,Move Speed reduction,move speed reduction,-1,1.0,patch_notes
+2025,15.16,item,Pyromancer's Cloak,pyromancer's cloak,-1,1.0,patch_notes
+2025,15.16,item,Reaper's Toll,reaper's toll,-1,1.0,both
+2025,15.16,item,Reaper's Toll,reaper's toll,-1,1.0,both
+2025,15.16,item,Runecarver,runecarver,-1,0.5,ddragon
+2025,15.16,item,Sunfire Cape,sunfire cape,0,1.0,patch_notes
+2025,15.17,item,Atma's Reckoning,atma's reckoning,0,1.0,ddragon
+2025,15.17,item,Axiom Arc,axiom arc,-1,1.0,both
+2025,15.17,item,Cloak of Starry Night,cloak of starry night,0,1.0,ddragon
+2025,15.17,item,Crown of the Shattered Queen,crown of the shattered queen,0,1.0,ddragon
+2025,15.17,item,Cruelty,cruelty,0,1.0,ddragon
+2025,15.17,item,Demon King's Crown,demon king's crown,0,1.0,ddragon
+2025,15.17,item,Flesheater,flesheater,0,1.0,ddragon
+2025,15.17,item,Gambler's Blade,gambler's blade,0,1.0,ddragon
+2025,15.17,item,Gargoyle Stoneplate,gargoyle stoneplate,0,1.0,ddragon
+2025,15.17,item,Hextech Gunblade,hextech gunblade,0,1.0,ddragon
+2025,15.17,item,Horizon Focus,horizon focus,1,1.0,both
+2025,15.17,item,Horizon Focus,horizon focus,-1,1.0,both
+2025,15.17,item,Horizon Focus,horizon focus,-1,1.0,both
+2025,15.17,item,Profane Hydra,profane hydra,-1,1.0,both
+2025,15.17,item,Profane Hydra,profane hydra,-1,1.0,both
+2025,15.17,item,Profane Hydra,profane hydra,-1,1.0,both
+2025,15.17,item,Shield of Molten Stone,shield of molten stone,0,1.0,ddragon
+2025,15.17,item,Sword of Blossoming Dawn,sword of blossoming dawn,0,1.0,ddragon
+2025,15.17,item,Sword of the Divine,sword of the divine,0,1.0,ddragon
+2025,15.17,item,The Collector,the collector,0,1.0,ddragon
+2025,15.17,item,The Golden Spatula,the golden spatula,0,1.0,ddragon
+2025,15.17,item,Veigar's Talisman of Ascension,veigar's talisman of ascension,0,1.0,ddragon
+2025,15.17,item,Zephyr,zephyr,0,1.0,ddragon
+2025,15.18,item,Bami's Cinder,bami's cinder,1,1.0,patch_notes
+2025,15.18,item,Horizon Focus,horizon focus,1,0.125,ddragon
+2025,15.18,item,Kraken Slayer,kraken slayer,1,0.3333333333333333,ddragon
+2025,15.18,item,Mercurial Scimitar,mercurial scimitar,1,1.0,both
+2025,15.18,item,Mercurial Scimitar,mercurial scimitar,-1,1.0,both
+2025,15.18,item,Mercurial Scimitar,mercurial scimitar,1,1.0,both
+2025,15.18,item,Ravenous Hydra,ravenous hydra,1,0.2727272727272727,ddragon
+2025,15.18,item,Spear of Shojin,spear of shojin,1,0.75,ddragon
+2025,15.18,item,Stormsurge,stormsurge,1,0.125,ddragon
+2025,15.18,item,Sunfire Cape,sunfire cape,1,1.0,patch_notes
+2025,15.19,item,Celestial Opposition,celestial opposition,0,1.0,patch_notes
+2025,15.19,item,Gambler's Blade,gambler's blade,0,1.0,ddragon
+2025,15.19,item,Gambler's Blade,gambler's blade,1,0.8749999999999987,ddragon
+2025,15.19,item,Lightning Rod,lightning rod,0,1.0,ddragon
+2025,15.19,item,Redemption,redemption,-1,1.0,patch_notes
+2025,15.19,rune,Unsealed Spellbook,unsealed spellbook,1,1.0,patch_notes
+2025,15.19,rune,Unsealed Spellbook,unsealed spellbook,1,1.0,patch_notes
+2025,15.20,item,Staff of Flowing Water,staff of flowing water,1,0.18181818181818182,ddragon
+2025,15.20,item,Staff of Flowing Water,staff of flowing water,0,1.0,ddragon
+2025,15.21,item,Atma's Reckoning,atma's reckoning,1,0.4594594594594595,ddragon
+2025,15.21,item,Atma's Reckoning,atma's reckoning,0,1.0,ddragon
+2025,15.21,item,Atma's Reckoning,atma's reckoning,0,1.0,ddragon
+2025,15.21,item,Atma's Reckoning,atma's reckoning,0,1.0,ddragon
+2025,15.21,item,Atma's Reckoning,atma's reckoning,0,1.0,ddragon
+2025,15.21,item,Atma's Reckoning,atma's reckoning,0,1.0,ddragon
+2025,15.21,item,Catalyst of Aeons,catalyst of aeons,-1,1.0,both
+2025,15.21,item,Doran's Blade,doran's blade,0,1.0,both
+2025,15.21,item,Doran's Ring,doran's ring,-1,1.0,patch_notes
+2025,15.21,item,Doran's Ring,doran's ring,1,1.0,patch_notes
+2025,15.21,item,Doran's Shield,doran's shield,-1,1.0,patch_notes
+2025,15.21,item,Golden Spatula,golden spatula,0,1.0,ddragon
+2025,15.21,item,Jarvan I's,jarvan i's,0,1.0,ddragon
+2025,15.21,item,Rite of Ruin,rite of ruin,0,1.0,ddragon
+2025,15.21,item,Stormrazor,stormrazor,1,0.03225806451612903,ddragon
+2025,15.21,item,Stormrazor,stormrazor,-1,0.23076923076923078,ddragon
+2025,15.21,item,Stormrazor,stormrazor,0,1.0,ddragon
+2025,15.21,item,Sword of Blossoming Dawn,sword of blossoming dawn,0,1.0,ddragon
+2025,15.21,rune,Second Wind,second wind,1,1.0,patch_notes
+2025,15.22,item,The Golden Spatula,the golden spatula,0,1.0,ddragon
+2025,15.22,rune,Biscuit Delivery,biscuit delivery,0,1.0,patch_notes
+2025,15.22,rune,Cash Back,cash back,1,1.0,patch_notes
+2025,15.22,rune,Guardian,guardian,0,1.0,patch_notes
+2025,15.22,rune,Hail of Blades,hail of blades,1,1.0,patch_notes
+2025,15.22,rune,Legend: Bloodline,legend: bloodline,1,1.0,patch_notes
+2025,15.22,rune,Movement Speed Shard,movement speed shard,0,1.0,patch_notes
+2025,15.22,rune,Nimbus Cloak,nimbus cloak,1,1.0,patch_notes
+2025,15.22,rune,Phase Rush,phase rush,-1,1.0,patch_notes
+2025,15.22,rune,Tenacity Shard,tenacity shard,1,1.0,patch_notes
+2025,15.22,rune,Triple Tonic,triple tonic,1,1.0,patch_notes
+2025,15.22,rune,Triple Tonic,triple tonic,1,1.0,patch_notes
+2025,15.23,item,Stat Bonus,stat bonus,0,1.0,ddragon
+2025,15.23,item,Sunfire Aegis,sunfire aegis,1,1.0,patch_notes
+2025,15.24,item,Crown of the Shattered Queen,crown of the shattered queen,1,0.16666666666666666,ddragon
+2025,15.24,item,Decapitator,decapitator,1,0.33333333333333337,ddragon
+2025,15.24,item,Hemomancer's Helm,hemomancer's helm,1,0.16666666666666666,ddragon
+2025,15.24,rune,Bloodline,bloodline,1,1.0,patch_notes
+2025,15.24,rune,Bloodline,bloodline,1,1.0,patch_notes

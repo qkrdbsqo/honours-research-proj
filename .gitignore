@@ -1,0 +1,21 @@
+# Environments and credentials
+.venv/
+.venv-gpu/
+.env
+*.env
+secrets/
+*.secret
+
+# Downloaded raw data (see README)
+data/raw/oracle/*.csv
+data/raw/ddragon/*/
+data/builds/items_runes/raw/
+data/builds/leaguepedia/cache/
+data/builds/leaguepedia/*player_rows.csv
+
+# Python and local run state
+__pycache__/
+*.pyc
+cache/
+logs/
+*.log

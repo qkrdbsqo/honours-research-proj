@@ -1,0 +1,820 @@
+patch_version,release_date,champion,overall_direction,ability,stat,before,after,direction,raw_line
+25.S1.1,2025-01-07T19:00:00.000Z,Ashe,buff,Passive,Damage,115% + Crit%,100% + Crit%,nerf,Damage : 115% + Crit% ⇒ 100% + Crit%
+25.S1.1,2025-01-07T19:00:00.000Z,Ashe,buff,Passive,Damage Condition,Slowed by Frost Shot,Always,neutral,Damage Condition : Slowed by Frost Shot ⇒ Always
+25.S1.1,2025-01-07T19:00:00.000Z,Ashe,buff,Q,Damage,105/110/115/120/125%,110/115/120/125/130%,buff,Damage : 105/110/115/120/125% ⇒ 110/115/120/125/130%
+25.S1.1,2025-01-07T19:00:00.000Z,Ashe,buff,Q,Attack Speed,25/32.5/40/47.5/55%,25/35/45/55/65%,neutral,Attack Speed : 25/32.5/40/47.5/55% ⇒ 25/35/45/55/65%
+25.S1.1,2025-01-07T19:00:00.000Z,Ashe,buff,W,Damage,20/35/50/65/80 + 100% total AD,60/95/130/165/200 + 100% bonus AD,buff,Damage : 20/35/50/65/80 + 100% total AD ⇒ 60/95/130/165/200 + 100% bonus AD
+25.S1.1,2025-01-07T19:00:00.000Z,Kalista,adjustment,Stats,Mana Regen Growth,0.4,0.8,buff,Mana Regen Growth : 0.4 ⇒ 0.8
+25.S1.1,2025-01-07T19:00:00.000Z,Kalista,adjustment,Passive,movement speed Multiplier,Multiplied by  (1 - Slowed%),Multiplied by (0.2% total movement speed + 0.28). This is typically close to 100,nerf,movement speed Multiplier : Multiplied by  (1 - Slowed%) ⇒ Multiplied by (0.2% total movement speed + 0.28). This is typically close to 100% but now benefits from bonus movement speed and is more resi
+25.S1.1,2025-01-07T19:00:00.000Z,Kalista,adjustment,Q,Damage,20/85/150/215/280 + 105% total AD,10/75/140/205/270 + 105% total AD,nerf,Damage : 20/85/150/215/280 + 105% total AD ⇒ 10/75/140/205/270 + 105% total AD
+25.S1.1,2025-01-07T19:00:00.000Z,Kalista,adjustment,Q,Mana Cost,50/55/60/65/70,60/65/70/75/80,buff,Mana Cost : 50/55/60/65/70 ⇒ 60/65/70/75/80
+25.S1.1,2025-01-07T19:00:00.000Z,Kalista,adjustment,E,Damage per Additional Stack,8/12/16/20/24 + 25/30/35/40/45% total AD,7/14/21/28/35 + 20/25/30/35/40% total AD,nerf,Damage per Additional Stack : 8/12/16/20/24 + 25/30/35/40/45% total AD⇒ 7/14/21/28/35 + 20/25/30/35/40% total AD
+25.S1.1,2025-01-07T19:00:00.000Z,Twitch,adjustment,W,Slow Amount,30/35/40/45/50% (+5% per 100 AP),30/35/40/45/50% (+6% per 100 AP),neutral,Slow Amount : 30/35/40/45/50% (+5% per 100 AP) ⇒  30/35/40/45/50% (+6% per 100 AP)
+25.S1.1,2025-01-07T19:00:00.000Z,Varus,nerf,Stats,Mana,360,320,nerf,Mana : 360 ⇒ 320
+25.S1.1,2025-01-07T19:00:00.000Z,Varus,nerf,Q,Mana Cost,65/70/75/80/85,50/55/60/65/70,nerf,Mana Cost : 65/70/75/80/85 ⇒ 50/55/60/65/70
+25.S1.1,2025-01-07T19:00:00.000Z,Varus,nerf,W,On-hit Damage,8/13/18/23/28,6/12/18/24/30,nerf,On-hit Damage : 8/13/18/23/28 ⇒ 6/12/18/24/30
+25.S1.1,2025-01-07T19:00:00.000Z,Varus,nerf,E,Mana Cost,80,90,buff,Mana Cost : 80 ⇒ 90
+25.S1.2,2025-01-22T19:00:00.000Z,Cassiopeia,nerf,Passive,Triumphant Move Speed per level,6,5,nerf,Triumphant Move Speed per level : 6 ⇒ 5
+25.S1.2,2025-01-22T19:00:00.000Z,Evelynn,buff,E,Move Speed,30%,30/35/40/45/50%,neutral,Move Speed : 30% ⇒ 30/35/40/45/50%
+25.S1.2,2025-01-22T19:00:00.000Z,Evelynn,buff,R,Unempowered AP Ratio,(+65% AP),(+75% AP),buff,Unempowered AP Ratio : (+65% AP) ⇒ (+75% AP)
+25.S1.2,2025-01-22T19:00:00.000Z,Evelynn,buff,R,Empowered AP Ratio,(+156% AP),(+180% AP),buff,Empowered AP Ratio : (+156% AP) ⇒ (+180% AP)
+25.S1.2,2025-01-22T19:00:00.000Z,Irelia,nerf,W,Minimum Damage,10/25/40/55/70 (+40% Total AD),10/20/30/40/50 (+40% Total AD),neutral,Minimum Damage : 10/25/40/55/70 (+40% Total AD) ⇒ 10/20/30/40/50 (+40% Total AD)
+25.S1.2,2025-01-22T19:00:00.000Z,Irelia,nerf,W,Maximum Damage,30/75/120/165/210 (+120% Total AD),30/60/90/120/150 (+120% Total AD),neutral,Maximum Damage : 30/75/120/165/210 (+120% Total AD) ⇒ 30/60/90/120/150 (+120% Total AD)
+25.S1.2,2025-01-22T19:00:00.000Z,Irelia,nerf,E,Damage,80/125/170/215/260 (+80% AP),70/110/150/190/230 (+80% AP),nerf,Damage : 80/125/170/215/260 (+80% AP) ⇒ 70/110/150/190/230 (+80% AP)
+25.S1.2,2025-01-22T19:00:00.000Z,Irelia,nerf,R,Damage,125/250/375 (+70% AP),125/200/275 (+70% AP),neutral,Damage : 125/250/375 (+70% AP)  ⇒ 125/200/275 (+70% AP)
+25.S1.2,2025-01-22T19:00:00.000Z,Kayn,buff,Passive,Shadow Assassin Bonus Magic Damage,15-45% (based on level),25-45% (based on level),buff,Shadow Assassin Bonus Magic Damage : 15-45% (based on level) ⇒ 25-45% (based on level)
+25.S1.2,2025-01-22T19:00:00.000Z,Master Yi,buff,Stats,Attack Damage Growth,2.5,2.8,buff,Attack Damage Growth : 2.5 ⇒ 2.8
+25.S1.2,2025-01-22T19:00:00.000Z,Master Yi,buff,E,On-hit True Damage,20/25/30/35/40 (+30% Bonus AD),20/25/30/35/40 (+35% Bonus AD),neutral,On-hit True Damage : 20/25/30/35/40 (+30% Bonus AD) ⇒ 20/25/30/35/40 (+35% Bonus AD)
+25.S1.2,2025-01-22T19:00:00.000Z,Tahm Kench,nerf,Q,Damage,80/130/180/230/280 (+Passive),75/120/165/210/255 (+Passive),nerf,Damage : 80/130/180/230/280 (+Passive) ⇒ 75/120/165/210/255 (+Passive)
+25.S1.2,2025-01-22T19:00:00.000Z,Viktor,adjustment,Q,Empowered Attack Bonus Damage,20/45/70/95/120 (+100% AD) (+60% AP),20/45/70/95/120 (+100% AD) (+50% AP),neutral,Empowered Attack Bonus Damage : 20/45/70/95/120 (+100% AD) (+60% AP) ⇒ 20/45/70/95/120 (+100% AD) (+50% AP)
+25.S1.2,2025-01-22T19:00:00.000Z,Viktor,adjustment,R,Damage per tick,65/105/145 (+45% AP),65/105/145 (+35% AP),neutral,Damage per tick : 65/105/145 (+45% AP) ⇒ 65/105/145 (+35% AP)
+25.S1.2,2025-01-22T19:00:00.000Z,Yuumi,adjustment,Passive,Heal,25-110 (based on level) (+15% AP),25-110 (based on level) (+25% AP),neutral,Heal : 25-110 (based on level) (+15% AP) ⇒ 25-110 (based on level) (+25% AP)
+25.S1.2,2025-01-22T19:00:00.000Z,Yuumi,adjustment,Passive,Cooldown,20-10 (based on level) (by level 11),20-8 (based on level) (by level 13),neutral,Cooldown : 20-10 (based on level) (by level 11) ⇒ 20-8 (based on level) (by level 13)
+25.S1.2,2025-01-22T19:00:00.000Z,Yuumi,adjustment,R,Damage,75/100/125 (+20% AP),75/125/175 (+25% AP),neutral,Damage : 75/100/125 (+20% AP) ⇒ 75/125/175 (+25% AP)
+25.S1.2,2025-01-22T19:00:00.000Z,Yuumi,adjustment,R,Max Damage over 5 waves,75-250 (+40% AP),75-350 (+50% AP),neutral,Max Damage over 5 waves : 75-250 (+40% AP) ⇒ 75-350 (+50% AP)
+25.S1.3,2025-02-04T19:00:00.000Z,Cassiopeia,adjustment,Q,Damage,75/110/145/180/215 (+70% AP),75/110/145/180/215 (+65% AP),neutral,Damage : 75/110/145/180/215 (+70% AP) ⇒ 75/110/145/180/215 (+65% AP)
+25.S1.3,2025-02-04T19:00:00.000Z,Cassiopeia,adjustment,W,Damage per second,20/25/30/35/40 (+15% AP),20/25/30/35/40 (+10 AP),neutral,Damage per second : 20/25/30/35/40 (+15% AP) ⇒ 20/25/30/35/40 (+10 AP)
+25.S1.3,2025-02-04T19:00:00.000Z,Evelynn,buff,E,Basic Damage,55/70/85/100/115 (+3% (+1.5% AP) target max HP),60/90/120/150/180 (+3% (+1.5% per 100 AP) target max HP),buff,Basic Damage : 55/70/85/100/115 (+3% (+1.5% AP) target max HP) ⇒ 60/90/120/150/180 (+3% (+1.5% per 100 AP) target max HP)
+25.S1.3,2025-02-04T19:00:00.000Z,Evelynn,buff,E,Empowered Damage,75/100/125/150/175 (+4% (+2.5% AP) target max HP),80/120/160/200/240 (+4% (+2.5% per 100 AP) target max HP),buff,Empowered Damage : 75/100/125/150/175 (+4% (+2.5% AP) target max HP) ⇒ 80/120/160/200/240 (+4% (+2.5% per 100 AP) target max HP)
+25.S1.3,2025-02-04T19:00:00.000Z,Galio,nerf,Stats,Health,632,600,nerf,Health : 632 ⇒ 600
+25.S1.3,2025-02-04T19:00:00.000Z,Kayn,adjustment,Q,Damage,75/95/115/135/155 (+85% Bonus AD),75/100/125/150/175 (+85% Bonus AD),neutral,Damage : 75/95/115/135/155 (+85% Bonus AD) ⇒ 75/100/125/150/175 (+85% Bonus AD)
+25.S1.3,2025-02-04T19:00:00.000Z,Jax,buff,Stats,Health Growth,100,103,buff,Health Growth : 100 ⇒ 103
+25.S1.3,2025-02-04T19:00:00.000Z,Jax,buff,Stats,Base Mana Regen,7.6,8.2,buff,Base Mana Regen : 7.6 ⇒ 8.2
+25.S1.3,2025-02-04T19:00:00.000Z,Jax,buff,R,3 Hit Damage,70/120/170 (+60% AP),75/130/185 (+60% AP),buff,3 Hit Damage : 70/120/170 (+60% AP) ⇒ 75/130/185 (+60% AP)
+25.S1.3,2025-02-04T19:00:00.000Z,Jayce,nerf,Q,Damage,60/110/160/210/260/310 (+120% bonus AD),60/105/150/195/240/285 (+135% bonus AD),neutral,Damage : 60/110/160/210/260/310 (+120% bonus AD) ⇒ 60/105/150/195/240/285 (+135% bonus AD)
+25.S1.3,2025-02-04T19:00:00.000Z,Jayce,nerf,Q,Damage,60/115/170/225/280/335 (+125% bonus AD),60/110/160/210/260/310 (+140% bonus AD),neutral,Damage : 60/115/170/225/280/335 (+125% bonus AD) ⇒ 60/110/160/210/260/310 (+140% bonus AD)
+25.S1.3,2025-02-04T19:00:00.000Z,Jayce,nerf,W,Damage,40/55/70/85/100/115 (+25% AP),35/50/65/80/95/110 (+25% AP),nerf,Damage : 40/55/70/85/100/115 (+25% AP) ⇒ 35/50/65/80/95/110 (+25% AP)
+25.S1.3,2025-02-04T19:00:00.000Z,Jayce,nerf,R,Empowered Basic Attack Damage,25/65/105/145 (based on level) (+25% bonus AD),25/60/100/130 (based on level) (+30% bonus AD),neutral,Empowered Basic Attack Damage : 25/65/105/145 (based on level) (+25% bonus AD) ⇒ 25/60/100/130 (based on level) (+30% bonus AD)
+25.S1.3,2025-02-04T19:00:00.000Z,Miss Fortune,nerf,Stats,Armor,28,25,nerf,Armor : 28 ⇒ 25
+25.S1.3,2025-02-04T19:00:00.000Z,Miss Fortune,nerf,Stats,Armor Growth,4.2,4,nerf,Armor Growth : 4.2 ⇒ 4
+25.S1.3,2025-02-04T19:00:00.000Z,Nasus,buff,Passive,Life Steal,9/15/21% (based on level),12/18/24% (based on level),buff,Life Steal : 9/15/21% (based on level) ⇒ 12/18/24% (based on level)
+25.S1.3,2025-02-04T19:00:00.000Z,Quinn,adjustment,W,Attack Speed,28/36/44/52/60%,28/41/54/67/80%,neutral,Attack Speed : 28/36/44/52/60% ⇒ 28/41/54/67/80%
+25.S1.3,2025-02-04T19:00:00.000Z,Rakan,nerf,W,Cooldown,16/14.5/13/11.5/10,14/13/12/11/10,nerf,Cooldown : 16/14.5/13/11.5/10 ⇒ 14/13/12/11/10
+25.S1.3,2025-02-04T19:00:00.000Z,Rell,nerf,Stats,Health,640,620,nerf,Health : 640 ⇒ 620
+25.S1.3,2025-02-04T19:00:00.000Z,Rell,nerf,Stats,Armor Growth,4.3,4,nerf,Armor Growth : 4.3 ⇒ 4
+25.S1.3,2025-02-04T19:00:00.000Z,Samira,buff,E,Attack Speed Duration,3 seconds,5 seconds,buff,Attack Speed Duration : 3 seconds ⇒ 5 seconds
+25.S1.3,2025-02-04T19:00:00.000Z,Skarner,nerf,Stats,Armor Growth,4.8,4.5,nerf,Armor Growth : 4.8 ⇒ 4.5
+25.S1.3,2025-02-04T19:00:00.000Z,Skarner,nerf,E,Stun Duration,1.5 seconds,1 second,nerf,Stun Duration : 1.5 seconds ⇒ 1 second
+25.S1.3,2025-02-04T19:00:00.000Z,Swain,buff,Passive,Max Health per Soul Fragment,12,15,buff,Max Health per Soul Fragment : 12 ⇒ 15
+25.S1.3,2025-02-04T19:00:00.000Z,Swain,buff,E,Damage,80/120/160/200/240 (+60% AP),80/120/160/200/240 (+70% AP),neutral,Damage : 80/120/160/200/240 (+60% AP) ⇒ 80/120/160/200/240 (+70% AP)
+25.S1.3,2025-02-04T19:00:00.000Z,Teemo,nerf,E,On-Hit Damage,14/27/40/53/66 (+30% AP),9/23/37/51/65 (+30% AP),nerf,On-Hit Damage : 14/27/40/53/66 (+30% AP) ⇒ 9/23/37/51/65 (+30% AP)
+25.S1.3,2025-02-04T19:00:00.000Z,Thresh,buff,Stats,Health,600,620,buff,Health : 600 ⇒ 620
+25.S1.3,2025-02-04T19:00:00.000Z,Thresh,buff,E,Basic Attack Damage,1.5 per Soul (+ up to 80/110/140/170/200%),1.7 per Soul (+ up to 90/120/150/180/210% total AD),buff,Basic Attack Damage : 1.5 per Soul (+ up to 80/110/140/170/200%) ⇒ 1.7 per Soul (+ up to 90/120/150/180/210% total AD)
+25.S1.3,2025-02-04T19:00:00.000Z,Viego,nerf,Stats,Attack Damage,60,57,nerf,Attack Damage : 60 ⇒ 57
+25.S1.3,2025-02-04T19:00:00.000Z,Wukong,adjustment,W,Cooldown,18/17/16/15/14,20/19/18/17/16,buff,Cooldown : 18/17/16/15/14 ⇒ 20/19/18/17/16
+25.S1.3,2025-02-04T19:00:00.000Z,Wukong,adjustment,E,Attack Speed,40/45/50/55/60%,35/40/45/50/55%,nerf,Attack Speed : 40/45/50/55/60% ⇒ 35/40/45/50/55%
+25.04,2025-02-19T19:00:00.000Z,Ashe,buff,Q,Total Damage per Flurry,110/115/120/125/130% AD,111/117/123/129/135% AD,buff,Total Damage per Flurry : 110/115/120/125/130% AD ⇒ 111/117/123/129/135% AD
+25.04,2025-02-19T19:00:00.000Z,Ashe,buff,W,AD Ratio,100% bonus AD,110% bonus AD,buff,AD Ratio : 100% bonus AD ⇒ 110% bonus AD
+25.04,2025-02-19T19:00:00.000Z,Ashe,buff,R,Damage,200/400/600 (+120% AP),250/450/650 (+120% AP),buff,Damage : 200/400/600 (+120% AP) ⇒ 250/450/650 (+120% AP)
+25.04,2025-02-19T19:00:00.000Z,Ashe,buff,R,Secondary Target Damage,50%,100%,buff,Secondary Target Damage : 50% ⇒ 100%
+25.04,2025-02-19T19:00:00.000Z,Diana,buff,Passive,Monster Damage,300%,225%,nerf,Monster Damage : 300% ⇒ 225%
+25.04,2025-02-19T19:00:00.000Z,Diana,buff,Q,Damage,60/95/130/165/200 (+70% AP),70/105/140/175/210 (+70% AP),buff,Damage : 60/95/130/165/200 (+70% AP) ⇒ 70/105/140/175/210 (+70% AP)
+25.04,2025-02-19T19:00:00.000Z,Diana,buff,W,Maximum Damage,54/90/126/162/198 (+54% AP),60/96/132/168/204 (+54% AP),buff,Maximum Damage : 54/90/126/162/198 (+54% AP) ⇒ 60/96/132/168/204 (+54% AP)
+25.04,2025-02-19T19:00:00.000Z,Ekko,buff,Q,Damage,70/85/100/115/130 (+30% AP),80/95/110/125/140 (+30% AP),buff,Damage : 70/85/100/115/130 (+30% AP) ⇒ 80/95/110/125/140 (+30% AP)
+25.04,2025-02-19T19:00:00.000Z,Elise,adjustment,W,Damage,60/105/150/195/240 (+95% AP),60/100/140/180/220 (+75% AP),neutral,Damage : 60/105/150/195/240 (+95% AP) ⇒ 60/100/140/180/220 (+75% AP)
+25.04,2025-02-19T19:00:00.000Z,Elise,adjustment,W,Cooldown,10,6 seconds,nerf,Cooldown : 10 ⇒ 6 seconds
+25.04,2025-02-19T19:00:00.000Z,Elise,adjustment,W,Bonus Attack Speed,60/70/80/90/100%,60/75/90/105/120%,neutral,Bonus Attack Speed : 60/70/80/90/100% ⇒ 60/75/90/105/120%
+25.04,2025-02-19T19:00:00.000Z,Elise,adjustment,R,Spiderling Damage,8/14/20/26 (+15% AP),10/20/30/40 (+15% AP),buff,Spiderling Damage : 8/14/20/26 (+15% AP) ⇒ 10/20/30/40 (+15% AP)
+25.04,2025-02-19T19:00:00.000Z,Gangplank,buff,Stats,AD Growth,3.7,4.2,buff,AD Growth : 3.7 ⇒ 4.2
+25.04,2025-02-19T19:00:00.000Z,Hwei,nerf,Passive,Damage,35–180 (based on level) (+35% AP),35–180 (based on level) (+30% AP),neutral,Damage : 35–180 (based on level) (+35% AP) ⇒ 35–180 (based on level) (+30% AP)
+25.04,2025-02-19T19:00:00.000Z,Hwei,nerf,Other,Damage,80/100/120/140/160 (+25% AP),60/85/110/135/160 (+25% AP),nerf,Damage : 80/100/120/140/160 (+25% AP) ⇒ 60/85/110/135/160 (+25% AP)
+25.04,2025-02-19T19:00:00.000Z,Hwei,nerf,Other,Damage,25/35/45/55/65 (+20% AP),20/30/40/50/60 (+15% AP),nerf,Damage : 25/35/45/55/65 (+20% AP) ⇒ 20/30/40/50/60 (+15% AP)
+25.04,2025-02-19T19:00:00.000Z,Jayce,buff,W,Set Attack Speed,2.67,3.0,buff,Set Attack Speed : 2.67 ⇒ 3.0
+25.04,2025-02-19T19:00:00.000Z,Kalista,nerf,W,Target Max Health Damage,14/15/16/17/18%,10/12/14/16/18%,nerf,Target Max Health Damage : 14/15/16/17/18% ⇒ 10/12/14/16/18%
+25.04,2025-02-19T19:00:00.000Z,Kog'Maw,nerf,Q,Damage,90/140/190/240/290 (+70% AP),80/125/170/215/260 (+80% AP),nerf,Damage : 90/140/190/240/290 (+70% AP) ⇒ 80/125/170/215/260 (+80% AP)
+25.04,2025-02-19T19:00:00.000Z,Lulu,adjustment,W,Bonus Attack Speed,25/27.5/30/32.5/35%,20/22.5/25/27.5/30%,nerf,Bonus Attack Speed : 25/27.5/30/32.5/35% ⇒ 20/22.5/25/27.5/30%
+25.04,2025-02-19T19:00:00.000Z,Lulu,adjustment,W,Cooldown,17/16.5/16/15.5/15,18/17.5/17/16.5/16 seconds,buff,Cooldown : 17/16.5/16/15.5/15 ⇒ 18/17.5/17/16.5/16 seconds
+25.04,2025-02-19T19:00:00.000Z,Lulu,adjustment,E,Base Damage/Shield Strength,80/125/170/215/260,80/120/160/200/240,neutral,Base Damage/Shield Strength : 80/125/170/215/260 ⇒ 80/120/160/200/240
+25.04,2025-02-19T19:00:00.000Z,Mel,nerf,Q,Cast Range,1000,950,nerf,Cast Range : 1000 ⇒ 950
+25.04,2025-02-19T19:00:00.000Z,Mel,nerf,Q,Projectile Speed,5000,4500,nerf,Projectile Speed : 5000 ⇒ 4500
+25.04,2025-02-19T19:00:00.000Z,Mel,nerf,W,Duration,1,0.75 seconds,nerf,Duration : 1 ⇒ 0.75 seconds
+25.04,2025-02-19T19:00:00.000Z,Mel,nerf,W,Mana Cost,60/45/30/15/0,80/60/40/20/0,buff,Mana Cost : 60/45/30/15/0 ⇒ 80/60/40/20/0
+25.04,2025-02-19T19:00:00.000Z,Mel,nerf,W,Reflected Damage,40/47.5/55/62.5/70%,40/45/50/55/60%,neutral,Reflected Damage : 40/47.5/55/62.5/70% ⇒ 40/45/50/55/60%
+25.04,2025-02-19T19:00:00.000Z,Mel,nerf,E,Root Duration,1.75/1.88/2/2.13/2.25,1.25/1.5/1.75/2/2.25 seconds,nerf,Root Duration : 1.75/1.88/2/2.13/2.25 ⇒ 1.25/1.5/1.75/2/2.25 seconds
+25.04,2025-02-19T19:00:00.000Z,Mel,nerf,E,Direct Hit Damage,60/100/140/180/220 (+50% AP),60/105/150/195/240 (+60% AP),neutral,Direct Hit Damage : 60/100/140/180/220 (+50% AP)  ⇒ 60/105/150/195/240 (+60% AP)
+25.04,2025-02-19T19:00:00.000Z,Mel,nerf,R,Damage per Overwhelm Stack,4/7/10 (+2.5% AP),4/7/10 (+3.5% AP),neutral,Damage per Overwhelm Stack : 4/7/10 (+2.5% AP) ⇒ 4/7/10 (+3.5% AP)
+25.04,2025-02-19T19:00:00.000Z,Nautilus,buff,Q,Damage,70/115/160/205/250 (+90% AP),85/130/175/220/265 (+90% AP),buff,Damage : 70/115/160/205/250 (+90% AP) ⇒ 85/130/175/220/265 (+90% AP)
+25.04,2025-02-19T19:00:00.000Z,Sion,buff,Stats,Base Armor,32,36,buff,Base Armor : 32 ⇒ 36
+25.04,2025-02-19T19:00:00.000Z,Sion,buff,Stats,Health Regeneration,7.5,9,buff,Health Regeneration : 7.5 ⇒ 9
+25.04,2025-02-19T19:00:00.000Z,Teemo,buff,E,Monster Damage,125%,145%,buff,Monster Damage : 125% ⇒ 145%
+25.04,2025-02-19T19:00:00.000Z,Warwick,buff,Q,Mana Cost,70/75/80/85/90,80/85/90/95/100,buff,Mana Cost : 70/75/80/85/90 ⇒ 80/85/90/95/100
+25.04,2025-02-19T19:00:00.000Z,Yasuo,adjustment,Passive,Critical Damage Reduction,10%,REMOVED,neutral,Critical Damage Reduction : 10% ⇒ REMOVED
+25.05,2025-03-04T19:00:00.000Z,Ambessa,adjustment,E,Damage,40/65/90/115/140 (+60% bonus AD),40/60/80/100/120 (+60 bonus AD),neutral,Damage : 40/65/90/115/140 (+60% bonus AD) ⇒ 40/60/80/100/120 (+60 bonus AD)
+25.05,2025-03-04T19:00:00.000Z,Aphelios,buff,Stats,Attack Speed Ratio,.640,.658,buff,Attack Speed Ratio : .640 ⇒ .658
+25.05,2025-03-04T19:00:00.000Z,Ashe,nerf,R,Damage,250/450/650,200/400/600,nerf,Damage : 250/450/650 ⇒ 200/400/600
+25.05,2025-03-04T19:00:00.000Z,Aurora,nerf,E,Damage,70/110/150/190/230 (+80% AP),70/110/150/190/230 (+70% AP),neutral,Damage : 70/110/150/190/230 (+80% AP) ⇒ 70/110/150/190/230 (+70% AP)
+25.05,2025-03-04T19:00:00.000Z,Aurora,nerf,R,Border Collision Slow,75%,50%,nerf,Border Collision Slow : 75% ⇒ 50%
+25.05,2025-03-04T19:00:00.000Z,Cho'Gath,adjustment,Q,Damage,80/145/210/275/340 (+100% AP),80/140/200/260/320 (+100% AP),neutral,Damage : 80/145/210/275/340 (+100% AP) ⇒ 80/140/200/260/320 (+100% AP)
+25.05,2025-03-04T19:00:00.000Z,Cho'Gath,adjustment,W,Damage,80/135/190/245/300 (+70% AP),80/130/180/230/280 (+70% AP),neutral,Damage : 80/135/190/245/300 (+70% AP) ⇒ 80/130/180/230/280 (+70% AP)
+25.05,2025-03-04T19:00:00.000Z,Cho'Gath,adjustment,E,Damage,20/40/60/80/100 (+3% (+0.5% per stack) of target's maximum health),20/40/60/80/100 (+2.5/2.75/3/3.25/3.5% (+0.5% per stack) of target's maximum hea,neutral,Damage : 20/40/60/80/100 (+3% (+0.5% per stack) of target's maximum health) ⇒ 20/40/60/80/100 (+2.5/2.75/3/3.25/3.5% (+0.5% per stack) of target's maximum health)
+25.05,2025-03-04T19:00:00.000Z,Elise,nerf,Q,Damage,40/75/110/145/180 (+4 % of targets health)(+3% per 100 AP)),40/70/100/130/160 (+4 % of targets health)(+3% per 100 AP)),neutral,Damage : 40/75/110/145/180 (+4 % of targets health)(+3% per 100 AP)) ⇒ 40/70/100/130/160 (+4 % of targets health)(+3% per 100 AP))
+25.05,2025-03-04T19:00:00.000Z,Elise,nerf,Q,Damage,60/90/120/150/180 (+8 of targets missing HP (+3% per 100 AP)),50/80/110/140/180 (+8 of targets missing HP (+3% per 100 AP)),nerf,Damage : 60/90/120/150/180 (+8 of targets missing HP (+3% per 100 AP)) ⇒ 50/80/110/140/180 (+8 of targets missing HP (+3% per 100 AP))
+25.05,2025-03-04T19:00:00.000Z,K'Sante,nerf,Passive,Mark Damage,20 (+1-2% (based on level) target's max HP),12 (+1-2% (based on level) target's max HP),nerf,Mark Damage : 20 (+1-2% (based on level) target's max HP) ⇒ 12 (+1-2% (based on level) target's max HP)
+25.05,2025-03-04T19:00:00.000Z,K'Sante,nerf,W,All Out Bonus True Damage,10-100% (based on channel duration),10-80% (based on channel duration),neutral,All Out Bonus True Damage : 10-100% (based on channel duration) ⇒ 10-80% (based on channel duration)
+25.05,2025-03-04T19:00:00.000Z,Dr. Mundo,buff,Stats,Health,613,640,buff,Health : 613 ⇒ 640
+25.05,2025-03-04T19:00:00.000Z,Poppy,nerf,Stats,HP Growth,104,110,buff,HP Growth : 104 ⇒ 110
+25.05,2025-03-04T19:00:00.000Z,Poppy,nerf,Passive,Shield,13/15.5/18% max HP at level 1/7/13,11-20% max HP (based on level),nerf,Shield : 13/15.5/18% max HP at level 1/7/13 ⇒ 11-20% max HP (based on level)
+25.05,2025-03-04T19:00:00.000Z,Poppy,nerf,E,Max Damage,100/140/180/220/260 (+100% bonus AD),80/120/160/200/240 (+120% bonus AD),nerf,Max Damage : 100/140/180/220/260 (+100% bonus AD) ⇒ 80/120/160/200/240 (+120% bonus AD)
+25.05,2025-03-04T19:00:00.000Z,Seraphine,buff,Q,Maximum Champion Bonus Damage,60%,75%,buff,Maximum Champion Bonus Damage : 60% ⇒ 75%
+25.05,2025-03-04T19:00:00.000Z,Skarner,nerf,Q,Slow Duration,1.25 seconds,1 second,nerf,Slow Duration : 1.25 seconds ⇒ 1 second
+25.05,2025-03-04T19:00:00.000Z,Skarner,nerf,Q,Final Attack Bonus Damage,+10% of target's maximum health,+8% of target's maximum health,nerf,Final Attack Bonus Damage : +10% of target's maximum health ⇒ +8% of target's maximum health
+25.05,2025-03-04T19:00:00.000Z,Skarner,nerf,E,Cooldown,20/19/18/17/16,22/21/20/19/18,buff,Cooldown : 20/19/18/17/16 ⇒ 22/21/20/19/18
+25.05,2025-03-04T19:00:00.000Z,Yorick,nerf,R,Maiden Mark Monster damage cap,100,50,nerf,Maiden Mark Monster damage cap : 100 ⇒ 50
+25.05,2025-03-04T19:00:00.000Z,Zed,buff,E,Damage,65/90/115/140/165 (+65% bonus AD),70/95/120/145/170 (+80% bonus AD),buff,Damage : 65/90/115/140/165 (+65% bonus AD) ⇒ 70/95/120/145/170 (+80% bonus AD)
+25.06,2025-03-18T18:00:00.000Z,Caitlyn,nerf,W,Headshot Damage Increase vs Trapped Targets,40 / 85 / 130 / 175 / 220 (+ 40% bonus AD),35 / 80 / 125 / 170 / 215 (+ 30% bonus AD),nerf,Headshot Damage Increase vs Trapped Targets : 40 / 85 / 130 / 175 / 220 (+ 40% bonus AD) ⇒ 35 / 80 / 125 / 170 / 215 (+ 30% bonus AD)
+25.06,2025-03-18T18:00:00.000Z,Caitlyn,nerf,R,Damage,300 / 500 / 700 (+ 100% bonus AD),300 / 475 / 650 (+ 100% bonus AD),neutral,Damage : 300 / 500 / 700 (+ 100% bonus AD) ⇒ 300 / 475 / 650 (+ 100% bonus AD)
+25.06,2025-03-18T18:00:00.000Z,Corki,nerf,Stats,Base Armor,30,27,nerf,Base Armor : 30 ⇒ 27
+25.06,2025-03-18T18:00:00.000Z,Darius,nerf,Passive,Monster Damage Modifier,300%,200%,nerf,Monster Damage Modifier : 300% ⇒ 200%
+25.06,2025-03-18T18:00:00.000Z,Ezreal,nerf,Stats,Armor Growth,4.7,4.2,nerf,Armor Growth : 4.7 ⇒ 4.2
+25.06,2025-03-18T18:00:00.000Z,Fiora,adjustment,Q,Mana Cost,20/25/30/35/40,20 at all ranks,neutral,Mana Cost : 20/25/30/35/40 ⇒ 20 at all ranks
+25.06,2025-03-18T18:00:00.000Z,Garen,nerf,E,Damage on Critical Strikes,175%,150%,nerf,Damage on Critical Strikes : 175% ⇒ 150%
+25.06,2025-03-18T18:00:00.000Z,Gwen,adjustment,Stats,Health Growth,115,110,nerf,Health Growth : 115 ⇒ 110
+25.06,2025-03-18T18:00:00.000Z,Gwen,adjustment,Stats,Base Health,620,650,buff,Base Health : 620 ⇒ 650
+25.06,2025-03-18T18:00:00.000Z,Gwen,adjustment,Other,Damage,1% (+ 0.6% per 100 AP) of target's HP,1% (+ 0.55% per 100 AP) of target's HP,neutral,Damage : 1% (+ 0.6% per 100 AP) of target's HP ⇒ 1% (+ 0.55% per 100 AP) of target's HP
+25.06,2025-03-18T18:00:00.000Z,Gwen,adjustment,Other,Damage to Monsters Modifier,10 (+15% AP),5 (+15% AP),nerf,Damage to Monsters Modifier : 10 (+15% AP) ⇒ 5 (+15% AP)
+25.06,2025-03-18T18:00:00.000Z,Gwen,adjustment,Q,Final Snip Damage,60 / 85 / 110 / 135 / 160 (+ 35% AP),70 / 95 / 120 / 145 / 170 (+ 35% AP),buff,Final Snip Damage : 60 / 85 / 110 / 135 / 160 (+ 35% AP) ⇒ 70 / 95 / 120 / 145 / 170 (+ 35% AP)
+25.06,2025-03-18T18:00:00.000Z,Gwen,adjustment,Q,Maximum Damage,110 / 160 / 210 / 260 / 310 (+ 60% AP),120 / 170 / 220 / 270 / 320 (+ 60% AP),buff,Maximum Damage : 110 / 160 / 210 / 260 / 310 (+ 60% AP) ⇒ 120 / 170 / 220 / 270 / 320 (+ 60% AP)
+25.06,2025-03-18T18:00:00.000Z,Gwen,adjustment,W,Bonus Resistances,22 / 24 / 26 / 28 / 30 (+ 7% AP),25 (+ 5% AP),buff,Bonus Resistances : 22 / 24 / 26 / 28 / 30 (+ 7% AP) ⇒ 25 (+ 5% AP)
+25.06,2025-03-18T18:00:00.000Z,Gwen,adjustment,E,Cooldown,13 / 12.5 / 12 / 11.5 / 11,12 / 11 / 10 / 9 / 8 seconds,nerf,Cooldown : 13 / 12.5 / 12 / 11.5 / 11 ⇒ 12 / 11 / 10 / 9 / 8 seconds
+25.06,2025-03-18T18:00:00.000Z,Gwen,adjustment,E,Cooldown Refund,25 / 35 / 45 / 55 / 65%,50% at all ranks,buff,Cooldown Refund : 25 / 35 / 45 / 55 / 65% ⇒ 50% at all ranks
+25.06,2025-03-18T18:00:00.000Z,Gwen,adjustment,E,On-Hit Damage,15 (+ 20% AP),12 / 14 / 16 / 18 / 20 (+ 25% AP),nerf,On-Hit Damage : 15 (+ 20% AP) ⇒ 12 / 14 / 16 / 18 / 20 (+ 25% AP)
+25.06,2025-03-18T18:00:00.000Z,Gwen,adjustment,R,Damage per Needle,35 / 65 / 95 (+ 10% AP),30 / 60 / 90 (+ 8% AP),nerf,Damage per Needle : 35 / 65 / 95 (+ 10% AP) ⇒ 30 / 60 / 90 (+ 8% AP)
+25.06,2025-03-18T18:00:00.000Z,Gwen,adjustment,R,Initial Slow,40 / 50 / 60%,60% at all ranks,buff,Initial Slow : 40 / 50 / 60% ⇒ 60% at all ranks
+25.06,2025-03-18T18:00:00.000Z,Gwen,adjustment,R,Reduced Slow,15 / 20 / 25%,25% at all ranks,buff,Reduced Slow : 15 / 20 / 25% ⇒ 25% at all ranks
+25.06,2025-03-18T18:00:00.000Z,Jarvan IV,buff,Q,Damage,80 / 120 / 160 / 200 / 240 (+ 140% bonus AD),90 / 130 / 170 / 210 / 250 (+ 145% bonus AD),buff,Damage : 80 / 120 / 160 / 200 / 240 (+ 140% bonus AD) ⇒ 90 / 130 / 170 / 210 / 250 (+ 145% bonus AD)
+25.06,2025-03-18T18:00:00.000Z,Jhin,adjustment,Passive,Bonus AD,4 - 44% (based on level) (+ 0.3% per 1% Critical Strike Chance) (+ 0.25% per 1% ,4 - 44% (based on level) (+ 0.35% per 1% Critical Strike Chance) (+ 0.3% per 1% ,neutral,Bonus AD : 4 - 44% (based on level) (+ 0.3% per 1% Critical Strike Chance) (+ 0.25% per 1% bonus Attack Speed) ⇒ 4 - 44% (based on level) (+ 0.35% per 1% Critical Strike Chance) (+ 0.3% per 1% bonus A
+25.06,2025-03-18T18:00:00.000Z,Jinx,nerf,R,Damage,325 / 475 / 625 (+ 165% bonus AD) (+ 25 / 30 / 35% of target's missing health),300 / 450 / 600 (+ 155% bonus AD) (+ 25 / 30 / 35% of target's missing health),nerf,Damage : 325 / 475 / 625 (+ 165% bonus AD) (+ 25 / 30 / 35% of target's missing health) ⇒ 300 / 450 / 600 (+ 155% bonus AD) (+ 25 / 30 / 35% of target's missing health)
+25.06,2025-03-18T18:00:00.000Z,Kai'Sa,buff,Stats,Base Armor,25,27,buff,Base Armor : 25 ⇒ 27
+25.06,2025-03-18T18:00:00.000Z,Kai'Sa,buff,Stats,Base Health Regeneration,3.5,4,buff,Base Health Regeneration : 3.5 ⇒ 4
+25.06,2025-03-18T18:00:00.000Z,Kai'Sa,buff,R,Cooldown,130 / 100 / 70,120 / 90 / 60 seconds,nerf,Cooldown : 130 / 100 / 70 ⇒ 120 / 90 / 60 seconds
+25.06,2025-03-18T18:00:00.000Z,Karma,nerf,Q,Damage,70 / 120 / 170 / 220 / 270 (+ 70% AP),60 / 110 / 160 / 210 / 260 (+ 70% AP),nerf,Damage : 70 / 120 / 170 / 220 / 270 (+ 70% AP) ⇒ 60 / 110 / 160 / 210 / 260 (+ 70% AP)
+25.06,2025-03-18T18:00:00.000Z,Kha'Zix,buff,Passive,Bonus Damage,14 - 116 (based on level) (+40% bonus AD),17 - 136 (based on level) (+50% bonus AD),buff,Bonus Damage : 14 - 116 (based on level) (+40% bonus AD) ⇒ 17 - 136 (based on level) (+50% bonus AD)
+25.06,2025-03-18T18:00:00.000Z,Kha'Zix,buff,E,Damage,65 / 100 / 135 / 170 / 205 (+ 20% bonus AD),65 / 100 / 135 / 170 / 205 (+ 40% bonus AD),neutral,Damage : 65 / 100 / 135 / 170 / 205 (+ 20% bonus AD) ⇒ 65 / 100 / 135 / 170 / 205 (+ 40% bonus AD)
+25.06,2025-03-18T18:00:00.000Z,Lillia,nerf,E,Cooldown,14,12 seconds,nerf,Cooldown : 14 ⇒ 12 seconds
+25.06,2025-03-18T18:00:00.000Z,Lillia,nerf,E,Damage,60 / 85 / 110 / 135 / 160 (+ 50% AP),60 / 85 / 110 / 135 / 160 (+ 60% AP),neutral,Damage : 60 / 85 / 110 / 135 / 160 (+ 50% AP) ⇒ 60 / 85 / 110 / 135 / 160 (+ 60% AP)
+25.06,2025-03-18T18:00:00.000Z,Lucian,nerf,E,Cooldown,19 / 17.75 / 16.5 / 15.25 / 14,16 / 15.5 / 15 / 14.5 / 14 seconds,nerf,Cooldown : 19 / 17.75 / 16.5 / 15.25 / 14 ⇒ 16 / 15.5 / 15 / 14.5 / 14 seconds
+25.06,2025-03-18T18:00:00.000Z,Master Yi,adjustment,Stats,Armor Growth,4.7,4.2,nerf,Armor Growth : 4.7 ⇒ 4.2
+25.06,2025-03-18T18:00:00.000Z,Master Yi,adjustment,Q,Bonus Critical Strike Damage,75%,100%,buff,Bonus Critical Strike Damage : 75% ⇒ 100%
+25.06,2025-03-18T18:00:00.000Z,Naafiri,adjustment,Stats,Health Growth,120,105,nerf,Health Growth : 120 ⇒ 105
+25.06,2025-03-18T18:00:00.000Z,Naafiri,adjustment,Stats,Armor Growth,4.7,4.2,nerf,Armor Growth : 4.7 ⇒ 4.2
+25.06,2025-03-18T18:00:00.000Z,Naafiri,adjustment,Stats,Base Attack Damage,55,57,buff,Base Attack Damage : 55 ⇒ 57
+25.06,2025-03-18T18:00:00.000Z,Naafiri,adjustment,Stats,AD Growth,2.1,2,nerf,AD Growth : 2.1 ⇒ 2
+25.06,2025-03-18T18:00:00.000Z,Naafiri,adjustment,Passive,Max Packmates,2 / 3 (levels 1 / 9),2 / 3 / 4 / 5 (levels 1 / 9 / 12 / 15),neutral,Max Packmates : 2 / 3 (levels 1 / 9) ⇒ 2 / 3 / 4 / 5 (levels 1 / 9 / 12 / 15)
+25.06,2025-03-18T18:00:00.000Z,Naafiri,adjustment,Passive,Packmate Damage,12 - 32 (based on level) (+ 5% bonus AD),10 - 20 (based on level) (+ 4% bonus AD),nerf,Packmate Damage : 12 - 32 (based on level) (+ 5% bonus AD) ⇒ 10 - 20 (based on level) (+ 4% bonus AD)
+25.06,2025-03-18T18:00:00.000Z,Naafiri,adjustment,Passive,Packmate Health Growth,16,13,nerf,Packmate Health Growth : 16 ⇒ 13
+25.06,2025-03-18T18:00:00.000Z,Naafiri,adjustment,Passive,Packmate Armor/MR Growth,2,1.8,nerf,Packmate Armor/MR Growth : 2 ⇒ 1.8
+25.06,2025-03-18T18:00:00.000Z,Naafiri,adjustment,Passive,Packmate Reduced AoE Damage Taken,76 - 50% (levels 1-14),76 - 55% (levels 1-15),neutral,Packmate Reduced AoE Damage Taken : 76 - 50% (levels 1-14) ⇒ 76 - 55% (levels 1-15)
+25.06,2025-03-18T18:00:00.000Z,Naafiri,adjustment,Passive,Packmate Damage to Towers,25%,50%,buff,Packmate Damage to Towers : 25% ⇒ 50%
+25.06,2025-03-18T18:00:00.000Z,Naafiri,adjustment,Passive,Packmate Taunt Duration,3,2 seconds,nerf,Packmate Taunt Duration : 3 ⇒ 2 seconds
+25.06,2025-03-18T18:00:00.000Z,Naafiri,adjustment,Q,Damage to Minions,60%,80%,buff,Damage to Minions : 60% ⇒ 80%
+25.06,2025-03-18T18:00:00.000Z,Naafiri,adjustment,W,Bonus AD,5/15/25 (+ 8-24% AD),+ 20% AD (Note: This is now granted on-cast.),buff,Bonus AD : 5/15/25 (+ 8-24% AD) ⇒ + 20% AD (Note: This is now granted on-cast.)
+25.06,2025-03-18T18:00:00.000Z,Naafiri,adjustment,W,Extra Packmates,2/3/4,2,neutral,Extra Packmates : 2/3/4 ⇒ 2
+25.06,2025-03-18T18:00:00.000Z,Naafiri,adjustment,W,Buff Duration,15 seconds,5 seconds,nerf,Buff Duration : 15 seconds ⇒ 5 seconds
+25.06,2025-03-18T18:00:00.000Z,Naafiri,adjustment,W,Bonus Movement Speed,"70-100% decaying over 4 seconds, reduced upon taking damage",20-30% for 5 seconds (Note: This is now granted on-cast.),nerf,"Bonus Movement Speed : 70-100% decaying over 4 seconds, reduced upon taking damage ⇒ 20-30% for 5 seconds (Note: This is now granted on-cast.)"
+25.06,2025-03-18T18:00:00.000Z,Naafiri,adjustment,W,Cooldown,120/110/100 seconds,20/19.5/19/18.5/18 seconds,nerf,Cooldown : 120/110/100 seconds ⇒ 20/19.5/19/18.5/18 seconds
+25.06,2025-03-18T18:00:00.000Z,Naafiri,adjustment,W,Mana Cost,100,60,nerf,Mana Cost : 100 ⇒ 60
+25.06,2025-03-18T18:00:00.000Z,Naafiri,adjustment,R,Cooldown,22 / 20 / 18 / 16 / 14,110 / 95 / 80 seconds,buff,Cooldown : 22 / 20 / 18 / 16 / 14 ⇒ 110 / 95 / 80 seconds
+25.06,2025-03-18T18:00:00.000Z,Naafiri,adjustment,R,Mana Cost,70 / 60 / 50 / 40 / 30,100,buff,Mana Cost : 70 / 60 / 50 / 40 / 30 ⇒ 100
+25.06,2025-03-18T18:00:00.000Z,Naafiri,adjustment,R,Range,700 / 780 / 860 / 940,900 units,buff,Range : 700 / 780 / 860 / 940 ⇒ 900 units
+25.06,2025-03-18T18:00:00.000Z,Naafiri,adjustment,R,Damage,30 / 70 / 110 / 150 / 190 (+ 80% bonus AD) (+ 10% per Packmate),150 / 250 / 350 (+ 120% bonus AD) (+ 10% per Packmate),buff,Damage : 30 / 70 / 110 / 150 / 190 (+ 80% bonus AD) (+ 10% per Packmate) ⇒ 150 / 250 / 350 (+ 120% bonus AD) (+ 10% per Packmate)
+25.06,2025-03-18T18:00:00.000Z,Poppy,buff,Q,Capped Monster Health Damage,50 / 80 / 110 / 140 / 170,75 / 105 / 135 / 165 / 195,buff,Capped Monster Health Damage : 50 / 80 / 110 / 140 / 170 ⇒ 75 / 105 / 135 / 165 / 195
+25.06,2025-03-18T18:00:00.000Z,Poppy,buff,Q,Maximum Monster Damage,80 / 135 / 190 / 245 / 300 (+ 100% bonus AD),105 / 160 / 215 / 270 / 325 (+ 100% bonus AD),buff,Maximum Monster Damage : 80 / 135 / 190 / 245 / 300 (+ 100% bonus AD) ⇒ 105 / 160 / 215 / 270 / 325 (+ 100% bonus AD)
+25.06,2025-03-18T18:00:00.000Z,Singed,adjustment,Stats,Base Attack Speed,0.625,0.7 (Note: This is equivalent to gaining 12% AS at level 1.),buff,Base Attack Speed : 0.625 ⇒ 0.7 (Note: This is equivalent to gaining 12% AS at level 1.)
+25.06,2025-03-18T18:00:00.000Z,Singed,adjustment,Stats,Health Growth,99,96,nerf,Health Growth : 99 ⇒ 96
+25.06,2025-03-18T18:00:00.000Z,Singed,adjustment,E,Damage,50 / 60 / 70 / 80 / 90 (+ 6 / 6.5 / 7 / 7.5 / 8% of target's maximum health) (+ ,50 / 60 / 70 / 80 / 90 (+ 6 / 6.5 / 7 / 7.5 / 8% of target's maximum health) (+ ,neutral,Damage : 50 / 60 / 70 / 80 / 90 (+ 6 / 6.5 / 7 / 7.5 / 8% of target's maximum health) (+ 60% AP) ⇒ 50 / 60 / 70 / 80 / 90 (+ 6 / 6.5 / 7 / 7.5 / 8% of target's maximum health) (+ 55% AP)
+25.06,2025-03-18T18:00:00.000Z,Smolder,buff,W,Glob Damage,30 / 50 / 70 / 90 / 110 (+ 60% bonus AD),60 / 70 / 80 / 90 / 100 (+ 60% bonus AD),buff,Glob Damage : 30 / 50 / 70 / 90 / 110 (+ 60% bonus AD) ⇒ 60 / 70 / 80 / 90 / 100 (+ 60% bonus AD)
+25.06,2025-03-18T18:00:00.000Z,Smolder,buff,W,Explosion Damage,30 / 50 / 70 / 90 / 110 (+ 60% bonus AD) (+ 80% AP),10 / 35 / 60 / 85 / 110 (+ 65% bonus AD) (+ 80% AP),nerf,Explosion Damage : 30 / 50 / 70 / 90 / 110 (+ 60% bonus AD) (+ 80% AP) ⇒ 10 / 35 / 60 / 85 / 110 (+ 65% bonus AD) (+ 80% AP)
+25.06,2025-03-18T18:00:00.000Z,Smolder,buff,E,Damage per Bolt,5 / 10 / 15 / 20 / 25 (+ 25% AD),10 / 15 / 20 / 25 / 30 (+ 30% AD),buff,Damage per Bolt : 5 / 10 / 15 / 20 / 25 (+ 25% AD) ⇒ 10 / 15 / 20 / 25 / 30 (+ 30% AD)
+25.06,2025-03-18T18:00:00.000Z,Smolder,buff,R,Cooldown,120,120 / 110 / 100 seconds,neutral,Cooldown : 120 ⇒ 120 / 110 / 100 seconds
+25.06,2025-03-18T18:00:00.000Z,Twisted Fate,buff,Stats,Base Armor,21,24,buff,Base Armor : 21 ⇒ 24
+25.06,2025-03-18T18:00:00.000Z,Xin Zhao,buff,Q,Bonus Damage,16 / 29 / 42 / 55 / 68 (+ 40% bonus AD),20 / 35 / 50 / 65 / 80 (+ 40% bonus AD),buff,Bonus Damage : 16 / 29 / 42 / 55 / 68 (+ 40% bonus AD) ⇒ 20 / 35 / 50 / 65 / 80 (+ 40% bonus AD)
+25.06,2025-03-18T18:00:00.000Z,Yorick,nerf,E,Capped Monster Health Damage,300,70 / 105 / 140 / 175 / 210,nerf,Capped Monster Health Damage : 300 ⇒ 70 / 105 / 140 / 175 / 210
+25.07,2025-04-01T18:00:00.000Z,Brand,buff,Passive,Damage cap per tick vs non-epic monsters,7.5 / 15 / 22.5 (based on ablaze stacks),10 / 20 / 30 (based on Ablaze stacks),buff,Damage cap per tick vs non-epic monsters : 7.5 / 15 / 22.5 (based on ablaze stacks) ⇒ 10 / 20 / 30 (based on Ablaze stacks)
+25.07,2025-04-01T18:00:00.000Z,Brand,buff,Passive,Explosion Damage Cap to Monsters,250 / 325 / 400 / 475,270 / 355 / 440 / 525,buff,Explosion Damage Cap to Monsters : 250 / 325 / 400 / 475 ⇒ 270 / 355 / 440 / 525
+25.07,2025-04-01T18:00:00.000Z,Darius,adjustment,Stats,Armor,39,37,nerf,Armor : 39 ⇒ 37
+25.07,2025-04-01T18:00:00.000Z,Darius,adjustment,E,Cooldown,24 / 21.5 / 19 / 16.5 / 14,26 / 23.5 / 21 / 18.5 / 16,buff,Cooldown : 24 / 21.5 / 19 / 16.5 / 14 ⇒ 26 / 23.5 / 21 / 18.5 / 16
+25.07,2025-04-01T18:00:00.000Z,Gwen,nerf,Q,Final Snip Damage,70 / 95 / 120 / 145 / 170 (+ 35% AP),60 / 85 / 110 / 135 / 160 (+ 35% AP),nerf,Final Snip Damage : 70 / 95 / 120 / 145 / 170 (+ 35% AP) ⇒ 60 / 85 / 110 / 135 / 160 (+ 35% AP)
+25.07,2025-04-01T18:00:00.000Z,Gwen,nerf,W,Resists,25 (+ 5% AP),22 (+ 7% AP),nerf,Resists : 25 (+ 5% AP) ⇒ 22 (+ 7% AP)
+25.07,2025-04-01T18:00:00.000Z,Ivern,buff,Q,Root Duration,1.2 / 1.4 / 1.6 / 1.8 / 2,1.6 / 1.7 / 1.8 / 1.9 / 2,buff,Root Duration : 1.2 / 1.4 / 1.6 / 1.8 / 2 ⇒ 1.6 / 1.7 / 1.8 / 1.9 / 2
+25.07,2025-04-01T18:00:00.000Z,Lillia,adjustment,E,Damage,60 / 85 / 110 / 135 / 160 (+ 60% AP),60 / 85 / 110 / 135 / 160 (+ 50% AP),neutral,Damage : 60 / 85 / 110 / 135 / 160 (+ 60% AP) ⇒ 60 / 85 / 110 / 135 / 160 (+ 50% AP)
+25.07,2025-04-01T18:00:00.000Z,Lulu,nerf,Q,Minimum Damage,70 / 105 / 140 / 175 / 210 (+ 50% AP),60 / 95 / 130 / 165 / 200 (+ 50% AP),nerf,Minimum Damage : 70 / 105 / 140 / 175 / 210 (+ 50% AP) ⇒ 60 / 95 / 130 / 165 / 200 (+ 50% AP)
+25.07,2025-04-01T18:00:00.000Z,Lulu,nerf,Q,Maximum Damage,105 / 157.5 / 210 / 262.5 / 315 (+ 75% AP),90 / 142.5 / 195 / 247.5 / 300 (+ 75% AP),nerf,Maximum Damage : 105 / 157.5 / 210 / 262.5 / 315 (+ 75% AP) ⇒ 90 / 142.5 / 195 / 247.5 / 300 (+ 75% AP)
+25.07,2025-04-01T18:00:00.000Z,Lulu,nerf,W,Cooldown,18 / 17.5 / 17 / 16.5 / 16,18,neutral,Cooldown :18 / 17.5 / 17 / 16.5 / 16 ⇒ 18
+25.07,2025-04-01T18:00:00.000Z,Naafiri,adjustment,Stats,Health,635,610,nerf,Health : 635 ⇒ 610
+25.07,2025-04-01T18:00:00.000Z,Naafiri,adjustment,Stats,Armor,30,28,nerf,Armor : 30 ⇒ 28
+25.07,2025-04-01T18:00:00.000Z,Naafiri,adjustment,Passive,Damage to Monsters,165%,155%,nerf,Damage to Monsters : 165% ⇒ 155%
+25.07,2025-04-01T18:00:00.000Z,Naafiri,adjustment,Q,Damage to Minions,80%,100%,buff,Damage to Minions : 80% ⇒ 100%
+25.07,2025-04-01T18:00:00.000Z,Naafiri,adjustment,W,Cooldown,20 / 19.5 / 19 / 18.5 / 18,22 / 21 / 20 / 19 / 18,buff,Cooldown : 20 / 19.5 / 19 / 18.5 / 18 ⇒ 22 / 21 / 20 / 19 / 18
+25.07,2025-04-01T18:00:00.000Z,Olaf,adjustment,E,Cast Time,.25s,.25-.175 (0-125% bonus attack speed (includes W)),neutral,Cast Time : .25s ⇒ .25-.175 (0-125% bonus attack speed (includes W))
+25.07,2025-04-01T18:00:00.000Z,Shaco,adjustment,Passive,Damage,20-35 (based on level) (+ 25% Bonus AD) Bonus Physical Damage,20-35 (based on level) (+ 30% Bonus AD) Bonus Physical Damage,neutral,Damage : 20-35 (based on level) (+ 25% Bonus AD) Bonus Physical Damage ⇒ 20-35 (based on level) (+ 30% Bonus AD) Bonus Physical Damage
+25.07,2025-04-01T18:00:00.000Z,Shaco,adjustment,Q,Damage,25 / 35 / 45 / 55 / 65 (+ 60% Bonus AD),25 / 35 / 45 / 55 / 65 (+ 65% Bonus AD),neutral,Damage : 25 / 35 / 45 / 55 / 65 (+ 60% Bonus AD) ⇒ 25 / 35 / 45 / 55 / 65 (+ 65% Bonus AD)
+25.07,2025-04-01T18:00:00.000Z,Singed,adjustment,Passive,Per-Target Cooldown,8,10,buff,Per-Target Cooldown : 8 ⇒ 10
+25.07,2025-04-01T18:00:00.000Z,Singed,adjustment,Q,Damage per Second,20 / 30 / 40 / 50 / 60 (+ 40% AP),20 / 30 / 40 / 50 / 60 (+ 42.5% AP),neutral,Damage per Second : 20 / 30 / 40 / 50 / 60 (+ 40% AP) ⇒ 20 / 30 / 40 / 50 / 60 (+ 42.5% AP)
+25.07,2025-04-01T18:00:00.000Z,Singed,adjustment,R,Bonus Stats,30 / 65 / 100,25 / 60 / 95,nerf,Bonus Stats : 30 / 65 / 100 ⇒ 25 / 60 / 95
+25.07,2025-04-01T18:00:00.000Z,Trundle,adjustment,E,Slow,30 / 34 / 38 / 42 / 46%,34 / 38 / 42 / 46 / 50%,buff,Slow : 30 / 34 / 38 / 42 / 46% ⇒ 34 / 38 / 42 / 46 / 50%
+25.07,2025-04-01T18:00:00.000Z,Trundle,adjustment,E,Cooldown,24 / 22 / 20 / 18 / 16,21 / 19.5 / 18 / 16.5 / 15,nerf,Cooldown : 24 / 22 / 20 / 18 / 16 ⇒ 21 / 19.5 / 18 / 16.5 / 15
+25.07,2025-04-01T18:00:00.000Z,Volibear,adjustment,W,Empowered Damage Amp,50%,50% (+ 15% Bonus AD),neutral,Empowered Damage Amp : 50% ⇒ 50% (+ 15% Bonus AD)
+25.07,2025-04-01T18:00:00.000Z,Xerath,nerf,Q,Damage,70 / 110 / 150 / 190 / 230 (+ 85% AP),70 / 110 / 150 / 190 / 230 (+ 90% AP),neutral,Damage : 70 / 110 / 150 / 190 / 230 (+ 85% AP) ⇒ 70 / 110 / 150 / 190 / 230 (+ 90% AP)
+25.07,2025-04-01T18:00:00.000Z,Xerath,nerf,W,Damage,60 / 95 / 130 / 165 / 200 (+ 60 % AP),50 / 85 / 120 / 155 / 190 (+ 65% bonus AP),nerf,Damage : 60 / 95 / 130 / 165 / 200 (+ 60 % AP) ⇒ 50 / 85 / 120 / 155 / 190 (+ 65% bonus AP)
+25.07,2025-04-01T18:00:00.000Z,Xerath,nerf,E,Damage,80 / 110 / 140 / 170 / 200 (+ 45% AP),70 / 100 / 130 / 160 / 190 (+ 45% AP),nerf,Damage : 80 / 110 / 140 / 170 / 200 (+ 45% AP) ⇒ 70 / 100 / 130 / 160 / 190 (+ 45% AP)
+25.07,2025-04-01T18:00:00.000Z,Xerath,nerf,R,Damage,180 / 230 /280 (+ 40% AP),170 / 220 / 270 (+ 45% AP),nerf,Damage : 180 / 230 /280 (+ 40% AP) ⇒ 170 / 220 / 270 (+ 45% AP)
+25.07,2025-04-01T18:00:00.000Z,Yorick,adjustment,Stats,Armor Growth,5.2,4.5,nerf,Armor Growth : 5.2 ⇒ 4.5
+25.07,2025-04-01T18:00:00.000Z,Yorick,adjustment,Passive,Nearby deaths per grave,12 / 6 / 2 (at levels 1/7/13),8/7/6/5/4/3/2 (at levels 1/3/5/7/9/11/13),nerf,Nearby deaths per grave : 12 / 6 / 2 (at levels 1/7/13) ⇒ 8/7/6/5/4/3/2 (at levels 1/3/5/7/9/11/13)
+25.07,2025-04-01T18:00:00.000Z,Yorick,adjustment,Passive,Attack Damage,4-90 (based on level) (+ 20% Total AD),15-75 (based on level) (+ 20% Bonus AD),buff,Attack Damage : 4-90 (based on level) (+ 20% Total AD) ⇒ 15-75 (based on level) (+ 20% Bonus AD)
+25.07,2025-04-01T18:00:00.000Z,Yorick,adjustment,Passive,Bonus Attack Speed,8% (per level),Yorick's bonus attack speed,neutral,Bonus Attack Speed : 8% (per level) ⇒ Yorick's bonus attack speed
+25.07,2025-04-01T18:00:00.000Z,Yorick,adjustment,Passive,Health,110-212 (based on level) (+ 20% max HP),100-300 (based on level) (+ 15% bonus HP),nerf,Health : 110-212 (based on level) (+ 20% max HP) ⇒ 100-300 (based on level) (+ 15% bonus HP)
+25.07,2025-04-01T18:00:00.000Z,Yorick,adjustment,Passive,Champion basic attack damage towards Mist Walkers,Instantly kills,100% increased damage from melee attacks,neutral,Champion basic attack damage towards Mist Walkers : Instantly kills ⇒ 100% increased damage from melee attacks
+25.07,2025-04-01T18:00:00.000Z,Yorick,adjustment,Passive,Single target damage towards Mist Walkers,Instantly kills,Normal damage,neutral,Single target damage towards Mist Walkers : Instantly kills ⇒ Normal damage
+25.07,2025-04-01T18:00:00.000Z,Yorick,adjustment,Passive,AoE damage towards Mist Walkers,50%,66-40% (based on level 1-14),buff,AoE damage towards Mist Walkers : 50% ⇒ 66-40% (based on level 1-14)
+25.07,2025-04-01T18:00:00.000Z,Yorick,adjustment,Passive,Non-Champion damage towards Mist Walkers,50% from all monsters,40% damage from minions and non-epic monsters,nerf,Non-Champion damage towards Mist Walkers : 50% from all monsters ⇒ 40% damage from minions and non-epic monsters
+25.07,2025-04-01T18:00:00.000Z,Yorick,adjustment,Q,Cooldown,7 / 6.25 / 5.5 / 4.75 / 4,6 / 5.5 / 5 / 4.5 / 4,nerf,Cooldown : 7 / 6.25 / 5.5 / 4.75 / 4 ⇒ 6 / 5.5 / 5 / 4.5 / 4
+25.07,2025-04-01T18:00:00.000Z,Yorick,adjustment,Q,Damage,30 / 55 / 80 / 105 / 130 (+ 40% Total AD),30 / 55 / 80 / 105 / 130 (+ 50% Total AD),neutral,Damage : 30 / 55 / 80 / 105 / 130 (+ 40% Total AD) ⇒ 30 / 55 / 80 / 105 / 130 (+ 50% Total AD)
+25.07,2025-04-01T18:00:00.000Z,Yorick,adjustment,E,Damage,"15% current HP, down to minimum threshold of 70 / 105 / 140 / 175 / 210 (+ 70% A",Flat damage of 70 / 105 / 140 / 175 / 210 (+ 100% AP),buff,"Damage : 15% current HP, down to minimum threshold of 70 / 105 / 140 / 175 / 210 (+ 70% AP) ⇒ Flat damage of 70 / 105 / 140 / 175 / 210 (+ 100% AP)"
+25.07,2025-04-01T18:00:00.000Z,Yorick,adjustment,E,Movement Speed for Yorick and Summons,20%,30%,buff,Movement Speed for Yorick and Summons : 20% ⇒ 30%
+25.07,2025-04-01T18:00:00.000Z,Yorick,adjustment,R,Damage,0 / 10 / 40 (+ 50% Total AD),50 / 75 / 100 (+ 30% Bonus AD),buff,Damage : 0 / 10 / 40 (+ 50% Total AD) ⇒ 50 / 75 / 100 (+ 30% Bonus AD)
+25.07,2025-04-01T18:00:00.000Z,Yorick,adjustment,R,Health,400-1650 (based on level) (+ 60% Total HP),1050-3200 (based on level) (+ 60% Bonus HP),buff,Health : 400-1650 (based on level) (+ 60% Total HP) ⇒ 1050-3200 (based on level) (+ 60% Bonus HP)
+25.08,2025-04-15T18:00:00.000Z,Ahri,nerf,Stats,Armor Growth,4.7,4.2,nerf,Armor Growth : 4.7 ⇒ 4.2
+25.08,2025-04-15T18:00:00.000Z,Ahri,nerf,W,Damage,45 / 70 / 95 / 120 / 145 (+ 30% AP),40 / 60 / 80 / 100 / 120 (+ 40% AP),nerf,Damage : 45 / 70 / 95 / 120 / 145 (+ 30% AP) ⇒ 40 / 60 / 80 / 100 / 120 (+ 40% AP)
+25.08,2025-04-15T18:00:00.000Z,Ahri,nerf,W,Max Damage,72 / 112 / 152 / 192 / 232 (+48% AP),64 / 96 / 128 / 160 / 192 (+ 64% AP),nerf,Max Damage : 72 / 112 / 152 / 192 / 232 (+48% AP) ⇒ 64 / 96 / 128 / 160 / 192 (+ 64% AP)
+25.08,2025-04-15T18:00:00.000Z,Ahri,nerf,W,Cooldown,9 / 8 / 7 / 6 / 5,10 / 9 / 8 / 7 / 6,buff,Cooldown : 9 / 8 / 7 / 6 / 5 ⇒ 10 / 9 / 8 / 7 / 6
+25.08,2025-04-15T18:00:00.000Z,Ahri,nerf,E,Damage,80 / 120 / 160 / 200 / 240 (+ 75% AP),80 / 120 / 160 / 200 / 240 (+ 85% AP),neutral,Damage : 80 / 120 / 160 / 200 / 240 (+ 75% AP) ⇒ 80 / 120 / 160 / 200 / 240 (+ 85% AP)
+25.08,2025-04-15T18:00:00.000Z,Annie,nerf,Stats,Health Growth,102,96,nerf,Health Growth : 102 ⇒ 96
+25.08,2025-04-15T18:00:00.000Z,Annie,nerf,Q,Damage,70 / 105 / 140 / 175 / 210 (+ 75% AP),70 / 105 / 140 / 175 / 210 (+ 80% AP),neutral,Damage : 70 / 105 / 140 / 175 / 210 (+ 75% AP) ⇒ 70 / 105 / 140 / 175 / 210 (+ 80% AP)
+25.08,2025-04-15T18:00:00.000Z,Annie,nerf,W,Damage,70 / 115 / 160 / 205 / 250 (+ 85% AP),70 / 120 / 170 / 220 / 270 (+ 85% AP),neutral,Damage : 70 / 115 / 160 / 205 / 250 (+ 85% AP) ⇒ 70 / 120 / 170 / 220 / 270 (+ 85% AP)
+25.08,2025-04-15T18:00:00.000Z,Annie,nerf,W,Cooldown,8,7,nerf,Cooldown : 8 ⇒ 7
+25.08,2025-04-15T18:00:00.000Z,Annie,nerf,R,Flame Aura,20/ 30 / 40 (+ 12% AP),8 / 12 / 16 (+ 4% AP),nerf,Flame Aura : 20/ 30 / 40 (+ 12% AP) ⇒ 8 / 12 / 16 (+ 4% AP)
+25.08,2025-04-15T18:00:00.000Z,Annie,nerf,R,Tibbers Auto Attack Damage,50 / 75 / 100 (+ 15% AP),30 / 45 / 60 (+ 10% AP),nerf,Tibbers Auto Attack Damage : 50 / 75 / 100 (+ 15% AP) ⇒ 30 / 45 / 60 (+ 10% AP)
+25.08,2025-04-15T18:00:00.000Z,Blitzcrank,buff,Passive,Shield,30% of Max Mana,35% of Max Mana,buff,Shield : 30% of Max Mana ⇒ 35% of Max Mana
+25.08,2025-04-15T18:00:00.000Z,Blitzcrank,buff,Q,Damage,105 / 150 / 195 / 240 / 285 (+ 120% AP),110 / 160 / 210 / 260 / 310 (+ 120% AP),buff,Damage : 105 / 150 / 195 / 240 / 285 (+ 120% AP) ⇒ 110 / 160 / 210 / 260 / 310 (+ 120% AP)
+25.08,2025-04-15T18:00:00.000Z,Brand,buff,Passive,Ablaze damage per tick to monsters,215%,240%,buff,Ablaze damage per tick to monsters : 215% ⇒ 240%
+25.08,2025-04-15T18:00:00.000Z,Gwen,nerf,E,On-Hit Damage,12 / 14 / 16 / 18 / 20 (+ 25% AP),8 / 11 / 14 / 17 / 20 (+ 25% AP),nerf,On-Hit Damage : 12 / 14 / 16 / 18 / 20 (+ 25% AP) ⇒ 8 / 11 / 14 / 17 / 20 (+ 25% AP)
+25.08,2025-04-15T18:00:00.000Z,Hwei,buff,Passive,Damage,30-180 (based on level) (+ 30% AP),35-230 (based on level) (+ 30% AP),buff,Damage : 30-180 (based on level) (+ 30% AP) ⇒ 35-230 (based on level) (+ 30% AP)
+25.08,2025-04-15T18:00:00.000Z,Hwei,buff,R,Explosion Damage,200 / 300 / 400 (+ 80% AP),200 / 325 / 450 (+ 80% AP),neutral,Explosion Damage : 200 / 300 / 400 (+ 80% AP) ⇒ 200 / 325 / 450 (+ 80% AP)
+25.08,2025-04-15T18:00:00.000Z,Lulu,nerf,Stats,Health,595,565,nerf,Health : 595 ⇒ 565
+25.08,2025-04-15T18:00:00.000Z,Mel,buff,Stats,Health,600,630,buff,Health : 600 ⇒ 630
+25.08,2025-04-15T18:00:00.000Z,Mel,buff,Passive,Damage per Stack,5-20 (based on level) (+1% AP),8-25 (based on level) (+ 1% AP),buff,Damage per Stack : 5-20 (based on level) (+1% AP) ⇒ 8-25 (based on level) (+ 1% AP)
+25.08,2025-04-15T18:00:00.000Z,Renekton,adjustment,R,Damage,30 / 60 / 90 (+5% Bonus AD) (+5% AP),30 / 75 / 120 (+ 5% Bonus AD) (+ 5% AP),neutral,Damage : 30 / 60 / 90 (+5% Bonus AD) (+5% AP) ⇒ 30 / 75 / 120 (+ 5% Bonus AD) (+ 5% AP)
+25.08,2025-04-15T18:00:00.000Z,Shen,adjustment,Q,Slow when moving away from Shen,15 / 20 / 25 / 30 / 35%,25 / 30 / 35 / 40 / 45%,buff,Slow when moving away from Shen : 15 / 20 / 25 / 30 / 35% ⇒ 25 / 30 / 35 / 40 / 45%
+25.08,2025-04-15T18:00:00.000Z,Shen,adjustment,W,Cooldown,18 / 16.5 / 15 / 13.5 / 12,16 / 14.5 / 13 / 11.5 / 10,nerf,Cooldown : 18 / 16.5 / 15 / 13.5 / 12 ⇒ 16 / 14.5 / 13 / 11.5 / 10
+25.08,2025-04-15T18:00:00.000Z,Singed,nerf,Passive,Per-target Cooldown,10,8,nerf,Per-target Cooldown : 10 ⇒ 8
+25.08,2025-04-15T18:00:00.000Z,Sona,adjustment,Q,Bolt Damage,50 / 80 / 110 / 140 / 170 (+ 40% AP),50 / 85 / 120 / 155 / 190 (+ 40% AP),neutral,Bolt Damage : 50 / 80 / 110 / 140 / 170 (+ 40% AP) ⇒ 50 / 85 / 120 / 155 / 190 (+ 40% AP)
+25.08,2025-04-15T18:00:00.000Z,Syndra,nerf,W,Slow,25 / 30 / 35 / 40 / 45%,25%,neutral,Slow : 25 / 30 / 35 / 40 / 45% ⇒ 25%
+25.08,2025-04-15T18:00:00.000Z,Syndra,nerf,E,Damage,75 / 115 / 155 / 195 / 235 (+ 45% AP),60 / 95 / 130 / 165 / 200 (+ 60% AP),nerf,Damage : 75 / 115 / 155 / 195 / 235 (+ 45% AP) ⇒ 60 / 95 / 130 / 165 / 200 (+ 60% AP)
+25.08,2025-04-15T18:00:00.000Z,Syndra,nerf,R,Damage per Sphere,100 / 140 / 180 (+17% AP),90 / 130 / 170 (+ 20% AP),nerf,Damage per Sphere : 100 / 140 / 180 (+17% AP) ⇒ 90 / 130 / 170 (+ 20% AP)
+25.08,2025-04-15T18:00:00.000Z,Tristana,nerf,R,Damage,275 / 325 / 375 (+ 70% Bonus AD) (+ 100% AP),225 / 275 / 325 (+ 70% Bonus AD) (+ 100% AP),nerf,Damage : 275 / 325 / 375 (+ 70% Bonus AD) (+ 100% AP) ⇒ 225 / 275 / 325 (+ 70% Bonus AD) (+ 100% AP)
+25.08,2025-04-15T18:00:00.000Z,Xerath,buff,Passive,Cooldown Reduction on Kill,2.5 seconds,3.5 seconds,buff,Cooldown Reduction on Kill : 2.5 seconds ⇒ 3.5 seconds
+25.08,2025-04-15T18:00:00.000Z,Xerath,buff,Q,Damage,70 / 110 / 150 / 190 / 230 (+ 90% AP),75 / 115 / 155 / 195 / 235 (+ 90% AP),buff,Damage : 70 / 110 / 150 / 190 / 230 (+ 90% AP) ⇒ 75 / 115 / 155 / 195 / 235 (+ 90% AP)
+25.08,2025-04-15T18:00:00.000Z,Zeri,buff,R,Chain Lightning Damage,25% Total AD,30% Total AD,buff,Chain Lightning Damage : 25% Total AD ⇒ 30% Total AD
+25.08,2025-04-15T18:00:00.000Z,Yone,adjustment,W,Damage,10 / 20 / 30 / 40 / 50 (+ 10 / 11 / 12 / 13 / 14% target max HP),10 / 20 / 30 / 40 / 50 (+ 8 / 9 / 10 / 11 / 12% target max HP),neutral,Damage : 10 / 20 / 30 / 40 / 50 (+ 10 / 11 / 12 / 13 / 14% target max HP) ⇒ 10 / 20 / 30 / 40 / 50 (+ 8 / 9 / 10 / 11 / 12% target max HP)
+25.08,2025-04-15T18:00:00.000Z,Yorick,adjustment,Passive,Monster Damage Taken,60%,100%,buff,Monster Damage Taken : 60% ⇒ 100%
+25.08,2025-04-15T18:00:00.000Z,Yorick,adjustment,E,Damage,70 / 105 / 140 / 175 / 210 (+ 100% AP),6 / 6.5 / 7 / 7.5 / 8% target max HP (+ 3% per 100 AP),nerf,Damage : 70 / 105 / 140 / 175 / 210 (+ 100% AP) ⇒ 6 / 6.5 / 7 / 7.5 / 8% target max HP (+ 3% per 100 AP)
+25.08,2025-04-15T18:00:00.000Z,Yuumi,nerf,Passive,Heal,25-110 (based on level) (+ 25% AP),20-110 (based on level) (+ 25% AP),nerf,Heal : 25-110 (based on level) (+ 25% AP) ⇒ 20-110 (based on level) (+ 25% AP)
+25.08,2025-04-15T18:00:00.000Z,Yuumi,nerf,E,Shield,80 / 105 / 130 / 155 / 180 (+ 30% AP),65 / 90 / 115 / 140 / 165 (+ 30% AP),nerf,Shield : 80 / 105 / 130 / 155 / 180 (+ 30% AP) ⇒ 65 / 90 / 115 / 140 / 165 (+ 30% AP)
+25.09,2025-04-29T18:00:00.000Z,Annie,buff,Q,Damage,70 / 105 / 140 / 175 / 210 (+ 80% AP),80 / 120 / 160 / 200 / 240 (+ 80% AP),buff,Damage : 70 / 105 / 140 / 175 / 210 (+ 80% AP) ⇒ 80 / 120 / 160 / 200 / 240 (+ 80% AP)
+25.09,2025-04-29T18:00:00.000Z,Annie,buff,W,Mana Cost,90 / 95 / 100 / 105 / 110,70 / 75 / 80 / 85 / 90,nerf,Mana Cost : 90 / 95 / 100 / 105 / 110 ⇒ 70 / 75 / 80 / 85 / 90
+25.09,2025-04-29T18:00:00.000Z,Annie,buff,R,Passive Magic Penetration,10 / 12.5 / 15%,15 / 17.5 / 20%,buff,Passive Magic Penetration : 10 / 12.5 / 15% ⇒ 15 / 17.5 / 20%
+25.09,2025-04-29T18:00:00.000Z,Ashe,nerf,Q,AD Ratio,111 / 117 / 123 / 129 / 135%,110 / 117.5 / 125 / 132.5 / 140%,nerf,AD Ratio : 111 / 117 / 123 / 129 / 135% ⇒ 110 / 117.5 / 125 / 132.5 / 140%
+25.09,2025-04-29T18:00:00.000Z,Ashe,nerf,Q,Bonus Attack Speed,25 / 35 / 45 / 55 / 65%,25 / 37.5 / 50 / 67.5 / 75%,neutral,Bonus Attack Speed : 25 / 35 / 45 / 55 / 65% ⇒ 25 / 37.5 / 50 / 67.5 / 75%
+25.09,2025-04-29T18:00:00.000Z,Gwen,nerf,Stats,Armor Growth,5.2,4.9,nerf,Armor Growth : 5.2 ⇒ 4.9
+25.09,2025-04-29T18:00:00.000Z,Gwen,nerf,Passive,Monster Damage Cap,5 (+ 15% AP),5 (+ 10% AP),neutral,Monster Damage Cap : 5 (+ 15% AP) ⇒ 5 (+ 10% AP)
+25.09,2025-04-29T18:00:00.000Z,Gwen,nerf,Q,Damage per Snip,10 / 15 / 20 / 25 / 30 (+ 5% AP),10 / 15 / 20 / 25 / 30 (+ 2% AP),neutral,Damage per Snip : 10 / 15 / 20 / 25 / 30 (+ 5% AP) ⇒ 10 / 15 / 20 / 25 / 30 (+ 2% AP)
+25.09,2025-04-29T18:00:00.000Z,Gwen,nerf,Q,Maximum Damage,110 / 160 / 210 / 260 / 310 (+ 60% AP) (+ 6x Passive),110 / 160 / 210 / 260 / 310 (+ 45% AP) (+ 6x Passive),neutral,Maximum Damage : 110 / 160 / 210 / 260 / 310 (+ 60% AP) (+ 6x Passive) ⇒ 110 / 160 / 210 / 260 / 310 (+ 45% AP) (+ 6x Passive)
+25.09,2025-04-29T18:00:00.000Z,K’Sante,buff,W,Base Damage,40 / 60 / 80 / 100 / 120,45 / 75 / 105 / 135 / 165,buff,Base Damage : 40 / 60 / 80 / 100 / 120 ⇒ 45 / 75 / 105 / 135 / 165
+25.09,2025-04-29T18:00:00.000Z,Kalista,nerf,Stats,Base Health,600,580,nerf,Base Health : 600 ⇒ 580
+25.09,2025-04-29T18:00:00.000Z,Kalista,nerf,Stats,Base AD,59,57,nerf,Base AD : 59 ⇒ 57
+25.09,2025-04-29T18:00:00.000Z,Kalista,nerf,Stats,AD Growth,3.25,4,buff,AD Growth : 3.25 ⇒ 4
+25.09,2025-04-29T18:00:00.000Z,Kalista,nerf,E,Damage,10 / 20 / 30 / 40 / 50 (+ 70% AD) (+ 20% AP),5 / 15 / 25 / 35 / 45 (+ 70% AD) (+ 20% AP),nerf,Damage : 10 / 20 / 30 / 40 / 50 (+ 70% AD) (+ 20% AP) ⇒ 5 / 15 / 25 / 35 / 45 (+ 70% AD) (+ 20% AP)
+25.09,2025-04-29T18:00:00.000Z,Leona,nerf,Passive,Duration,1.5,2.5 seconds,buff,Duration : 1.5 ⇒ 2.5 seconds
+25.09,2025-04-29T18:00:00.000Z,Leona,nerf,Q,Mana Cost,35 / 40 / 45 / 50 / 55,30 / 35 / 40 / 45 / 50,nerf,Mana Cost : 35 / 40 / 45 / 50 / 55 ⇒ 30 / 35 / 40 / 45 / 50
+25.09,2025-04-29T18:00:00.000Z,Leona,nerf,E,Mana Cost,60,40 / 45 / 50 / 55 / 60,nerf,Mana Cost : 60 ⇒ 40 / 45 / 50 / 55 / 60
+25.09,2025-04-29T18:00:00.000Z,Morgana,buff,E,Shield Strength,80 / 135 / 190 / 245 / 300 (+70% AP),100 / 155 / 210 / 265 / 320 (+70% AP),buff,Shield Strength : 80 / 135 / 190 / 245 / 300 (+70% AP) ⇒ 100 / 155 / 210 / 265 / 320 (+70% AP)
+25.09,2025-04-29T18:00:00.000Z,Morgana,buff,R,Damage,175 / 250 / 325 (+ 80% AP),200 / 275 / 350 (+ 80% AP),buff,Damage : 175 / 250 / 325 (+ 80% AP) ⇒ 200 / 275 / 350 (+ 80% AP)
+25.09,2025-04-29T18:00:00.000Z,Morgana,buff,R,Bonus Movement Speed,10 / 35 / 60%,20 / 40 / 60%,buff,Bonus Movement Speed : 10 / 35 / 60% ⇒ 20 / 40 / 60%
+25.09,2025-04-29T18:00:00.000Z,Naafiri,buff,W,Cooldown,22 / 21 / 20 / 19 / 18,26 / 24 / 22 / 20 / 18 seconds,buff,Cooldown : 22 / 21 / 20 / 19 / 18 ⇒ 26 / 24 / 22 / 20 / 18 seconds
+25.09,2025-04-29T18:00:00.000Z,Naafiri,buff,E,Dash Damage,15 / 25 / 35 / 45 / 55 (+ 50% bonus AD),15 / 25 / 35 / 45 / 55 (+ 40% bonus AD),neutral,Dash Damage : 15 / 25 / 35 / 45 / 55 (+ 50% bonus AD) ⇒ 15 / 25 / 35 / 45 / 55 (+ 40% bonus AD)
+25.09,2025-04-29T18:00:00.000Z,Orianna,buff,Q,Mana Cost,30 / 35 / 40 / 45 / 50,35 at all ranks,buff,Mana Cost : 30 / 35 / 40 / 45 / 50 ⇒ 35 at all ranks
+25.09,2025-04-29T18:00:00.000Z,Shen,adjustment,Q,Empowered Bonus Magic Damage,10-40 (based on level) (+ 4 / 4.5 / 5 / 5.5 / 6% target’s max HP),10-40 (based on level) (+ 5 / 5.5 / 6 / 6.5 / 7% target’s max HP),neutral,Empowered Bonus Magic Damage : 10-40 (based on level) (+ 4 / 4.5 / 5 / 5.5 / 6% target’s max HP) ⇒ 10-40 (based on level) (+ 5 / 5.5 / 6 / 6.5 / 7% target’s max HP)
+25.09,2025-04-29T18:00:00.000Z,Yorick,nerf,Passive,Mist Walker Damage to Monsters,70%,60%,nerf,Mist Walker Damage to Monsters : 70% ⇒ 60%
+25.10,2025-05-13T18:00:00.000Z,Cho'Gath,buff,Stats,Level 1 Attack Speed,0.625,0.658,buff,Level 1 Attack Speed : 0.625 ⇒ 0.658
+25.10,2025-05-13T18:00:00.000Z,Cho'Gath,buff,Q,Damage,80 / 140 / 200 / 260 / 320 (+ 100% AP),80 / 135 / 190 / 245 / 300 (+ 100% AP),neutral,Damage : 80 / 140 / 200 / 260 / 320 (+ 100% AP) ⇒ 80 / 135 / 190 / 245 / 300 (+ 100% AP)
+25.10,2025-05-13T18:00:00.000Z,Cho'Gath,buff,E,Damage,20 / 40 / 60 / 80 / 100 (+ 30% AP) (+ 2.5 / 2.75 / 3 / 3.25 / 3.5% (+ 0.5% per F,20 / 40 / 60 / 80 / 100 (+ 30% AP) (+ 2.5 / 2.85 / 3.2 / 3.55 / 3.9% (+ 0.5% per,neutral,Damage : 20 / 40 / 60 / 80 / 100 (+ 30% AP) (+ 2.5 / 2.75 / 3 / 3.25 / 3.5% (+ 0.5% per Feast stack) of target's maximum Health) ⇒ 20 / 40 / 60 / 80 / 100 (+ 30% AP) (+ 2.5 / 2.85 / 3.2 / 3.55 / 3.9% 
+25.10,2025-05-13T18:00:00.000Z,Kayn,nerf,Stats,Health Growth,109,103,nerf,Health Growth : 109 ⇒ 103
+25.10,2025-05-13T18:00:00.000Z,Lulu,adjustment,Stats,Armor Growth,4.9,4.6,nerf,Armor Growth : 4.9 ⇒ 4.6
+25.10,2025-05-13T18:00:00.000Z,Lulu,adjustment,R,Cooldown,100 / 90 / 80,120 / 100 / 80,buff,Cooldown : 100 / 90 / 80 ⇒ 120 / 100 / 80
+25.10,2025-05-13T18:00:00.000Z,Fiddlesticks,nerf,Q,Fear Duration,1.25 / 1.5 / 1.75 / 2 / 2.25,1.2 / 1.4 / 1.6 / 1.8 / 2,nerf,Fear Duration : 1.25 / 1.5 / 1.75 / 2 / 2.25 ⇒ 1.2 / 1.4 / 1.6 / 1.8 / 2
+25.10,2025-05-13T18:00:00.000Z,Fiddlesticks,nerf,Q,Damage,5 / 6 / 7 / 8 / 9% (+ 2% per 100 AP) of target's current health,4 / 4.5 / 5 / 5.5 / 6% (+ 3% per 100 AP) of target's current health,nerf,Damage : 5 / 6 / 7 / 8 / 9% (+ 2% per 100 AP) of target's current health ⇒ 4 / 4.5 / 5 / 5.5 / 6% (+ 3% per 100 AP) of target's current health
+25.10,2025-05-13T18:00:00.000Z,Fiddlesticks,nerf,Q,Empowered Damage,10 / 12 / 14 / 16 / 18% (+ 4% per 100 AP) of target's current health,8 / 9 / 10 / 11 / 12% (+ 6% per 100 AP) of target's current health,nerf,Empowered Damage : 10 / 12 / 14 / 16 / 18% (+ 4% per 100 AP) of target's current health ⇒ 8 / 9 / 10 / 11 / 12% (+ 6% per 100 AP) of target's current health
+25.10,2025-05-13T18:00:00.000Z,Fiddlesticks,nerf,W,Damage per second,60 / 90 / 120 / 150 / 180 (+ 35% AP),60 / 90 / 120 / 150 / 180 (+ 40% AP),neutral,Damage per second : 60 / 90 / 120 / 150 / 180 (+ 35% AP) ⇒ 60 / 90 / 120 / 150 / 180 (+ 40% AP)
+25.10,2025-05-13T18:00:00.000Z,Naafiri,nerf,Passive,Packmate Monster Damage Multiplier,155%,135%,nerf,Packmate Monster Damage Multiplier : 155% ⇒ 135%
+25.10,2025-05-13T18:00:00.000Z,Senna,buff,Passive,Crit chance per 20 stacks,8%,10%,buff,Crit chance per 20 stacks : 8% ⇒ 10%
+25.10,2025-05-13T18:00:00.000Z,Senna,buff,Passive,Soul drop rate on minion/monster kill,8.4%,14%,buff,Soul drop rate on minion/monster kill : 8.4% ⇒ 14%
+25.10,2025-05-13T18:00:00.000Z,Senna,buff,Q,Heal,40 / 55 / 70 / 85 / 100 (+ 40% Bonus AD) (+ 60% AP),40 / 55 / 70 / 85 / 100 (+ 40% Bonus AD) (+ 50% AP),neutral,Heal : 40 / 55 / 70 / 85 / 100 (+ 40% Bonus AD) (+ 60% AP) ⇒ 40 / 55 / 70 / 85 / 100 (+ 40% Bonus AD) (+ 50% AP)
+25.10,2025-05-13T18:00:00.000Z,Smolder,buff,Passive,Q damage per stack,.3,.4,buff,Q damage per stack : .3 ⇒ .4
+25.10,2025-05-13T18:00:00.000Z,Smolder,buff,Passive,Q burn damage per 100 stacks,0.4%,0.5%,buff,Q burn damage per 100 stacks : 0.4% ⇒ 0.5%
+25.10,2025-05-13T18:00:00.000Z,Smolder,buff,Passive,E hit damage per stack,.1,.12,buff,E hit damage per stack : .1 ⇒ .12
+25.10,2025-05-13T18:00:00.000Z,Vi,adjustment,Q,Minimum Damage,45 / 70 / 95 / 120 / 145 (+ 80% Bonus AD),40 / 60 / 80 / 100 / 120 (+ 60% Bonus AD),nerf,Minimum Damage : 45 / 70 / 95 / 120 / 145 (+ 80% Bonus AD) ⇒ 40 / 60 / 80 / 100 / 120 (+ 60% Bonus AD)
+25.10,2025-05-13T18:00:00.000Z,Vi,adjustment,Q,Maximum Damage,90 / 140 / 190 / 240 / 290 (+ 160% Bonus AD),100 / 150 / 200 / 250 / 300 (+ 150% Bonus AD),buff,Maximum Damage : 90 / 140 / 190 / 240 / 290 (+ 160% Bonus AD) ⇒ 100 / 150 / 200 / 250 / 300 (+ 150% Bonus AD)
+25.10,2025-05-13T18:00:00.000Z,Vi,adjustment,R,Mana,100 / 125 / 150,100,neutral,Mana : 100 / 125 / 150 ⇒ 100
+25.10,2025-05-13T18:00:00.000Z,Vi,adjustment,R,Damage,150 / 275 / 400 (+ 90% Bonus AD),150 / 250 / 350 (+90% Bonus AD),neutral,Damage : 150 / 275 / 400 (+ 90% Bonus AD) ⇒ 150 / 250 / 350 (+90% Bonus AD)
+25.10,2025-05-13T18:00:00.000Z,Xin Zhao,nerf,Stats,Armor Growth,5,4.4,nerf,Armor Growth : 5 ⇒ 4.4
+25.10,2025-05-13T18:00:00.000Z,Yuumi,nerf,R,Base Heal per Hit,35 / 50 / 65,30 / 40 / 50,nerf,Base Heal per Hit : 35 / 50 / 65 ⇒ 30 / 40 / 50
+25.11,2025-05-27T18:00:00.000Z,Aatrox,buff,Passive,Damage,4-12% max HP (based on level),4-8% max HP (based on level),neutral,Damage : 4-12% max HP (based on level) ⇒ 4-8% max HP (based on level)
+25.11,2025-05-27T18:00:00.000Z,Aatrox,buff,Q,Sweet Spot Damage,160%,170%,buff,Sweet Spot Damage : 160% ⇒ 170%
+25.11,2025-05-27T18:00:00.000Z,Aatrox,buff,W,Damage Type,Magic,Physical,neutral,Damage Type : Magic ⇒ Physical
+25.11,2025-05-27T18:00:00.000Z,Annie,adjustment,Stats,Base Armor (level 1),19,23,buff,Base Armor (level 1) : 19 ⇒ 23
+25.11,2025-05-27T18:00:00.000Z,Annie,adjustment,Stats,Armor Growth,4.7,4,nerf,Armor Growth : 4.7 ⇒ 4
+25.11,2025-05-27T18:00:00.000Z,Annie,adjustment,W,Damage,70 / 120 / 170 / 220 / 270 (+ 85% AP),70 / 115 / 160 / 205 / 250 (+ 80% AP),neutral,Damage : 70 / 120 / 170 / 220 / 270 (+ 85% AP) ⇒ 70 / 115 / 160 / 205 / 250 (+ 80% AP)
+25.11,2025-05-27T18:00:00.000Z,Cho'Gath,nerf,Stats,Armor Growth,5,4.5,nerf,Armor Growth : 5 ⇒ 4.5
+25.11,2025-05-27T18:00:00.000Z,Diana,buff,Passive,Monster Damage,225%,260%,buff,Monster Damage : 225% ⇒ 260%
+25.11,2025-05-27T18:00:00.000Z,Elise,adjustment,Passive,Spider Form Basic Attack Bonus Damage,12/ 22 / 32 / 42 (based on Spider From's Rank) (+ 20% AP),12/ 22 / 32 / 42 (based on Spider From's Rank) (+ 15% AP),neutral,Spider Form Basic Attack Bonus Damage : 12/ 22 / 32 / 42 (based on Spider From's Rank) (+ 20% AP) ⇒ 12/ 22 / 32 / 42 (based on Spider From's Rank) (+ 15% AP)
+25.11,2025-05-27T18:00:00.000Z,Garen,nerf,W,Cooldown,23 / 21 / 19 / 17 / 15,22 / 19.5 / 17 / 14.5 / 12,nerf,Cooldown : 23 / 21 / 19 / 17 / 15 ⇒ 22 / 19.5 / 17 / 14.5 / 12
+25.11,2025-05-27T18:00:00.000Z,Garen,nerf,W,Damage Reduction,30%,25 / 29 / 33 / 37 / 41%,nerf,Damage Reduction : 30% ⇒ 25 / 29 / 33 / 37 / 41%
+25.11,2025-05-27T18:00:00.000Z,Garen,nerf,E,Cooldown,9,9 / 8.25 / 7.5 / 6.75 / 6 (cooldown still starts after the end of the spin),neutral,Cooldown : 9 ⇒ 9 / 8.25 / 7.5 / 6.75 / 6 (cooldown still starts after the end of the spin)
+25.11,2025-05-27T18:00:00.000Z,Garen,nerf,E,Damage,4 / 8 / 12 / 16 / 20 (+ 0 - 8.2 (based on level)) (+ 36 / 37 / 38 / 39 / 40% AD),4 / 8 / 12 / 16 / 20 (+ 36 / 38 / 40 / 42 / 44% AD),neutral,Damage : 4 / 8 / 12 / 16 / 20 (+ 0 - 8.2 (based on level)) (+ 36 / 37 / 38 / 39 / 40% AD) ⇒ 4 / 8 / 12 / 16 / 20 (+ 36 / 38 / 40 / 42 / 44% AD)
+25.11,2025-05-27T18:00:00.000Z,Garen,nerf,E,Crit Damage Modifier,150% (190% with Infinity Edge),140% (172% with Infinity Edge),nerf,Crit Damage Modifier : 150% (190% with Infinity Edge) ⇒ 140% (172% with Infinity Edge)
+25.11,2025-05-27T18:00:00.000Z,Garen,nerf,R,Damage,150 / 300 / 450 (+ 25 / 30 / 35% missing HP),150 / 250 / 350 (+ 25 / 30 / 35% missing HP),neutral,Damage : 150 / 300 / 450 (+ 25 / 30 / 35% missing HP) ⇒ 150 / 250 / 350 (+ 25 / 30 / 35% missing HP)
+25.11,2025-05-27T18:00:00.000Z,Kassadin,buff,Stats,Base Armor (Level 1),19,21,buff,Base Armor (Level 1) : 19 ⇒ 21
+25.11,2025-05-27T18:00:00.000Z,Kassadin,buff,E,Damage,60 / 90 / 120 / 150 / 180 (+ 65% AP),70 / 100 / 130 / 160 / 190 (+ 65% AP),buff,Damage : 60 / 90 / 120 / 150 / 180 (+ 65% AP) ⇒ 70 / 100 / 130 / 160 / 190 (+ 65% AP)
+25.11,2025-05-27T18:00:00.000Z,Kassadin,buff,R,Bonus Damage per stack,35 / 45 / 55 (+ 10% AP) (+ 1% maximum mana),35 / 45 / 55 (+ 7% AP) (+ 1% maximum mana),neutral,Bonus Damage per stack : 35 / 45 / 55 (+ 10% AP) (+ 1% maximum mana) ⇒ 35 / 45 / 55 (+ 7% AP) (+ 1% maximum mana)
+25.11,2025-05-27T18:00:00.000Z,Kassadin,buff,R,Maximum Damage,210 / 270 / 330 (+ 90% AP) (+ 6% maximum mana),210 / 270 / 330 (+ 78% AP) (+ 6% maximum mana),neutral,Maximum Damage : 210 / 270 / 330 (+ 90% AP) (+ 6% maximum mana) ⇒ 210 / 270 / 330 (+ 78% AP) (+ 6% maximum mana)
+25.11,2025-05-27T18:00:00.000Z,Lucian,buff,E,Cooldown,16 / 15.5 / 15 / 14.5 / 14,18 / 17 / 16 / 15 / 14,buff,Cooldown : 16 / 15.5 / 15 / 14.5 / 14 ⇒ 18 / 17 / 16 / 15 / 14
+25.11,2025-05-27T18:00:00.000Z,Rengar,nerf,R,Cooldown,110 / 100 / 90,100 / 90 / 80,nerf,Cooldown : 110 / 100 / 90 ⇒ 100 / 90 / 80
+25.11,2025-05-27T18:00:00.000Z,Ryze,adjustment,W,Damage,80 / 110 / 140 / 170 / 200 (+ 70% AP) (+ 4% bonus mana),70 / 100 / 130 / 160 / 190 (+ 70% AP) (+ 4% bonus mana),nerf,Damage : 80 / 110 / 140 / 170 / 200 (+ 70% AP) (+ 4% bonus mana) ⇒ 70 / 100 / 130 / 160 / 190 (+ 70% AP) (+ 4% bonus mana)
+25.11,2025-05-27T18:00:00.000Z,Ryze,adjustment,R,Passive Overload Flux Damage,40 / 70 / 100%,50 / 75 / 100%,buff,Passive Overload Flux Damage : 40 / 70 / 100% ⇒ 50 / 75 / 100%
+25.11,2025-05-27T18:00:00.000Z,Sivir,buff,W,Bounce Damage,30 / 35 / 40 / 45 / 50% AD,40 / 42.5 / 45 / 47.5 / 50% AD,buff,Bounce Damage : 30 / 35 / 40 / 45 / 50% AD ⇒ 40 / 42.5 / 45 / 47.5 / 50% AD
+25.11,2025-05-27T18:00:00.000Z,Samira,buff,Q,Lifesteal Effectiveness,66.66%,80%,buff,Lifesteal Effectiveness : 66.66% ⇒ 80%
+25.11,2025-05-27T18:00:00.000Z,Samira,buff,W,Damage per hit,20 / 35 / 50 / 65 / 80 (+ 60% bonus AD),20 / 35 / 50 / 65 / 80 (+ 50% bonus AD),neutral,Damage per hit : 20 / 35 / 50 / 65 / 80 (+ 60% bonus AD) ⇒ 20 / 35 / 50 / 65 / 80 (+ 50% bonus AD)
+25.11,2025-05-27T18:00:00.000Z,Samira,buff,R,Lifesteal Effectiveness,50%,80%,buff,Lifesteal Effectiveness : 50% ⇒ 80%
+25.11,2025-05-27T18:00:00.000Z,Smolder,nerf,Stats,Base Armor (Level 1),26,24,nerf,Base Armor (Level 1) : 26 ⇒ 24
+25.11,2025-05-27T18:00:00.000Z,Smolder,nerf,Stats,Base Health Regen (Level 1),4.5,3.75,nerf,Base Health Regen (Level 1) : 4.5 ⇒ 3.75
+25.11,2025-05-27T18:00:00.000Z,Twisted Fate,buff,Q,Base Damage,60 / 105 / 150 / 195 / 240 (+ 50% Bonus AD) (+ 85% AP),70 / 115 / 160 / 205 / 250 (+ 50% bonus AD) (+ 85% AP),buff,Base Damage : 60 / 105 / 150 / 195 / 240 (+ 50% Bonus AD) (+ 85% AP) ⇒ 70 / 115 / 160 / 205 / 250 (+ 50% bonus AD) (+ 85% AP)
+25.11,2025-05-27T18:00:00.000Z,Twitch,buff,E,AP Ratio Per Stack,30%,35%,buff,AP Ratio Per Stack : 30% ⇒ 35%
+25.11,2025-05-27T18:00:00.000Z,Udyr,adjustment,R,Storm Stance Empowered Basic Attack Damage,10 - 30 (based on level) (+ 30% AP),10 - 40 (based on level) (+ 35% AP),neutral,Storm Stance Empowered Basic Attack Damage : 10 - 30 (based on level) (+ 30% AP) ⇒ 10 - 40 (based on level) (+ 35% AP)
+25.11,2025-05-27T18:00:00.000Z,Udyr,adjustment,R,Storm Damage per Second,20 / 34 / 48 / 62 / 76 / 90 (+ 35% AP),20 / 36 / 52 / 68 / 84 / 100 (+ 35% AP),neutral,Storm Damage per Second : 20 / 34 / 48 / 62 / 76 / 90 (+ 35% AP) ⇒ 20 / 36 / 52 / 68 / 84 / 100 (+ 35% AP)
+25.12,2025-06-10T18:05:00.000Z,Aatrox,buff,Passive,Healing Ratio vs Champions,80%,100%,buff,Healing Ratio vs Champions : 80% ⇒ 100%
+25.12,2025-06-10T18:05:00.000Z,Aatrox,buff,Passive,Healing Ratio vs Minions,20%,25%,buff,Healing Ratio vs Minions : 20% ⇒ 25%
+25.12,2025-06-10T18:05:00.000Z,Aatrox,buff,E,Champion Damage Healing Ratio,16% (+0.9% per 100 bonus HP),16% (+1.1% per 100 bonus HP),neutral,Champion Damage Healing Ratio : 16% (+0.9% per 100 bonus HP) ⇒ 16% (+1.1% per 100 bonus HP)
+25.12,2025-06-10T18:05:00.000Z,Ahri,buff,E,Charm Duration,1.2 / 1.4 / 1.6 / 1.8 / 2,1.2 / 1.35 / 1.5 / 1.65 / 1.8,neutral,Charm Duration : 1.2 / 1.4 / 1.6 / 1.8 / 2 ⇒ 1.2 / 1.35 / 1.5 / 1.65 / 1.8
+25.12,2025-06-10T18:05:00.000Z,Ahri,buff,R,Cooldown,130 / 115 / 100,140 / 120 / 100,buff,Cooldown : 130 / 115 / 100 ⇒ 140 / 120 / 100
+25.12,2025-06-10T18:05:00.000Z,Aphelios,buff,Stats,Level 1 Attack Speed,.640,.665,buff,Level 1 Attack Speed : .640 ⇒ .665
+25.12,2025-06-10T18:05:00.000Z,Aphelios,buff,Other,Onslaught Movement Speed,20%,25%,buff,Onslaught Movement Speed : 20% ⇒ 25%
+25.12,2025-06-10T18:05:00.000Z,Aphelios,buff,Other,Moonshot Damage,60-160 (+42-60% bonus AD),70-160 (+42-60% bonus AD),buff,Moonshot Damage : 60-160 (+42-60% bonus AD) ⇒ 70-160 (+42-60% bonus AD)
+25.12,2025-06-10T18:05:00.000Z,Aurora,buff,Stats,Base Magic Resistance,30,32,buff,Base Magic Resistance : 30 ⇒ 32
+25.12,2025-06-10T18:05:00.000Z,Aurora,buff,R,Damage,175 / 275 / 375 (+60% AP),175 / 275 / 375 (+70% AP),neutral,Damage : 175 / 275 / 375 (+60% AP) ⇒ 175 / 275 / 375 (+70% AP)
+25.12,2025-06-10T18:05:00.000Z,Azir,nerf,Stats,Movement Speed,335,330,nerf,Movement Speed : 335 ⇒ 330
+25.12,2025-06-10T18:05:00.000Z,Azir,nerf,Stats,Attack Speed per Level,6%,5.5%,nerf,Attack Speed per Level : 6% ⇒ 5.5%
+25.12,2025-06-10T18:05:00.000Z,Bard,buff,Stats,Base Movement Speed,330,335,buff,Base Movement Speed : 330 ⇒ 335
+25.12,2025-06-10T18:05:00.000Z,Bel'Veth,nerf,R,Cast Range,275,175 / 275 / 375 / 450 (matches E attack range),nerf,Cast Range : 275 ⇒ 175 / 275 / 375 / 450 (matches E attack range)
+25.12,2025-06-10T18:05:00.000Z,Garen,adjustment,E,Damage,4 / 8 / 12 / 16 / 20 (+36 / 38 / 40 / 42 / 44% AD),4 / 7 / 10 / 13 / 16 (+36 / 39 / 42 / 45 / 48% AD) (Note: This will be a buff af,neutral,Damage : 4 / 8 / 12 / 16 / 20 (+36 / 38 / 40 / 42 / 44% AD) ⇒ 4 / 7 / 10 / 13 / 16 (+36 / 39 / 42 / 45 / 48% AD) (Note: This will be a buff after 100 total AD)
+25.12,2025-06-10T18:05:00.000Z,Gwen,adjustment,Stats,Base Health,620,600,nerf,Base Health : 620 ⇒ 600
+25.12,2025-06-10T18:05:00.000Z,Gwen,adjustment,W,Cooldown,22 / 21 / 20 / 19 / 18,24 / 22.5 / 21 / 19.5 / 18 seconds,buff,Cooldown : 22 / 21 / 20 / 19 / 18 ⇒ 24 / 22.5 / 21 / 19.5 / 18 seconds
+25.12,2025-06-10T18:05:00.000Z,Jax,buff,Passive,Bonus Attack Speed per Stack,3.5 / 5 / 6.5 / 8 / 9.5 / 11% (based on level),5 / 6.5 / 8 / 9.5 / 11 / 12.5% (based on level),buff,Bonus Attack Speed per Stack : 3.5 / 5 / 6.5 / 8 / 9.5 / 11% (based on level) ⇒ 5 / 6.5 / 8 / 9.5 / 11 / 12.5% (based on level)
+25.12,2025-06-10T18:05:00.000Z,Kalista,adjustment,Stats,Base Health,580,560,nerf,Base Health : 580 ⇒ 560
+25.12,2025-06-10T18:05:00.000Z,Kalista,adjustment,Q,Cooldown,8,9 seconds,buff,Cooldown : 8 ⇒ 9 seconds
+25.12,2025-06-10T18:05:00.000Z,LeBlanc,nerf,E,Damage,80 / 120 / 160 / 200 / 240 (+80% AP),80 / 120 / 160 / 200 / 240 (+85% AP),neutral,Damage : 80 / 120 / 160 / 200 / 240 (+80% AP) ⇒ 80 / 120 / 160 / 200 / 240 (+85% AP)
+25.12,2025-06-10T18:05:00.000Z,LeBlanc,nerf,R,Cooldown,50 / 40 / 30,45 / 35 / 25,nerf,Cooldown : 50 / 40 / 30 ⇒ 45 / 35 / 25
+25.12,2025-06-10T18:05:00.000Z,Lee Sin,adjustment,E,Cooldown,9,8 seconds,nerf,Cooldown : 9 ⇒ 8 seconds
+25.12,2025-06-10T18:05:00.000Z,Lee Sin,adjustment,E,Slow Amount,20 / 35 / 50 / 65 / 80%,35 / 45 / 55 / 65 / 75%,buff,Slow Amount : 20 / 35 / 50 / 65 / 80% ⇒ 35 / 45 / 55 / 65 / 75%
+25.12,2025-06-10T18:05:00.000Z,Mordekaiser,adjustment,Q,Damage,0–45 (based on level) (+80 / 110 / 140 / 170 / 200) (+70% AP),0–45 (based on level) (+80 / 115 / 150 / 185 / 220) (+70% AP),neutral,Damage : 0–45 (based on level) (+80 / 110 / 140 / 170 / 200) (+70% AP) ⇒ 0–45 (based on level) (+80 / 115 / 150 / 185 / 220) (+70% AP)
+25.12,2025-06-10T18:05:00.000Z,Neeko,nerf,Q,Damage,80 / 125 / 170 / 215 / 260 (+50% AP),60 / 110 / 160 / 210 / 260 (+60% AP),nerf,Damage : 80 / 125 / 170 / 215 / 260 (+50% AP) ⇒ 60 / 110 / 160 / 210 / 260 (+60% AP)
+25.12,2025-06-10T18:05:00.000Z,Neeko,nerf,W,Bonus Magic Damage,40 / 75 / 110 / 145 / 180,30 / 65 / 100 / 135 / 170,nerf,Bonus Magic Damage : 40 / 75 / 110 / 145 / 180 ⇒ 30 / 65 / 100 / 135 / 170
+25.12,2025-06-10T18:05:00.000Z,Nidalee,adjustment,E,Damage,70 / 130 / 190 / 250 (+ 70% bonus AD) (+ 40% AP),70 / 130 / 190 / 250 (+ 70% bonus AD) (+ 55% AP),neutral,Damage : 70 / 130 / 190 / 250 (+ 70% bonus AD) (+ 40% AP) ⇒ 70 / 130 / 190 / 250 (+ 70% bonus AD) (+ 55% AP)
+25.12,2025-06-10T18:05:00.000Z,Rammus,buff,Stats,Base Armor,40,35,nerf,Base Armor : 40 ⇒ 35
+25.12,2025-06-10T18:05:00.000Z,Rammus,buff,Stats,Armor Growth,5.5,4.5,nerf,Armor Growth : 5.5 ⇒ 4.5
+25.12,2025-06-10T18:05:00.000Z,Rammus,buff,Stats,Level 1 Attack Speed,0.656,0.7,buff,Level 1 Attack Speed : 0.656 ⇒ 0.7
+25.12,2025-06-10T18:05:00.000Z,Rammus,buff,Stats,Base Attack Damage,55,65,buff,Base Attack Damage : 55 ⇒ 65
+25.12,2025-06-10T18:05:00.000Z,Rammus,buff,Q,Damage,80 / 110 / 140 / 170 / 200,80 / 120 / 160 / 200 / 240,neutral,Damage : 80 / 110 / 140 / 170 / 200 ⇒ 80 / 120 / 160 / 200 / 240
+25.12,2025-06-10T18:05:00.000Z,Rammus,buff,W,Duration,6,7 seconds,buff,Duration : 6 ⇒ 7 seconds
+25.12,2025-06-10T18:05:00.000Z,Rammus,buff,W,Bonus Armor,40 (+35 / 45 / 55 / 65 / 75% total armor),27 (+30 / 37.5 / 45 / 42.5 / 60% total armor),nerf,Bonus Armor : 40 (+35 / 45 / 55 / 65 / 75% total armor) ⇒ 27 (+30 / 37.5 / 45 / 42.5 / 60% total armor)
+25.12,2025-06-10T18:05:00.000Z,Rammus,buff,W,Bonus Magic Resistance,10 (+30 / 35 / 40 / 45 / 50% total magic resistance),27 (+30 / 37.5 / 45 / 42.5 / 60% total magic resistance),buff,Bonus Magic Resistance : 10 (+30 / 35 / 40 / 45 / 50% total magic resistance) ⇒ 27 (+30 / 37.5 / 45 / 42.5 / 60% total magic resistance)
+25.12,2025-06-10T18:05:00.000Z,Rammus,buff,W,Reflected Damage,15 (+15% of total armor),15 (+10% of total armor) (+10% of total magic resistance),neutral,Reflected Damage : 15 (+15% of total armor) ⇒ 15 (+10% of total armor) (+10% of total magic resistance)
+25.12,2025-06-10T18:05:00.000Z,Rammus,buff,R,Cooldown,90,120/105/90 seconds,buff,Cooldown : 90 ⇒ 120/105/90 seconds
+25.12,2025-06-10T18:05:00.000Z,Rammus,buff,R,Initial Damage,100 / 175 / 250 (+60% AP),150/ 250 / 350 (+60% AP),buff,Initial Damage : 100 / 175 / 250 (+60% AP) ⇒ 150/ 250 / 350 (+60% AP)
+25.12,2025-06-10T18:05:00.000Z,Rammus,buff,R,Slow,"15 / 17.5 / 20% per stack, up to 60 / 70 / 80%","30 / 40 / 50%, no longer stacks",buff,"Slow : 15 / 17.5 / 20% per stack, up to 60 / 70 / 80% ⇒ 30 / 40 / 50%, no longer stacks"
+25.12,2025-06-10T18:05:00.000Z,Rumble,nerf,Q,Total Magic Damage,60 / 90 / 120 / 150 / 180 (+ 110% AP) (+ 6 / 7 / 8 / 9 / 10% of target's maximum,60 / 90 / 120 / 150 / 180 (+ 110% AP) (+ 6 / 6.5 / 7 / 7.5 / 8% of target's maxi,neutral,Total Magic Damage : 60 / 90 / 120 / 150 / 180 (+ 110% AP) (+ 6 / 7 / 8 / 9 / 10% of target's maximum health) ⇒ 60 / 90 / 120 / 150 / 180 (+ 110% AP) (+ 6 / 6.5 / 7 / 7.5 / 8% of target's maximum heal
+25.12,2025-06-10T18:05:00.000Z,Rumble,nerf,E,Slow,15 / 20 / 25 / 30 / 35%,10 / 15 / 20 / 25 / 30%,nerf,Slow : 15 / 20 / 25 / 30 / 35% ⇒ 10 / 15 / 20 / 25 / 30%
+25.12,2025-06-10T18:05:00.000Z,Rumble,nerf,E,Enhanced Slow,22.5 / 30 / 37.5 / 45 / 52.5%,15 / 22.5 / 30 / 37.5 / 45%,nerf,Enhanced Slow : 22.5 / 30 / 37.5 / 45 / 52.5% ⇒ 15 / 22.5 / 30 / 37.5 / 45%
+25.12,2025-06-10T18:05:00.000Z,Samira,buff,Passive,Style Bonus Movement Speed per Stack,2 / 2.5 / 3 / 3.5% (max stacks: 12 / 15 / 18 / 21%),2.75 / 3 / 3.25 / 3.5% (max stacks: 16.5 / 18 / 19.5 / 21%),buff,Style Bonus Movement Speed per Stack : 2 / 2.5 / 3 / 3.5% (max stacks: 12 / 15 / 18 / 21%) ⇒ 2.75 / 3 / 3.25 / 3.5% (max stacks: 16.5 / 18 / 19.5 / 21%)
+25.12,2025-06-10T18:05:00.000Z,Samira,buff,Q,Damage,0 / 5 / 10 / 15 / 20 (+95 / 102.5 / 110 / 117.5 / 125% AD),5 / 10 / 15 / 20 / 25 (+95 / 102.5 / 110 / 117.5 / 125% AD),buff,Damage : 0 / 5 / 10 / 15 / 20 (+95 / 102.5 / 110 / 117.5 / 125% AD) ⇒ 5 / 10 / 15 / 20 / 25 (+95 / 102.5 / 110 / 117.5 / 125% AD)
+25.12,2025-06-10T18:05:00.000Z,Senna,nerf,Passive,Soul Drop Chance per Minion Kill,14%,10%,nerf,Soul Drop Chance per Minion Kill : 14% ⇒ 10%
+25.12,2025-06-10T18:05:00.000Z,Shen,adjustment,E,Damage,60 / 85 / 110 / 135 / 160 (+15% bonus HP),60 / 85 / 110 / 135 / 160 (+11% bonus HP),neutral,Damage : 60 / 85 / 110 / 135 / 160 (+15% bonus HP) ⇒ 60 / 85 / 110 / 135 / 160 (+11% bonus HP)
+25.12,2025-06-10T18:05:00.000Z,Taliyah,nerf,Stats,Base Magic Resist,30,28,nerf,Base Magic Resist : 30 ⇒ 28
+25.12,2025-06-10T18:05:00.000Z,Taliyah,nerf,Q,Empowered Damage,190%,180%,nerf,Empowered Damage : 190% ⇒ 180%
+25.12,2025-06-10T18:05:00.000Z,Twisted Fate,adjustment,E,Bonus Attack Speed,10 / 20 / 30 / 40 / 50%,15 / 25 / 35 / 45 / 55%,buff,Bonus Attack Speed : 10 / 20 / 30 / 40 / 50% ⇒ 15 / 25 / 35 / 45 / 55%
+25.12,2025-06-10T18:05:00.000Z,Twisted Fate,adjustment,R,Cooldown,180 / 150 / 120,160 / 130 / 100 seconds,nerf,Cooldown : 180 / 150 / 120 ⇒ 160 / 130 / 100 seconds
+25.12,2025-06-10T18:05:00.000Z,Varus,nerf,Stats,Base Armor,27,24,nerf,Base Armor : 27 ⇒ 24
+25.12,2025-06-10T18:05:00.000Z,Vi,buff,W,Target Max Health Damage,4 / 5.5 / 7 / 8.5 / 10% (+2.857% bonus AD),4 / 5 / 6 / 7 / 8 (+3.5% bonus AD),neutral,Target Max Health Damage : 4 / 5.5 / 7 / 8.5 / 10% (+2.857% bonus AD) ⇒ 4 / 5 / 6 / 7 / 8 (+3.5% bonus AD)
+25.12,2025-06-10T18:05:00.000Z,Vi,buff,W,Bonus Attack Speed,30 / 37.5 / 45 / 52.5 / 60%,30 / 35 / 40 / 45 / 50%,neutral,Bonus Attack Speed : 30 / 37.5 / 45 / 52.5 / 60% ⇒ 30 / 35 / 40 / 45 / 50%
+25.12,2025-06-10T18:05:00.000Z,Vi,buff,E,Bonus Damage,0 / 15 / 30 / 45 / 60 (+120% AD) (+100% AP),10 / 30 / 50 / 70 / 90 (+110% AD) (+100% AP),buff,Bonus Damage : 0 / 15 / 30 / 45 / 60 (+120% AD) (+100% AP) ⇒ 10 / 30 / 50 / 70 / 90 (+110% AD) (+100% AP)
+25.12,2025-06-10T18:05:00.000Z,Yorick,adjustment,Passive,Mist Walker Attack Speed,0.5 (+100% of Yorick’s bonus attack speed),0.5 (+8-80% attack speed),neutral,Mist Walker Attack Speed : 0.5 (+100% of Yorick’s bonus attack speed) ⇒ 0.5 (+8-80% attack speed)
+25.12,2025-06-10T18:05:00.000Z,Yorick,adjustment,Q,Damage,30 / 55 / 80 / 105 / 130 (+50% AD),30 / 50 / 70 / 90 / 110 (+50% AD),neutral,Damage : 30 / 55 / 80 / 105 / 130 (+50% AD) ⇒ 30 / 50 / 70 / 90 / 110 (+50% AD)
+25.12,2025-06-10T18:05:00.000Z,Zeri,buff,R,Damage,175 / 275 / 375 (+ 85% bonus AD) (+ 110% AP),200 / 300 / 400 (+100% bonus AD) (+110% AP),buff,Damage : 175 / 275 / 375 (+ 85% bonus AD) (+ 110% AP) ⇒ 200 / 300 / 400 (+100% bonus AD) (+110% AP)
+25.12,2025-06-10T18:05:00.000Z,Zeri,buff,R,Chain Lightning Damage,30% AD,40% AD,buff,Chain Lightning Damage : 30% AD ⇒ 40% AD
+25.13,2025-06-24T18:00:00.000Z,Briar,nerf,E,Cast Time After Channel,.25 (scaling down with Attack Speed),.15,nerf,Cast Time After Channel : .25 (scaling down with Attack Speed) ⇒ .15
+25.13,2025-06-24T18:00:00.000Z,Fiddlesticks,adjustment,W,Damage per second,60 / 90 / 120 / 150 / 180 (+ 40% AP),60 / 90 / 120 / 150 / 180 (+ 45% AP),neutral,Damage per second : 60 / 90 / 120 / 150 / 180 (+ 40% AP) ⇒ 60 / 90 / 120 / 150 / 180 (+ 45% AP)
+25.13,2025-06-24T18:00:00.000Z,Gangplank,nerf,Q,Mana Cost,55 / 50 / 45 / 40 / 35,50 / 45 / 40 / 35 / 30,nerf,Mana Cost : 55 / 50 / 45 / 40 / 35 ⇒ 50 / 45 / 40 / 35 / 30
+25.13,2025-06-24T18:00:00.000Z,Gangplank,nerf,R,Cooldown,170 / 150 / 130,160 / 140 / 120,nerf,Cooldown : 170 / 150 / 130 ⇒ 160 / 140 / 120
+25.13,2025-06-24T18:00:00.000Z,Irelia,buff,Passive,Attack Speed per stack,7.5% - 25% (based on level),10% - 25% (based on level),buff,Attack Speed per stack : 7.5% - 25% (based on level) ⇒ 10% - 25% (based on level)
+25.13,2025-06-24T18:00:00.000Z,Irelia,buff,Passive,Max Attack Speed,30% - 100% (based on level),40 -100% (based on level),buff,Max Attack Speed : 30% - 100% (based on level) ⇒ 40 -100% (based on level)
+25.13,2025-06-24T18:00:00.000Z,Kindred,nerf,R,Cooldown,180 / 150 / 120,160 / 140 / 120,nerf,Cooldown : 180 / 150 / 120 ⇒ 160 / 140 / 120
+25.13,2025-06-24T18:00:00.000Z,Nidalee,adjustment,Q,Damage increase based on distance traveled,0 - 200%,0-225%,neutral,Damage increase based on distance traveled : 0 - 200% ⇒ 0-225%
+25.13,2025-06-24T18:00:00.000Z,Nidalee,adjustment,Q,Distance required for damage amp,525,unchanged,neutral,Distance required for damage amp : 525 ⇒ unchanged
+25.13,2025-06-24T18:00:00.000Z,Rammus,buff,Stats,Health Growth,94,100,buff,Health Growth : 94 ⇒ 100
+25.13,2025-06-24T18:00:00.000Z,Rammus,buff,W,Bonus Armor/Magic Resist,27,27 / 32 / 37 / 42 / 47,neutral,Bonus Armor/Magic Resist : 27 ⇒ 27 / 32 / 37 / 42 / 47
+25.13,2025-06-24T18:00:00.000Z,Ryze,adjustment,W,Damage,70 / 100 / 130 / 160 / 190 (+ 70% AP) (+ 4% Bonus Mana),60 / 90 / 120 / 150 / 180 (+ 70% AP) (+ 4% Bonus Mana),nerf,Damage : 70 / 100 / 130 / 160 / 190 (+ 70% AP) (+ 4% Bonus Mana) ⇒ 60 / 90 / 120 / 150 / 180 (+ 70% AP) (+ 4% Bonus Mana)
+25.13,2025-06-24T18:00:00.000Z,Ryze,adjustment,W,Mana,40 / 55 / 70 / 85 / 100,50 / 60 / 70 / 80 / 90,buff,Mana : 40 / 55 / 70 / 85 / 100 ⇒ 50 / 60 / 70 / 80 / 90
+25.13,2025-06-24T18:00:00.000Z,Twisted Fate,buff,R,Cooldown,160 / 130 / 100,170 / 140 / 110,buff,Cooldown : 160 / 130 / 100 ⇒ 170 / 140 / 110
+25.13,2025-06-24T18:00:00.000Z,Vi,nerf,Passive,Shield,14% Max HP,12% Max HP,nerf,Shield : 14% Max HP ⇒ 12% Max HP
+25.13,2025-06-24T18:00:00.000Z,Yorick,nerf,Stats,Armor,39,36,nerf,Armor : 39 ⇒ 36
+25.14,2025-07-15T18:00:00.000Z,Azir,buff,Stats,Base Health,550,575,buff,Base Health : 550 ⇒ 575
+25.14,2025-07-15T18:00:00.000Z,Azir,buff,W,Damage,(+ 40 / 45 / 50 / 55 / 60% AP),(+ 45 / 50 / 55 / 60 / 65% AP),buff,Damage : (+ 40 / 45 / 50 / 55 / 60% AP) ⇒ (+ 45 / 50 / 55 / 60 / 65% AP)
+25.14,2025-07-15T18:00:00.000Z,Braum,nerf,Stats,Base Armor,47,42,nerf,Base Armor : 47 ⇒ 42
+25.14,2025-07-15T18:00:00.000Z,Briar,adjustment,R,CC Cleanse,CC is cleansed when the missile hits,Briar is cleansed when the missile hits and is now immune to CC for the 1.25s ca,neutral,CC Cleanse : CC is cleansed when the missile hits ⇒ Briar is cleansed when the missile hits and is now immune to CC for the 1.25s cast animation that plays after the missile hits.
+25.14,2025-07-15T18:00:00.000Z,Darius,buff,Q,Missing Health Heal,15 / 30 / 45% (1 / 2 / 3+ targets),17 / 34 / 51% (1 / 2 / 3+ targets),buff,Missing Health Heal : 15 / 30 / 45% (1 / 2 / 3+ targets) ⇒ 17 / 34 / 51% (1 / 2 / 3+ targets)
+25.14,2025-07-15T18:00:00.000Z,Fiora,buff,R,Heal per Second,40 / 60 / 70 / 80 / 100% based on vitals,100% always,buff,Heal per Second : 40 / 60 / 70 / 80 / 100% based on vitals ⇒ 100% always
+25.14,2025-07-15T18:00:00.000Z,Fizz,adjustment,W,Cooldown,7 / 6.5 / 6 / 5.5 / 5,7 / 6 / 5 / 4 / 3 seconds,neutral,Cooldown : 7 / 6.5 / 6 / 5.5 / 5 ⇒ 7 / 6 / 5 / 4 / 3 seconds
+25.14,2025-07-15T18:00:00.000Z,Fizz,adjustment,E,Damage,80 / 130 / 180 / 230 / 280 (+ 90% AP),80 / 130 / 180 / 230 / 280 (+ 95% AP),neutral,Damage : 80 / 130 / 180 / 230 / 280 (+ 90% AP) ⇒ 80 / 130 / 180 / 230 / 280 (+ 95% AP)
+25.14,2025-07-15T18:00:00.000Z,Kled,adjustment,Passive,Dismounted Kled Autoattack Damage Against Champions,80%,"85/90/95/100%, at levels 1/6/11/16",buff,"Dismounted Kled Autoattack Damage Against Champions : 80% ⇒ 85/90/95/100%, at levels 1/6/11/16"
+25.14,2025-07-15T18:00:00.000Z,Kled,adjustment,Passive,Skaarl Health,400-1550 (linear scaling),400- 1400 (stat progression multiplier scaling) (Note: This update will just mea,neutral,Skaarl Health : 400-1550 (linear scaling) ⇒ 400- 1400 (stat progression multiplier scaling) (Note: This update will just mean Skaarl's health will follow the same rules other champion's stats do)
+25.14,2025-07-15T18:00:00.000Z,Kled,adjustment,Passive,Courage Gained from Minion Last Hits,4,5,buff,Courage Gained from Minion Last Hits : 4 ⇒ 5
+25.14,2025-07-15T18:00:00.000Z,Kled,adjustment,Passive,Dismounted Speed Boost Acquisition Range,1000,1200,buff,Dismounted Speed Boost Acquisition Range : 1000 ⇒ 1200
+25.14,2025-07-15T18:00:00.000Z,Kled,adjustment,Passive,Dismounted Movement Speed Reduction,-60,-40,nerf,Dismounted Movement Speed Reduction : -60 ⇒ -40
+25.14,2025-07-15T18:00:00.000Z,Kled,adjustment,Passive,Dismounted Bonus Movement Speed Toward Enemy Champions,100-185 (based on level),70-155 (based on level),nerf,Dismounted Bonus Movement Speed Toward Enemy Champions : 100-185 (based on level) ⇒ 70-155 (based on level)
+25.14,2025-07-15T18:00:00.000Z,Kled,adjustment,Passive,Skarl Health Gained on Remount,45-75%,40-70%,nerf,Skarl Health Gained on Remount : 45-75% ⇒ 40-70%
+25.14,2025-07-15T18:00:00.000Z,Kled,adjustment,Passive,Courage from Takedowns,20,0,nerf,Courage from Takedowns : 20 ⇒ 0
+25.14,2025-07-15T18:00:00.000Z,Kled,adjustment,Q,Initial Hit Bonus AD Ratio,65%,60% (Note: Total damage from initial hit and pull reduced from 195% bonus AD to ,nerf,Initial Hit Bonus AD Ratio : 65% ⇒ 60% (Note: Total damage from initial hit and pull reduced from 195% bonus AD to 180% bonus AD)
+25.14,2025-07-15T18:00:00.000Z,Kled,adjustment,Q,Slow,40 / 45 / 50 / 55 / 60%,30 / 35 / 40 / 45 / 50%,nerf,Slow : 40 / 45 / 50 / 55 / 60% ⇒ 30 / 35 / 40 / 45 / 50%
+25.14,2025-07-15T18:00:00.000Z,Kled,adjustment,Q,Slow Duration,1.5,2.5 seconds,buff,Slow Duration : 1.5 ⇒ 2.5 seconds
+25.14,2025-07-15T18:00:00.000Z,Kled,adjustment,Q,Ammo Charge Time,20-7.5 seconds (based on level),18 / 16 /14 / 12 / 10 seconds (based on ability rank),nerf,Ammo Charge Time : 20-7.5 seconds (based on level) ⇒ 18 / 16 /14 / 12 / 10 seconds (based on ability rank)
+25.14,2025-07-15T18:00:00.000Z,Kled,adjustment,Q,Damage per Pellet,35-95 (+ 80% bonus AD),35-95 (+ 65% bonus AD),neutral,Damage per Pellet : 35-95 (+ 80% bonus AD) ⇒ 35-95 (+ 65% bonus AD)
+25.14,2025-07-15T18:00:00.000Z,Kled,adjustment,W,Damage,20 / 30 / 40 / 50 / 60 (+ 4.5 / 5 / 5.5 / 6 / 6.5% (+ 1% per 20 bonus AD) of tar,20 / 30 / 40 / 50 / 60 (+ 4.5 / 5 / 5.5 / 6 / 6.5% (+ 1% per 50 bonus AD) (+ 1% ,neutral,Damage : 20 / 30 / 40 / 50 / 60 (+ 4.5 / 5 / 5.5 / 6 / 6.5% (+ 1% per 20 bonus AD) of target's maximum health) ⇒ 20 / 30 / 40 / 50 / 60 (+ 4.5 / 5 / 5.5 / 6 / 6.5% (+ 1% per 50 bonus AD) (+ 1% per 250
+25.14,2025-07-15T18:00:00.000Z,Kled,adjustment,W,Cooldown,11 / 9.5 / 8 / 6.5 / 5,13 / 12 / 11 / 10 / 9 seconds,buff,Cooldown : 11 / 9.5 / 8 / 6.5 / 5 ⇒ 13 / 12 / 11 / 10 / 9 seconds
+25.14,2025-07-15T18:00:00.000Z,Kled,adjustment,E,Damage,35 / 60 / 85 / 110 / 135 (+ 65% bonus AD),35 / 60 / 85 / 110 / 135 (+ 55% bonus AD),neutral,Damage : 35 / 60 / 85 / 110 / 135 (+ 65% bonus AD) ⇒ 35 / 60 / 85 / 110 / 135 (+ 55% bonus AD)
+25.14,2025-07-15T18:00:00.000Z,Kled,adjustment,R,Minimum Damage,4 / 5 / 6% (+ 4% per 100 bonus AD) of target's maximum health,4 / 6 / 8% (+ 3% per 100 bonus AD) of target's maximum health,neutral,Minimum Damage : 4 / 5 / 6% (+ 4% per 100 bonus AD) of target's maximum health ⇒ 4 / 6 / 8% (+ 3% per 100 bonus AD) of target's maximum health
+25.14,2025-07-15T18:00:00.000Z,Kled,adjustment,R,Maximum Damage,12 / 15 / 18% (+ 12% per 100 bonus AD) of target's maximum health,12 / 18 / 24% (+ 9% per 100 bonus AD) of target's maximum health,neutral,Maximum Damage : 12 / 15 / 18% (+ 12% per 100 bonus AD) of target's maximum health ⇒ 12 / 18 / 24% (+ 9% per 100 bonus AD) of target's maximum health
+25.14,2025-07-15T18:00:00.000Z,Kled,adjustment,R,Damage Type,Physical,Magic,neutral,Damage Type : Physical ⇒ Magic
+25.14,2025-07-15T18:00:00.000Z,Lee Sin,nerf,Stats,Base AD,69,66,nerf,Base AD : 69 ⇒ 66
+25.14,2025-07-15T18:00:00.000Z,Riven,adjustment,Passive,AD Ratio,30-60% (based on level),30-50% (based on level),neutral,AD Ratio : 30-60% (based on level) ⇒ 30-50% (based on level)
+25.14,2025-07-15T18:00:00.000Z,Sett,nerf,Stats,Armor Growth,5.2,4.7,nerf,Armor Growth : 5.2 ⇒ 4.7
+25.14,2025-07-15T18:00:00.000Z,Twisted Fate,nerf,Q,Damage,70 / 115 / 160 / 205 / 250 (+ 50% bonus AD) (+ 85% AP),60 / 105 / 150 / 195 / 240 (+ 50% bonus AD) (+ 85% AP),nerf,Damage : 70 / 115 / 160 / 205 / 250 (+ 50% bonus AD) (+ 85% AP) ⇒ 60 / 105 / 150 / 195 / 240 (+ 50% bonus AD) (+ 85% AP)
+25.14,2025-07-15T18:00:00.000Z,Yasuo,nerf,Stats,AD Growth,3,2.5,nerf,AD Growth : 3 ⇒ 2.5
+25.14,2025-07-15T18:00:00.000Z,Yuumi,adjustment,R,Heal per Hit,30 / 40 / 50 (+ 15% AP),30 / 40 / 50 (+ 10% AP),neutral,Heal per Hit : 30 / 40 / 50 (+ 15% AP) ⇒ 30 / 40 / 50 (+ 10% AP)
+25.14,2025-07-15T18:00:00.000Z,Ziggs,nerf,Q,Damage,85 / 135 / 185 / 235 / 285 (+ 65% AP),80 / 130 / 180 / 230 / 280 (+ 60 / 65 / 70 / 75 / 80% AP),nerf,Damage : 85 / 135 / 185 / 235 / 285 (+ 65% AP) ⇒ 80 / 130 / 180 / 230 / 280 (+ 60 / 65 / 70 / 75 / 80% AP)
+25.14,2025-07-15T18:00:00.000Z,Ziggs,nerf,E,Damage per Mine,30 / 70 / 110 / 150 / 190 (+ 30% AP),30 / 70 / 110 / 150 / 190 (+ 25 / 30 / 35 / 40 / 45% AP),neutral,Damage per Mine : 30 / 70 / 110 / 150 / 190 (+ 30% AP) ⇒ 30 / 70 / 110 / 150 / 190 (+ 25 / 30 / 35 / 40 / 45% AP)
+25.14,2025-07-15T18:00:00.000Z,Ziggs,nerf,R,Maximum Center Damage,300 / 450 / 600 (+ 110% AP),300 / 500 / 700 (+ 100% AP) (Note: Minimum damage is still 2/3rds of max damage),neutral,Maximum Center Damage : 300 / 450 / 600 (+ 110% AP) ⇒ 300 / 500 / 700 (+ 100% AP) (Note: Minimum damage is still 2/3rds of max damage)
+25.14,2025-07-15T18:00:00.000Z,Zoe,nerf,Q,Damage,7 – 50 (based on level) (+ 50 / 80 / 110 / 140 / 170) (+ 60% AP),2 – 50 (based on level) (+ 50 / 80 / 110 / 140 / 170) (+ 60% AP),nerf,Damage : 7 – 50 (based on level) (+ 50 / 80 / 110 / 140 / 170) (+ 60% AP) ⇒ 2 – 50 (based on level) (+ 50 / 80 / 110 / 140 / 170) (+ 60% AP)
+25.14,2025-07-15T18:00:00.000Z,Zoe,nerf,W,Total Damage,75 / 105 / 135 / 165 / 195 (+ 40% AP),60 / 90 / 120 / 150 / 180 (+ 45% AP),nerf,Total Damage : 75 / 105 / 135 / 165 / 195 (+ 40% AP) ⇒ 60 / 90 / 120 / 150 / 180 (+ 45% AP)
+25.15,2025-07-29T18:00:00.000Z,Alistar,nerf,Stats,Base Armor,47,40,nerf,Base Armor : 47 ⇒ 40
+25.15,2025-07-29T18:00:00.000Z,Bel’Veth,nerf,Passive,Attack Speed per stack,0.28 - 1% (level 1-17),0.28 - 1.1% (level 1-18),neutral,Attack Speed per stack : 0.28 - 1% (level 1-17) ⇒ 0.28 - 1.1% (level 1-18)
+25.15,2025-07-29T18:00:00.000Z,Bel’Veth,nerf,Q,Damage to Champions,10 / 15 / 20 / 25 / 30 (+ 100% total AD),0 / 5 / 10 / 15 / 20 (+ 100% total AD),nerf,Damage to Champions : 10 / 15 / 20 / 25 / 30 (+ 100% total AD) ⇒ 0 / 5 / 10 / 15 / 20 (+ 100% total AD)
+25.15,2025-07-29T18:00:00.000Z,Braum,nerf,Stats,Base Armor,42,35,nerf,Base Armor : 42 ⇒ 35
+25.15,2025-07-29T18:00:00.000Z,Braum,nerf,Stats,Armor Growth,5.2,5,nerf,Armor Growth : 5.2 ⇒ 5
+25.15,2025-07-29T18:00:00.000Z,Corki,adjustment,Q,Damage,70 / 120 / 170 / 220 / 270 (+ 120% bonus AD) (+ 100% AP),70 / 115 / 160 / 205 / 250 (+ 130% bonus AD) (+ 100% AP),neutral,Damage : 70 / 120 / 170 / 220 / 270 (+ 120% bonus AD) (+ 100% AP) ⇒ 70 / 115 / 160 / 205 / 250 (+ 130% bonus AD) (+ 100% AP)
+25.15,2025-07-29T18:00:00.000Z,Corki,adjustment,R,Damage,90 / 170 / 250 (+ 80% bonus AD),90 / 170 / 250 (+ 85% bonus AD),neutral,Damage : 90 / 170 / 250 (+ 80% bonus AD) ⇒ 90 / 170 / 250 (+ 85% bonus AD)
+25.15,2025-07-29T18:00:00.000Z,Illaoi,nerf,Passive,Damage,9 - 162 (based on level) (+ 100% AD) (+ 40% AP),9 - 162 (based on level (+ 105% AD) (+ 40% AP),neutral,Damage : 9 - 162 (based on level) (+ 100% AD) (+ 40% AP) ⇒ 9 - 162 (based on level (+ 105% AD) (+ 40% AP)
+25.15,2025-07-29T18:00:00.000Z,Illaoi,nerf,E,Tentacle Attack Timer,5 / 4 / 3 seconds (level 1 / 7 / 13),4 / 3.5 / 3 seconds (level 1 / 7 / 13),nerf,Tentacle Attack Timer : 5 / 4 / 3 seconds (level 1 / 7 / 13) ⇒ 4 / 3.5 / 3 seconds (level 1 / 7 / 13)
+25.15,2025-07-29T18:00:00.000Z,Illaoi,nerf,E,Vessel Duration,10,3,nerf,Vessel Duration : 10 ⇒ 3
+25.15,2025-07-29T18:00:00.000Z,Irelia,nerf,Stats,Health Regen,6,3.5,nerf,Health Regen : 6 ⇒ 3.5
+25.15,2025-07-29T18:00:00.000Z,Kled,buff,Passive,Dismounted Resistances,1 - 2% bonus HP (based on number of nearby enemy champions),4 (+ 1% bonus HP) - 10 (+ 2.5% bonus HP) (based on number of nearby enemy champi,buff,Dismounted Resistances : 1 - 2% bonus HP (based on number of nearby enemy champions) ⇒ 4 (+ 1% bonus HP) - 10 (+ 2.5% bonus HP) (based on number of nearby enemy champions)
+25.15,2025-07-29T18:00:00.000Z,Master Yi,nerf,Q,Damage,30 / 60 / 90 / 120 / 150 (+ 50% total AD),20 / 40 / 60 / 80 / 100 (+ 70% total AD),nerf,Damage : 30 / 60 / 90 / 120 / 150 (+ 50% total AD) ⇒ 20 / 40 / 60 / 80 / 100 (+ 70% total AD)
+25.15,2025-07-29T18:00:00.000Z,Master Yi,nerf,Q,Monster Damage,95 / 150 / 205 / 260 / 315 (+ 50% total AD),80 / 125 / 170 / 215 / 260 (+ 70% total AD),nerf,Monster Damage : 95 / 150 / 205 / 260 / 315 (+ 50% total AD) ⇒ 80 / 125 / 170 / 215 / 260 (+ 70% total AD)
+25.15,2025-07-29T18:00:00.000Z,Nilah,adjustment,Stats,Base AD,58,60,buff,Base AD : 58 ⇒ 60
+25.15,2025-07-29T18:00:00.000Z,Nilah,adjustment,Stats,Attack Speed Growth,3%,2.25%,nerf,Attack Speed Growth : 3% ⇒ 2.25%
+25.15,2025-07-29T18:00:00.000Z,Pantheon,nerf,Q,Monster Damage,105%,90%,nerf,Monster Damage : 105% ⇒ 90%
+25.15,2025-07-29T18:00:00.000Z,Quinn,buff,Q,Damage,20 / 40 / 60 / 80 / 100 (+ 80 / 90 / 100 / 110 / 120% total AD),65 / 100 / 135 / 170 / 205 (+ 80 / 90 / 100 / 110 / 120% bonus AD ),buff,Damage : 20 / 40 / 60 / 80 / 100 (+ 80 / 90 / 100 / 110 / 120% total AD) ⇒ 65 / 100 / 135 / 170 / 205 (+ 80 / 90 / 100 / 110 / 120% bonus AD )
+25.15,2025-07-29T18:00:00.000Z,Rek’Sai,nerf,Stats,Base Armor,36,35,nerf,Base Armor : 36 ⇒ 35
+25.15,2025-07-29T18:00:00.000Z,Rek’Sai,nerf,Stats,Armor Growth,4.95,4.5,nerf,Armor Growth : 4.95 ⇒ 4.5
+25.15,2025-07-29T18:00:00.000Z,Rek’Sai,nerf,W,Knock-up lockout,10,10 / 9 / 8 / 7 / 6,neutral,Knock-up lockout : 10 ⇒ 10 / 9 / 8 / 7 / 6
+25.15,2025-07-29T18:00:00.000Z,Rek’Sai,nerf,E,Empowered Damage,100% total AD (+ 8 / 9.5 / 11 / 12.5 / 14% target max HP),100 / 135 / 170 / 205 / 240 (+ 80% bonus AD),neutral,Empowered Damage : 100% total AD (+ 8 / 9.5 / 11 / 12.5 / 14% target max HP) ⇒ 100 / 135 / 170 / 205 / 240 (+ 80% bonus AD)
+25.15,2025-07-29T18:00:00.000Z,Rek’Sai,nerf,E,Unempowered Damage,100% total AD,80 / 108 / 136 / 164 / 192 (+ 64% bonus AD) (80% of Empowered Damage),nerf,Unempowered Damage : 100% total AD ⇒ 80 / 108 / 136 / 164 / 192 (+ 64% bonus AD) (80% of Empowered Damage)
+25.15,2025-07-29T18:00:00.000Z,Rek’Sai,nerf,E,Cooldown,10,6,nerf,Cooldown : 10 ⇒ 6
+25.15,2025-07-29T18:00:00.000Z,Rek’Sai,nerf,R,Damage,150 / 300 / 450 (+ 100% bonus AD) (+ 25 / 30 / 35% missing HP),150 / 250 / 350 (+100% bonus AD) (+ 15 / 20 / 25% target max HP),neutral,Damage : 150 / 300 / 450 (+ 100% bonus AD) (+ 25 / 30 / 35% missing HP) ⇒ 150 / 250 / 350 (+100% bonus AD) (+ 15 / 20 / 25% target max HP)
+25.15,2025-07-29T18:00:00.000Z,Rek’Sai,nerf,R,Cooldown,100 / 90 / 80,120 / 100 / 80,buff,Cooldown : 100 / 90 / 80 ⇒ 120 / 100 / 80
+25.15,2025-07-29T18:00:00.000Z,Rek’Sai,nerf,R,Cooldown on interrupted cast from target dying,10,5,nerf,Cooldown on interrupted cast from target dying : 10 ⇒ 5
+25.15,2025-07-29T18:00:00.000Z,Rell,nerf,W,Shield,25 / 50 / 75 / 100 / 125 (+ 13% max HP),20 / 40 / 60 / 80 / 100 (+ 13% max HP),nerf,Shield : 25 / 50 / 75 / 100 / 125 (+ 13% max HP) ⇒ 20 / 40 / 60 / 80 / 100 (+ 13% max HP)
+25.16,2025-08-12T18:00:00.000Z,Brand,buff,Passive,Per Tick Damage to Monsters,240%,260%,buff,Per Tick Damage to Monsters : 240% ⇒ 260%
+25.16,2025-08-12T18:00:00.000Z,Brand,buff,Q,Ablaze Stun Duration,1.5,1.75 seconds,buff,Ablaze Stun Duration : 1.5 ⇒ 1.75 seconds
+25.16,2025-08-12T18:00:00.000Z,Brand,buff,R,Cooldown,110 / 100 / 90,100 / 90 / 80 seconds,nerf,Cooldown : 110 / 100 / 90 ⇒ 100 / 90 / 80 seconds
+25.16,2025-08-12T18:00:00.000Z,Gnar,nerf,Q,Cooldown,20 / 17.5 / 15 / 12.5 / 10,16 / 14.5 / 13 / 11.5 / 10 seconds,nerf,Cooldown : 20 / 17.5 / 15 / 12.5 / 10 ⇒ 16 / 14.5 / 13 / 11.5 / 10 seconds
+25.16,2025-08-12T18:00:00.000Z,Illaoi,adjustment,Passive,Total AD Ratio,105%,110%,buff,Total AD Ratio : 105% ⇒ 110%
+25.16,2025-08-12T18:00:00.000Z,Illaoi,adjustment,Passive,Spawn Cooldown,20 - 7.25 seconds (based on level),18 - 7 seconds (based on level),nerf,Spawn Cooldown : 20 - 7.25 seconds (based on level) ⇒ 18 - 7 seconds (based on level)
+25.16,2025-08-12T18:00:00.000Z,Jarvan IV,nerf,Stats,Armor Growth,5.2,4.6,nerf,Armor Growth : 5.2 ⇒ 4.6
+25.16,2025-08-12T18:00:00.000Z,Kalista,buff,Stats,Attack Damage Growth,4,4.25,buff,Attack Damage Growth : 4 ⇒ 4.25
+25.16,2025-08-12T18:00:00.000Z,Kalista,buff,E,Initial Damage AP Ratio,20%,65%,buff,Initial Damage AP Ratio : 20% ⇒ 65%
+25.16,2025-08-12T18:00:00.000Z,Kalista,buff,E,Subsequent Damage AP Ratio,20%,50%,buff,Subsequent Damage AP Ratio : 20% ⇒ 50%
+25.16,2025-08-12T18:00:00.000Z,Lulu,nerf,E,Cooldown,8 seconds,10 / 9.5 / 9 / 8.5 / 8 seconds,buff,Cooldown : 8 seconds ⇒ 10 / 9.5 / 9 / 8.5 / 8 seconds
+25.16,2025-08-12T18:00:00.000Z,Lulu,nerf,E,Base Damage,80 / 120 / 160 / 200 / 240,70 / 110 / 150 / 190 / 230,nerf,Base Damage : 80 / 120 / 160 / 200 / 240 ⇒ 70 / 110 / 150 / 190 / 230
+25.16,2025-08-12T18:00:00.000Z,Lulu,nerf,E,Shield,80 / 120 / 160 / 200 / 240 (+ 55% AP),70 / 110 / 150 / 190 / 230 (+ 50% AP),nerf,Shield : 80 / 120 / 160 / 200 / 240 (+ 55% AP) ⇒ 70 / 110 / 150 / 190 / 230 (+ 50% AP)
+25.16,2025-08-12T18:00:00.000Z,Mordekaiser,buff,Q,Damage AD Ratio,0% bonus AD,120% bonus AD,buff,Damage AD Ratio : 0% bonus AD ⇒ 120% bonus AD
+25.16,2025-08-12T18:00:00.000Z,Morgana,adjustment,W,Minimum Damage,60 / 115 / 170 / 225 / 280 (+ 85% AP),70 / 140 / 210 / 280 / 350 (+ 100% AP),buff,Minimum Damage : 60 / 115 / 170 / 225 / 280 (+ 85% AP) ⇒ 70 / 140 / 210 / 280 / 350 (+ 100% AP)
+25.16,2025-08-12T18:00:00.000Z,Morgana,adjustment,W,Maximum Damage,162 / 310.5 / 459 / 607.5 / 756 (+ 229.5% AP),140 / 280 / 420 / 560 / 700 (+ 200% AP),nerf,Maximum Damage : 162 / 310.5 / 459 / 607.5 / 756 (+ 229.5% AP) ⇒ 140 / 280 / 420 / 560 / 700 (+ 200% AP)
+25.16,2025-08-12T18:00:00.000Z,Nautilus,nerf,E,Monster Damage Modifier,150%,The first hit of E will deal 125/165/205/245/285 (+ 50% AP) bonus damage to mons,nerf,Monster Damage Modifier : 150% ⇒ The first hit of E will deal 125/165/205/245/285 (+ 50% AP) bonus damage to monsters
+25.16,2025-08-12T18:00:00.000Z,Nocturne,nerf,Stats,Armor Growth,4.7,4.2,nerf,Armor Growth : 4.7 ⇒ 4.2
+25.16,2025-08-12T18:00:00.000Z,Nocturne,nerf,Q,Bonus AD,20 / 30 / 40 / 50 / 60,15 / 25 / 35 / 45 / 55,nerf,Bonus AD : 20 / 30 / 40 / 50 / 60 ⇒ 15 / 25 / 35 / 45 / 55
+25.16,2025-08-12T18:00:00.000Z,Qiyana,buff,Q,Base Damage,60 / 90 / 120 / 150 / 180,70 / 100 / 130 / 160 / 190,buff,Base Damage : 60 / 90 / 120 / 150 / 180 ⇒ 70 / 100 / 130 / 160 / 190
+25.16,2025-08-12T18:00:00.000Z,Qiyana,buff,W,Bonus Attack Speed,5 / 10 / 15 / 20 / 25%,15 / 20 / 25 / 30 / 35%,buff,Bonus Attack Speed : 5 / 10 / 15 / 20 / 25% ⇒ 15 / 20 / 25 / 30 / 35%
+25.16,2025-08-12T18:00:00.000Z,Rek'Sai,buff,Stats,Base Attack Damage,58,62,buff,Base Attack Damage : 58 ⇒ 62
+25.16,2025-08-12T18:00:00.000Z,Rell,adjustment,W,Shield,20/40/60/80/100 (+ 13% Max Health),20/40/60/80/100 (+ 11% Max Health),neutral,Shield : 20/40/60/80/100 (+ 13% Max Health) ⇒ 20/40/60/80/100 (+ 11% Max Health)
+25.16,2025-08-12T18:00:00.000Z,Rumble,adjustment,Q,Damage over 3 Seconds,60/90/120/150/180 (+ 110% AP) (+ 6/6.8/7.6/8.4/9.2% target max HP),60/90/120/150/180 (+ 100% AP) (+ 6/6.5/7/7.5/8% target max HP),neutral,Damage over 3 Seconds : 60/90/120/150/180 (+ 110% AP) (+ 6/6.8/7.6/8.4/9.2% target max HP) ⇒ 60/90/120/150/180 (+ 100% AP) (+ 6/6.5/7/7.5/8% target max HP)
+25.16,2025-08-12T18:00:00.000Z,Rumble,adjustment,Q,Maximum Burn Duration,3 seconds,3.5 seconds,buff,Maximum Burn Duration : 3 seconds ⇒ 3.5 seconds
+25.16,2025-08-12T18:00:00.000Z,Rumble,adjustment,R,Tick Rate,0.5 seconds,0.25 seconds,nerf,Tick Rate : 0.5 seconds ⇒ 0.25 seconds
+25.16,2025-08-12T18:00:00.000Z,Shaco,nerf,Passive,Bonus AD Ratio,30%,25%,nerf,Bonus AD Ratio : 30% ⇒ 25%
+25.16,2025-08-12T18:00:00.000Z,Shaco,nerf,Q,Bonus AD Ratio,65%,60%,nerf,Bonus AD Ratio : 65% ⇒ 60%
+25.16,2025-08-12T18:00:00.000Z,Shaco,nerf,Q,Cooldown,12 / 11.5 / 11 / 10.5 / 10 seconds,13 / 12.5 / 12 / 11.5 / 11 seconds,buff,Cooldown : 12 / 11.5 / 11 / 10.5 / 10 seconds ⇒ 13 / 12.5 / 12 / 11.5 / 11 seconds
+25.16,2025-08-12T18:00:00.000Z,Singed,nerf,Q,Poison Refresh Rate,0.5 seconds,0.25 seconds,nerf,Poison Refresh Rate : 0.5 seconds ⇒ 0.25 seconds
+25.16,2025-08-12T18:00:00.000Z,Sion,buff,Passive,Health Lost per Tick,2.3 - 24.4 (based on level),2 - 19 (based on level),nerf,Health Lost per Tick : 2.3 - 24.4 (based on level) ⇒ 2 - 19 (based on level)
+25.16,2025-08-12T18:00:00.000Z,Sion,buff,E,Armor Reduction,20%,25%,buff,Armor Reduction : 20% ⇒ 25%
+25.16,2025-08-12T18:00:00.000Z,Sion,buff,R,Bonus AD Ratio (Based on Travel Time),40 - 80%,60 - 120%,buff,Bonus AD Ratio (Based on Travel Time) : 40 - 80% ⇒ 60 - 120%
+25.16,2025-08-12T18:00:00.000Z,Sylas,buff,Passive,Monster Damage Modifier,100%,150%,buff,Monster Damage Modifier : 100% ⇒ 150%
+25.16,2025-08-12T18:00:00.000Z,Trundle,buff,W,Bonus Attack Speed,30 / 50 / 70 / 90 / 110%,30 / 45 / 60 / 75 / 90%,neutral,Bonus Attack Speed : 30 / 50 / 70 / 90 / 110% ⇒ 30 / 45 / 60 / 75 / 90%
+25.16,2025-08-12T18:00:00.000Z,Trundle,buff,W,Cooldown,16 / 15 / 14 / 13 / 12 seconds,18 / 17 / 16 / 15 / 14 seconds,buff,Cooldown : 16 / 15 / 14 / 13 / 12 seconds ⇒ 18 / 17 / 16 / 15 / 14 seconds
+25.16,2025-08-12T18:00:00.000Z,Varus,nerf,Q,Base Damage,90 / 160 / 230 / 300 / 370,80 / 150 / 220 / 290 / 360,nerf,Base Damage : 90 / 160 / 230 / 300 / 370 ⇒ 80 / 150 / 220 / 290 / 360
+25.16,2025-08-12T18:00:00.000Z,Varus,nerf,W,Bonus Magic Damage On-Hit,6 / 12 / 18 / 24 / 30,6 / 14 / 22 / 30 / 38,neutral,Bonus Magic Damage On-Hit : 6 / 12 / 18 / 24 / 30 ⇒ 6 / 14 / 22 / 30 / 38
+25.16,2025-08-12T18:00:00.000Z,Varus,nerf,E,Damage,60 / 100 / 140 / 180 / 220 (+ 100% bonus AD),60 / 90 / 120 / 150 / 180 (+ 90% bonus AD),neutral,Damage : 60 / 100 / 140 / 180 / 220 (+ 100% bonus AD) ⇒ 60 / 90 / 120 / 150 / 180 (+ 90% bonus AD)
+25.16,2025-08-12T18:00:00.000Z,Viego,adjustment,Stats,Attack Speed Growth,2.5%,2.25%,nerf,Attack Speed Growth : 2.5% ⇒ 2.25%
+25.16,2025-08-12T18:00:00.000Z,Viego,adjustment,Q,Damage,15 / 30 / 45 / 60 / 75,25 / 40 / 55 / 70 / 85,buff,Damage : 15 / 30 / 45 / 60 / 75 ⇒ 25 / 40 / 55 / 70 / 85
+25.16,2025-08-12T18:00:00.000Z,Viego,adjustment,Q,Critical Strike Multiplier,100%,75%,nerf,Critical Strike Multiplier : 100% ⇒ 75%
+25.16,2025-08-12T18:00:00.000Z,Viego,adjustment,Q,Bonus Damage to Monsters,15,0,nerf,Bonus Damage to Monsters : 15 ⇒ 0
+25.16,2025-08-12T18:00:00.000Z,Viego,adjustment,Q,Mark Minion Healing,50%,100%,buff,Mark Minion Healing : 50% ⇒ 100%
+25.16,2025-08-12T18:00:00.000Z,Viego,adjustment,Q,Mark Monster Healing,145%,125%,nerf,Mark Monster Healing : 145% ⇒ 125%
+25.16,2025-08-12T18:00:00.000Z,Viego,adjustment,Q,Mark Champion Healing,135%,150%,buff,Mark Champion Healing : 135% ⇒ 150%
+25.16,2025-08-12T18:00:00.000Z,Warwick,adjustment,Stats,Base Attack Damage,60,65,buff,Base Attack Damage : 60 ⇒ 65
+25.16,2025-08-12T18:00:00.000Z,Warwick,adjustment,Passive,Bonus On-Hit Damage,12 - 46 (based on level),6 - 46 (based on level),nerf,Bonus On-Hit Damage : 12 - 46 (based on level) ⇒ 6 - 46 (based on level)
+25.16,2025-08-12T18:00:00.000Z,Xin Zhao,nerf,Stats,Base Health,640,620,nerf,Base Health : 640 ⇒ 620
+25.16,2025-08-12T18:00:00.000Z,Xin Zhao,nerf,Q,Flat Bonus Damage per Hit,20 / 35 / 50 / 65 / 80,15 / 30 / 45 / 60 / 75,nerf,Flat Bonus Damage per Hit : 20 / 35 / 50 / 65 / 80 ⇒ 15 / 30 / 45 / 60 / 75
+25.16,2025-08-12T18:00:00.000Z,Yuumi,nerf,Q,Empowered Base Damage,80 / 140 / 200 / 260 / 320 / 380,80 / 135 / 190 / 245 / 300 / 355,neutral,Empowered Base Damage : 80 / 140 / 200 / 260 / 320 / 380 ⇒ 80 / 135 / 190 / 245 / 300 / 355
+25.16,2025-08-12T18:00:00.000Z,Yuumi,nerf,W,Heal and Shield Power,5 / 7.5 / 10 / 12.5 / 15%,4 / 5 /6 / 7 / 8%,nerf,Heal and Shield Power : 5 / 7.5 / 10 / 12.5 / 15% ⇒ 4 / 5 /6 / 7 / 8%
+25.16,2025-08-12T18:00:00.000Z,Yuumi,nerf,W,Heal On-Hit,3 / 5 / 7 / 9 / 11 (+ 4% AP),3 / 4 / 5 / 6 / 7 (+ 3% AP),neutral,Heal On-Hit : 3 / 5 / 7 / 9 / 11 (+ 4% AP) ⇒ 3 / 4 / 5 / 6 / 7 (+ 3% AP)
+25.16,2025-08-12T18:00:00.000Z,Zyra,adjustment,E,Cooldown,12 seconds,11 seconds,nerf,Cooldown : 12 seconds ⇒ 11 seconds
+25.16,2025-08-12T18:00:00.000Z,Zyra,adjustment,R,Base Damage,180 / 265 / 350,200 / 300 / 400,buff,Base Damage : 180 / 265 / 350 ⇒ 200 / 300 / 400
+25.17,2025-08-26T18:00:00.000Z,Gwen,nerf,Stats,Armor,36,33,nerf,Armor : 36 ⇒ 33
+25.17,2025-08-26T18:00:00.000Z,Gwen,nerf,Stats,Attack Speed Growth,2.25%,2.5%,buff,Attack Speed Growth : 2.25% ⇒ 2.5%
+25.17,2025-08-26T18:00:00.000Z,Gwen,nerf,R,Initial Slow,60%,30 / 45 / 60%,nerf,Initial Slow : 60% ⇒ 30 / 45 / 60%
+25.17,2025-08-26T18:00:00.000Z,Gwen,nerf,R,Subsequent Slows,25%,15 / 20 / 25%,nerf,Subsequent Slows : 25% ⇒ 15 / 20 / 25%
+25.17,2025-08-26T18:00:00.000Z,Irelia,adjustment,W,Minimum Damage,10 / 20 / 30 / 40 / 50 (+ 40% AD) (+ 40% AP),10 / 20 / 30 / 40 / 50 (+ 40% AD) (+ 50% AP),neutral,Minimum Damage : 10 / 20 / 30 / 40 / 50 (+ 40% AD) (+ 40% AP) ⇒ 10 / 20 / 30 / 40 / 50 (+ 40% AD) (+ 50% AP)
+25.17,2025-08-26T18:00:00.000Z,Irelia,adjustment,W,Maximum Damage,30 / 60 / 90 / 120 / 150 (+ 120% AD) (+ 120% AP),30 / 60 / 90 / 120 / 150 (+ 120% AD) (+ 150% AP),neutral,Maximum Damage : 30 / 60 / 90 / 120 / 150 (+ 120% AD) (+ 120% AP) ⇒ 30 / 60 / 90 / 120 / 150 (+ 120% AD) (+ 150% AP)
+25.17,2025-08-26T18:00:00.000Z,Irelia,adjustment,E,Cooldown,16 / 15 / 14 / 13 / 12,16 / 14.5 / 13 / 11.5 / 10,neutral,Cooldown : 16 / 15 / 14 / 13 / 12 ⇒ 16 / 14.5 / 13 / 11.5 / 10
+25.17,2025-08-26T18:00:00.000Z,Irelia,adjustment,E,Damage,70 / 110 / 150 / 190 / 230 (+ 80 AP),70 / 110 / 150 / 190 / 230 (+ 100% AP),neutral,Damage : 70 / 110 / 150 / 190 / 230 (+ 80 AP) ⇒ 70 / 110 / 150 / 190 / 230 (+ 100% AP)
+25.17,2025-08-26T18:00:00.000Z,Kassadin,adjustment,Q,Damage,65 / 95 / 125 / 155 / 185 (+ 60% AP),65 / 95 / 125 / 155 / 185 (+ 70% AP),neutral,Damage : 65 / 95 / 125 / 155 / 185 (+ 60% AP) ⇒ 65 / 95 / 125 / 155 / 185 (+ 70% AP)
+25.17,2025-08-26T18:00:00.000Z,Kassadin,adjustment,E,Damage,70 / 100 / 130 / 160 / 190 (+ 65% AP),70 / 100 / 130 / 160 / 190 (+ 70% AP),neutral,Damage : 70 / 100 / 130 / 160 / 190 (+ 65% AP) ⇒ 70 / 100 / 130 / 160 / 190 (+ 70% AP)
+25.17,2025-08-26T18:00:00.000Z,Kayn,nerf,Q,Mana Cost,50,40,nerf,Mana Cost : 50 ⇒ 40
+25.17,2025-08-26T18:00:00.000Z,Kayn,nerf,W,Mana Cost,60 / 65 / 70 / 75 /80,40 / 45 / 50 / 55 / 60,nerf,Mana Cost : 60 / 65 / 70 / 75 /80 ⇒ 40 / 45 / 50 / 55 / 60
+25.17,2025-08-26T18:00:00.000Z,Kog'Maw,adjustment,Q,Damage,80 / 125 / 170 / 215 / 260 (+ 80% AP),80 / 125 / 170 / 215 / 260 (+ 90% AP) W - Bio-Arcane Barrage,neutral,Damage : 80 / 125 / 170 / 215 / 260 (+ 80% AP) ⇒ 80 / 125 / 170 / 215 / 260 (+ 90% AP) W - Bio-Arcane Barrage
+25.17,2025-08-26T18:00:00.000Z,Kog'Maw,adjustment,W,Damage On-Hit,3 / 3.75 / 4.5 / 5.25 / 6% (+ 1% per 100 AP) target max HP,3 / 3.75 / 4.5 / 5.25 / 6% (+ 1.5% per 100 AP) target max HP R - Living Artiller,neutral,Damage On-Hit : 3 / 3.75 / 4.5 / 5.25 / 6% (+ 1% per 100 AP) target max HP ⇒ 3 / 3.75 / 4.5 / 5.25 / 6% (+ 1.5% per 100 AP) target max HP R - Living Artillery
+25.17,2025-08-26T18:00:00.000Z,Kog'Maw,adjustment,R,Minimum Damage,100 / 140 / 180 (+75% bonus AD) (+ 35% AP),100 / 140 / 180 (+75% bonus AD) (+ 35 / 40 / 45% AP),neutral,Minimum Damage : 100 / 140 / 180 (+75% bonus AD) (+ 35% AP) ⇒ 100 / 140 / 180 (+75% bonus AD) (+ 35 / 40 / 45% AP)
+25.17,2025-08-26T18:00:00.000Z,Master Yi,nerf,Stats,Base Health,669,655,nerf,Base Health : 669 ⇒ 655
+25.17,2025-08-26T18:00:00.000Z,Master Yi,nerf,Q,On-hit damage modifier,75%,65%,nerf,On-hit damage modifier : 75% ⇒ 65%
+25.17,2025-08-26T18:00:00.000Z,Miss Fortune,buff,Stats,Base Attack Damage,53,55,buff,Base Attack Damage : 53 ⇒ 55
+25.17,2025-08-26T18:00:00.000Z,Morgana,buff,W,Mana Cost,70 / 85 / 100 / 115 / 130,70 / 80 / 90 / 100 / 110,neutral,Mana Cost : 70 / 85 / 100 / 115 / 130 ⇒ 70 / 80 / 90 / 100 / 110
+25.17,2025-08-26T18:00:00.000Z,Morgana,buff,W,Minimum Damage Per Second,14 / 28 / 42 / 56 / 70,18 / 31 / 44 / 57 / 70,buff,Minimum Damage Per Second : 14 / 28 / 42 / 56 / 70 ⇒ 18 / 31 / 44 / 57 / 70
+25.17,2025-08-26T18:00:00.000Z,Nilah,buff,Q,Secondary damage to monsters,10% total AD,100% total AD,buff,Secondary damage to monsters : 10% total AD ⇒ 100% total AD
+25.17,2025-08-26T18:00:00.000Z,Rumble,adjustment,Passive,Overheated Damage,5-40 (+ 25% AP) + 5% target max HP,5-40 (+ 25% AP) (+ 4% target max HP),neutral,Overheated Damage : 5-40 (+ 25% AP) + 5% target max HP ⇒ 5-40 (+ 25% AP) (+ 4% target max HP)
+25.17,2025-08-26T18:00:00.000Z,Rumble,adjustment,Q,Damage Over 3 Seconds,60 / 90 / 120 / 150 / 180 (+ 100% AP) + 6 / 6.5 / 7 / 7.5 / 8% target max HP,60 / 85 / 110 / 135 / 160 (+ 100% AP) + 6 / 6.5 / 7 / 7.5 / 8% target max HP,neutral,Damage Over 3 Seconds : 60 / 90 / 120 / 150 / 180 (+ 100% AP) + 6 / 6.5 / 7 / 7.5 / 8% target max HP ⇒ 60 / 85 / 110 / 135 / 160 (+ 100% AP) + 6 / 6.5 / 7 / 7.5 / 8% target max HP
+25.17,2025-08-26T18:00:00.000Z,Senna,buff,Stats,Attack Speed Growth,2%,2.6%,buff,Attack Speed Growth : 2% ⇒ 2.6%
+25.17,2025-08-26T18:00:00.000Z,Senna,buff,Q,Heal,40 / 55 / 70 / 85 / 100 (+ 40% bonus AD) (+ 50% AP),40 / 60 / 80 / 100 / 120 (+ 40% bonus AD) (+ 50% AP),neutral,Heal : 40 / 55 / 70 / 85 / 100 (+ 40% bonus AD) (+ 50% AP) ⇒ 40 / 60 / 80 / 100 / 120 (+ 40% bonus AD) (+ 50% AP)
+25.17,2025-08-26T18:00:00.000Z,Sett,buff,E,Bonus Monster Damage,100,125-250 (based on level),buff,Bonus Monster Damage : 100 ⇒ 125-250 (based on level)
+25.17,2025-08-26T18:00:00.000Z,Singed,nerf,Q,Duration,2.2s,2s,nerf,Duration : 2.2s ⇒ 2s
+25.17,2025-08-26T18:00:00.000Z,Singed,nerf,Q,Max damage ticks per application,9,8,nerf,Max damage ticks per application : 9 ⇒ 8
+25.17,2025-08-26T18:00:00.000Z,Teemo,buff,R,Trap Opacity,30%,50%,buff,Trap Opacity : 30% ⇒ 50%
+25.17,2025-08-26T18:00:00.000Z,Vayne,buff,W,Monster Damage,"6 / 7 / 8 / 9 / 10% max HP, capped at 200",140 / 155 / 170 / 185 / 200 damage regardless of health,buff,"Monster Damage : 6 / 7 / 8 / 9 / 10% max HP, capped at 200 ⇒ 140 / 155 / 170 / 185 / 200 damage regardless of health"
+25.18,2025-09-09T18:00:00.000Z,Amumu,buff,Q,Cooldown,16 / 15.5 / 15 / 14.5 / 14,16 / 15 / 14 / 13 / 12 seconds,neutral,Cooldown : 16 / 15.5 / 15 / 14.5 / 14 ⇒ 16 / 15 / 14 / 13 / 12 seconds
+25.18,2025-09-09T18:00:00.000Z,Amumu,buff,Q,Mana Cost,45 / 50 / 55 / 60 / 65,50 at all ranks,buff,Mana Cost : 45 / 50 / 55 / 60 / 65 ⇒ 50 at all ranks
+25.18,2025-09-09T18:00:00.000Z,Annie,nerf,W,Base Damage,70 / 115 / 160 / 205 / 250,70 / 110 / 150 / 190 / 230,neutral,Base Damage : 70 / 115 / 160 / 205 / 250 ⇒ 70 / 110 / 150 / 190 / 230
+25.18,2025-09-09T18:00:00.000Z,Annie,nerf,R,Magic Penetration,15 / 17.5 / 20%,10 / 15 / 20%,nerf,Magic Penetration : 15 / 17.5 / 20% ⇒ 10 / 15 / 20%
+25.18,2025-09-09T18:00:00.000Z,Ashe,buff,Stats,AD Growth,2.95,3.45,buff,AD Growth : 2.95 ⇒ 3.45
+25.18,2025-09-09T18:00:00.000Z,Aurora,adjustment,Passive,Base Percent Max Health Damage,2.5%,1%,nerf,Base Percent Max Health Damage : 2.5% ⇒ 1%
+25.18,2025-09-09T18:00:00.000Z,Aurora,adjustment,Passive,Percent Max Health Damage AP Ratio,2% per 100 AP,2.7% per 100 AP,buff,Percent Max Health Damage AP Ratio : 2% per 100 AP ⇒ 2.7% per 100 AP
+25.18,2025-09-09T18:00:00.000Z,Azir,nerf,Stats,Attack Speed Growth,5.5%,5.0%,nerf,Attack Speed Growth : 5.5% ⇒ 5.0%
+25.18,2025-09-09T18:00:00.000Z,Azir,nerf,W,AP Ratio,+ 45 / 50 / 55 / 60 / 65% AP,+ 40 / 45 / 50 / 55 / 60% AP,nerf,AP Ratio : + 45 / 50 / 55 / 60 / 65% AP ⇒ + 40 / 45 / 50 / 55 / 60% AP
+25.18,2025-09-09T18:00:00.000Z,Briar,buff,Q,Base Damage,60 / 90 / 120 / 150 / 180,60 / 85 / 110 / 135 / 160,neutral,Base Damage : 60 / 90 / 120 / 150 / 180 ⇒ 60 / 85 / 110 / 135 / 160
+25.18,2025-09-09T18:00:00.000Z,Briar,buff,Q,Damage Type,Magic,Physical,neutral,Damage Type : Magic ⇒ Physical
+25.18,2025-09-09T18:00:00.000Z,Briar,buff,R,Global Sound,Plays on cast,Plays after cast,neutral,Global Sound : Plays on cast ⇒ Plays after cast
+25.18,2025-09-09T18:00:00.000Z,Briar,buff,R,Damage,150 / 250 / 350 (+ 50% bonus AD) (+ 120% AP),150 / 250 / 350 (+130% AP) (Note: 50% bonus AD ratio removed.),neutral,Damage : 150 / 250 / 350 (+ 50% bonus AD) (+ 120% AP) ⇒ 150 / 250 / 350 (+130% AP) (Note: 50% bonus AD ratio removed.)
+25.18,2025-09-09T18:00:00.000Z,Briar,buff,R,Range,10000,12000,buff,Range : 10000 ⇒ 12000
+25.18,2025-09-09T18:00:00.000Z,Cassiopeia,buff,Stats,Base Mana,400,450,buff,Base Mana : 400 ⇒ 450
+25.18,2025-09-09T18:00:00.000Z,Cassiopeia,buff,E,Base Damage vs Poisoned Targets,20 / 40 / 60 / 80 / 100,20 / 43 / 66 / 89 / 112,neutral,Base Damage vs Poisoned Targets : 20 / 40 / 60 / 80 / 100 ⇒ 20 / 43 / 66 / 89 / 112
+25.18,2025-09-09T18:00:00.000Z,Galio,nerf,Passive,AP Ratio,45%,40%,nerf,AP Ratio : 45% ⇒ 40%
+25.18,2025-09-09T18:00:00.000Z,Galio,nerf,Q,Percent Max Health Damage per Tick,2.5%,2%,nerf,Percent Max Health Damage per Tick : 2.5% ⇒ 2%
+25.18,2025-09-09T18:00:00.000Z,Garen,buff,E,AD Ratio per Spin,36 / 39 / 42 / 45 / 48% AD,38 / 41 / 44 / 47 / 50% AD,buff,AD Ratio per Spin : 36 / 39 / 42 / 45 / 48% AD ⇒ 38 / 41 / 44 / 47 / 50% AD
+25.18,2025-09-09T18:00:00.000Z,Hwei,buff,Passive,AP Ratio,30%,35%,buff,AP Ratio : 30% ⇒ 35%
+25.18,2025-09-09T18:00:00.000Z,Hwei,buff,Other,Base Bonus Movement Speed,20 / 22.5 / 25 / 27.5 / 30%,30 / 32.5 / 35 / 37.5 / 40%,buff,Base Bonus Movement Speed : 20 / 22.5 / 25 / 27.5 / 30% ⇒ 30 / 32.5 / 35 / 37.5 / 40%
+25.18,2025-09-09T18:00:00.000Z,Hwei,buff,Other,Bonus Movement Speed AP Ratio,+2% per 100 AP,+3% per 100 AP,buff,Bonus Movement Speed AP Ratio : +2% per 100 AP ⇒ +3% per 100 AP
+25.18,2025-09-09T18:00:00.000Z,Hwei,buff,E,EQ - Grim Visage AP Ratio,60%,65%,buff,EQ - Grim Visage AP Ratio : 60% ⇒ 65%
+25.18,2025-09-09T18:00:00.000Z,Hwei,buff,E,EW - Gaze of the Abyss AP Ratio,60%,65%,buff,EW - Gaze of the Abyss AP Ratio : 60% ⇒ 65%
+25.18,2025-09-09T18:00:00.000Z,Hwei,buff,E,EE - Crushing Maw AP Ratio,60%,65%,buff,EE - Crushing Maw AP Ratio : 60% ⇒ 65%
+25.18,2025-09-09T18:00:00.000Z,Jayce,buff,Q,Damage,60 / 110 / 160 / 210 / 260 / 310,80 / 126 / 172 / 218 / 264 / 310,buff,Damage : 60 / 110 / 160 / 210 / 260 / 310 ⇒ 80 / 126 / 172 / 218 / 264 / 310
+25.18,2025-09-09T18:00:00.000Z,Illaoi,adjustment,W,Target Max Health Damage,4% per 100 total AD,3.5% per 100 total AD,nerf,Target Max Health Damage : 4% per 100 total AD ⇒ 3.5% per 100 total AD
+25.18,2025-09-09T18:00:00.000Z,Illaoi,adjustment,E,Vessel Duration,3,4 seconds,buff,Vessel Duration : 3 ⇒ 4 seconds
+25.18,2025-09-09T18:00:00.000Z,Qiyana,nerf,Stats,Base AD,66,64,nerf,Base AD : 66 ⇒ 64
+25.18,2025-09-09T18:00:00.000Z,Qiyana,nerf,Stats,Armor Growth,4.7,4.5,nerf,Armor Growth : 4.7 ⇒ 4.5
+25.18,2025-09-09T18:00:00.000Z,Qiyana,nerf,Passive,Bonus Damage,30% Bonus AD,25% Bonus AD,nerf,Bonus Damage : 30% Bonus AD ⇒ 25% Bonus AD
+25.18,2025-09-09T18:00:00.000Z,Sylas,nerf,Passive,Bonus Damage to Monsters,150%,130%,nerf,Bonus Damage to Monsters : 150% ⇒ 130%
+25.18,2025-09-09T18:00:00.000Z,Taliyah,adjustment,Q,Mana Cost,65 / 70 / 75 / 80 / 85,55 / 60 / 65 / 70 / 75,nerf,Mana Cost : 65 / 70 / 75 / 80 / 85 ⇒ 55 / 60 / 65 / 70 / 75
+25.18,2025-09-09T18:00:00.000Z,Taliyah,adjustment,Q,Q2 Mana Cost,20,10,nerf,Q2 Mana Cost : 20 ⇒ 10
+25.18,2025-09-09T18:00:00.000Z,Taliyah,adjustment,Q,Base Damage,56 / 74.5 / 93 / 111.5 / 130,55 / 72.5 / 90 / 107.5 / 125,nerf,Base Damage : 56 / 74.5 / 93 / 111.5 / 130 ⇒ 55 / 72.5 / 90 / 107.5 / 125
+25.18,2025-09-09T18:00:00.000Z,Taliyah,adjustment,Q,Flat Damage per Rock to Monsters,10,20,buff,Flat Damage per Rock to Monsters : 10 ⇒ 20
+25.18,2025-09-09T18:00:00.000Z,Taliyah,adjustment,E,Mana Cost,90 / 95 / 100 / 105 / 110,90 at all ranks,neutral,Mana Cost : 90 / 95 / 100 / 105 / 110 ⇒ 90 at all ranks
+25.18,2025-09-09T18:00:00.000Z,Taliyah,adjustment,E,Detonation Base Damage,25 / 45 / 65 / 85 / 105,25 / 40 / 55 / 70 / 85,neutral,Detonation Base Damage : 25 / 45 / 65 / 85 / 105 ⇒ 25 / 40 / 55 / 70 / 85
+25.18,2025-09-09T18:00:00.000Z,Taliyah,adjustment,E,Monster Damage Modifier,175%,190%,buff,Monster Damage Modifier : 175% ⇒ 190%
+25.18,2025-09-09T18:00:00.000Z,Vel'Koz,nerf,E,Cooldown,14 / 13.5 / 13 / 12.5 / 12,12 / 11.5 / 11 / 10.5 / 10 seconds,nerf,Cooldown : 14 / 13.5 / 13 / 12.5 / 12 ⇒ 12 / 11.5 / 11 / 10.5 / 10 seconds
+25.18,2025-09-09T18:00:00.000Z,Vel'Koz,nerf,R,Total Base Damage,450 / 625 / 800,450 / 700 / 925,neutral,Total Base Damage : 450 / 625 / 800 ⇒ 450 / 700 / 925
+25.18,2025-09-09T18:00:00.000Z,Volibear,nerf,Passive,Attack Speed AP Ratio,4% (up to 20%) per 100 AP,3 (up to 17.5%) per 100 AP,nerf,Attack Speed AP Ratio : 4% (up to 20%) per 100 AP ⇒ 3 (up to 17.5%) per 100 AP
+25.18,2025-09-09T18:00:00.000Z,Yunara,nerf,Stats,Base Health,600,575,nerf,Base Health : 600 ⇒ 575
+25.18,2025-09-09T18:00:00.000Z,Yunara,nerf,Stats,Base AD,56,53,nerf,Base AD : 56 ⇒ 53
+25.18,2025-09-09T18:00:00.000Z,Yunara,nerf,E,Bonus Movement Speed,50 / 55 / 60 / 65 / 70%,30 / 35 / 40 / 45 / 50%,nerf,Bonus Movement Speed : 50 / 55 / 60 / 65 / 70% ⇒ 30 / 35 / 40 / 45 / 50%
+25.18,2025-09-09T18:00:00.000Z,Yunara,nerf,E,Movement Speed Duration,1.5 / 1.75 / 2 / 2.25 / 2.5,1.5 seconds at all ranks,neutral,Movement Speed Duration : 1.5 / 1.75 / 2 / 2.25 / 2.5 ⇒ 1.5 seconds at all ranks
+25.19,2025-09-23T18:00:00.000Z,Ahri,buff,R,Damage per hit,60 / 90 / 120 (+ 35% AP),75 / 125 / 175 (+ 35% AP),buff,Damage per hit : 60 / 90 / 120 (+ 35% AP) ⇒ 75 / 125 / 175 (+ 35% AP)
+25.19,2025-09-23T18:00:00.000Z,Brand,buff,Passive,Monster Damage Modifier,2.6x,2.65x,buff,Monster Damage Modifier : 2.6x ⇒ 2.65x
+25.19,2025-09-23T18:00:00.000Z,Brand,buff,W,Damage,75 / 120 / 165 / 210 / 255 (+ 60% AP),75 / 120 / 165 / 210 / 255 (+ 70% AP),neutral,Damage : 75 / 120 / 165 / 210 / 255 (+ 60% AP) ⇒ 75 / 120 / 165 / 210 / 255 (+ 70% AP)
+25.19,2025-09-23T18:00:00.000Z,Brand,buff,R,Damage per hit,100 / 175 / 250 ( +25% AP),100 / 175 / 250 (+ 30% AP),neutral,Damage per hit : 100 / 175 / 250 ( +25% AP) ⇒ 100 / 175 / 250 (+ 30% AP)
+25.19,2025-09-23T18:00:00.000Z,Caitlyn,buff,Stats,Base AD,60,62,buff,Base AD : 60 ⇒ 62
+25.19,2025-09-23T18:00:00.000Z,Corki,nerf,Q,Damage,70 / 115 / 160 / 205 / 250 (+130% AD),60 / 105 / 150 / 195 / 240 (+ 125% AD),nerf,Damage : 70 / 115 / 160 / 205 / 250 (+130% AD) ⇒ 60 / 105 / 150 / 195 / 240 (+ 125% AD)
+25.19,2025-09-23T18:00:00.000Z,Diana,buff,Passive,Monster Mod,2.6x,3x,buff,Monster Mod : 2.6x ⇒ 3x
+25.19,2025-09-23T18:00:00.000Z,Draven,buff,W,Attack Speed,20 / 25 / 30 / 35 / 40%,30 / 35 / 40 / 45 / 50%,buff,Attack Speed : 20 / 25 / 30 / 35 / 40% ⇒ 30 / 35 / 40 / 45 / 50%
+25.19,2025-09-23T18:00:00.000Z,Draven,buff,R,Damage,175 / 275 / 375 (110 / 130 / 150% Bonus AD),200 / 300 / 400 (110 / 130 / 150% Bonus AD),buff,Damage : 175 / 275 / 375 (110 / 130 / 150% Bonus AD) ⇒ 200 / 300 / 400 (110 / 130 / 150% Bonus AD)
+25.19,2025-09-23T18:00:00.000Z,Jax,adjustment,Stats,Base HP,665,650,nerf,Base HP : 665 ⇒ 650
+25.19,2025-09-23T18:00:00.000Z,Jax,adjustment,R,Initial armor gain,25 / 50 / 75 (+ 40% bonus AD),45 / 60 / 75 (+ 40% bonus AD),buff,Initial armor gain : 25 / 50 / 75 (+ 40% bonus AD) ⇒ 45 / 60 / 75 (+ 40% bonus AD)
+25.19,2025-09-23T18:00:00.000Z,Jinx,buff,Q,Bonus Range,80 / 110 / 140 / 170 / 200,100 / 125 / 150 / 175 / 200,buff,Bonus Range : 80 / 110 / 140 / 170 / 200 ⇒ 100 / 125 / 150 / 175 / 200
+25.19,2025-09-23T18:00:00.000Z,Jinx,buff,E,Damage,70 / 120 / 170 / 220 / 270 (+ 100% AP),90 / 140 / 190 / 240 / 290 (+ 100% AP),buff,Damage : 70 / 120 / 170 / 220 / 270 (+ 100% AP) ⇒ 90 / 140 / 190 / 240 / 290 (+ 100% AP)
+25.19,2025-09-23T18:00:00.000Z,LeBlanc,adjustment,W,Damage,75 / 115 / 155 / 195 / 235 (+ 70% AP),75 / 115 / 155 / 195 / 235 (+ 80% AP),neutral,Damage : 75 / 115 / 155 / 195 / 235 (+ 70% AP) ⇒ 75 / 115 / 155 / 195 / 235 (+ 80% AP)
+25.19,2025-09-23T18:00:00.000Z,LeBlanc,adjustment,R,Distortion Damage,150 / 300 / 450 (+ 75% AP),150 / 300 / 450 (+ 80% AP),neutral,Distortion Damage : 150 / 300 / 450 (+ 75% AP) ⇒ 150 / 300 / 450 (+ 80% AP)
+25.19,2025-09-23T18:00:00.000Z,Lee Sin,adjustment,Stats,Armor Growth,4.9,4.5,nerf,Armor Growth : 4.9 ⇒ 4.5
+25.19,2025-09-23T18:00:00.000Z,Lee Sin,adjustment,Q,Damage,55 / 80 / 105 / 130 / 155 (+ 155% Bonus AD),60 / 90 / 120 / 150 / 180 (+ 95% Bonus AD),buff,Damage : 55 / 80 / 105 / 130 / 155 (+ 155% Bonus AD) ⇒ 60 / 90 / 120 / 150 / 180 (+ 95% Bonus AD)
+25.19,2025-09-23T18:00:00.000Z,Lillia,adjustment,R,Bonus Damage,100 / 150 / 200 (+ 40% AP),150 / 200 / 250 (+ 45% AP),buff,Bonus Damage : 100 / 150 / 200 (+ 40% AP) ⇒ 150 / 200 / 250 (+ 45% AP)
+25.19,2025-09-23T18:00:00.000Z,Lillia,adjustment,R,Cooldown,150 / 130 / 110,140 / 120 / 100,nerf,Cooldown : 150 / 130 / 110 ⇒ 140 / 120 / 100
+25.19,2025-09-23T18:00:00.000Z,Mel,nerf,Passive,Bonus Damage on attack per spell,24-75 (based on level) (+3% AP),24-99 (based on level) (+9% AP),neutral,Bonus Damage on attack per spell : 24-75 (based on level) (+3% AP) ⇒ 24-99 (based on level) (+9% AP)
+25.19,2025-09-23T18:00:00.000Z,Mel,nerf,Passive,Maximum Bonus Damage on attack,75-225 (based on level) (+ 9% AP),72-297 (+ 27% AP),nerf,Maximum Bonus Damage on attack : 75-225 (based on level) (+ 9% AP) ⇒ 72-297 (+ 27% AP)
+25.19,2025-09-23T18:00:00.000Z,Pantheon,nerf,Q,Monster Modifier,0.9x,0.75x,nerf,Monster Modifier : 0.9x ⇒ 0.75x
+25.19,2025-09-23T18:00:00.000Z,Pantheon,nerf,W,Minion/Monster damage cap,200,120,nerf,Minion/Monster damage cap : 200 ⇒ 120
+25.19,2025-09-23T18:00:00.000Z,Poppy,adjustment,Q,Max Health damage cap to minions/monsters,75 / 105 / 135 / 165 / 195,50 / 80 / 110 / 140 / 170,nerf,Max Health damage cap to minions/monsters : 75 / 105 / 135 / 165 / 195 ⇒ 50 / 80 / 110 / 140 / 170
+25.19,2025-09-23T18:00:00.000Z,Poppy,adjustment,R,Cooldown on interrupted channel,15,30,buff,Cooldown on interrupted channel : 15 ⇒ 30
+25.19,2025-09-23T18:00:00.000Z,Seraphine,buff,Stats,Mana Growth,25,40,buff,Mana Growth : 25 ⇒ 40
+25.19,2025-09-23T18:00:00.000Z,Seraphine,buff,Stats,HP Growth,90,95,buff,HP Growth : 90 ⇒ 95
+25.19,2025-09-23T18:00:00.000Z,Seraphine,buff,W,Healing,3 / 3.5 / 4 / 4.5/ 5% missing HP per target in the circle,"8 / 10 / 12 / 14 / 16% missing HP, regardless of targets in the circle",buff,"Healing : 3 / 3.5 / 4 / 4.5/ 5% missing HP per target in the circle ⇒ 8 / 10 / 12 / 14 / 16% missing HP, regardless of targets in the circle"
+25.19,2025-09-23T18:00:00.000Z,Sivir,adjustment,Q,Initial Damage,60 / 85 / 110 / 135 / 160 (+ 100% bonus AD),60 / 85 / 110 / 135 / 160 (+ 85% bonus AD),neutral,Initial Damage : 60 / 85 / 110 / 135 / 160 (+ 100% bonus AD) ⇒ 60 / 85 / 110 / 135 / 160 (+ 85% bonus AD)
+25.19,2025-09-23T18:00:00.000Z,Syndra,nerf,Stats,Health Growth,104,100,nerf,Health Growth : 104 ⇒ 100
+25.19,2025-09-23T18:00:00.000Z,Syndra,nerf,Stats,Armor Growth,4.6,4,nerf,Armor Growth : 4.6 ⇒ 4
+25.19,2025-09-23T18:00:00.000Z,Syndra,nerf,Q,Damage,75 / 110 / 145 / 180 / 215 (+ 60% AP),80 / 115 / 150 / 185 / 220 (+ 65% AP),buff,Damage : 75 / 110 / 145 / 180 / 215 (+ 60% AP) ⇒ 80 / 115 / 150 / 185 / 220 (+ 65% AP)
+25.19,2025-09-23T18:00:00.000Z,Syndra,nerf,E,Cooldown,17,15,nerf,Cooldown : 17 ⇒ 15
+25.20,2025-10-07T18:00:00.000Z,Anivia,adjustment,Q,Cooldown,12/11/10/9/8,11/10/9/8/7 seconds,nerf,Cooldown : 12/11/10/9/8 ⇒ 11/10/9/8/7 seconds
+25.20,2025-10-07T18:00:00.000Z,Anivia,adjustment,E,Base Damage,50 / 75 / 100 / 125 / 150,55 / 80 / 105 / 130 / 155,buff,Base Damage : 50 / 75 / 100 / 125 / 150 ⇒ 55 / 80 / 105 / 130 / 155
+25.20,2025-10-07T18:00:00.000Z,Azir,adjustment,W,AP Ratio,+ 40 / 45 / 50 / 55 / 60% AP,+ 30 / 40 / 60 / 60 / 70% AP,nerf,AP Ratio : + 40 / 45 / 50 / 55 / 60% AP ⇒ + 30 / 40 / 60 / 60 / 70% AP
+25.20,2025-10-07T18:00:00.000Z,Azir,adjustment,W,Recharge Rate,10 / 9 / 8 / 7 / 6,12 / 10.5 / 9 / 7.5 / 6,buff,Recharge Rate : 10 / 9 / 8 / 7 / 6 ⇒ 12 / 10.5 / 9 / 7.5 / 6
+25.20,2025-10-07T18:00:00.000Z,Azir,adjustment,W,Damage to Additional Targets,25/50/75/100% (levels 1/6/11/16),"20% until level 8, then +8% per level (100% at 18)",nerf,"Damage to Additional Targets : 25/50/75/100% (levels 1/6/11/16) ⇒ 20% until level 8, then +8% per level (100% at 18)"
+25.20,2025-10-07T18:00:00.000Z,Azir,adjustment,E,Damage,60 / 100 / 140 / 180 / 220 (+ 40% AP),70 / 110 / 150 / 190 / 230 (+ 60% AP),buff,Damage : 60 / 100 / 140 / 180 / 220 (+ 40% AP) ⇒ 70 / 110 / 150 / 190 / 230 (+ 60% AP)
+25.20,2025-10-07T18:00:00.000Z,Briar,nerf,Passive,Maximum Stacks,7,5,nerf,Maximum Stacks : 7 ⇒ 5
+25.20,2025-10-07T18:00:00.000Z,Camille,nerf,Stats,Armor Growth,5,4.5,nerf,Armor Growth : 5 ⇒ 4.5
+25.20,2025-10-07T18:00:00.000Z,Camille,nerf,W,Cooldown,17 / 15.5 / 14 / 12.5 / 11,15 / 14 / 13 / 12 / 11 seconds,nerf,Cooldown : 17 / 15.5 / 14 / 12.5 / 11 ⇒ 15 / 14 / 13 / 12 / 11 seconds
+25.20,2025-10-07T18:00:00.000Z,Camille,nerf,W,Base Damage,50 / 75 / 100 / 125 / 150,60 / 85 / 110 / 135 / 160,buff,Base Damage : 50 / 75 / 100 / 125 / 150 ⇒ 60 / 85 / 110 / 135 / 160
+25.20,2025-10-07T18:00:00.000Z,Fizz,buff,W,Passive Damage over Time,20 / 30 / 40 / 50 / 60 (+ 30% AP),30 / 45 / 60 / 75 / 90 (+ 25% AP),buff,Passive Damage over Time : 20 / 30 / 40 / 50 / 60 (+ 30% AP) ⇒ 30 / 45 / 60 / 75 / 90 (+ 25% AP)
+25.20,2025-10-07T18:00:00.000Z,Fizz,buff,W,Active Burst Damage,50 / 70 / 90 / 110 / 130,50 / 75 / 100 / 125 / 150,neutral,Active Burst Damage : 50 / 70 / 90 / 110 / 130 ⇒ 50 / 75 / 100 / 125 / 150
+25.20,2025-10-07T18:00:00.000Z,Fizz,buff,W,On-Hit Damage,10 / 15 / 20 / 25 / 30 (+ 35% AP),20 / 25 / 30 / 35 / 40 (+30% AP),buff,On-Hit Damage : 10 / 15 / 20 / 25 / 30 (+ 35% AP) ⇒ 20 / 25 / 30 / 35 / 40 (+30% AP)
+25.20,2025-10-07T18:00:00.000Z,Fizz,buff,R,Guppy Damage,150 / 250 / 350 (+ 80% AP),180 / 300 / 420 (+ 60% AP),buff,Guppy Damage : 150 / 250 / 350 (+ 80% AP) ⇒ 180 / 300 / 420 (+ 60% AP)
+25.20,2025-10-07T18:00:00.000Z,Fizz,buff,R,Chomper Damage,225 / 325 / 425 (+ 100% AP),225 / 375 / 525 (+ 75% AP),neutral,Chomper Damage : 225 / 325 / 425 (+ 100% AP) ⇒ 225 / 375 / 525 (+ 75% AP)
+25.20,2025-10-07T18:00:00.000Z,Fizz,buff,R,Gigalodon Damage,300 / 400 / 500 (+ 120% AP),270 / 450 / 630 (+ 90% AP),nerf,Gigalodon Damage : 300 / 400 / 500 (+ 120% AP) ⇒ 270 / 450 / 630 (+ 90% AP)
+25.20,2025-10-07T18:00:00.000Z,Graves,adjustment,Q,Initial Damage,45 / 65 / 85 / 105 / 125 (+ 80% bonus AD),50 / 75 / 100 / 125 /150 (+ 65% bonus AD),buff,Initial Damage : 45 / 65 / 85 / 105 / 125 (+ 80% bonus AD) ⇒ 50 / 75 / 100 / 125 /150 (+ 65% bonus AD)
+25.20,2025-10-07T18:00:00.000Z,Graves,adjustment,Q,Secondary Damage,85 / 120 / 155 / 190 / 225 (+ 40 / 65 / 90 / 115 / 140% bonus AD),80 / 125 / 170 / 215 / 260 (+ 55 / 70 / 85 / 100 / 115% bonus AD),nerf,Secondary Damage : 85 / 120 / 155 / 190 / 225 (+ 40 / 65 / 90 / 115 / 140% bonus AD) ⇒ 80 / 125 / 170 / 215 / 260 (+ 55 / 70 / 85 / 100 / 115% bonus AD)
+25.20,2025-10-07T18:00:00.000Z,Graves,adjustment,Q,Combined Damage,130 / 185 / 240 / 295 / 350 (+ 120 / 145 / 170 / 195 / 220% bonus AD),130 / 200 / 270 / 340 / 410 (+ 120 / 135 / 150 / 165 / 180 % bonus AD),neutral,Combined Damage : 130 / 185 / 240 / 295 / 350 (+ 120 / 145 / 170 / 195 / 220% bonus AD) ⇒ 130 / 200 / 270 / 340 / 410 (+ 120 / 135 / 150 / 165 / 180 % bonus AD)
+25.20,2025-10-07T18:00:00.000Z,Katarina,buff,Stats,Armor,28,32,buff,Armor : 28 ⇒ 32
+25.20,2025-10-07T18:00:00.000Z,Malphite,buff,Stats,Base Armor,37,40,buff,Base Armor : 37 ⇒ 40
+25.20,2025-10-07T18:00:00.000Z,Malphite,buff,E,Base Damage,70 / 110 / 150 / 190 / 230,80 / 120 / 160 / 200 / 240,buff,Base Damage : 70 / 110 / 150 / 190 / 230 ⇒ 80 / 120 / 160 / 200 / 240
+25.20,2025-10-07T18:00:00.000Z,Orianna,adjustment,W,Damage,70 / 120 / 170 / 220 / 270 (+ 70% AP),70 / 110 / 150 / 190 / 230 (+ 80% AP),neutral,Damage : 70 / 120 / 170 / 220 / 270 (+ 70% AP) ⇒ 70 / 110 / 150 / 190 / 230 (+ 80% AP)
+25.20,2025-10-07T18:00:00.000Z,Pantheon,buff,Q,Monster Damage Modifier,0.75x,0.8x,buff,Monster Damage Modifier : 0.75x ⇒ 0.8x
+25.20,2025-10-07T18:00:00.000Z,Pantheon,buff,W,Minion/Monster Damage Cap,120,150,buff,Minion/Monster Damage Cap : 120 ⇒ 150
+25.20,2025-10-07T18:00:00.000Z,Veigar,buff,W,AP Ratio,(+ 60 / 70 / 80 / 90 / 100% AP),(+ 70 / 80 /90 / 100 / 110%),buff,AP Ratio : (+ 60 / 70 / 80 / 90 / 100% AP) ⇒ (+ 70 / 80 /90 / 100 / 110%)
+25.20,2025-10-07T18:00:00.000Z,Volibear,nerf,Passive,AP Ratio,50%,45%,nerf,AP Ratio : 50% ⇒ 45%
+25.20,2025-10-07T18:00:00.000Z,Volibear,nerf,E,AP Ratio,80%,70%,nerf,AP Ratio : 80% ⇒ 70%
+25.20,2025-10-07T18:00:00.000Z,Warwick,nerf,Stats,Attack Damage Growth,2.75,2.5,nerf,Attack Damage Growth : 2.75 ⇒ 2.5
+25.20,2025-10-07T18:00:00.000Z,Warwick,nerf,Stats,Attack Speed Growth,2.3%,2%,nerf,Attack Speed Growth : 2.3% ⇒ 2%
+25.20,2025-10-07T18:00:00.000Z,Wukong,nerf,Q,Bonus Damage Bonus AD Ratio,55%,50% bonus AD,nerf,Bonus Damage Bonus AD Ratio : 55% ⇒ 50% bonus AD
+25.20,2025-10-07T18:00:00.000Z,Wukong,nerf,W,Cooldown,20 / 19 /18 / 17 /16,22 / 21 / 20 / 19 / 18 seconds,buff,Cooldown : 20 / 19 /18 / 17 /16 ⇒ 22 / 21 / 20 / 19 / 18 seconds
+25.20,2025-10-07T18:00:00.000Z,Wukong,nerf,W,Clone Damage,35 / 40 / 45 / 50 / 55%,30 / 35 / 40 / 45 / 50%,nerf,Clone Damage : 35 / 40 / 45 / 50 / 55% ⇒ 30 / 35 / 40 / 45 / 50%
+25.20,2025-10-07T18:00:00.000Z,Wukong,nerf,E,Base Damage,80 / 110 / 140 / 170 / 200,80 / 120 / 160 / 200 / 240,neutral,Base Damage : 80 / 110 / 140 / 170 / 200 ⇒ 80 / 120 / 160 / 200 / 240
+25.21,2025-10-21T18:00:00.000Z,Bard,adjustment,W,Minimum Heal,25 / 50 / 75 / 100 / 125 (+ 30% AP),25 / 50 / 75 / 100 / 125 (+ 40% AP),neutral,Minimum Heal : 25 / 50 / 75 / 100 / 125 (+ 30% AP) ⇒ 25 / 50 / 75 / 100 / 125 (+ 40% AP)
+25.21,2025-10-21T18:00:00.000Z,Bard,adjustment,W,Maximum Heal,50 / 87.5 / 125 / 162.5 / 200 (+ 60% AP),50 / 87.5 / 125 / 162.5 / 200 (+ 70% AP),neutral,Maximum Heal : 50 / 87.5 / 125 / 162.5 / 200 (+ 60% AP) ⇒ 50 / 87.5 / 125 / 162.5 / 200 (+ 70% AP)
+25.21,2025-10-21T18:00:00.000Z,Bard,adjustment,W,Movement Speed,20 / 22.5 / 25 / 27.5 / 30 (+ 5% per 100 AP),20 / 22.5 / 25 / 27.5 / 30 (+ 6% per 100 AP),neutral,Movement Speed : 20 / 22.5 / 25 / 27.5 / 30 (+ 5% per 100 AP) ⇒ 20 / 22.5 / 25 / 27.5 / 30 (+ 6% per 100 AP)
+25.21,2025-10-21T18:00:00.000Z,Diana,nerf,Passive,Monster Damage,300%,280%,nerf,Monster Damage : 300% ⇒ 280%
+25.21,2025-10-21T18:00:00.000Z,Dr. Mundo,buff,Stats,Armor Growth,3.7,4.5,buff,Armor Growth : 3.7 ⇒ 4.5
+25.21,2025-10-21T18:00:00.000Z,Dr. Mundo,buff,E,Minimum Active Damage,5 / 15 / 25 / 35 / 45 (+ 7% Bonus HP),5 / 15 / 25 / 35 / 45 (+ 5% Bonus HP),neutral,Minimum Active Damage : 5 / 15 / 25 / 35 / 45 (+ 7% Bonus HP) ⇒ 5 / 15 / 25 / 35 / 45 (+ 5% Bonus HP)
+25.21,2025-10-21T18:00:00.000Z,Ezreal,buff,Stats,Attack Damage Growth,2.75,3.25,buff,Attack Damage Growth : 2.75 ⇒ 3.25
+25.21,2025-10-21T18:00:00.000Z,Graves,nerf,Stats,Magic Resistance,32,30,nerf,Magic Resistance : 32 ⇒ 30
+25.21,2025-10-21T18:00:00.000Z,Graves,nerf,Stats,Magic Resistance Growth,2.05,1.3,nerf,Magic Resistance Growth : 2.05 ⇒ 1.3
+25.21,2025-10-21T18:00:00.000Z,Gwen,buff,Stats,Health,600,625,buff,Health : 600 ⇒ 625
+25.21,2025-10-21T18:00:00.000Z,Gwen,buff,Stats,Health Growth,100,125,buff,Health Growth : 100 ⇒ 125
+25.21,2025-10-21T18:00:00.000Z,Gwen,buff,Stats,Attack Speed Growth,2.5%,2.25%,nerf,Attack Speed Growth : 2.5% ⇒ 2.25%
+25.21,2025-10-21T18:00:00.000Z,Gwen,buff,Passive,AP Ratio,0.55% per 100 AP,0.6% per 100 AP,buff,AP Ratio : 0.55% per 100 AP ⇒ 0.6% per 100 AP
+25.21,2025-10-21T18:00:00.000Z,Gwen,buff,Q,Small Snip Damage,10 / 15 / 20 / 25 / 30 (+2% AP),10 / 15 / 20 / 25 / 30 (+5% AP),neutral,Small Snip Damage : 10 / 15 / 20 / 25 / 30 (+2% AP) ⇒ 10 / 15 / 20 / 25 / 30 (+5% AP)
+25.21,2025-10-21T18:00:00.000Z,Gwen,buff,W,Armor and Magic Resistance,22 (+ 7% AP),22 / 24 / 26 / 28 / 30 (+7% AP),neutral,Armor and Magic Resistance : 22 (+ 7% AP) ⇒ 22 / 24 / 26 / 28 / 30 (+7% AP)
+25.21,2025-10-21T18:00:00.000Z,Gwen,buff,W,Cooldown,24 / 22.5 / 21 / 19.5 / 18,22 / 21 / 20 / 19 / 18,nerf,Cooldown : 24 / 22.5 / 21 / 19.5 / 18 ⇒ 22 / 21 / 20 / 19 / 18
+25.21,2025-10-21T18:00:00.000Z,Gwen,buff,E,Damage,8 / 11 / 14 / 17 / 20 (+ 25% AP),15 (+ 20% AP),buff,Damage : 8 / 11 / 14 / 17 / 20 (+ 25% AP) ⇒ 15 (+ 20% AP)
+25.21,2025-10-21T18:00:00.000Z,Gwen,buff,E,Cooldown,12 / 11 / 10 / 9 / 8,13 / 12.5 / 12 / 11.5 / 11,buff,Cooldown : 12 / 11 / 10 / 9 / 8 ⇒ 13 / 12.5 / 12 / 11.5 / 11
+25.21,2025-10-21T18:00:00.000Z,Gwen,buff,E,Cooldown Refund,50%,25 / 35 / 45 / 55 / 65%,nerf,Cooldown Refund : 50% ⇒ 25 / 35 / 45 / 55 / 65%
+25.21,2025-10-21T18:00:00.000Z,Gwen,buff,R,Damage,30 / 60 / 90 (+ 8% AP),35 / 65 / 95 (+ 10% AP),buff,Damage : 30 / 60 / 90 (+ 8% AP) ⇒ 35 / 65 / 95 (+ 10% AP)
+25.21,2025-10-21T18:00:00.000Z,Gwen,buff,R,Slow,30 / 45 / 60%,40 / 50 / 60%,buff,Slow : 30 / 45 / 60% ⇒ 40 / 50 / 60%
+25.21,2025-10-21T18:00:00.000Z,Kalista,buff,Stats,Attack Damage Growth,4.25,4.75,buff,Attack Damage Growth : 4.25 ⇒ 4.75
+25.21,2025-10-21T18:00:00.000Z,Kog'Maw,nerf,Q,Passive Attack Speed,10 / 15 / 20 /25 / 30%,5 / 10 / 15 / 20 / 25%,nerf,Passive Attack Speed : 10 / 15 / 20 /25 / 30% ⇒ 5 / 10 / 15 / 20 / 25%
+25.21,2025-10-21T18:00:00.000Z,Morgana,nerf,Stats,Armor Growth,5,4.2,nerf,Armor Growth : 5 ⇒ 4.2
+25.21,2025-10-21T18:00:00.000Z,Qiyana,nerf,Stats,Health Growth,124,121,nerf,Health Growth : 124 ⇒ 121
+25.21,2025-10-21T18:00:00.000Z,Qiyana,nerf,Q,Damage,70 / 100 / 130 / 160 / 190 (+ 90% Bonus AD),70 / 100 / 130 / 160 / 190 (+ 85% Bonus AD),neutral,Damage : 70 / 100 / 130 / 160 / 190 (+ 90% Bonus AD) ⇒ 70 / 100 / 130 / 160 / 190 (+ 85% Bonus AD)
+25.21,2025-10-21T18:00:00.000Z,Quinn,nerf,Q,Damage,65 / 100 / 135 / 170 / 205 (+ 80 / 90 / 100 / 110 / 120% Bonus AD),65 / 100 / 135 / 170 / 205 (+ 80 / 85 / 90 / 95 / 100% Bonus AD),neutral,Damage : 65 / 100 / 135 / 170 / 205 (+ 80 / 90 / 100 / 110 / 120% Bonus AD) ⇒ 65 / 100 / 135 / 170 / 205 (+ 80 / 85 / 90 / 95 / 100% Bonus AD)
+25.21,2025-10-21T18:00:00.000Z,Quinn,nerf,R,Damage,70% Total AD,60 / 90 / 120 (+ 35% Bonus AD),nerf,Damage : 70% Total AD ⇒ 60 / 90 / 120 (+ 35% Bonus AD)
+25.21,2025-10-21T18:00:00.000Z,Yone,buff,Stats,Attack Damage,60,62,buff,Attack Damage : 60 ⇒ 62
+25.21,2025-10-21T18:00:00.000Z,Yunara,buff,W,Initial Damage,5 / 30 / 55 / 80 / 105 (+ 85% Total AD),55 / 95 / 135 / 175 / 215 (+ 85% Bonus AD),buff,Initial Damage : 5 / 30 / 55 / 80 / 105 (+ 85% Total AD) ⇒ 55 / 95 / 135 / 175 / 215 (+ 85% Bonus AD)
+25.21,2025-10-21T18:00:00.000Z,Yunara,buff,W,Damage per second,5 / 20 / 35 / 50 / 65 (+ 40% Total AD),33 / 57 / 81 / 105 / 129 (+ 51% Bonus AD),buff,Damage per second : 5 / 20 / 35 / 50 / 65 (+ 40% Total AD) ⇒ 33 / 57 / 81 / 105 / 129 (+ 51% Bonus AD)
+25.21,2025-10-21T18:00:00.000Z,Yunara,buff,W,Damage,50 / 200 / 350 (+ 175% Total AD),175 / 350 / 525 (+ 150% Bonus AD),buff,Damage : 50 / 200 / 350 (+ 175% Total AD) ⇒ 175 / 350 / 525 (+ 150% Bonus AD)
+25.21,2025-10-21T18:00:00.000Z,Yunara,buff,E,Movement Speed,30 / 35 / 40 / 45 / 50% decaying over 1.5 seconds,30 / 35 / 40 / 45 / 50% decaying after 1.5 seconds,neutral,Movement Speed : 30 / 35 / 40 / 45 / 50% decaying over 1.5 seconds ⇒ 30 / 35 / 40 / 45 / 50% decaying after 1.5 seconds
+25.21,2025-10-21T18:00:00.000Z,Yunara,buff,E,Movement Speed toward Enemies,45 / 52.5 / 60 / 67.5 / 75% decaying over 1.5 seconds,45 / 52.5 / 60 / 67.5 / 75% decaying after 1.5 seconds,neutral,Movement Speed toward Enemies : 45 / 52.5 / 60 / 67.5 / 75% decaying over 1.5 seconds ⇒ 45 / 52.5 / 60 / 67.5 / 75% decaying after 1.5 seconds
+25.21,2025-10-21T18:00:00.000Z,Yunara,buff,E,Cooldown,7.5,9,buff,Cooldown : 7.5 ⇒ 9
+25.22,2025-11-04T19:00:00.000Z,Akshan,adjustment,Stats,Base Health,630,610,nerf,Base Health : 630 ⇒ 610
+25.22,2025-11-04T19:00:00.000Z,Akshan,adjustment,Q,Cooldown,8 / 7.25 / 6.5 / 5.75 / 5,9 / 8 / 7 / 6 / 5 seconds,buff,Cooldown : 8 / 7.25 / 6.5 / 5.75 / 5 ⇒ 9 / 8 / 7 / 6 / 5 seconds
+25.22,2025-11-04T19:00:00.000Z,Aurelion Sol,buff,Stats,Movement Speed,335,340,buff,Movement Speed : 335 ⇒ 340
+25.22,2025-11-04T19:00:00.000Z,Aurelion Sol,buff,Q,Burst Damage,55 / 65 / 75 / 85 / 95 (+30% AP),60 / 70 / 80 / 90 / 100 (+30% AP),buff,Burst Damage : 55 / 65 / 75 / 85 / 95 (+30% AP) ⇒ 60 / 70 / 80 / 90 / 100 (+30% AP)
+25.22,2025-11-04T19:00:00.000Z,Blitzcrank,nerf,E,Cooldown,9 / 8 / 7 / 6 / 5,7 / 6.5 / 6 / 5.5 / 5,nerf,Cooldown : 9 / 8 / 7 / 6 / 5 ⇒ 7 / 6.5 / 6 / 5.5 / 5
+25.22,2025-11-04T19:00:00.000Z,LeBlanc,nerf,Stats,Health Growth,111,108,nerf,Health Growth : 111 ⇒ 108
+25.22,2025-11-04T19:00:00.000Z,LeBlanc,nerf,Stats,Armor Growth,4.7,4.2,nerf,Armor Growth : 4.7 ⇒ 4.2
+25.22,2025-11-04T19:00:00.000Z,Skarner,buff,Stats,AD Growth,3,4,buff,AD Growth : 3 ⇒ 4
+25.22,2025-11-04T19:00:00.000Z,Skarner,buff,Q,Bonus AD Ratio,80%,90%,buff,Bonus AD Ratio : 80% ⇒ 90%
+25.22,2025-11-04T19:00:00.000Z,Skarner,buff,Q,Cooldown Timer,Starts on first cast,Starts on last offensive Q action,neutral,Cooldown Timer : Starts on first cast ⇒ Starts on last offensive Q action
+25.22,2025-11-04T19:00:00.000Z,Skarner,buff,Q,Cooldown,13 / 11.5 / 10 / 8.5 / 7,8 / 7 / 6 / 5 / 4 seconds,nerf,Cooldown : 13 / 11.5 / 10 / 8.5 / 7 ⇒ 8 / 7 / 6 / 5 / 4 seconds
+25.22,2025-11-04T19:00:00.000Z,Skarner,buff,R,Cast Time,0.65,0.75 seconds,buff,Cast Time : 0.65 ⇒ 0.75 seconds
+25.22,2025-11-04T19:00:00.000Z,Talon,nerf,Passive,Damage to Monsters,110%,100%,nerf,Damage to Monsters : 110% ⇒ 100%
+25.22,2025-11-04T19:00:00.000Z,Volibear,buff,Stats,Base Armor,31,35,buff,Base Armor : 31 ⇒ 35
+25.22,2025-11-04T19:00:00.000Z,Volibear,buff,Stats,Base Attack Damage,60,62,buff,Base Attack Damage : 60 ⇒ 62
+25.22,2025-11-04T19:00:00.000Z,Volibear,buff,Q,Minimum Movement Speed,12 / 16 / 20 / 24 / 28%,12 / 15.5 / 19 / 22.5 / 26%,neutral,Minimum Movement Speed : 12 / 16 / 20 / 24 / 28% ⇒ 12 / 15.5 / 19 / 22.5 / 26%
+25.22,2025-11-04T19:00:00.000Z,Volibear,buff,Q,Maximum Movement Speed,24 / 32 / 40 / 48 / 56%,24 / 31 / 38 / 45 / 52%,neutral,Maximum Movement Speed : 24 / 32 / 40 / 48 / 56% ⇒ 24 / 31 / 38 / 45 / 52%
+25.22,2025-11-04T19:00:00.000Z,Volibear,buff,E,Damage Cap Against Non-Champions,650,190 / 305 / 420 / 535 / 650 (+ 70% AP),nerf,Damage Cap Against Non-Champions : 650 ⇒ 190 / 305 / 420 / 535 / 650 (+ 70% AP)
+25.22,2025-11-04T19:00:00.000Z,Yone,buff,Q,Base Damage,20 / 45 / 70 / 95 / 120,25 / 50 / 75 / 100 / 125,buff,Base Damage : 20 / 45 / 70 / 95 / 120 ⇒ 25 / 50 / 75 / 100 / 125
+25.23,2025-11-18T19:00:00.000Z,Aatrox,buff,Passive,Monster Damage Cap,100,100 - 320 (based on level),neutral,Monster Damage Cap : 100 ⇒ 100 - 320 (based on level)
+25.23,2025-11-18T19:00:00.000Z,Aatrox,buff,Q,Bonus Monster Damage,0,40 flat bonus damage (multiplied by other effects like sweetspots and multicasts,buff,Bonus Monster Damage : 0 ⇒ 40 flat bonus damage (multiplied by other effects like sweetspots and multicasts)
+25.23,2025-11-18T19:00:00.000Z,Ahri,buff,W,Subsequent hit damage,30%,40%,buff,Subsequent hit damage : 30% ⇒ 40%
+25.23,2025-11-18T19:00:00.000Z,Ahri,buff,W,Maximum single-target hit damage,64 / 96 / 128 / 160 / 192 (+ 64% AP),72 / 108 / 144 / 180 / 216 (+ 72% AP),buff,Maximum single-target hit damage : 64 / 96 / 128 / 160 / 192 (+ 64% AP) ⇒ 72 / 108 / 144 / 180 / 216 (+ 72% AP)
+25.23,2025-11-18T19:00:00.000Z,Ambessa,buff,Q,Monster Damage,+125,+150,buff,Monster Damage : +125 ⇒ +150
+25.23,2025-11-18T19:00:00.000Z,Ashe,nerf,Q,Attack Speed,25 / 37.5 / 50 / 62.5 / 75%,20 / 30 / 40 / 50 / 60%,nerf,Attack Speed : 25 / 37.5 / 50 / 62.5 / 75% ⇒ 20 / 30 / 40 / 50 / 60%
+25.23,2025-11-18T19:00:00.000Z,Caitlyn,adjustment,Passive,Champion Damage Increase,60 / 90 / 120% total AD,60 / 80 / 100% total AD (Crit formula unchanged),neutral,Champion Damage Increase : 60 / 90 / 120% total AD ⇒ 60 / 80 / 100% total AD (Crit formula unchanged)
+25.23,2025-11-18T19:00:00.000Z,Caitlyn,adjustment,Passive,Non-Champion Damage Increase,110 / 115 / 120% total AD,110% total AD (Crit formula unchanged),neutral,Non-Champion Damage Increase : 110 / 115 / 120% total AD ⇒ 110% total AD (Crit formula unchanged)
+25.23,2025-11-18T19:00:00.000Z,Cho'Gath,buff,E,Monster Damage,20 / 40 / 60 / 80 / 100 (+30% AP) + up to 200 based on target max HP,100 / 150 / 200 / 250 / 300 (+30% AP),buff,Monster Damage : 20 / 40 / 60 / 80 / 100 (+30% AP) + up to 200 based on target max HP ⇒ 100 / 150 / 200 / 250 / 300 (+30% AP)
+25.23,2025-11-18T19:00:00.000Z,Dr. Mundo,adjustment,E,Bonus Attack Damage from Maximum Health,2 / 2.2 / 2.4 / 2.6 / 2.8%,2 / 2.3 / 2.6 / 2.9 / 3.2%,neutral,Bonus Attack Damage from Maximum Health : 2 / 2.2 / 2.4 / 2.6 / 2.8% ⇒ 2 / 2.3 / 2.6 / 2.9 / 3.2%
+25.23,2025-11-18T19:00:00.000Z,Fizz,buff,Stats,Base Armor,22,26,buff,Base Armor : 22 ⇒ 26
+25.23,2025-11-18T19:00:00.000Z,Fizz,buff,R,Cooldown,100 / 85 / 70,120 / 100 / 80,buff,Cooldown : 100 / 85 / 70 ⇒ 120 / 100 / 80
+25.23,2025-11-18T19:00:00.000Z,Jayce,buff,Q,Bonus Monster Damage,0,50 flat bonus damage,buff,Bonus Monster Damage : 0 ⇒ 50 flat bonus damage
+25.23,2025-11-18T19:00:00.000Z,Jayce,buff,Q,Bonus Monster Damage,0,50 flat bonus damage,buff,Bonus Monster Damage : 0 ⇒ 50 flat bonus damage
+25.23,2025-11-18T19:00:00.000Z,Jhin,buff,Stats,Base AD,59,61,buff,Base AD : 59 ⇒ 61
+25.23,2025-11-18T19:00:00.000Z,Jhin,buff,Passive,Move Speed on Crit,14% (+ .4% AS),14% (+ .44% AS),neutral,Move Speed on Crit : 14% (+ .4% AS) ⇒ 14% (+ .44% AS)
+25.23,2025-11-18T19:00:00.000Z,Jhin,buff,W,Damage,60 / 95 / 130 / 165 / 200 (+ 50% AD),70 / 105 / 140 / 175 / 210 (+ 50% AD),buff,Damage : 60 / 95 / 130 / 165 / 200 (+ 50% AD) ⇒ 70 / 105 / 140 / 175 / 210 (+ 50% AD)
+25.23,2025-11-18T19:00:00.000Z,Jinx,nerf,R,Maximum Damage,300 / 450 / 600 (+ 155% Bonus AD) (+ 25 / 30 / 35% missing HP),250 / 400 / 550 (+ 130% Bonus AD) (+ 25 / 30 / 35% missing HP),nerf,Maximum Damage : 300 / 450 / 600 (+ 155% Bonus AD) (+ 25 / 30 / 35% missing HP) ⇒ 250 / 400 / 550 (+ 130% Bonus AD) (+ 25 / 30 / 35% missing HP)
+25.23,2025-11-18T19:00:00.000Z,Kai'Sa,adjustment,Stats,Base Armor,27,25,nerf,Base Armor : 27 ⇒ 25
+25.23,2025-11-18T19:00:00.000Z,Kai'Sa,adjustment,R,Cooldown,120 / 90 / 60,130 / 100 / 70,buff,Cooldown : 120 / 90 / 60 ⇒ 130 / 100 / 70
+25.23,2025-11-18T19:00:00.000Z,Hwei,adjustment,Other,Hit Damage,20 / 40 / 60 / 80 / 100 (+ 30% AP),20 / 35 / 50 / 65 / 80 (+ 30% AP),neutral,Hit Damage : 20 / 40 / 60 / 80 / 100 (+ 30% AP) ⇒ 20 / 35 / 50 / 65 / 80 (+ 30% AP)
+25.23,2025-11-18T19:00:00.000Z,Hwei,adjustment,Other,Damage over time,50 / 100 / 150 / 200 / 250 (+ 50% AP),50 / 87.5 / 125 / 162.5 / 200 (+ 60% AP),neutral,Damage over time : 50 / 100 / 150 / 200 / 250 (+ 50% AP) ⇒ 50 / 87.5 / 125 / 162.5 / 200 (+ 60% AP)
+25.23,2025-11-18T19:00:00.000Z,Hwei,adjustment,Other,Total Damage,70 / 140 / 210 / 280 / 350 (+ 80% AP),70 / 122.5 / 175 / 227.5 / 280 (+ 90% AP),neutral,Total Damage : 70 / 140 / 210 / 280 / 350 (+ 80% AP) ⇒ 70 / 122.5 / 175 / 227.5 / 280 (+ 90% AP)
+25.23,2025-11-18T19:00:00.000Z,Malphite,buff,W,Monster Modifier,1x,2x,buff,Monster Modifier : 1x ⇒ 2x
+25.23,2025-11-18T19:00:00.000Z,Mel,nerf,Passive,Damage per spell,24-99 (based on level) (+9% AP),24-150 (based on level) (+ 15% AP),neutral,Damage per spell : 24-99 (based on level) (+9% AP) ⇒ 24-150 (based on level) (+ 15% AP)
+25.23,2025-11-18T19:00:00.000Z,Mel,nerf,E,Root Duration,1.25 / 1.5 / 1.75 / 2 / 2.25,1.2 / 1.3 / 1.4 / 1.5 / 1.6,nerf,Root Duration : 1.25 / 1.5 / 1.75 / 2 / 2.25 ⇒ 1.2 / 1.3 / 1.4 / 1.5 / 1.6
+25.23,2025-11-18T19:00:00.000Z,Miss Fortune,buff,R,Damage per wave,75% Total AD (+ 25% AP),80% Total AD (+ 25% AP),buff,Damage per wave : 75% Total AD (+ 25% AP) ⇒ 80% Total AD (+ 25% AP)
+25.23,2025-11-18T19:00:00.000Z,Ornn,buff,W,Active Monster Damage Cap,155 / 180 / 205 / 230 / 255,260 / 320 / 380 / 440 / 500,buff,Active Monster Damage Cap : 155 / 180 / 205 / 230 / 255 ⇒ 260 / 320 / 380 / 440 / 500
+25.23,2025-11-18T19:00:00.000Z,Ornn,buff,W,Passive Monster Damage Cap,250,260 / 320 / 380 / 440 / 500,buff,Passive Monster Damage Cap : 250 ⇒ 260 / 320 / 380 / 440 / 500
+25.23,2025-11-18T19:00:00.000Z,Rek'Sai,nerf,Passive,Fury gained on minion hit,20%,16% (5 ⇒ 4),nerf,Fury gained on minion hit : 20% ⇒ 16% (5 ⇒ 4)
+25.23,2025-11-18T19:00:00.000Z,Rek'Sai,nerf,Passive,Max HP healed,10 - 20% (based on level),9 - 20% (based on level),nerf,Max HP healed : 10 - 20% (based on level) ⇒ 9 - 20% (based on level)
+25.23,2025-11-18T19:00:00.000Z,Riven,buff,Passive,Bonus Monster Damage,0,50 flat bonus damage,buff,Bonus Monster Damage : 0 ⇒ 50 flat bonus damage
+25.23,2025-11-18T19:00:00.000Z,Sion,buff,Q,Monster Mod,150%,165%,buff,Monster Mod : 150% ⇒ 165%
+25.23,2025-11-18T19:00:00.000Z,Skarner,buff,Stats,AD Growth,4,5,buff,AD Growth : 4 ⇒ 5
+25.23,2025-11-18T19:00:00.000Z,Skarner,buff,Q,Cooldown,8 / 7 / 6 / 5 / 4,8 / 6.75 / 5.5 / 4.25 / 3,neutral,Cooldown : 8 / 7 / 6 / 5 / 4 ⇒ 8 / 6.75 / 5.5 / 4.25 / 3
+25.23,2025-11-18T19:00:00.000Z,Skarner,buff,Q,Target Max HP Damage,8%,9%,buff,Target Max HP Damage : 8% ⇒ 9%
+25.23,2025-11-18T19:00:00.000Z,Swain,adjustment,E,Damage,80 / 120 / 160 / 200 / 240 (+ 70% AP),90 / 130 / 170 / 210 / 250 (+ 70% AP),buff,Damage : 80 / 120 / 160 / 200 / 240 (+ 70% AP) ⇒ 90 / 130 / 170 / 210 / 250 (+ 70% AP)
+25.23,2025-11-18T19:00:00.000Z,Swain,adjustment,E,Mana,60 / 65 / 70 / 75 / 80,50 / 55 / 60 / 65 / 70,nerf,Mana : 60 / 65 / 70 / 75 / 80 ⇒ 50 / 55 / 60 / 65 / 70
+25.23,2025-11-18T19:00:00.000Z,Tristana,buff,Stats,AD Growth,2.5,2.9,buff,AD Growth : 2.5 ⇒ 2.9
+25.23,2025-11-18T19:00:00.000Z,Vladimir,nerf,Stats,Base Health,607,600,nerf,Base Health : 607 ⇒ 600
+25.23,2025-11-18T19:00:00.000Z,Vladimir,nerf,Stats,Base Armor,27,24,nerf,Base Armor : 27 ⇒ 24
+25.23,2025-11-18T19:00:00.000Z,Volibear,buff,Stats,Base Attack Damage,62,65,buff,Base Attack Damage : 62 ⇒ 65
+25.23,2025-11-18T19:00:00.000Z,Xayah,buff,Passive,Damage,30 / 40 / 50% AD,35 / 45 / 55% AD to secondary targets,buff,Damage : 30 / 40 / 50% AD ⇒ 35 / 45 / 55% AD to secondary targets
+25.23,2025-11-18T19:00:00.000Z,Zeri,buff,R,Move Speed per Stack,.5%,1%,buff,Move Speed per Stack : .5% ⇒ 1%
+25.24,2025-12-02T19:00:00.000Z,Braum,buff,Stats,Base Health,610,630,buff,Base Health : 610 ⇒ 630
+25.24,2025-12-02T19:00:00.000Z,Braum,buff,Passive,Damage On Follow-up Attacks,20%,40%,buff,Damage On Follow-up Attacks : 20% ⇒ 40%
+25.24,2025-12-02T19:00:00.000Z,Dr. Mundo,nerf,Q,Monster Damage Cap,350 / 425 / 500 / 575 / 650,300 / 375 / 450 / 525 / 600,nerf,Monster Damage Cap : 350 / 425 / 500 / 575 / 650 ⇒ 300 / 375 / 450 / 525 / 600
+25.24,2025-12-02T19:00:00.000Z,Kayn,nerf,Passive,Bonus Post-Mitigation Magic Damage,25-45%,20-40%,nerf,Bonus Post-Mitigation Magic Damage : 25-45% ⇒ 20-40%
+25.24,2025-12-02T19:00:00.000Z,Kha'Zix,nerf,W,Base Damage,85 / 115 / 145 / 175 / 205,75 / 105 / 135 / 165 / 195,nerf,Base Damage : 85 / 115 / 145 / 175 / 205 ⇒ 75 / 105 / 135 / 165 / 195
+25.24,2025-12-02T19:00:00.000Z,Master Yi,nerf,Stats,Base Health,655,640,nerf,Base Health : 655 ⇒ 640
+25.24,2025-12-02T19:00:00.000Z,Master Yi,nerf,Stats,Attack Damage Growth,2.8,2.5,nerf,Attack Damage Growth : 2.8 ⇒ 2.5
+25.24,2025-12-02T19:00:00.000Z,Mel,nerf,E,Orb Magic Damage,60 / 105 / 150 / 195 / 240,60 / 100 / 140 / 180 / 220,neutral,Orb Magic Damage : 60 / 105 / 150 / 195 / 240 ⇒ 60 / 100 / 140 / 180 / 220
+25.24,2025-12-02T19:00:00.000Z,Mel,nerf,E,Magic Damage per Second,16 / 32 / 48 / 64 / 80,16 / 26 / 36 / 46 / 56,neutral,Magic Damage per Second : 16 / 32 / 48 / 64 / 80 ⇒ 16 / 26 / 36 / 46 / 56
+25.24,2025-12-02T19:00:00.000Z,Mel,nerf,E,Lingering Debuff Duration,0.75,0.5 seconds,nerf,Lingering Debuff Duration : 0.75 ⇒ 0.5 seconds
+25.24,2025-12-02T19:00:00.000Z,Mel,nerf,E,Mana Cost,50 / 55 / 60 / 65 / 70,50 / 60 / 70 / 80 / 90 mana,neutral,Mana Cost : 50 / 55 / 60 / 65 / 70 ⇒ 50 / 60 / 70 / 80 / 90 mana
+25.24,2025-12-02T19:00:00.000Z,Nasus,buff,Stats,Base Health,631,650,buff,Base Health : 631 ⇒ 650
+25.24,2025-12-02T19:00:00.000Z,Nasus,buff,Q,Base Damage,35 / 55 / 75 / 95 / 115,40 / 60 / 80 / 100 / 120,buff,Base Damage : 35 / 55 / 75 / 95 / 115 ⇒ 40 / 60 / 80 / 100 / 120
+25.24,2025-12-02T19:00:00.000Z,Nidalee,nerf,Q,Bonus Damage Beyond 525 Range,30-125%,0-125% (Note: Damage at ranges below 525 are unaffected.),nerf,Bonus Damage Beyond 525 Range : 30-125% ⇒ 0-125% (Note: Damage at ranges below 525 are unaffected.)
+25.24,2025-12-02T19:00:00.000Z,Sejuani,adjustment,Q,Cooldown,19 / 17.5 / 16 / 14.5 / 13,18 / 16.5 / 15 / 13.5 / 12 seconds,nerf,Cooldown : 19 / 17.5 / 16 / 14.5 / 13 ⇒ 18 / 16.5 / 15 / 13.5 / 12 seconds
+25.24,2025-12-02T19:00:00.000Z,Sejuani,adjustment,Q,Mana Cost,70 / 75 / 80 / 85 / 90,60 / 65 / 70 / 75 /80,nerf,Mana Cost : 70 / 75 / 80 / 85 / 90 ⇒ 60 / 65 / 70 / 75 /80
+25.24,2025-12-02T19:00:00.000Z,Sejuani,adjustment,Q,AP Ratio,60%,75%,buff,AP Ratio : 60% ⇒ 75%
+25.24,2025-12-02T19:00:00.000Z,Sejuani,adjustment,W,Mana Cost,65,60,nerf,Mana Cost : 65 ⇒ 60
+25.24,2025-12-02T19:00:00.000Z,Sejuani,adjustment,W,First Hit AP Ratio,20%,30%,buff,First Hit AP Ratio : 20% ⇒ 30%
+25.24,2025-12-02T19:00:00.000Z,Sejuani,adjustment,E,AP Ratio,60%,70%,buff,AP Ratio : 60% ⇒ 70%
+25.24,2025-12-02T19:00:00.000Z,Sejuani,adjustment,R,Cooldown,130 / 110 / 90,120 / 105 / 90 seconds,nerf,Cooldown : 130 / 110 / 90 ⇒ 120 / 105 / 90 seconds
+25.24,2025-12-02T19:00:00.000Z,Swain,buff,Passive,Heal per Fragment,3-6% (based on level),6%,buff,Heal per Fragment : 3-6% (based on level) ⇒ 6%
+25.24,2025-12-02T19:00:00.000Z,Viktor,adjustment,Q,Shield,40-115 (based on level) (+18% AP),40-140 (based on level) (+25% AP),neutral,Shield : 40-115 (based on level) (+18% AP) ⇒ 40-140 (based on level) (+25% AP)
+25.24,2025-12-02T19:00:00.000Z,Zaahen,adjustment,Passive,Bonus AD per Stack (25.23),1.5-3.3 (based on level),1.5-2.8 (based on level),neutral,Bonus AD per Stack (25.23) : 1.5-3.3 (based on level) ⇒ 1.5-2.8 (based on level)
+25.24,2025-12-02T19:00:00.000Z,Zaahen,adjustment,Q,AD Ratio (25.23),30 / 40 / 50 / 60 / 70% bonus AD,20 / 30 / 40 / 50 / 60% bonus AD,nerf,AD Ratio (25.23) : 30 / 40 / 50 / 60 / 70% bonus AD ⇒ 20 / 30 / 40 / 50 / 60% bonus AD
+25.24,2025-12-02T19:00:00.000Z,Zaahen,adjustment,Q,Second Cast Base Damage (25.23),30 / 60 / 90 / 120 / 150,25 / 50 / 75 / 100 / 125,nerf,Second Cast Base Damage (25.23) : 30 / 60 / 90 / 120 / 150 ⇒ 25 / 50 / 75 / 100 / 125
+25.24,2025-12-02T19:00:00.000Z,Zaahen,adjustment,Q,Cooldown (25.24),9 / 8 / 7 / 6 / 5,10 / 9 / 8 / 7 / 6,buff,Cooldown (25.24) : 9 / 8 / 7 / 6 / 5 ⇒ 10 / 9 / 8 / 7 / 6
+25.24,2025-12-02T19:00:00.000Z,Zaahen,adjustment,Q,Monster Damage Modifier (25.24),50%,75%,buff,Monster Damage Modifier (25.24) : 50% ⇒ 75%
+25.24,2025-12-02T19:00:00.000Z,Zaahen,adjustment,E,Sweet Spot Damage (25.24),4 / 5 / 6 / 7 / 8%,4 / 4.5 / 5 /5.5 / 6%,neutral,Sweet Spot Damage (25.24) : 4 / 5 / 6 / 7 / 8% ⇒ 4 / 4.5 / 5 /5.5 / 6%
+25.24,2025-12-02T19:00:00.000Z,Zed,nerf,Passive,Damage to Monsters,2x,1.8x,nerf,Damage to Monsters : 2x ⇒ 1.8x
